@@ -96,6 +96,6 @@ Research has already been conducted on:
 * potential normalization strategies;
 * potential entity-resolution and reconciliation strategies.
 
-[research/docs/REPORT.md](research/docs/REPORT.md) and the supporting research artifacts contain the detailed findings.
+`REPORT.md` and the supporting research artifacts contain the detailed findings.
 
 No production architecture should be considered final solely because it appears in the research material. Implementation decisions should be introduced incrementally and validated with tests and real source data.

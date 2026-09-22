@@ -50,3 +50,13 @@ Verification commands:
 The default pytest suite needs no bulk data or external services; future `live` tests are opt-in with `-m live`. The research verification scripts require the local snapshot and can refresh derived verification outputs, but never raw acquisitions.
 
 `research/docs/REPORT.md` contains the full research reproduction sequence, findings, and limitations. Keep existing `analysis/` and `data/` locations stable because historical evidence references use repository-relative paths.
+
+## Project documentation
+
+Keep project documentation consistent with the repository as it evolves.
+
+* Update `PROJECT_CONTEXT.md` when an implemented and accepted change materially affects the project scope, core concepts, or high-level architecture.
+* Do not update it for temporary implementation details, experiments, or unconfirmed ideas.
+* Update `AGENTS.md` only when a new stable repository-wide working rule is necessary. Do not turn one-off implementation decisions into permanent instructions.
+* Never remove or rewrite existing `AGENTS.md` rules unless the change is clearly required by the task.
+* Mention any changes to `AGENTS.md` or `PROJECT_CONTEXT.md` in the task summary.
