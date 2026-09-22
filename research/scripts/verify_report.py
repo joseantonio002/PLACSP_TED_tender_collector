@@ -4,7 +4,8 @@ from urllib.parse import urlparse
 
 from download import ROOT
 
-report = (ROOT / 'REPORT.md').read_text()
+report_path = ROOT / 'research/docs/REPORT.md'
+report = report_path.read_text()
 expected = [
     '# 1. How PLACSP data works',
     '# 2. How Generalitat de Catalunya data works',
@@ -18,7 +19,7 @@ headings = [line for line in report.splitlines() if line.startswith('# ')]
 assert headings == expected, headings
 assert not re.search(r'\{\{FINAL|\bTODO\b|\bTBD\b', report)
 links = re.findall(r'\]\(([^)]+)\)', report)
-missing = [link for link in links if not urlparse(link).scheme and not (ROOT / link.split('#')[0]).exists()]
+missing = [link for link in links if not urlparse(link).scheme and not (report_path.parent / link.split('#')[0]).exists()]
 assert not missing, missing
 m = json.loads((ROOT / 'analysis/metrics.json').read_bytes())
 a = json.loads((ROOT / 'analysis/aggregated_metrics.json').read_bytes())

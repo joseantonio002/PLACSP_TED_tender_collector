@@ -1,6 +1,8 @@
-# Development instructions
+# TenderWatch development instructions
 
-Use `.venv/bin/python`; never install Python packages globally. Research dependencies are pinned in `requirements-research.txt`.
+`PROJECT_CONTEXT.md` is the high-level source of truth for TenderWatch. The current procurement data sources are PLACSP and Generalitat de Catalunya, with an initial Catalunya / Barcelona focus. Historical research and archived experiments do not expand the current source scope or define a final production architecture.
+
+Use `.venv/bin/python`; never install Python packages globally. Install the development environment with `.venv/bin/python -m pip install -e ".[dev]" -r research/requirements.txt`. Application packaging and pytest configuration are in `pyproject.toml`; the existing research dependencies remain pinned separately.
 
 Develop incrementally. For each requested change:
 
@@ -17,11 +19,11 @@ Raw acquisitions under `data/raw/` are immutable. `data/raw/download_manifest.js
 
 Existing research entry points include:
 
-* `scripts/download.py`
-* `scripts/extract_documentation.py`
-* `scripts/inspect_placsp.py`
-* `scripts/inspect_gencat.py`
-* `scripts/compare_sources.py`
+* `research/scripts/download.py`
+* `research/scripts/extract_documentation.py`
+* `research/scripts/inspect_placsp.py`
+* `research/scripts/inspect_gencat.py`
+* `research/scripts/compare_sources.py`
 
 Run scripts from the repository root. SQLite files under `data/processed/` are analysis indexes, not production schemas. Preserve existing exploratory scripts and user files unless explicitly asked to remove them.
 
@@ -33,14 +35,18 @@ Important research findings already established:
 * PSCP exports may contain legacy XML even through `/json/` endpoints; inspect actual content rather than trusting URL names.
 * `es_agregada=SI` UUIDs identify publication batches, not individual procurement procedures.
 
-Current research verification commands:
+Application code belongs in `src/tenderwatch/`; tests belong in `tests/`, with small local fixtures in `tests/fixtures/`. Research code is not application code. Existing research regression tests are retained in `tests/research/` and run as part of the complete pytest suite. The test-only `pythonpath` configuration preserves their existing flat imports. Do not import the live-request experiments in `research/legacy/` into tests.
+
+Verification commands:
 
 ```bash
-.venv/bin/python -m unittest discover -s scripts -p 'test_*.py' -v
-.venv/bin/python -m compileall -q scripts
-.venv/bin/python scripts/verify_artifacts.py
-.venv/bin/python scripts/verify_parsers.py
-.venv/bin/python scripts/verify_report.py
+.venv/bin/python -m pytest
+.venv/bin/python -m compileall -q src tests research/scripts
+.venv/bin/python research/scripts/verify_artifacts.py
+.venv/bin/python research/scripts/verify_parsers.py
+.venv/bin/python research/scripts/verify_report.py
 ```
 
-`REPORT.md` contains the full research reproduction sequence, findings, and limitations.
+The default pytest suite needs no bulk data or external services; future `live` tests are opt-in with `-m live`. The research verification scripts require the local snapshot and can refresh derived verification outputs, but never raw acquisitions.
+
+`research/docs/REPORT.md` contains the full research reproduction sequence, findings, and limitations. Keep existing `analysis/` and `data/` locations stable because historical evidence references use repository-relative paths.

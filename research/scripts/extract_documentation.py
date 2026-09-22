@@ -1,7 +1,7 @@
 from pathlib import Path
 from pypdf import PdfReader
 
-root = Path(__file__).resolve().parents[1]
+root = Path(__file__).resolve().parents[2]
 out = root / 'data/analysis/documentation'
 out.mkdir(parents=True, exist_ok=True)
 for path in (root / 'data/raw/documentation').glob('*.pdf'):

@@ -2,6 +2,8 @@
 
 ## 1.1 Research scope, evidence and principal conclusions
 
+TenderWatch's current project direction is defined in [PROJECT_CONTEXT.md](../../PROJECT_CONTEXT.md): its current sources are PLACSP and Generalitat de Catalunya. The models below remain research proposals, not a final production architecture or a commitment to additional sources.
+
 This is an empirical research snapshot acquired on **22 September 2026**, not a production ingestion system. The requested interval is **2025-01-01 through 2026-09-22 inclusive**. It is a change/publication interval, **not a restriction to procedures first opened in 2025**. Consequently, some procedures and notices discussed below originated in 2022–2024.
 
 Evidence labels used throughout:
@@ -22,12 +24,12 @@ The central answer is **yes, a traceable canonical representation is feasible, b
 
 ### Local evidence and reproducibility
 
-- Immutable responses: [`data/raw/`](data/raw/), including four original national ZIP archives, both Generalitat table extracts, selected rich publication representations and official documentation.
-- Acquisition ledger: [`data/raw/download_manifest.jsonl`](data/raw/download_manifest.jsonl). Successful files have SHA-256, source/resolved URL, request parameters, HTTP status, important headers, size and UTC retrieval times. Failed requests are retained in the ledger. Seven append-only annotations correct an initial human-readable execution-dataset period label; the preserved requests correctly say `$where=1=1`.
-- Main statistics: [`analysis/metrics.json`](analysis/metrics.json); overlap-focused statistics: [`analysis/aggregated_metrics.json`](analysis/aggregated_metrics.json).
-- Further semantic tests: [`analysis/semantic_audit.json`](analysis/semantic_audit.json); CSVs: [`monthly.csv`](analysis/monthly.csv), [`field_presence.csv`](analysis/field_presence.csv), [`matching_candidates.csv`](analysis/matching_candidates.csv), [`gencat_publication_dates_monthly.csv`](analysis/gencat_publication_dates_monthly.csv).
-- Twenty deliberately selected case studies: [`analysis/case_selection.json`](analysis/case_selection.json), [`analysis/cases.json`](analysis/cases.json), [`analysis/case_findings.json`](analysis/case_findings.json), and [`data/samples/`](data/samples/).
-- Integrity and pagination audit: [`analysis/verification.json`](analysis/verification.json), [`analysis/archive_anomalies.json`](analysis/archive_anomalies.json).
+- Immutable responses: [`data/raw/`](../../data/raw/), including four original national ZIP archives, both Generalitat table extracts, selected rich publication representations and official documentation.
+- Acquisition ledger: [`data/raw/download_manifest.jsonl`](../../data/raw/download_manifest.jsonl). Successful files have SHA-256, source/resolved URL, request parameters, HTTP status, important headers, size and UTC retrieval times. Failed requests are retained in the ledger. Seven append-only annotations correct an initial human-readable execution-dataset period label; the preserved requests correctly say `$where=1=1`.
+- Main statistics: [`analysis/metrics.json`](../../analysis/metrics.json); overlap-focused statistics: [`analysis/aggregated_metrics.json`](../../analysis/aggregated_metrics.json).
+- Further semantic tests: [`analysis/semantic_audit.json`](../../analysis/semantic_audit.json); CSVs: [`monthly.csv`](../../analysis/monthly.csv), [`field_presence.csv`](../../analysis/field_presence.csv), [`matching_candidates.csv`](../../analysis/matching_candidates.csv), [`gencat_publication_dates_monthly.csv`](../../analysis/gencat_publication_dates_monthly.csv).
+- Twenty deliberately selected case studies: [`analysis/case_selection.json`](../../analysis/case_selection.json), [`analysis/cases.json`](../../analysis/cases.json), [`analysis/case_findings.json`](../../analysis/case_findings.json), and [`data/samples/`](../../data/samples/).
+- Integrity and pagination audit: [`analysis/verification.json`](../../analysis/verification.json), [`analysis/archive_anomalies.json`](../../analysis/archive_anomalies.json).
 
 An extracted XML sample is an **exact byte slice** of its ZIP member. Its namespace declarations may be inherited from the parent feed; `.xml.fragment` files are intentionally not advertised as standalone XML documents. Each sample records the archive, member, entry ordinal, byte range and fragment checksum. Generalitat samples record the original page and row ordinal. Pretty JSON and research SQLite indexes are derived, not replacements for raw files.
 
@@ -398,26 +400,26 @@ All identifiers below have local raw references and extracted representations. T
 
 | Case / local folder | Procedure or identifier | Finding and reconciliation consequence |
 |---|---|---|
-| [01](data/samples/01_amb_correction/) | AMB `905451/26`, PLACSP 20283724 | August notice, September opening-information corrections, Spanish/Catalan titles, later evaluation. Different phase dates do not necessarily conflict. |
-| [02](data/samples/02_deltebre_deadlines_budget/) | Deltebre `4390180001-2024-0010219` | Ten observations; repeated deadline changes and budget 162,565.20 → 177,465.20, then award/formalization. Same procedure, different states. |
-| [03](data/samples/03_bsm_budget_jump/) | BSM `2024PT0235AC` | Budget representation 2,000 → 53,000; deadline extensions; rich corrected tender notice exists in addition to PLACSP's sampled states. Treat as a material assertion change; do not infer its legal cause from amount alone. |
-| [04](data/samples/04_expediente_renamed/) | Institut de Cultura de Barcelona `24001098` → `006_24001098` | Same Atom ID 15581446 and procedure UUID; both representations resolved, two lots. Preserve identifier aliases. |
-| [05](data/samples/05_thirteen_lots/) | `ME. MEC-25L02`, UUID `f98c30c1-1327-4dfc-b38a-5b707e9adf41` | 13 lots, 25 observations, 13 Gencat rows. Row suffixes differ from official lot numbers. Repeated procedure budgets cannot be summed. |
-| [06](data/samples/06_cancelled_olot/) | Olot `CCS12024000095`, PLACSP 16219472 | ANUL observation and dedicated origin annulment publication 300344003. Keep cancellation notice separate from preceding corrected tender notice 300343988. |
-| [07](data/samples/07_equivalent_projection/) | `C 06/2022 Exp Actio núm 8100810007-2022-0000245`, PLACSP 10051590 | Same current publication 300701712; net budget 815,892.10, estimate 1,631,784.20, deadline 2022-06-10 12:00 and winner B43672138 align. Strong same-publication, same-comparable-fields example, not proof of complete bytewise state equivalence. |
-| [08](data/samples/08_precision_and_lot_result/) | Aran `1262-0001/2023`, PLACSP 12253314 | 23:59:59 versus 23:59:00; five lots; lot 5 has Desert and its own publication while procedure phase remains evaluation. Separate precision and lot outcome. |
-| [09](data/samples/09_withdrawal_retains_award/) | TMB `13794496`, PLACSP 10275923 | Same publication 300694438: PLACSP RES/result 5/RENUNCIA, Gencat Anul·lació/Renúncia retaining winner A58846064 and old award 83,996.64. Do not erase historical award or translate RES to successful completion. |
-| [10](data/samples/10_two_placsp_ids/) | CatSalut `SCS-2025-122`, UUID `00c79486-0c0d-41f8-8ed6-2097f449a999` | Atom IDs 16638290 and 16638580 point to the same procedure. Formalization date 2024-12-13 precedes February 2025 publications. One-to-one Atom-ID assumptions fail. |
-| [11](data/samples/11_buyer_reassignment/) | `PR-2025-7`, PLACSP 15314304 | PLACSP and historical rich notice name Presidència/202037; current Gencat row names Justícia/202266 for the same UUID. Reassignment is plausible, its cause not proven. Distinguish historical issuer from current administration. |
-| [12](data/samples/12_award_only_placsp/) | `AG-2023-29`, PLACSP 13416259 | The selected Gencat cohort contains six lot rows, while the retained PLACSP representation contains award information not present in those selected rows. This is complementary selected-cohort evidence, not proof the entire Gencat source lacks those awards. |
-| [13](data/samples/13_timestamp_disagreement/) | Puigverd d'Agramunt `11741_2026_32`, PLACSP 20350694 | PLACSP still links 300869210 with August updated time; table phase date and JSON link identify September correction 300885950. Same table source URL does not imply every column belongs to that old publication. |
-| [14](data/samples/14_batch_is_not_procedure/) | XALOC batch 300339416 | Six contract rows under one UUID/URL; multiple contracts share `2023/800`. Reject a batch-UUID-as-procedure key. |
-| [15](data/samples/15_duplicate_lot_number/) | Sabadell `URB/2022/164` | Two source-row IDs claim lot 3, different publications. Do not deduplicate on `(UUID, lot number)` without inspecting rich source identity/history. |
-| [16](data/samples/16_parent_and_lots_different_phases/) | Diputació de Girona `2026/7731` | Parent future-alert row has no expediente; five child lot rows have tender phase and expediente. A source procedure can have simultaneous heterogeneous projections. |
-| [17](data/samples/17_expediente_collision/) | Both `1/2025`: Ars and INTERHOSPITALIA 2 | Different buyers, UUIDs and works/waste-service objects. Clear different-procedure pair despite exact expediente equality. |
-| [18](data/samples/18_fuzzy_false_friend/) | `288/2024`, PLACSP 15632941 versus UUID `5d96c294-93f0-4d38-8047-20f01b34d846` | Buyer-name similarity 0.8302 but title similarity 0.0132 and unequal budgets. Reject automatic matching; a weak fuzzy threshold yields a false friend. |
-| [19](data/samples/19_execution_modifications/) | Vila-seca `4317110007-2021-0001388` | Two 2026 modifications in a single publication, much later source-row timestamps, no selected main-table row. Need execution ingestion and distinct business/knowledge times. |
-| [20](data/samples/20_multiple_winners_empty_amounts/) | Aigües de Manresa `9884AM` | Multiple suppliers, empty `||` amount tokens, six lot rows and legacy XML recovered through a JSON-named endpoint. Keep cardinality, missingness and format distinctions. |
+| [01](../../data/samples/01_amb_correction/) | AMB `905451/26`, PLACSP 20283724 | August notice, September opening-information corrections, Spanish/Catalan titles, later evaluation. Different phase dates do not necessarily conflict. |
+| [02](../../data/samples/02_deltebre_deadlines_budget/) | Deltebre `4390180001-2024-0010219` | Ten observations; repeated deadline changes and budget 162,565.20 → 177,465.20, then award/formalization. Same procedure, different states. |
+| [03](../../data/samples/03_bsm_budget_jump/) | BSM `2024PT0235AC` | Budget representation 2,000 → 53,000; deadline extensions; rich corrected tender notice exists in addition to PLACSP's sampled states. Treat as a material assertion change; do not infer its legal cause from amount alone. |
+| [04](../../data/samples/04_expediente_renamed/) | Institut de Cultura de Barcelona `24001098` → `006_24001098` | Same Atom ID 15581446 and procedure UUID; both representations resolved, two lots. Preserve identifier aliases. |
+| [05](../../data/samples/05_thirteen_lots/) | `ME. MEC-25L02`, UUID `f98c30c1-1327-4dfc-b38a-5b707e9adf41` | 13 lots, 25 observations, 13 Gencat rows. Row suffixes differ from official lot numbers. Repeated procedure budgets cannot be summed. |
+| [06](../../data/samples/06_cancelled_olot/) | Olot `CCS12024000095`, PLACSP 16219472 | ANUL observation and dedicated origin annulment publication 300344003. Keep cancellation notice separate from preceding corrected tender notice 300343988. |
+| [07](../../data/samples/07_equivalent_projection/) | `C 06/2022 Exp Actio núm 8100810007-2022-0000245`, PLACSP 10051590 | Same current publication 300701712; net budget 815,892.10, estimate 1,631,784.20, deadline 2022-06-10 12:00 and winner B43672138 align. Strong same-publication, same-comparable-fields example, not proof of complete bytewise state equivalence. |
+| [08](../../data/samples/08_precision_and_lot_result/) | Aran `1262-0001/2023`, PLACSP 12253314 | 23:59:59 versus 23:59:00; five lots; lot 5 has Desert and its own publication while procedure phase remains evaluation. Separate precision and lot outcome. |
+| [09](../../data/samples/09_withdrawal_retains_award/) | TMB `13794496`, PLACSP 10275923 | Same publication 300694438: PLACSP RES/result 5/RENUNCIA, Gencat Anul·lació/Renúncia retaining winner A58846064 and old award 83,996.64. Do not erase historical award or translate RES to successful completion. |
+| [10](../../data/samples/10_two_placsp_ids/) | CatSalut `SCS-2025-122`, UUID `00c79486-0c0d-41f8-8ed6-2097f449a999` | Atom IDs 16638290 and 16638580 point to the same procedure. Formalization date 2024-12-13 precedes February 2025 publications. One-to-one Atom-ID assumptions fail. |
+| [11](../../data/samples/11_buyer_reassignment/) | `PR-2025-7`, PLACSP 15314304 | PLACSP and historical rich notice name Presidència/202037; current Gencat row names Justícia/202266 for the same UUID. Reassignment is plausible, its cause not proven. Distinguish historical issuer from current administration. |
+| [12](../../data/samples/12_award_only_placsp/) | `AG-2023-29`, PLACSP 13416259 | The selected Gencat cohort contains six lot rows, while the retained PLACSP representation contains award information not present in those selected rows. This is complementary selected-cohort evidence, not proof the entire Gencat source lacks those awards. |
+| [13](../../data/samples/13_timestamp_disagreement/) | Puigverd d'Agramunt `11741_2026_32`, PLACSP 20350694 | PLACSP still links 300869210 with August updated time; table phase date and JSON link identify September correction 300885950. Same table source URL does not imply every column belongs to that old publication. |
+| [14](../../data/samples/14_batch_is_not_procedure/) | XALOC batch 300339416 | Six contract rows under one UUID/URL; multiple contracts share `2023/800`. Reject a batch-UUID-as-procedure key. |
+| [15](../../data/samples/15_duplicate_lot_number/) | Sabadell `URB/2022/164` | Two source-row IDs claim lot 3, different publications. Do not deduplicate on `(UUID, lot number)` without inspecting rich source identity/history. |
+| [16](../../data/samples/16_parent_and_lots_different_phases/) | Diputació de Girona `2026/7731` | Parent future-alert row has no expediente; five child lot rows have tender phase and expediente. A source procedure can have simultaneous heterogeneous projections. |
+| [17](../../data/samples/17_expediente_collision/) | Both `1/2025`: Ars and INTERHOSPITALIA 2 | Different buyers, UUIDs and works/waste-service objects. Clear different-procedure pair despite exact expediente equality. |
+| [18](../../data/samples/18_fuzzy_false_friend/) | `288/2024`, PLACSP 15632941 versus UUID `5d96c294-93f0-4d38-8047-20f01b34d846` | Buyer-name similarity 0.8302 but title similarity 0.0132 and unequal budgets. Reject automatic matching; a weak fuzzy threshold yields a false friend. |
+| [19](../../data/samples/19_execution_modifications/) | Vila-seca `4317110007-2021-0001388` | Two 2026 modifications in a single publication, much later source-row timestamps, no selected main-table row. Need execution ingestion and distinct business/knowledge times. |
+| [20](../../data/samples/20_multiple_winners_empty_amounts/) | Aigües de Manresa `9884AM` | Multiple suppliers, empty `||` amount tokens, six lot rows and legacy XML recovered through a JSON-named endpoint. Keep cardinality, missingness and format distinctions. |
 
 # 4. Proposed common normalized schema
 
@@ -444,7 +446,7 @@ PublicationBatch -- BatchMember --> Contract / unresolved procurement object
 Organization -- role assignments --> process, award, contract, notice
 ```
 
-Notice-to-subject is a relation, not a single compulsory tender foreign key: a batch notice concerns multiple contract entries; a notice can concern several lots; one execution publication can report several actions. A future TED notice can reuse the same domain entities without being forced into the Atom entry shape.
+Notice-to-subject is a relation, not a single compulsory tender foreign key: a batch notice concerns multiple contract entries; a notice can concern several lots; one execution publication can report several actions. A notice from another procurement platform can reuse the same domain entities without being forced into the Atom entry shape; this is a general modeling consideration, not a commitment to an additional TenderWatch source.
 
 ## 4.2 Shared types and missingness
 
@@ -473,7 +475,7 @@ For Gencat, currency may be unknown in a bare table row. EUR can be asserted fro
 |---|---|---|
 | Process.id | ID / 1 | Internal stable identity assigned after entity-resolution decision |
 | Process.kind | Code / 1 | Procedure/direct-award/planning/etc.; unknown allowed, not default “open tender” |
-| Process.external_identifiers | ExternalIdentifier / 0..N | Scoped PLACSP Atom IDs, ordinary PSCP UUIDs, later TED/process IDs; batch UUID excluded from procedure identities |
+| Process.external_identifiers | ExternalIdentifier / 0..N | Scoped PLACSP Atom IDs, ordinary PSCP UUIDs and other namespaced official process IDs supplied by the sources; batch UUID excluded from procedure identities |
 | Process.procedure_numbers | IdentifierAssertion / 0..N | `ContractFolderID`, `codi_expedient`; retain aliases, issuer and observed validity rather than overwriting renamed numbers |
 | Process.relationships | `{other_process_id, kind, evidence}` / 0..N | Framework call-off, successor/republication, joint procurement, planning-to-procedure; do not merge solely because related |
 | SourceIdentityLink | `{source_identifier, canonical_subject_id, subject_kind, decision_id}` / 0..N | Explicit mapping of typed source objects to a canonical identity; retains multiple aliases and unresolved candidates |
@@ -517,7 +519,7 @@ A convenience `TenderView.status` can be derived for search, but it must not rep
 | Entity.field | Type / cardinality | Semantics and source mappings |
 |---|---|---|
 | Notice.id | ID / 1 | Internal notice/publication identity |
-| Notice.external_identifiers | ExternalIdentifier / 0..N | Numeric PSCP publication ID, native official notice ID, future TED notice ID; date/type without ID is a weaker reconstructed reference |
+| Notice.external_identifiers | ExternalIdentifier / 0..N | Numeric PSCP publication ID, native official notice ID and other official notice identifiers supplied by the sources; date/type without ID is a weaker reconstructed reference |
 | Notice.type | Code / 0..1 | Tender notice, award, formalization, correction, annulment, etc.; preserve source-specific type |
 | Notice.publication_at | TemporalValue / 0..1 | Actual public release; media-specific dates may require child publication occurrences |
 | Notice.planned_publication_at | TemporalValue / 0..1 | Rich `dataPublicacioPlanificada`, never substituted for actual date |
@@ -780,32 +782,34 @@ Specific simplistic assumptions rejected by the evidence:
 
 ## 7.2 Reproducing this research
 
-Use the existing local Python environment. Only **pypdf 6.17.0** was added; requests was already installed. Exact research dependencies are in `requirements-research.txt`. No global Python installation, application stack or orchestration infrastructure is required.
+The research findings and snapshot are preserved. The paths and commands below reflect the subsequent repository reorganization; run them from the repository root. Research tools now live in `research/scripts/`, original experiments in `research/legacy/`, and regression tests in `tests/research/`. The development extra adds pytest; the dependency history below describes the original research acquisition.
+
+Use the existing local Python environment. Only **pypdf 6.17.0** was added; requests was already installed. Exact research dependencies are in `research/requirements.txt`. No global Python installation, application stack or orchestration infrastructure is required.
 
 ```bash
-.venv/bin/python -m pip install -r requirements-research.txt
-.venv/bin/python scripts/download.py discovery
-.venv/bin/python scripts/download_extra.py
-.venv/bin/python scripts/download.py placsp --feed aggregated --periods 2025 2026
-.venv/bin/python scripts/download.py placsp --feed native --periods 2025 2026
-.venv/bin/python scripts/download.py gencat --dataset ybgg-dgi6
-.venv/bin/python scripts/download.py gencat --dataset 8idu-wkjv
-.venv/bin/python scripts/extract_documentation.py
-.venv/bin/python scripts/inspect_placsp.py data/raw/placsp/aggregated/*.zip data/raw/placsp/native/*.zip
-.venv/bin/python scripts/inspect_gencat.py --dataset ybgg-dgi6
-.venv/bin/python scripts/inspect_gencat.py --dataset 8idu-wkjv
-.venv/bin/python scripts/compare_sources.py
-.venv/bin/python scripts/compare_sources.py --aggregated-only
-.venv/bin/python scripts/audit_semantics.py
-.venv/bin/python scripts/make_samples.py --download-phases
-.venv/bin/python scripts/analyze_cases.py
-.venv/bin/python scripts/inspect_phase_json.py
-.venv/bin/python scripts/export_tables.py
-.venv/bin/python scripts/verify_artifacts.py
-.venv/bin/python scripts/audit_archives.py
-.venv/bin/python scripts/verify_parsers.py
-.venv/bin/python scripts/verify_report.py
-.venv/bin/python -m unittest discover -s scripts -p 'test_*.py' -v
+.venv/bin/python -m pip install -e ".[dev]" -r research/requirements.txt
+.venv/bin/python research/scripts/download.py discovery
+.venv/bin/python research/scripts/download_extra.py
+.venv/bin/python research/scripts/download.py placsp --feed aggregated --periods 2025 2026
+.venv/bin/python research/scripts/download.py placsp --feed native --periods 2025 2026
+.venv/bin/python research/scripts/download.py gencat --dataset ybgg-dgi6
+.venv/bin/python research/scripts/download.py gencat --dataset 8idu-wkjv
+.venv/bin/python research/scripts/extract_documentation.py
+.venv/bin/python research/scripts/inspect_placsp.py data/raw/placsp/aggregated/*.zip data/raw/placsp/native/*.zip
+.venv/bin/python research/scripts/inspect_gencat.py --dataset ybgg-dgi6
+.venv/bin/python research/scripts/inspect_gencat.py --dataset 8idu-wkjv
+.venv/bin/python research/scripts/compare_sources.py
+.venv/bin/python research/scripts/compare_sources.py --aggregated-only
+.venv/bin/python research/scripts/audit_semantics.py
+.venv/bin/python research/scripts/make_samples.py --download-phases
+.venv/bin/python research/scripts/analyze_cases.py
+.venv/bin/python research/scripts/inspect_phase_json.py
+.venv/bin/python research/scripts/export_tables.py
+.venv/bin/python research/scripts/verify_artifacts.py
+.venv/bin/python research/scripts/audit_archives.py
+.venv/bin/python research/scripts/verify_parsers.py
+.venv/bin/python research/scripts/verify_report.py
+.venv/bin/python -m pytest tests/research -v
 ```
 
 Download resumption is at **validated file/page boundaries**, not HTTP byte ranges. A partial file is not accepted as a complete acquisition. Existing successful raw files are checksum-checked and reused; the scripts do not silently refresh/overwrite them. Future fresh acquisitions need a new run directory or clean research copy because upstream current-year archives/tables are mutable. Metadata drift or duplicate pagination IDs causes validation to fail rather than certifying a mixed snapshot. Existing derived indexes are reused; a parser change requires a new derived-output run/version, not pretending the old index reflects the new code.

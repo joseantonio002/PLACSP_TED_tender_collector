@@ -12,7 +12,7 @@ import xml.etree.ElementTree as ET
 
 import requests
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[2]
 RAW = ROOT / 'data/raw'
 MANIFEST = RAW / 'download_manifest.jsonl'
 DOMAIN = 'https://analisi.transparenciacatalunya.cat'
