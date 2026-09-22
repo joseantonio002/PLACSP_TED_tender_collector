@@ -1,0 +1,189 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "13794496",
+  "idExpedient": "ff3d3f75-b452-4e97-471f-854e61e9fd07",
+  "dataPublicacioPlanificada": "2026-02-13T13:00:34.799Z",
+  "organ": {
+    "nom": "Ferrocarril Metropolità de Barcelona, SA",
+    "nif": "A08005795",
+    "direccioPostal": "Carrer Número 60, nº 21-23,  P.I. Zona Franca",
+    "localitat": "Barcelona, Barcelona",
+    "codiPostal": "08040",
+    "nuts": "ES511",
+    "web": "www.tmb.cat",
+    "telefon": "932987000",
+    "email": "licitacions@tmb.cat",
+    "personesContacte": [],
+    "centralCompres": false,
+    "tipusPoderAdjudicador": 1500007,
+    "observacions": {},
+    "horari": {},
+    "organContractacioId": 30109100
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000041,
+      "ca": "Anul·lació",
+      "es": "Anulación",
+      "en": "Cancellation",
+      "oc": "Anullacion"
+    },
+    "expedientId": "ff3d3f75-b452-4e97-471f-854e61e9fd07",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000041,
+        "ca": "Anul·lació",
+        "es": "Anulación",
+        "en": "Cancellation",
+        "oc": "Anullacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "13794496",
+      "denominacio": {
+        "ca": "Subministrament 43680 paquets de tovalloletes eixugamans 31x23cm reciclades Codi TMB 5456"
+      },
+      "descripcio": {
+        "ca": "Subministrament 43680 paquets de tovalloletes eixugamans 31x23cm reciclades Codi TMB 5456"
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "tipusContracte": {
+        "id": 394,
+        "ca": "Subministraments ",
+        "es": "Suministros",
+        "en": "Supplies ",
+        "oc": "Subministraments "
+      },
+      "procedimentAdjudicacio": {
+        "id": 401,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {},
+      "tipusSubministraments": {
+        "id": 1008432,
+        "ca": "Adquisició"
+      }
+    },
+    "dadesPublicacio": {
+      "observacions": {}
+    },
+    "dadesPublicacioLot": [
+      {
+        "publicacioExpedientId": 300694438,
+        "observacions": {},
+        "tipusAnulacioDesert": {
+          "id": 1008287,
+          "ca": "Decisió de no adjudicar/subscriure el contracte ",
+          "en": "Decision not to award/subscribe the contract ",
+          "oc": "Decision de non adjudicar/soscríuer eth contracte "
+        },
+        "documents": {
+          "ca": [
+            {
+              "id": 302012774,
+              "titol": "Proposta tancament Mesa Contractació (3).pdf",
+              "path": "MpNMXyTzW9aVmCuxX2K0I775u64j7MNdKR4I7NqKkpitC9PphJbnfPpflNl9LPrhLWVGJ27v8q-cZZvnZgXEjmXSffmUTH8SeO9lwShxLDRVAAFV7Au6DULUwG52LUuLVP2gCtnGwPOP-Sm_B_wFc_IzyEZeGgO1zXPAeE4KAles04OCIkpIE9Bio9eCvpP2ZWF_wTXiZdT9werdL6wDX5X-BDbT7x1_0DwbwsbjqroDBet3u87FefAxY3OGmjDGHNq5qyVd5ORQxDJkz6BEQMJ0PRhgMh5JSFgdYVpdiH9wwXO9b6yyI8iEJrFR8UVBkzEXpYz_EihlSIjcmOAN6A==",
+              "hash": "DBE95EB76339794EDFE9BD0CB7992E85",
+              "idioma": "ca",
+              "mida": 120194
+            },
+            {
+              "id": 302012775,
+              "titol": "Acta tancament 13794496Z (2).pdf",
+              "path": "scyapUhIY92FEIxXXYZVlwCidRAPUGh8s75nLP1StYlh3ryFDfegeifqAE2A08iHBafbiQrNUHQL4MuHeckB4_hqOGUYsZWcUN8tNqNbrtWhhHxnaUhwEy0CVPIIvQV76syUIGWgSh3jpC98Qu6pqjmems1o_q0OBMS-3mwv9CvyeIuAFPbh3X1Bak0pJEcf9xq7TWYm_bkoBppOprsXx-YoUJMwz39RN6kSChvbGKhewT55fUuuXU2b7qo8cniQgscyjvoo-Cpm0Yt-qY-iDRE768fl5IkDXWsnt4AZWVrbz1AU0prPS26_QUQUTFs_c-67f_B8K1D8oMHVl7r0wQ==",
+              "hash": "E62E8F9099279CF9D2519ABE07C3742C",
+              "idioma": "ca",
+              "mida": 273975
+            },
+            {
+              "id": 302012776,
+              "titol": "Informe resolució anticipada.pdf",
+              "path": "Ug4nGVaJOYwISd28Tlu10MUNLFO8L1Z02gidHGwnYfiIRLLNrIdsjbOAAy5p74qnL6mGA46nGXmwoJU_QgABPD7VVPahDfxM2c33Zp94jlgIGQ-QN6JbrOLn28W0uZDz1QXRIkx6AtqJHg6G8lM88xNlOUE64ZPZZ9cT4vbieku4qAChCfbUgue8KeLcg4rU8oRgeT-YgOV9DgVMdc52yuCSJs7uG3yxR5KqpbxHKRTAvudMO-ENkmijOTZwgZJYu_uyPoiqXnyTV_CpOR3fKGeOXJqMllprjYyuuZb70mn2Jq4VnYDqVsfpGn9v3oU4z9T3LSyCogqOpEX-NnaTKw==",
+              "hash": "5A4952FE20D63F90BFE33F658E37C8F2",
+              "idioma": "ca",
+              "mida": 143110
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        }
+      }
+    ],
+    "dadesExpedient": {
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "ff3d3f75-b452-4e97-471f-854e61e9fd07",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "tenderingSpaceId": 102233079,
+      "esPublicacioAntiga": true,
+      "tipusOfertaElectronica": 413,
+      "denominacioExpedientReferencia": {},
+      "esReduit": false
+    },
+    "publicacionsOficials": [],
+    "motiuEsmena": {}
+  },
+  "pathPdf": "Xusm9nJnbW-c8diyEsyzcBhYo_LNvQw969RhnvJBRWn2jd_UelKvSsDeRYAYYGE_nDW8d4CqZpYx9wImhRyImbden_mgNBpXNXn3we_iz0hGp89nt2si-xmXrqrgxDb-QY5sD-E7QqSFv_Jmy6NW7D0CtU-1LnYTLwfVPOUlJmA8zZwR92nlNFsMVth5Q_QKl9xq-kTCzmvDK9hQpaZG6qt3KWjFZjLVYzSKCPFZtmROnuJVfmHdxEnDUc-6RwnmryrIWg_naAbAoYVDHb-9nSoQEcYTeYv88gGChAJ18RCiOn26eJB1jPvAQT3rffifCOvYJrdfv0VMkz02eU89xA==",
+  "pathCertificacio": "Jaq67aeAy00nFLPauuA4ASEJG1qN51Mh9a4ApkXwCxpnna4_LMYzNHZ9aNE2tR6wT_WKCvFpwmjTezf8gMRlCPCduqN5Q4IiGTAzlH4j-0ojaoafZ3IcdT-TuEJjCrSP6O3wQY2B9O8zLUeTduSvONk626X3InzE5PGR2C3OWnGMo51MOqUdZgLwxMpm9Cwjz9Lgs-rPuCMbheWcAxch8cZxGIqN9jSXeiqwtiB_eyqmhgYf6X_Kjowoe13aSEzCLA3713MVHJ4H5Sswv68idax0OD2_Yf4NMAP2WOvukxuO_QgUO_zukPfUjQqfEBFpXK-1Td5hwWB6zVEgQFyfaA==",
+  "pathJson": "DigZ0sYsTiMwvAY662V8Z400IAD0rdSvlRuLGfhADm4y53JoRIEg42rKtrzf2z2AyNteVde5sRqGFzTK5gSLrXdaSHvZexdABlrMCzrZmRUTiZg3yyJNwlm0-EbQkRvdVhrZTcbaZK4-XDHAUebnVNifjPr-g-0fQ_8ftl1pUZCc96fNIeCzeZfq0rvWSp4RmCg4Vzvv2RSGuNTXER-6GnrO3Un87OEsE3pfvTSTaIKSEAU64tlKhAhPUZCVIJe3sp7WKAiSJPO0N1n7XlLiZ8T82WIuq0pHOPxO1M0bbLTny8HEOjw9qUcDIPX7wPht5JNVQ-7wGZI2SJmX6lMgSQ==",
+  "dataPublicacioReal": "2026-02-13T13:04:26.202Z",
+  "dadesExpedient": {
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": "Català",
+      "es": "Catalan",
+      "en": "Catalan",
+      "oc": "Catalan"
+    },
+    "expedientId": "ff3d3f75-b452-4e97-471f-854e61e9fd07",
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "tenderingSpaceId": 102233079,
+    "esPublicacioAntiga": true,
+    "tipusOfertaElectronica": 413,
+    "denominacioExpedientReferencia": {},
+    "esReduit": false
+  }
+}

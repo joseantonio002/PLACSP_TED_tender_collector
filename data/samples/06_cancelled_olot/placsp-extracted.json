@@ -1,0 +1,91 @@
+[
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16219472",
+    "updated": "2025-01-07T12:13:46.057+01:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/b3f640c5-3c2c-4340-9e32-bdd894f89436/300344003",
+    "uuid": "b3f640c5-3c2c-4340-9e32-bdd894f89436",
+    "publication_id": "300344003",
+    "expediente": "CCS12024000095",
+    "title": "Contractació dels serveis d'acollida i atenció al públic al Teatre Principal d'Olot, atès que no disposa de serveis interns per a l'execució del mateix.",
+    "status": "ANUL",
+    "buyer_name": "Ajuntament d'Olot",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "925838"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "40300",
+    "budget_gross": null,
+    "estimated_value": "88660",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "79992000"
+    ],
+    "execution_nuts": [
+      "ES512"
+    ],
+    "execution_names": [],
+    "deadline_date": "2024-12-19",
+    "deadline_time": "14:00:00",
+    "procedure_type": "9",
+    "lots": [],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-12-04"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "ANUL_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-01-07"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP CCS12024000095.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/300994575/E4C3ADE8C1610785DAC340F51F98460B"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "PPT CCS12024000095.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/300994576/A770AD9219A8A969C30FFB2E37987270"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250108_040045_5.atom",
+    "ordinal": 61
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "codi_ambit": "1500001",
+    "nom_ambit": "Departaments i sector públic de la Generalitat de Catalunya",
+    "codi_organ": "202266",
+    "nom_organ": "Departament de Justícia i Qualitat Democràtica",
+    "codi_dir3": "A09002980",
+    "codi_expedient": "PR-2025-7",
+    "tipus_contracte": "Serveis",
+    "procediment": "Obert",
+    "fase_publicacio": "Formalització",
+    "denominacio": "Servei de recollida de dades de les minories religioses a Catalunya del Mapa Religiós de Catalunya. PR-2025-7",
+    "objecte_contracte": "Servei de recollida de dades de les minories religioses a Catalunya del Mapa Religiós de Catalunya durant els anys 2025, 2026 i 2027.",
+    "valor_estimat_contracte": "214876.03",
+    "codi_nuts": "ES51",
+    "lloc_execucio": "Catalunya",
+    "durada_contracte": "28/01/2025 a 31/12/2027",
+    "termini_presentacio_ofertes": "2024-07-29T13:00:00.000",
+    "data_publicacio_anunci": "2024-10-30T15:16:00.000",
+    "data_publicacio_adjudicacio": "2024-12-30T14:50:00.000",
+    "data_publicacio_formalitzacio": "2025-01-31T10:10:00.000",
+    "codi_cpv": "79315000-5||79320000-3",
+    "tipus_identificacio": "542",
+    "identificacio_adjudicatari": "R5800395E",
+    "denominacio_adjudicatari": "FUNDACIÓ PERE TARRÉS",
+    "import_adjudicacio_sense": "204236.00",
+    "import_adjudicacio_amb_iva": "247125.56",
+    "ofertes_rebudes": "2",
+    "resultat": "Formalització",
+    "enllac_publicacio": {
+      "url": "https://contractaciopublica.cat/ca/detall-publicacio/deed8b7e-fcb0-45db-bc95-1b47db67b496/300364522"
+    },
+    "es_agregada": "NO",
+    "data_adjudicacio_contracte": "2024-12-23T10:56:00.000",
+    "data_formalitzacio_contracte": "2025-01-28T00:00:00.000",
+    "tipus_tramitacio": "Ordinària",
+    "eina_presentacio_electronica": "Sobre digital",
+    "pressupost_licitacio_sense": "214876.03",
+    "pressupost_licitacio_sense_1": "214876.03",
+    "pressupost_licitacio_amb": "260000.00",
+    "pressupost_licitacio_amb_1": "260000.00",
+    "valor_estimat_expedient": "214876.03",
+    "data_publicacio_avaluacio": "2024-12-20T14:32:00.000",
+    "tipus_empresa": "No PIME",
+    "url_json_licitacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300286770/F8bLqjKZozl985dvNgmg5fJIYTZG8MNB3H9HWJOwsIVwx2tcvLaa1TGhlP1MtDNtctXZkT3dgoP_VbpqG1GA_Ai6LomA28u5BhL24pNYOC0_6_Z3kx1QfnJdaePAsa0DErhSDQaT39hTqCCiEdJD3bE-pxzgPGj7A7zHVLK4EJ3WmHLXdqin7B3QpKLAb6oLJycsJMESn0Pds0S_9POu2e8cJTEA9Rud6XXUqssEfBMZXetiBYllxXlUptFhK6w0wbXvHuHaNrgJ2d3avfRlaUqCwES0H-HDz6beuFjKRYZWad3yP_yMyPoakpXQ5rbJ0QSUuANs15AcB25Boy5AVA=="
+    },
+    "url_json_avaluacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300336346/N7xVGa0x4f5R4NM585Ns1xH8fqn4ednjiZYAKstsnArEBHFiQM7mcf8d4tWwf051GdbMuPB_N_63G61mCGA7Y5xLQgADEgBMpD6vJcPf6mKSaevIpff4U0ayHNVKrQT5PBIAnB9DPAVXl-rssceaGRnAvj_Ut5N-dNnSmYwYnp9-9wvxqoO9gRvuxcJ7csekKM7oUjbxC_uF-C9VtQh8c5tLQsFz-02-uCT4aGM1OSbZ_T02rx_g6_G4w50GzWFCW_6zAZP8LS9o5pjdchTzz6Hlqz-ynH8RpoYMs8xpiVvRMZo7hN8GOrrmw04J-mal1B7eh7sqSxS3Ub5AhZhr6Q=="
+    },
+    "url_json_adjudicacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300340925/Gbfiz00LpwgFjmoV0gI5BzO6-fc_WV5OFhEgcFbvSNvyA5FT7UnVJvYcQb6Dc6L2NmRxiceatwLsiql3D0KLMytV_8AOJbRwqMSof7LgsYBWd5XLo_YrdZJkFJLBN3sL9KzLVxsv_h2LxlfkNI0QOHMq3cvM1dA19CCzbngQGOcHXRz4A6ErqPpGP7jhiY3bKRgq1Flh_2YXpwU79vPzeCmQiQR53svd1KbNGCKugQ3bI441kSPO14O3d8JYg9G-wzMrJ-4LC5_FYbnRGi5v5RgqhLCxjTfhgRs3xJexJOy1h1cey54kxXGrDIcfMBOt0yb5FPSaEndbmplkCeUsxA=="
+    },
+    "url_json_formalitzacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300364522/BlN6f45kJBkos1hwr80dujpFiAmbvJNAXwUuipFAZKRGbDl0p6UAU5PttqgO7iwOxKeWxnwhewlYdSvimi74MxKnmxmpWo_w9dyDD4nbvQ28kvq5m94UZHRNOqRSyBef9-BKphGICAXYgdFLwOVf89UHD1XkRjQYAs1ScF13podMGdY82LhKjFgvZ6xym08PtuJ2Lx5YsYdM_C-bqC0V-xqqBhb5oJDu9uUiICvG7ZbhZ9rQjwzHoNTMXnhEH15DRTuF0J4yNyUVWhsdiZ-JirPIcO428MZR8FsN7W3cBWH8KFo3IDIRwQZq_OYDPlx-Qc-vy6eWyEggry4CJv5Ptw=="
+    },
+    "id_intern": "deed8b7e-fcb0-45db-bc95-1b47db67b496",
+    ":id": "row-zmki.rk8n~atvm",
+    ":created_at": "2026-07-13T13:26:08.273Z",
+    ":updated_at": "2026-07-13T13:26:08.273Z"
+  }
+]

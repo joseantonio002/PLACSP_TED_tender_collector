@@ -1,0 +1,362 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "C 06/2022 Exp Actio núm 8100810007-2022-0000245",
+  "idExpedient": "bfbd4dd8-cbab-4672-54e8-a0442a09c914",
+  "dataPublicacioPlanificada": "2026-02-20T13:33:08.889Z",
+  "organ": {
+    "nom": "Consell Comarcal del Baix Camp",
+    "nif": "P9300003B",
+    "direccioPostal": "Doctor Ferran, 8",
+    "localitat": "Altres/Diversos, No Consta",
+    "codiPostal": "99999",
+    "nuts": "OT",
+    "web": "http://www.baixcamp.cat",
+    "telefon": "977327155",
+    "fax": "977321773",
+    "email": "ccbaixcamp@baixcamp.cat",
+    "personesContacte": [
+      {
+        "nom": "Joan",
+        "cognom": "Manuel Abelló",
+        "carrec": "Secretari",
+        "telefon": "977327155",
+        "email": "secretaria@baixcamp.cat"
+      }
+    ],
+    "centralCompres": false,
+    "observacions": {},
+    "horari": {
+      "ca": "De dilluns a divendres de 08:30 a 14:30\\rDimarts de 16:00 a 18:30"
+    },
+    "organContractacioId": 10248462
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000042,
+      "ca": "Adjudicació",
+      "es": "Adjudicación",
+      "en": "Adjudication",
+      "oc": "Adjudicacion"
+    },
+    "expedientId": "bfbd4dd8-cbab-4672-54e8-a0442a09c914",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000042,
+        "ca": "Adjudicació",
+        "es": "Adjudicación",
+        "en": "Adjudication",
+        "oc": "Adjudicacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "C 06/2022 Exp Actio núm 8100810007-2022-0000245",
+      "denominacio": {
+        "ca": "Contractació dels serveis d'adjuda a domicili del Consell Comarcal del Baix Camp"
+      },
+      "descripcio": {
+        "ca": "És objecte del present Plec la contractació de la gestió, en la modalitat de concessió, del servei d'ajuda a domicili (SAD).\rL'àmbit territorial de la prestació del servei públic de SAD es fa extensiu a tots els municipis de la comarca a excepció de Reus, Cambrils i Prades. \r"
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "tipusContracte": {
+        "id": 393,
+        "ca": "Serveis",
+        "es": "Servicios",
+        "en": "Services",
+        "oc": "Servicis"
+      },
+      "procedimentAdjudicacio": {
+        "id": 401,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {}
+    },
+    "dadesPublicacio": {
+      "pressupostLicitacio": 815892.1,
+      "observacions": {},
+      "valorEstimatContracte": 1631784.2,
+      "iva": 4,
+      "varisTipusIva": false,
+      "pressupostBaseLicitacioAmbIVA": 848527.78,
+      "contracteRelacionatFinanciatFonsUnioEuropea": false
+    },
+    "dadesPublicacioLot": [
+      {
+        "pressupostLicitacio": 815892.1,
+        "publicacioExpedientId": 300701001,
+        "dataAdjudicacio": "2022-09-26T22:00:00.000Z",
+        "terminiFormalitzacioContracte": {
+          "ca": "Art. 153 LCSP"
+        },
+        "importAdjudicacio": 779542.5,
+        "ofertaAdjudicatariaIncursa": false,
+        "observacions": {},
+        "peuDeRecurs": {
+          "ca": "Els que consten a la resolució"
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "empresesAdjudicataries": [
+          {
+            "denominacio": "SAD ASSITENCIAL COMARQUES MERIDIONALS S.L",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "B43672138",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 748,
+                "ca": "PIME",
+                "en": "SME",
+                "oc": "PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the previous options",
+                "oc": "Cap des anteriores"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1000944,
+              "ca": "Badalona"
+            },
+            "informacioUte": [],
+            "codiPostal": "08911"
+          }
+        ],
+        "resolucioAdjudicacio": {
+          "ca": [
+            {
+              "id": 302032568,
+              "titol": "Acord_PLE_27-9-2022_SAD.pdf",
+              "path": "EIQoQDDLUn7TZ98xC6cN-f-MMaPM3z0wN-FIomFNKSFJkdz1IuErK9YgXsxj0as__ZvzLxRjYhVqNPSTtALKAkc7ZWrOhcbOiQuFrKbQfNRupEtBGhwwzCacqfht51LSicg1nuN6BaETOHqtWQKttvRPn815qvUYAdnxMeIyoW0W7lNrMVtYryhHbg8A922tqY5AxUBB9viNbIzWH2oB6NjfUv-rzN2NKt_zcENaipDxUi_0qWnyM1KzMyxz0su_8OWQvEp2Ep-XsnsUiZTM-nMMHi0DQCZ2clW9s_6i9LgpXaT9NqpUwo_tYHDuhm15gNradaXL9zIqtAfLrIOUEQ==",
+              "hash": "9C23EA872E47075454196A393D05AE56",
+              "idioma": "ca",
+              "mida": 525824
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "importAdjudicacioIva": 810724.2,
+        "ivaAdjudicacio": 4,
+        "varisTipusIvaAdjudicacio": false,
+        "valorEstimatContracte": 1631784.2,
+        "iva": 4,
+        "varisTipusIva": false,
+        "pressupostBaseLicitacioAmbIVA": 848527.78,
+        "cpvPrincipal": {
+          "codi": "85311000-2",
+          "ca": "Serveis d'assistència social amb allotjament",
+          "es": "Servicios de asistencia social con alojamiento",
+          "en": "Social work services with accommodation",
+          "oc": "Servicis d'assisténcia sociau damb lotjament"
+        },
+        "cpvsSecundaris": [],
+        "llocExecucio": {
+          "codiNuts": "ES514",
+          "ca": "Tarragona",
+          "es": "Tarragona",
+          "en": "Tarragona",
+          "oc": "null"
+        },
+        "reservaSocial": false,
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 2,
+          "mesos": 0,
+          "dies": 0,
+          "observacions": {}
+        },
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 25,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 25,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 5,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 5,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 70,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008363,
+                  "ca": "Característiques estètiques i funcionals",
+                  "es": "Características estéticas y funcionales",
+                  "en": "Aesthetic and functional characteristics",
+                  "oc": "Caracteristicas esteticas e foncionalas"
+                },
+                "puntuacio": 70,
+                "descripcioCriteri": {}
+              }
+            ]
+          }
+        ],
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": true,
+        "prescripcionsTecniquesSocials": false,
+        "prescripcionsTecniquesAmbientals": false,
+        "totalOfertesRebudes": 3,
+        "llistatPrescripcionsTecniquesSocials": [],
+        "descripcioLicitacio": {},
+        "subcontractacions": [],
+        "canonExplotacio": {
+          "ca": "0.0",
+          "es": "0.0",
+          "en": "0.0",
+          "oc": "0.0"
+        },
+        "metodeUtilitzatCalculValorEstimat": {}
+      }
+    ],
+    "dadesExpedient": {
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "bfbd4dd8-cbab-4672-54e8-a0442a09c914",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "tenderingSpaceId": 101232022,
+      "esPublicacioAntiga": true,
+      "tipusOfertaElectronica": 413,
+      "denominacioExpedientReferencia": {},
+      "esReduit": false
+    },
+    "publicacionsOficials": [],
+    "motiuEsmena": {}
+  },
+  "pathPdf": "aBbx9SH67tg-ZTUUXWXJVoacTygj4p4E__-_RklfQeWtGOaKzkB7itgluI91bO-Jw-JWfNXpJFBzM0lGSKCUkqiGY_NonIkzWYOBeM2h4tRPh7FZNxIC9OUAdsLivnjRtzQTEum4lmYoaqVGkLPIMzHdzJk2-jOrnzBVvV0om09q5fRwBg2MiJKFHYd8GBp0UO_qmSOgcbzeOP1FreRUXoGjjusavXLbXWIbgUkKwXisiLBc43wcsAI5o5B9EhLuroGpc_e5E0JrNUj2og5HMYnyKTfyLvrK1eaXxHc7whYLeSCqyg0IVBHpYghCfLNr7b_xvjay6Ya8f7RFpx1rQQ==",
+  "pathCertificacio": "nTXnzzZUoBkZV_f5zZmvEFrSG2ZRW794XlOzxrCX6wMGQrZ7eJehVNRmmF0bV9FzUhZu3xM8EDwSoTs4aB1pbKd6px7DjhLP08ROutRfRBYqRlrSzwYCitsMROSgpYTtIlpvYE-QJSq6wriYu662LThdmwUhREmWS9ypo8n6E_HKmslI5yTq4DUvDWK2SNArq47mhJlkROfqc9j-xItD7_EfVN9UFpcVBDJqPUbwIX1EbM2NSmT7tlKe0mSiSw4eBaylOdffCUcag0MelppIYEV5KbiGL1dMsankZtevd19EgtxwVBJbuGVFcEB4CS_n5M2i1dB2vBTpLpppqJQGVA==",
+  "pathJson": "G9NQ7a9V2h65eVo9k7uWuba1MaiiLVI671bGV6oYLyuo8jD5RcNCSRzQQg2z1V01iV3cexuKBmO7Y-t1Uiy8l59rqppFymsV-GOYf0vy8YVBIY6toritgBDczYCUsoIVfCccGHZke_cx83DLXuwWP9oDMwZCLUx4EN-EX-peaxBZSMESLANTodDnuuhDqGXjrdFH0XaNZRYaYo_l2qZb2DI67adAgx4QsRYThQvzDD-p9-AnYKO316IG_ivWoB7E4HZ7j25FTYbfrk5O-BiviL6ZUu0lafBL8ZeiRIjOmZlajCuKIEta-S-ue-fakh4KzvNVXfhP_dzdXET38uQU7A==",
+  "dataPublicacioReal": "2026-02-20T13:34:06.835Z",
+  "dadesExpedient": {
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": "Català",
+      "es": "Catalan",
+      "en": "Catalan",
+      "oc": "Catalan"
+    },
+    "expedientId": "bfbd4dd8-cbab-4672-54e8-a0442a09c914",
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "tenderingSpaceId": 101232022,
+    "esPublicacioAntiga": true,
+    "tipusOfertaElectronica": 413,
+    "denominacioExpedientReferencia": {},
+    "esReduit": false
+  }
+}

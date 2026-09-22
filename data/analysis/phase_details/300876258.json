@@ -1,0 +1,671 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "1262-0001/2023",
+  "idExpedient": "36225576-7368-45a8-934c-4d79492c908e",
+  "dataPublicacioPlanificada": "2026-09-07T10:25:22.349Z",
+  "organ": {
+    "nom": "Conselh Generau d'Aran",
+    "nif": "P7500011G",
+    "direccioPostal": "Plaça d'Aran, 1-2",
+    "localitat": "Lleida, Vielha e Mijaran",
+    "codiPostal": "25530",
+    "nuts": "ES513",
+    "web": "http://www.conselharan.org/",
+    "telefon": "973641801",
+    "fax": "973641769",
+    "email": "contractacion@aran.org",
+    "personesContacte": [
+      {
+        "nom": "fabian",
+        "cognom": "arroyo olalla",
+        "carrec": "tag",
+        "email": "f.arroyo@aran.org"
+      },
+      {
+        "nom": "Yolanda",
+        "cognom": "Amiell Sangüesa",
+        "carrec": "secretària accidental",
+        "telefon": "973641801",
+        "email": "y.amiell@aran.org"
+      }
+    ],
+    "centralCompres": false,
+    "tipusPoderAdjudicador": 1500006,
+    "observacions": {},
+    "horari": {
+      "ca": "De deluns a diuendres de 8.30 a 14.00"
+    },
+    "organContractacioId": 31230076,
+    "activitatPrincipalOrgan": {
+      "id": 1051243,
+      "ca": "Serveis de caràcter general",
+      "es": "Servicios de carácter general"
+    }
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1008286,
+      "ca": "Expedient en avaluació",
+      "es": "Expediente en avaluación",
+      "en": "Under evaluation",
+      "oc": "En avaloracion"
+    },
+    "expedientId": "36225576-7368-45a8-934c-4d79492c908e",
+    "teLots": true,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1008286,
+        "ca": "Expedient en avaluació",
+        "es": "Expediente en avaluación",
+        "en": "Under evaluation",
+        "oc": "En avaloracion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "1262-0001/2023",
+      "denominacio": {
+        "oc": "MAQUINARIA ENTAD MANTENIMENT DE CAMINS"
+      },
+      "descripcio": {
+        "oc": "Maquinaria propia entad manteniment de camins dera xarxa veinau e rurau d'Aran"
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "tipusContracte": {
+        "id": 394,
+        "ca": "Subministraments ",
+        "es": "Suministros",
+        "en": "Supplies ",
+        "oc": "Subministraments "
+      },
+      "procedimentAdjudicacio": {
+        "id": 401,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "tipusSubministraments": {
+        "id": 1008430,
+        "ca": "Adquisició o arrendament de productes i béns"
+      }
+    },
+    "dadesPublicacio": {
+      "observacions": {},
+      "membresMesa": []
+    },
+    "dadesPublicacioLot": [
+      {
+        "numeroLot": "1",
+        "lotId": 0,
+        "descripcio": {
+          "oc": "VEHICLE TRACTOR"
+        },
+        "pressupostLicitacio": 94214.88,
+        "publicacioExpedientId": 300876258,
+        "titol": "VEHICLE TRACTOR",
+        "denominacioExpedientReferencia": {},
+        "identitatEmpresa": [
+          {
+            "empresa": "ROVIRA MOTOR SA",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "A59022392",
+            "ofertaEconomica": 94000,
+            "puntuacioTotal": 68,
+            "tipusEmpresaUnificat": [
+              {
+                "id": 749,
+                "ca": "No PIME",
+                "en": "No SME",
+                "oc": "Non PIME"
+              },
+              {
+                "id": 1008410,
+                "ca": "Altres"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1001225,
+              "ca": "Vic"
+            },
+            "noOberta": false,
+            "informacioUte": [],
+            "observacions": {},
+            "codiPostal": "08500"
+          },
+          {
+            "empresa": "CUSINÉ S.A.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "A25043712",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 749,
+                "ca": "No PIME",
+                "en": "No SME",
+                "oc": "Non PIME"
+              },
+              {
+                "id": 1008410,
+                "ca": "Altres"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 320,
+              "ca": "Lleida",
+              "es": "Lérida",
+              "en": "Lleida",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1004006,
+              "ca": "Palau d'Anglesola, el"
+            },
+            "noOberta": true,
+            "informacioUte": [],
+            "observacions": {},
+            "codiPostal": "25243"
+          }
+        ],
+        "informesActesMesesContractacio": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "informesOfertesPresumpcioAnormalitat": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "informesValoracio": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "observacions": {},
+        "totalOfertesRebudes": 2
+      },
+      {
+        "numeroLot": "2",
+        "lotId": 1,
+        "descripcio": {
+          "oc": "PLATAFORMA DE TRANSPORT"
+        },
+        "pressupostLicitacio": 11570.25,
+        "publicacioExpedientId": 300876258,
+        "titol": "PLATAFORMA DE TRANSPORT",
+        "denominacioExpedientReferencia": {},
+        "identitatEmpresa": [
+          {
+            "empresa": "RIGUAL S.A",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "A22010680",
+            "ofertaEconomica": 11570.24,
+            "puntuacioTotal": 90.5,
+            "tipusEmpresaUnificat": [
+              {
+                "id": 749,
+                "ca": "No PIME",
+                "en": "No SME",
+                "oc": "Non PIME"
+              },
+              {
+                "id": 1008410,
+                "ca": "Altres"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 317,
+              "ca": "Osca",
+              "es": "Huesca",
+              "en": "Huesca",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1003448,
+              "ca": "Fraga"
+            },
+            "noOberta": false,
+            "informacioUte": [],
+            "observacions": {},
+            "codiPostal": "22520"
+          }
+        ],
+        "informesActesMesesContractacio": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "informesOfertesPresumpcioAnormalitat": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "informesValoracio": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "observacions": {},
+        "totalOfertesRebudes": 1
+      },
+      {
+        "numeroLot": "3",
+        "lotId": 2,
+        "descripcio": {
+          "oc": "PICADORA TRITURADORA"
+        },
+        "pressupostLicitacio": 11735.54,
+        "publicacioExpedientId": 300876258,
+        "titol": "PICADORA TRITURADORA",
+        "denominacioExpedientReferencia": {},
+        "identitatEmpresa": [
+          {
+            "empresa": "INDUSTRIAS BELAFER S.L.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "B22004121",
+            "ofertaEconomica": 11060,
+            "puntuacioTotal": 62,
+            "tipusEmpresaUnificat": [
+              {
+                "id": 748,
+                "ca": "PIME",
+                "en": "SME",
+                "oc": "PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the the previous options",
+                "oc": "Cap des anteriors"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 317,
+              "ca": "Osca",
+              "es": "Huesca",
+              "en": "Huesca",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1003448,
+              "ca": "Fraga"
+            },
+            "noOberta": false,
+            "informacioUte": [],
+            "observacions": {},
+            "codiPostal": "22520"
+          }
+        ],
+        "informesActesMesesContractacio": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "informesOfertesPresumpcioAnormalitat": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "informesValoracio": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "observacions": {},
+        "totalOfertesRebudes": 1
+      },
+      {
+        "numeroLot": "4",
+        "lotId": 3,
+        "descripcio": {
+          "oc": "BRAÇ DESBROSSADORA"
+        },
+        "pressupostLicitacio": 19834.7,
+        "publicacioExpedientId": 300876258,
+        "titol": "BRAÇ DESBROSSADORA",
+        "denominacioExpedientReferencia": {},
+        "identitatEmpresa": [
+          {
+            "empresa": "INDUSTRIAS BELAFER S.L.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "B22004121",
+            "ofertaEconomica": 19184,
+            "puntuacioTotal": 62,
+            "tipusEmpresaUnificat": [
+              {
+                "id": 748,
+                "ca": "PIME",
+                "en": "SME",
+                "oc": "PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the the previous options",
+                "oc": "Cap des anteriors"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 317,
+              "ca": "Osca",
+              "es": "Huesca",
+              "en": "Huesca",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1003448,
+              "ca": "Fraga"
+            },
+            "noOberta": false,
+            "informacioUte": [],
+            "observacions": {},
+            "codiPostal": "22520"
+          }
+        ],
+        "informesActesMesesContractacio": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "informesOfertesPresumpcioAnormalitat": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "informesValoracio": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "observacions": {},
+        "totalOfertesRebudes": 1
+      }
+    ],
+    "dadesExpedient": {
+      "idiomaPerDefecte": {
+        "id": 1000034,
+        "ca": "Aranès",
+        "es": "Aranés",
+        "en": "Aranese",
+        "oc": "Aranés"
+      },
+      "expedientId": "36225576-7368-45a8-934c-4d79492c908e",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "tipusOfertaElectronica": 413,
+      "esReduit": false
+    },
+    "publicacionsOficials": [],
+    "motiuEsmena": {}
+  },
+  "pathPdf": "nIQLnDgJy7fz4rk9YoYaeyyoGVLBdxVqYNXcBqP7Puya4NU2c8k4_G3YBB56raE3ZxxjBfhiRWIU20MpLObzArTg0jcOJ8-fBF51p6JdNHLjuLgVXyjXAhkqLU2oSdSTM9NWF_cLR0erKOvx4kS1390FE43NUEnav0Aw8Cx_Q-xbuWhd-Ud7yotEVhuT7_qOjdcSDodyUXnFR2W_82mWHxLhyBQYOVdCdDDI2VWzuTZ3VFwj_NB0G6Ip6gJP9Q4D25b8YHNZYyaFSVI8jhp-xqxbelDf0HRxya95Kdy3EfGllGFgLR7qvSIiexwjYlmncnqcEVABB7ZG_s99YVbSVg==",
+  "pathCertificacio": "tseHRfqY1FbbXAPqdXEyTQoOHwoQnzlXHRnKJPdSfYPTUO8ThEhwPgb8XVO7LAJc8YRfd_gwV5xV-FtJZejqwBnwarzH06AMmg8S2L8uZoTKtr7ivaY_VGU9LfImKKvCZBgM8CMbhfIIGcs9zEpVQjgxneXd21n2Ow-Q9OpcSLWGeBegRu-11ifv6FOaKV2a4B9skdet7xzQqhJaiSlL8gNSjt-shdBMDtNYiL02-2D9C88rdyyOJMfJJv5QvhzE2uEX4felJ2SSsX6oweS4Vja-nwhbewf8xE__UCQ38ED0RRpNDFOVCw8OSpkxST5yV8NhRNJXTMLHfBax6H_Gxw==",
+  "pathJson": "RKAFr6ihIDqaW1kXz4OqA1hzOUA_Uzi9Y7ltwxzhDwoMlpfia57NVRILVKoYRfVwCIwMmyXgfMDuCbzW-Gn6rTg8AryipMesXgD0Xfig3SlL8H75ejzTCh1FLF0K8B5wPrfkCAghbkFcI0yHBmFDSrlcPwXNVAODG8GTPMdyfNelim6cxfKL_Zy-koGJaDVnTxj3knwM9hDU_ktLiJqQ0wC7-jy-dKYPrz1lSCkbYLYjojZS9Y2f8LLQXMugBuaUKumjAggX1JHThwfJRjQ_a4ISc1G6Occ1LVr96NLfxBKlM44cXJ1w0MTbtzybbLNmBVZY0p7xGM7RQrsXVdG4yQ==",
+  "dataPublicacioReal": "2026-09-07T10:28:35.223Z",
+  "dadesExpedient": {
+    "idiomaPerDefecte": {
+      "id": 1000034,
+      "ca": "Aranès",
+      "es": "Aranés",
+      "en": "Aranese",
+      "oc": "Aranés"
+    },
+    "expedientId": "36225576-7368-45a8-934c-4d79492c908e",
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 413,
+    "esReduit": false
+  }
+}

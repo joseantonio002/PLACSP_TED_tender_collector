@@ -1,0 +1,45 @@
+{
+  "case_id": "06_cancelled_olot",
+  "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16219472",
+  "tags": [
+    "cancelled"
+  ],
+  "fetch_historical_notices": true,
+  "placsp_observations": 1,
+  "gencat_rows": 1,
+  "evidence_references": [
+    {
+      "source": "placsp",
+      "file": "placsp-000.xml.fragment",
+      "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+      "member": "PlataformasAgregadasSinMenores_20250108_040045_5.atom",
+      "entry_ordinal": 61,
+      "byte_start_in_member": 650068,
+      "byte_end_in_member": 657689,
+      "fragment_sha256": "36771eebd4e152809630b74a8a2f3c3bf6c296a9dc5508c70b5d82565f30f209",
+      "note": "Exact byte slice, namespace bindings inherited from parent feed; original complete XML is in archive member."
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/000010000.json",
+      "row_ordinal": 3750,
+      "socrata_id": "row-fg8c.6rht.twbi",
+      "id_intern": "b3f640c5-3c2c-4340-9e32-bdd894f89436"
+    }
+  ],
+  "phase_json": {
+    "300343988": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300343988/B1-BOWbhsj3D0ibWU_4dYnzmtyp195V1A-mrp_h_XQ2dzn40DFKUMwIU8dkQlUFLz_pO9Jti0QiIewaOogQTb9WD8dk0eRLZdZObWqNlTm2hr9zlFaHuCDR9cnezQydqN12SB0cTcMQVtJGHddxFlWrrv6xlSDZwWJtdYF0yMG1_qnVNpou5B-5P3-O26k62YOc_MtHBhj8d9ZuC6sOmXbtcn6QjcNB_R9wdEZj_hdgtAOrl3tq-I4_G-TQO_OlmoWTO-4q7N7oMFaHZ_PIrJxeruhCOfy4FhqUbye_V4JGcLUAtf_v-C2kpbDL2kmNP_W2gqYi_pSuAMnvxoBlLKg==",
+      "field": "url_json_licitacio",
+      "source_row_id": "row-fg8c.6rht.twbi",
+      "raw_path": "data/raw/gencat/phases/300343988.json"
+    },
+    "300344003": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300344003/WIBA2wPtRAebhLJF8FA3AMA_TSxywSniizajnFC3jAWLlqvrUJ3VRKAmcbNUM9Cm_gldI7YAIZnsLLij3VG5mw8zysEesMMf5K_bBUjhN-IlTyIAF3rICdUFSfTFyYI4lbNLwrXQUDOAdfpdGgYmZ9VXMuMAOc2UFCCJUf-zkrwo0S4RNbKBoVWiZZEliC9Z8wH-kkf-OAGin2mYIlhpbjD3VI30nIWK_r_hNDaIUUV0jDbN_rbzGBea2s_xOuEkI_lKxQ-fDWSK01apMulpTnebTw_i9E0nekVoerlOYym_kKJsD__E0CNksfJ6V0TXy1PttFkTe2wHH-uhGOsHPg==",
+      "field": "url_json_anulacio",
+      "source_row_id": "row-fg8c.6rht.twbi",
+      "raw_path": "data/raw/gencat/phases/300344003.json"
+    }
+  },
+  "folder": "data/samples/06_cancelled_olot"
+}

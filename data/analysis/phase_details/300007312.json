@@ -1,0 +1,395 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "4317110007-2021-0001388",
+  "idExpedient": "cdd2280f-bc0d-b291-4214-69ded8c1182d",
+  "dataPublicacioPlanificada": "2026-08-26T10:42:12.022Z",
+  "organ": {
+    "nom": "Ajuntament de Vila-seca",
+    "nif": "P4317300D",
+    "direccioPostal": "Plaça De l'Església, 26",
+    "localitat": "Tarragona, Vila-seca",
+    "codiPostal": "43480",
+    "nuts": "ES514",
+    "web": "www.vila-seca.cat",
+    "telefon": "977309300",
+    "fax": "977309301",
+    "email": "ajuntament@vila-seca.cat",
+    "personesContacte": [
+      {
+        "nom": "Anna",
+        "cognom": "Tarragó Plana",
+        "telefon": "977309300",
+        "email": "atarrago@vila-seca.cat"
+      },
+      {
+        "nom": "Silvia",
+        "cognom": "Torres Benach",
+        "telefon": "977309300",
+        "email": "storresb@vila-seca.cat"
+      }
+    ],
+    "centralCompres": false,
+    "tipusPoderAdjudicador": 1500006,
+    "observacions": {
+      "ca": "https://www.seu-e.cat/ca/web/vilaseca/govern-obert-i-transparencia/contractes-convenis-i-subvencions/relacio-de-contractes/relacio-de-contractes-menors-historic",
+      "es": "https://www.seu-e.cat/ca/web/vilaseca/govern-obert-i-transparencia/contractes-convenis-i-subvencions/relacio-de-contractes/relacio-de-contractes-menors-historic",
+      "en": "https://www.seu-e.cat/ca/web/vilaseca/govern-obert-i-transparencia/contractes-convenis-i-subvencions/relacio-de-contractes/relacio-de-contractes-menors-historic",
+      "oc": "https://www.seu-e.cat/ca/web/vilaseca/govern-obert-i-transparencia/contractes-convenis-i-subvencions/relacio-de-contractes/relacio-de-contractes-menors-historic"
+    },
+    "horari": {
+      "ca": "De dilluns a divendres de 9.15 h a 14.00 h i també els dilluns de 16.30 h a 18.30 h entre l'1 d'octubre i el 31 de maig.",
+      "es": "De lunes a viernes de 9.15 h a 14.00 h y también los lunes de 16.30 h a 18.30 h entre el 1 de octubre y el 31 de mayo.",
+      "en": "Monday to Friday from 9:15 a.m. to 2:00 p.m. and also on Mondays from 4:30 p.m. to 6:30 p.m. between October 1 and May 31."
+    },
+    "organContractacioId": 9598270,
+    "activitatPrincipalOrgan": {
+      "id": 1051243,
+      "ca": "Serveis de caràcter general",
+      "es": "Servicios de carácter general"
+    }
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000045,
+      "ca": "Execució",
+      "es": "Ejecución",
+      "en": "Execution",
+      "oc": "Execucion"
+    },
+    "expedientId": "cdd2280f-bc0d-b291-4214-69ded8c1182d",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000045,
+        "ca": "Execució",
+        "es": "Ejecución",
+        "en": "Execution",
+        "oc": "Execucion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "4317110007-2021-0001388",
+      "denominacio": {
+        "ca": "Servei de recollida i transport de residus municipals, neteja viària i de la platja, i gestió de la deixalleria en el terme municipal de Vila-seca (Tarragonès)."
+      },
+      "descripcio": {
+        "ca": "Servei de recollida i transport de residus municipals, neteja viària i de la platja, i gestió de la deixalleria en el terme municipal de Vila-seca (Tarragonès)."
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "tipusContracte": {
+        "id": 393,
+        "ca": "Serveis",
+        "es": "Servicios",
+        "en": "Services",
+        "oc": "Servicis"
+      },
+      "procedimentAdjudicacio": {
+        "id": 401,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {}
+    },
+    "dadesPublicacio": {
+      "pressupostLicitacio": 3981218.08,
+      "observacions": {},
+      "contracteRelacionatAmbProjecteOProgramaFinancatAmbFonsDeLaUE": false
+    },
+    "dadesPublicacioLot": [
+      {
+        "publicacioExpedientId": 300007312,
+        "denominacioExpedientReferencia": {},
+        "prorrogues": [],
+        "modificacions": [
+          {
+            "antiga": false,
+            "tipusActuacioExecucio": {
+              "id": 1008296,
+              "ca": "Modificació",
+              "es": "Modificación",
+              "en": "Modification",
+              "oc": "Modificacion"
+            },
+            "identificador": 1,
+            "denominacioModificacio": {
+              "ca": "Modificació del contracte del servei de recollida i transport de residus municipals, neteja viària i de la platja, i gestió de la deixalleria en el terme municipal de Vila-seca"
+            },
+            "tipusModificacio": {
+              "id": 1008290,
+              "ca": "Objectiva",
+              "en": "Objective",
+              "oc": "Objectiva"
+            },
+            "dataModificacio": "2026-03-29T22:00:00.000Z",
+            "observacions": {},
+            "supositHabilitant": {
+              "id": 1008292,
+              "ca": "Prevista en plecs (art.204 LCSP i art.110 RDL 3/2020)",
+              "en": "Stipulated in the specifications (art.204 LCSP and art.110 RDL 3/2020)",
+              "oc": "Prevista en es plecs (art.204 LCSP e art.110 RDL 3/2020)"
+            },
+            "descripcioCircumstancies": {},
+            "contractistes": [],
+            "descripcioContractacio": {},
+            "incrementPreu": 341124.07,
+            "altreInformacio": {},
+            "informeJustificatiu": {
+              "ca": [],
+              "es": [],
+              "en": [],
+              "oc": []
+            },
+            "resolucioModificacio": {
+              "ca": [
+                {
+                  "id": 302547099,
+                  "titol": "Certificat d'acord (2).pdf",
+                  "path": "dFAmYeLK76n48biEaKDEfZWNf9KdIRDb2lslcD--RGNXUiyllyPLb_7j5N0FYKb6D8YiZPOJ1PUNpbJ9XE6FSYdSWrkYYnPtgeX5gkZ2qVEVyYhB6cRpekna6oHzrU60VcLw2eF6rfJTimJM746ApdrdYCaFTmqCDm5AzIj_pNSmyu8i59sHI36m2smjSoRujvgrMItFFn8LQzO_cnO8EHc5gisLw7eBLL9VK7pJd-nnvDFul3KEP3LvMLmYqOFJ4NSbdP9PA5wnf7MztWLgT9r_V8HyfY1M2CmkdZs5kT4HqOflrQYHSSHQTS60f8OKYaWM8ZGc9pza3VDOi1HDhA==",
+                  "hash": "E6CBDB56567706F2F6649D9BA531A1A6",
+                  "idioma": "ca",
+                  "mida": 1420038
+                }
+              ],
+              "es": [],
+              "en": [],
+              "oc": []
+            },
+            "formalitzacioModificacio": {
+              "ca": [],
+              "es": [],
+              "en": [],
+              "oc": []
+            },
+            "alegacions": {
+              "ca": [],
+              "es": [],
+              "en": [],
+              "oc": []
+            },
+            "altraDocumentacio": {
+              "ca": [],
+              "es": [],
+              "en": [],
+              "oc": []
+            },
+            "peuRecurs": {
+              "ca": "Contra aquest acord, que posa fi a la via administrativa es podrà interposar un dels recursos següents:a) Amb caràcter potestatiu, recurs de reposició davant el mateix òrgan que ha dictat l’acte recorregut, en el termini d’un (1) mes, a comptar des del dia següent al de la recepció d’aquesta notificació. La interposició del recurs, excepte en els casos en els que una disposició estableixi el contrari, no suspendrà l’execució de l’acte impugnat, de conformitat amb el que disposa l’article 117 de la Llei 39/2015, d’1 d’octubre. Si transcorregués un mes des del dia següent al de la interposició del recurs de reposició sense que aquest hagi estat resolt, podrà entendre que ha estat desestimat i interposar recurs contenciós administratiu davant de la Secció del Contenciós-Administratiu del Tribunal d'Instància de Tarragona. b) Recurs contenciós administratiu davant de la Secció del Contenciós-Administratiu del Tribunal d'Instància de Tarragona a, dins del termini de dos (2) mesos comptats des del dia següent al de la recepció d’aquesta notificació. En cas d’optar pel recurs potestatiu de reposició no es podrà interposar el recurs contenciós administratiu fins que aquell no sigui resolt expressament o s’hagi produït la seva desestimació per silenci administratiu. Tot això sense perjudici de qualsevol altre recurs o acció que estimi procedent."
+            },
+            "adrecaEnllacInfo": {},
+            "publicacionsOficials": []
+          },
+          {
+            "antiga": false,
+            "tipusActuacioExecucio": {
+              "id": 1008296,
+              "ca": "Modificació",
+              "es": "Modificación",
+              "en": "Modification",
+              "oc": "Modificacion"
+            },
+            "identificador": 2,
+            "denominacioModificacio": {
+              "ca": "Segona modificació del contracte del servei de recollida i transport de residus municipals, neteja viària i de la platja, i gestió de la deixalleria en el terme municipal de Vila-seca"
+            },
+            "tipusModificacio": {
+              "id": 1008290,
+              "ca": "Objectiva",
+              "en": "Objective",
+              "oc": "Objectiva"
+            },
+            "dataModificacio": "2026-08-09T22:00:00.000Z",
+            "observacions": {},
+            "supositHabilitant": {
+              "id": 1008292,
+              "ca": "Prevista en plecs (art.204 LCSP i art.110 RDL 3/2020)",
+              "en": "Stipulated in the specifications (art.204 LCSP and art.110 RDL 3/2020)",
+              "oc": "Prevista en es plecs (art.204 LCSP e art.110 RDL 3/2020)"
+            },
+            "descripcioCircumstancies": {},
+            "contractistes": [],
+            "descripcioContractacio": {},
+            "incrementPreu": 317101.25,
+            "altreInformacio": {},
+            "informeJustificatiu": {
+              "ca": [],
+              "es": [],
+              "en": [],
+              "oc": []
+            },
+            "resolucioModificacio": {
+              "ca": [
+                {
+                  "id": 302547130,
+                  "titol": "Certificat d'acord (3).pdf",
+                  "path": "BpKNnE4D3cZFcFC0a0Z0T4nk5frZ0uXgG-5u28OzyyjH7Gl4WvHH5iPKTum99FSDaQyT5GH-cFJNUV0K_4Wlh7rqB6qlJ9BvnxCuuk7ymvVYYU60Twds8FgDQd5EDpN4aTDO5up7j21S4pOKQ1JdLFze8GpCqo4st7fQM2V1mGmL136hX_ULq1-7DQoCUaiVaCyMCDFjLZdtI7kATctfBy909BvfvEaQGp9fACDGnUQglVp5p7gB8hhzAjZ7s77St2WJC3JwJ_3AMIi9mkP2fXeG0ejb6rwmu2Kkc-ThzpVZPfN6zajgFH96OmvmbgZOSo1YsBpck9zl06CUfsUVfA==",
+                  "hash": "BADC2990664AD3360E6A66C039CB5DD6",
+                  "idioma": "ca",
+                  "mida": 1631883
+                }
+              ],
+              "es": [],
+              "en": [],
+              "oc": []
+            },
+            "formalitzacioModificacio": {
+              "ca": [],
+              "es": [],
+              "en": [],
+              "oc": []
+            },
+            "alegacions": {
+              "ca": [],
+              "es": [],
+              "en": [],
+              "oc": []
+            },
+            "altraDocumentacio": {
+              "ca": [],
+              "es": [],
+              "en": [],
+              "oc": []
+            },
+            "peuRecurs": {
+              "ca": "Contra aquest acord, que posa fi a la via administrativa es podrà interposar un dels recursos següents: a) Amb caràcter potestatiu, recurs de reposició davant el mateix òrgan que ha dictat l’acte recorregut, en el termini d’un (1) mes, a comptar des del dia següent al de la recepció d’aquesta notificació. La interposició del recurs, excepte en els casos en els que una disposició estableixi el contrari, no suspendrà l’execució de l’acte impugnat, de conformitat amb el que disposa l’article 117 de la Llei 39/2015, d’1 d’octubre. Si transcorregués un mes des del dia següent al de la interposició del recurs de reposició sense que aquest hagi estat resolt, podrà entendre que ha estat desestimat i interposar recurs contenciós administratiu davant de la Secció del Contenciós-Administratiu del Tribunal d'Instància de Tarragona. b) Recurs contenciós administratiu davant de la Secció del Contenciós-Administratiu del Tribunal d'Instància de Tarragona a, dins del termini de dos (2) mesos comptats des del dia següent al de la recepció d’aquesta notificació. En cas d’optar pel recurs potestatiu de reposició no es podrà interposar el recurs contenciós administratiu fins que aquell no sigui resolt expressament o s’hagi produït la seva desestimació per silenci administratiu. Tot això sense perjudici de qualsevol altre recurs o acció que estimi procedent."
+            },
+            "adrecaEnllacInfo": {},
+            "publicacionsOficials": []
+          }
+        ],
+        "extincions": [],
+        "altresActuacionsExecucio": [],
+        "codisCpv": [
+          {
+            "codi": "90500000-2",
+            "ca": "Serveis relacionats amb deixalles i residus",
+            "es": "Servicios relacionados con desperdicios y residuos",
+            "en": "Refuse and waste related services",
+            "oc": "Servicis restacadi damb dèishes e residus"
+          }
+        ],
+        "llocExecucio": {
+          "codiNuts": "ES514",
+          "ca": "Tarragona",
+          "es": "Tarragona",
+          "en": "Tarragona",
+          "oc": "null"
+        },
+        "duradaTermini": {
+          "iniciTermini": "2022-02-28T23:00:00.000Z",
+          "fiTermini": "2032-02-28T23:00:00.000Z"
+        },
+        "dataAdjudicacio": "2022-01-27T23:00:00.000Z",
+        "dataFormalitzacio": "2022-02-24T23:00:00.000Z",
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "URBASER, SA",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A79524054",
+            "codiNuts": {
+              "codiNuts": "ES",
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "telefon": "914122000",
+            "email": "gsanchez@urbaser.com",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 749,
+                "ca": "No PIME",
+                "en": "No SME",
+                "oc": "Non PIME"
+              }
+            ],
+            "importAdjudicacioSenseIva": 3961311.99,
+            "importAdjudicacioAmbIva": 4357443.19,
+            "iva": 10,
+            "varisTipusIva": false,
+            "informacioUte": [],
+            "plurianualitats": []
+          }
+        ],
+        "importAdjudicacio": 3961311.99
+      }
+    ],
+    "dadesExpedient": {
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "cdd2280f-bc0d-b291-4214-69ded8c1182d",
+      "dataFiPublicacioPerfil": "2036-06-30T06:00:00.000Z",
+      "dataFiGestio": "2036-06-30T06:00:00.000Z",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "tenderingSpaceId": 84271959,
+      "esPublicacioAntiga": true,
+      "tipusOfertaElectronica": 413,
+      "esReduit": false
+    },
+    "publicacionsOficials": [],
+    "motiuEsmena": {}
+  },
+  "pathPdf": "gyjRp1KVsox2AgpebP0EuQjgVpFC4u0RqoS9YIda8UPwUNYPgVGrg2wRMulDV2ll-vSe91YhBPYJMTU5J0eEhoF2LpzWG8BLBr-es1nDVfDxCHtHeHIVKqkLqBB-PKlDOH-lLiG6bjfhFaing036nScut4JVEFKEdRhLyWrW1YtwbyW_ZS6Zxa678gO1oE2a1MOSTIdDUAb4ZEMd526wDRHNoVgpDno2ULq4m5hzBwgMvMeesTUClJRcnQghA4LUhrBa0u90uYT4eSEn_3_m3KuA3dIIUQspw2aBFBQseZH1N2OHLHui-zAgOjE3GME6T0r9ZVs9rigbdvTeljC1SA==",
+  "pathCertificacio": "GZBASXD80d_XXVVooOGQDj6zyIQnHckkPSDQX0Dxyat90jRjiB2wHr0qIOB7rJQDKBvTOgDd4ErDTXFVdujM34Gl-lrhPy4skQeoMQVR-eJvfy5OyAVXm9oPfhdra9rycGLmD4qEbQ2xU_gB_OYkhrLGW_-docKojHW6Bd73Ih4PIL0Xi8z6nd4_A-ivrRveTG9HHlp-DnLOyI1vZwQLYQHN8eOW28A2rLwJ7X9s6uMq7xU-ohas8Bx6Moh8mwi1dzijUNrdjafRBxgeok-FWZ5Mw-_Y_rCwyYXnLYylYTMrtIfLzbQcsB-UoYvvKtI1TjTm6jyTyGSmw-2AObuwLA==",
+  "pathJson": "mZVAQrqUA5Wbx3UibB94b-qfYvPDU4wzol4ah9iqZGRhuYW53xy7AWoJChadRwTrMovQxScg2jfLTpYdDZYk9wA90kJ4FJ4Nqk5BIBeZMmLA-Ezf-ILBLt22vpk4R0AYkVNhzj0x_dVhDoyxef98P9bjiSuxXGPWSzhR92tt9DfgYcjPh567rH9qBvUbfS8P78rnAck0XadJY3rZxdNDVURy5yMXFQ4rsfE4_ZO-bK9kastM-vVrvO_cWipVg6xTZYNNUkvTWh_eL3NkC0NAzuQ4lEeZ5T99UCcexibd-YQpONMS7NX4G6HWj83VFIigmUSOL8gnBticPjUNn-NOhA==",
+  "dataPublicacioReal": "2026-08-26T10:44:10.472Z",
+  "dadesExpedient": {
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": "Català",
+      "es": "Catalan",
+      "en": "Catalan",
+      "oc": "Catalan"
+    },
+    "expedientId": "cdd2280f-bc0d-b291-4214-69ded8c1182d",
+    "dataFiPublicacioPerfil": "2036-06-30T06:00:00.000Z",
+    "dataFiGestio": "2036-06-30T06:00:00.000Z",
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "tenderingSpaceId": 84271959,
+    "esPublicacioAntiga": true,
+    "tipusOfertaElectronica": 413,
+    "esReduit": false
+  }
+}

@@ -1,0 +1,99 @@
+[
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20350694",
+    "updated": "2026-08-28T00:00:03.905+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/ae7fb403-e3f4-4d5d-a0fd-7fe85cb8345d/300869210",
+    "uuid": "ae7fb403-e3f4-4d5d-a0fd-7fe85cb8345d",
+    "publication_id": "300869210",
+    "expediente": "11741_2026_32",
+    "title": "Licitació conjunta dividida en tres lots diferenciats per a les actuacions sobre el Pont Medieval del Molí de Puigverd i el Molí del Siscar, sota el títol genèric \"Consolidació estructural i restauració del Molí del Senyor\".",
+    "status": "PUB",
+    "buyer_name": "Ajuntament de Puigverd d'Agramunt",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "15494733"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "250143.67",
+    "budget_gross": null,
+    "estimated_value": "250143.67",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "45233252",
+      "45212350"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2026-09-16",
+    "deadline_time": "23:59:59",
+    "procedure_type": "9",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Consolidació estructural, restauració i recuperació del pont medieval del Molí de Puigverd d’Agramunt (BCIL) catalogat. Recuperació de la continuïtat viària principal del municipi",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Recuperació i consolidació estructural dels espais dels desguassos generals interiors i exteriors del Molí del Siscar.",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Conservació, restauració i rehabilitació dels llenços de les façanes del Molí del Siscar.",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2026-08-27"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "11741_2026_32_Plec_ClausulesSG.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/302550717/8428C906F186885E884044102DC55AA3"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "PCT_3_LOTS.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/302550712/40239A373A0074E978AE1B98EF95A792"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2026.zip",
+    "member": "PlataformasAgregadasSinMenores_20260829_030027.atom",
+    "ordinal": 477
+  }
+]

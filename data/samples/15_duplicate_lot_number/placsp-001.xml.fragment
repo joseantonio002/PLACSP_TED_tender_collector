@@ -1,0 +1,230 @@
+<entry>
+        <id>https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/11230239</id>
+        <link href="https://contractaciopublica.cat/ca/detall-publicacio/c1b2403b-678f-3402-108e-8eef61e026bc/300077183"></link>
+        <summary type="text">Id licitación: URB/2022/164; Órgano de Contratación: Ajuntament de Sabadell; Importe: 22314.06 EUR; Estado: Adjudicada</summary>
+        <title>Servei de coordinació de Seguretat i Salut en fase d''execució dels projectes d''obres d''adequació i actuacions en la infraestructura de diferents zones de Gran Via ¿ Balcó Ripoll.  Aquests projectes d''obres són els següents: -Reforma de la cruïlla Gran Via ¿ Sant Maties ¿ Hospital Taulí (Referència obra: URB/2022/50). Previsió inici d''obres al desembre de 2022 i durada de 2 mesos. -Reforma del carrer de l''Alcalde Ribé (Referència obra: URB/2022/53). Previsió inici d''obres al desembre de 2022 i durada de 8 mesos. -Reforma de la Ronda d''Orient entre els carrers de Calassanç Duran i de Xaloc (Referència obra: URB/2022/54). Previsió inici d''obres al desembre de 2022 i durada de 5 mesos i 15 dies. -Reforma de la cruïlla Gran Via ¿ Quevedo i del pati de l''Artextil. Fase I (Referència obra: URB/2022/55). Previsió inici d''obres al desembre de 2022 i durada de 5 mesos. -Reforma del carrer d''Antoni Forrellad. Fase I (Referència obra: URB/2022/56). Previsió inici d''obres al desembre de 2022 i durada de 4 mesos i 20 dies. -Reforma del carrer de Calassanç Duran, entre els carrers d''Alguersuari Pascual i de Gorina i Pujol. Fase I (Referència obra: URB/2022/57). Previsió inici d''obres al desembre de 2022 i durada de 4 mesos i 15 dies. -Reforma dels carrers de l''Illa i de l''Estació de Sabadell. Fase I (Referència obra: URB/2022/58). Previsió inici d''obres al desembre de 2022 i durada de 4 mesos. -Reforma de les cruïlles de Gran Via amb els carrers de Sant Pau- Buxeda i de Sol-Sardà (Referència obra: URB/2022/59). Previsió inici d''obres al desembre de 2022 i durada de 3 mesos. -Reforma de la cruïlla Gran Via ¿ Rambla ¿ Avinguda de Barberà (Referència obra: URB/2022/62). Previsió inici d''obres al novembre de 2022 i durada de 3 mesos.</title>
+        <updated>2025-05-23T16:06:24.623+02:00</updated>
+        <cac-place-ext:ContractFolderStatus>
+            <cbc:ContractFolderID>URB/2022/164</cbc:ContractFolderID>
+            <cbc-place-ext:ContractFolderStatusCode listURI="https://contrataciondelestado.es/codice/cl/2.04/SyndicationContractFolderStatusCode-2.04.gc" languageID="es">ADJ</cbc-place-ext:ContractFolderStatusCode>
+            <cac-place-ext:LocatedContractingParty>
+                <cbc:BuyerProfileURIID>https://contractaciopublica.cat/perfil/28279948</cbc:BuyerProfileURIID>
+                <cac:Party>
+                    <cac:PartyIdentification>
+                        <cbc:ID schemeName="ID_OC_PLAT">28279948</cbc:ID>
+                    </cac:PartyIdentification>
+                    <cac:PartyName>
+                        <cbc:Name>Ajuntament de Sabadell</cbc:Name>
+                    </cac:PartyName>
+                    <cac:AgentParty>
+                        <cac:PartyIdentification>
+                            <cbc:ID>62</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                            <cbc:Name>Generalitat de Catalunya</cbc:Name>
+                        </cac:PartyName>
+                    </cac:AgentParty>
+                </cac:Party>
+                <cac-place-ext:ParentLocatedParty>
+                    <cac:PartyName>
+                        <cbc:Name>Entitats de l''administració local</cbc:Name>
+                    </cac:PartyName>
+                    <cac-place-ext:ParentLocatedParty/>
+                </cac-place-ext:ParentLocatedParty>
+            </cac-place-ext:LocatedContractingParty>
+            <cac:ProcurementProject>
+                <cbc:Name>Servei de coordinació de Seguretat i Salut en fase d''execució dels projectes d''obres d''adequació i actuacions en la infraestructura de diferents zones de Gran Via ¿ Balcó Ripoll.  Aquests projectes d''obres són els següents: -Reforma de la cruïlla Gran Via ¿ Sant Maties ¿ Hospital Taulí (Referència obra: URB/2022/50). Previsió inici d''obres al desembre de 2022 i durada de 2 mesos. -Reforma del carrer de l''Alcalde Ribé (Referència obra: URB/2022/53). Previsió inici d''obres al desembre de 2022 i durada de 8 mesos. -Reforma de la Ronda d''Orient entre els carrers de Calassanç Duran i de Xaloc (Referència obra: URB/2022/54). Previsió inici d''obres al desembre de 2022 i durada de 5 mesos i 15 dies. -Reforma de la cruïlla Gran Via ¿ Quevedo i del pati de l''Artextil. Fase I (Referència obra: URB/2022/55). Previsió inici d''obres al desembre de 2022 i durada de 5 mesos. -Reforma del carrer d''Antoni Forrellad. Fase I (Referència obra: URB/2022/56). Previsió inici d''obres al desembre de 2022 i durada de 4 mesos i 20 dies. -Reforma del carrer de Calassanç Duran, entre els carrers d''Alguersuari Pascual i de Gorina i Pujol. Fase I (Referència obra: URB/2022/57). Previsió inici d''obres al desembre de 2022 i durada de 4 mesos i 15 dies. -Reforma dels carrers de l''Illa i de l''Estació de Sabadell. Fase I (Referència obra: URB/2022/58). Previsió inici d''obres al desembre de 2022 i durada de 4 mesos. -Reforma de les cruïlles de Gran Via amb els carrers de Sant Pau- Buxeda i de Sol-Sardà (Referència obra: URB/2022/59). Previsió inici d''obres al desembre de 2022 i durada de 3 mesos. -Reforma de la cruïlla Gran Via ¿ Rambla ¿ Avinguda de Barberà (Referència obra: URB/2022/62). Previsió inici d''obres al novembre de 2022 i durada de 3 mesos.</cbc:Name>
+                <cbc:TypeCode listURI="http://contrataciondelestado.es/codice/cl/2.08/ContractCode-2.08.gc">2</cbc:TypeCode>
+                <cbc:MixContractIndicator>false</cbc:MixContractIndicator>
+                <cac:BudgetAmount>
+                    <cbc:EstimatedOverallContractAmount currencyID="EUR">22314.06</cbc:EstimatedOverallContractAmount>
+                    <cbc:TaxExclusiveAmount currencyID="EUR">22314.06</cbc:TaxExclusiveAmount>
+                </cac:BudgetAmount>
+                <cac:RequiredCommodityClassification>
+                    <cbc:ItemClassificationCode listURI="http://contrataciondelestado.es/codice/cl/2.04/CPV2008-2.04.gc">71317200</cbc:ItemClassificationCode>
+                </cac:RequiredCommodityClassification>
+                <cac:RealizedLocation>
+                    <cbc:CountrySubentityCode listURI="http://contrataciondelestado.es/codice/cl/2.08/NUTS-2021.gc">ES511</cbc:CountrySubentityCode>
+                </cac:RealizedLocation>
+                <cac:PlannedPeriod>
+                    <cbc:DurationMeasure unitCode="MON">5</cbc:DurationMeasure>
+                </cac:PlannedPeriod>
+            </cac:ProcurementProject>
+            <cac:ProcurementProjectLot>
+                <cbc:ID schemeName="ID_LOTE">1</cbc:ID>
+                <cac:ProcurementProject>
+                    <cbc:Name>Reforma de la cruïlla Gran Via – Sant Maties – Hospital Taulí. Reforma de les cruïlles de Gran Via amb els carrers de Sant Pau- Buxeda i de Sol-Sardà. Reforma de la cruïlla Gran Via – Quevedo i del pati de l’Artextil. Fase I</cbc:Name>
+                </cac:ProcurementProject>
+            </cac:ProcurementProjectLot>
+            <cac:ProcurementProjectLot>
+                <cbc:ID schemeName="ID_LOTE">2</cbc:ID>
+                <cac:ProcurementProject>
+                    <cbc:Name>Reforma del carrer de l’Alcalde Ribé. Reforma del carrer d’Antoni Forrellad. Fase I</cbc:Name>
+                </cac:ProcurementProject>
+            </cac:ProcurementProjectLot>
+            <cac:ProcurementProjectLot>
+                <cbc:ID schemeName="ID_LOTE">3</cbc:ID>
+                <cac:ProcurementProject>
+                    <cbc:Name>Reforma del carrer de Calassanç Duran, entre els carrers d’Alguersuari Pascual i de Gorina i Pujol. Fase I.Reforma de la Ronda d’Orient entre els carrers de Calassanç Duran i de Xaloc. Reforma dels carrers de l’Illa i de l’Estació de Sabadell. Fase I</cbc:Name>
+                </cac:ProcurementProject>
+            </cac:ProcurementProjectLot>
+            <cac:ProcurementProjectLot>
+                <cbc:ID schemeName="ID_LOTE">4</cbc:ID>
+                <cac:ProcurementProject>
+                    <cbc:Name>Reforma de la cruïlla Gran Via – Rambla – Avinguda de Barberà</cbc:Name>
+                </cac:ProcurementProject>
+            </cac:ProcurementProjectLot>
+            <cac:TenderResult>
+                <cbc:ResultCode listURI="http://contrataciondelestado.es/codice/cl/2.09/TenderResultCode-2.09.gc">8</cbc:ResultCode>
+                <cbc:ReceivedTenderQuantity>13</cbc:ReceivedTenderQuantity>
+                <cac:WinningParty>
+                    <cac:PartyIdentification>
+                        <cbc:ID schemeName="NIF">B62440110</cbc:ID>
+                    </cac:PartyIdentification>
+                    <cac:PartyName>
+                        <cbc:Name>TRESAT COORDINADORES DE SEGURIDAD, S.L.P.</cbc:Name>
+                    </cac:PartyName>
+                </cac:WinningParty>
+                <cac:AwardedTenderedProject>
+                    <cbc:ProcurementProjectLotID>1</cbc:ProcurementProjectLotID>
+                    <cac:LegalMonetaryTotal>
+                        <cbc:TaxExclusiveAmount currencyID="EUR">4070</cbc:TaxExclusiveAmount>
+                    </cac:LegalMonetaryTotal>
+                </cac:AwardedTenderedProject>
+            </cac:TenderResult>
+            <cac:TenderResult>
+                <cbc:ResultCode listURI="http://contrataciondelestado.es/codice/cl/2.09/TenderResultCode-2.09.gc">8</cbc:ResultCode>
+                <cbc:ReceivedTenderQuantity>13</cbc:ReceivedTenderQuantity>
+                <cac:WinningParty>
+                    <cac:PartyIdentification>
+                        <cbc:ID schemeName="NIF">B81470841</cbc:ID>
+                    </cac:PartyIdentification>
+                    <cac:PartyName>
+                        <cbc:Name>INGENIERÍA Y PREVENCIÓN DE RIESGOS, S.L.</cbc:Name>
+                    </cac:PartyName>
+                </cac:WinningParty>
+                <cac:AwardedTenderedProject>
+                    <cbc:ProcurementProjectLotID>2</cbc:ProcurementProjectLotID>
+                    <cac:LegalMonetaryTotal>
+                        <cbc:TaxExclusiveAmount currencyID="EUR">4098.66</cbc:TaxExclusiveAmount>
+                    </cac:LegalMonetaryTotal>
+                </cac:AwardedTenderedProject>
+            </cac:TenderResult>
+            <cac:TenderResult>
+                <cbc:ResultCode listURI="http://contrataciondelestado.es/codice/cl/2.09/TenderResultCode-2.09.gc">8</cbc:ResultCode>
+                <cbc:ReceivedTenderQuantity>13</cbc:ReceivedTenderQuantity>
+                <cac:WinningParty>
+                    <cac:PartyIdentification>
+                        <cbc:ID schemeName="NIF">78080814T</cbc:ID>
+                    </cac:PartyIdentification>
+                    <cac:PartyName>
+                        <cbc:Name>SONIA SOLE PUIG</cbc:Name>
+                    </cac:PartyName>
+                </cac:WinningParty>
+                <cac:AwardedTenderedProject>
+                    <cbc:ProcurementProjectLotID>3</cbc:ProcurementProjectLotID>
+                    <cac:LegalMonetaryTotal>
+                        <cbc:TaxExclusiveAmount currencyID="EUR">4839</cbc:TaxExclusiveAmount>
+                    </cac:LegalMonetaryTotal>
+                </cac:AwardedTenderedProject>
+            </cac:TenderResult>
+            <cac:TenderResult>
+                <cbc:ResultCode listURI="http://contrataciondelestado.es/codice/cl/2.09/TenderResultCode-2.09.gc">8</cbc:ResultCode>
+                <cbc:ReceivedTenderQuantity>13</cbc:ReceivedTenderQuantity>
+                <cac:WinningParty>
+                    <cac:PartyIdentification>
+                        <cbc:ID schemeName="NIF">B62440110</cbc:ID>
+                    </cac:PartyIdentification>
+                    <cac:PartyName>
+                        <cbc:Name>TRESAT COORDINADORES DE SEGURIDAD, S.L.P.</cbc:Name>
+                    </cac:PartyName>
+                </cac:WinningParty>
+                <cac:AwardedTenderedProject>
+                    <cbc:ProcurementProjectLotID>4</cbc:ProcurementProjectLotID>
+                    <cac:LegalMonetaryTotal>
+                        <cbc:TaxExclusiveAmount currencyID="EUR">1401</cbc:TaxExclusiveAmount>
+                    </cac:LegalMonetaryTotal>
+                </cac:AwardedTenderedProject>
+            </cac:TenderResult>
+            <cac:TenderingTerms>
+                <cbc:FundingProgramCode listURI="http://contrataciondelestado.es/codice/cl/2.08/FundingProgramCode-2.08.gc" name="Financiación con fondos de la UE">EU</cbc:FundingProgramCode>
+                <cbc:FundingProgramCode listURI="http://contrataciondelestado.es/codice/cl/2.08/FundingProgramCode-2.08.gc" name="Asociado al Plan de Recuperacion, Transformacion y Resiliencia">PRTR</cbc:FundingProgramCode>
+                <cbc:ProcurementNationalLegislationCode listURI="https://contrataciondelestado.es/codice/cl/2.08/ProcurementNationalLegislationCode-2.08.gc">3</cbc:ProcurementNationalLegislationCode>
+            </cac:TenderingTerms>
+            <cac:TenderingProcess>
+                <cbc:ProcedureCode listURI="https://contrataciondelestado.es/codice/cl/2.07/SyndicationTenderingProcessCode-2.07.gc">999</cbc:ProcedureCode>
+                <cbc:UrgencyCode listURI="http://contrataciondelestado.es/codice/cl/1.04/DiligenceTypeCode-1.04.gc">1</cbc:UrgencyCode>
+                <cbc:ContractingSystemCode listURI="http://contrataciondelestado.es/codice/cl/2.08/ContractingSystemTypeCode-2.08.gc">0</cbc:ContractingSystemCode>
+                <cbc:SubmissionMethodCode listURI="http://contrataciondelestado.es/codice/cl/1.04/TenderDeliveryCode-1.04.gc">3</cbc:SubmissionMethodCode>
+                <cbc:OverThresholdIndicator>false</cbc:OverThresholdIndicator>
+                <cac:TenderSubmissionDeadlinePeriod>
+                    <cbc:EndDate>2022-10-07</cbc:EndDate>
+                    <cbc:EndTime>23:59:00</cbc:EndTime>
+                </cac:TenderSubmissionDeadlinePeriod>
+                <cac:AuctionTerms>
+                    <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+                </cac:AuctionTerms>
+            </cac:TenderingProcess>
+            <cac:LegalDocumentReference>
+                <cbc:ID>PCAP Ctre serveis proc. obert simplificat sumari.pdf</cbc:ID>
+                <cac:Attachment>
+                    <cac:ExternalReference>
+                        <cbc:URI>https://contractaciopublica.cat/portal-api/descarrega-document/301324278/7CCFDCB9A5768018ABBC94E07C67ADAD</cbc:URI>
+                    </cac:ExternalReference>
+                </cac:Attachment>
+            </cac:LegalDocumentReference>
+            <cac:TechnicalDocumentReference>
+                <cbc:ID>PLEC DE CONDICIONS TECNIQUES.pdf</cbc:ID>
+                <cac:Attachment>
+                    <cac:ExternalReference>
+                        <cbc:URI>https://contractaciopublica.cat/portal-api/descarrega-document/301324279/B440180CF497699AE64618CDC8CF2CA6</cbc:URI>
+                    </cac:ExternalReference>
+                </cac:Attachment>
+            </cac:TechnicalDocumentReference>
+            <cac-place-ext:ValidNoticeInfo>
+                <cbc-place-ext:NoticeTypeCode listURI="http://contrataciondelestado.es/codice/cl/2.11/TenderingNoticeTypeCode-2.11.gc">DOC_CN</cbc-place-ext:NoticeTypeCode>
+                <cac-place-ext:AdditionalPublicationStatus>
+                    <cbc-place-ext:PublicationMediaName>Perfil del contratante</cbc-place-ext:PublicationMediaName>
+                    <cac-place-ext:AdditionalPublicationDocumentReference>
+                        <cbc:IssueDate>2022-09-23</cbc:IssueDate>
+                    </cac-place-ext:AdditionalPublicationDocumentReference>
+                </cac-place-ext:AdditionalPublicationStatus>
+            </cac-place-ext:ValidNoticeInfo>
+            <cac-place-ext:ValidNoticeInfo>
+                <cbc-place-ext:NoticeTypeCode listURI="http://contrataciondelestado.es/codice/cl/2.11/TenderingNoticeTypeCode-2.11.gc">DOC_CAN_ADJ</cbc-place-ext:NoticeTypeCode>
+                <cac-place-ext:AdditionalPublicationStatus>
+                    <cbc-place-ext:PublicationMediaName>Perfil del contratante</cbc-place-ext:PublicationMediaName>
+                    <cac-place-ext:AdditionalPublicationDocumentReference>
+                        <cbc:IssueDate>2023-01-04</cbc:IssueDate>
+                    </cac-place-ext:AdditionalPublicationDocumentReference>
+                </cac-place-ext:AdditionalPublicationStatus>
+            </cac-place-ext:ValidNoticeInfo>
+            <cac-place-ext:ValidNoticeInfo>
+                <cbc-place-ext:NoticeTypeCode listURI="http://contrataciondelestado.es/codice/cl/2.11/TenderingNoticeTypeCode-2.11.gc">DOC_CAN_ADJ</cbc-place-ext:NoticeTypeCode>
+                <cac-place-ext:AdditionalPublicationStatus>
+                    <cbc-place-ext:PublicationMediaName>Perfil del contratante</cbc-place-ext:PublicationMediaName>
+                    <cac-place-ext:AdditionalPublicationDocumentReference>
+                        <cbc:IssueDate>2023-01-04</cbc:IssueDate>
+                    </cac-place-ext:AdditionalPublicationDocumentReference>
+                </cac-place-ext:AdditionalPublicationStatus>
+            </cac-place-ext:ValidNoticeInfo>
+            <cac-place-ext:ValidNoticeInfo>
+                <cbc-place-ext:NoticeTypeCode listURI="http://contrataciondelestado.es/codice/cl/2.11/TenderingNoticeTypeCode-2.11.gc">DOC_CAN_ADJ</cbc-place-ext:NoticeTypeCode>
+                <cac-place-ext:AdditionalPublicationStatus>
+                    <cbc-place-ext:PublicationMediaName>Perfil del contratante</cbc-place-ext:PublicationMediaName>
+                    <cac-place-ext:AdditionalPublicationDocumentReference>
+                        <cbc:IssueDate>2023-01-04</cbc:IssueDate>
+                    </cac-place-ext:AdditionalPublicationDocumentReference>
+                </cac-place-ext:AdditionalPublicationStatus>
+            </cac-place-ext:ValidNoticeInfo>
+            <cac-place-ext:ValidNoticeInfo>
+                <cbc-place-ext:NoticeTypeCode listURI="http://contrataciondelestado.es/codice/cl/2.11/TenderingNoticeTypeCode-2.11.gc">DOC_CAN_ADJ</cbc-place-ext:NoticeTypeCode>
+                <cac-place-ext:AdditionalPublicationStatus>
+                    <cbc-place-ext:PublicationMediaName>Perfil del contratante</cbc-place-ext:PublicationMediaName>
+                    <cac-place-ext:AdditionalPublicationDocumentReference>
+                        <cbc:IssueDate>2023-01-04</cbc:IssueDate>
+                    </cac-place-ext:AdditionalPublicationDocumentReference>
+                </cac-place-ext:AdditionalPublicationStatus>
+            </cac-place-ext:ValidNoticeInfo>
+        </cac-place-ext:ContractFolderStatus>
+    </entry>

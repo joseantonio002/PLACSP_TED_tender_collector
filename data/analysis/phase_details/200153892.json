@@ -1,0 +1,317 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "C 06/2022 Exp Actio núm 8100810007-2022-0000245",
+  "idExpedient": "bfbd4dd8-cbab-4672-54e8-a0442a09c914",
+  "dataPublicacioPlanificada": "2026-02-20T13:03:22.387Z",
+  "organ": {
+    "nom": "Consell Comarcal del Baix Camp",
+    "nif": "P9300003B",
+    "direccioPostal": "Doctor Ferran, 8",
+    "localitat": "Altres/Diversos, No Consta",
+    "codiPostal": "99999",
+    "nuts": "OT",
+    "web": "http://www.baixcamp.cat",
+    "telefon": "977327155",
+    "fax": "977321773",
+    "email": "ccbaixcamp@baixcamp.cat",
+    "personesContacte": [
+      {
+        "nom": "Joan",
+        "cognom": "Manuel Abelló",
+        "carrec": "Secretari",
+        "telefon": "977327155",
+        "email": "secretaria@baixcamp.cat"
+      }
+    ],
+    "centralCompres": false,
+    "observacions": {},
+    "horari": {
+      "ca": "De dilluns a divendres de 08:30 a 14:30\\rDimarts de 16:00 a 18:30"
+    },
+    "organContractacioId": 10248462
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1008286,
+      "ca": "Expedient en avaluació",
+      "es": "Expediente en avaluación",
+      "en": "Under evaluation",
+      "oc": "En avaloracion"
+    },
+    "expedientId": "bfbd4dd8-cbab-4672-54e8-a0442a09c914",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1008286,
+        "ca": "Expedient en avaluació",
+        "es": "Expediente en avaluación",
+        "en": "Under evaluation",
+        "oc": "En avaloracion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "C 06/2022 Exp Actio núm 8100810007-2022-0000245",
+      "denominacio": {
+        "ca": "Contractació dels serveis d'adjuda a domicili del Consell Comarcal del Baix Camp"
+      },
+      "descripcio": {
+        "ca": "És objecte del present Plec la contractació de la gestió, en la modalitat de concessió, del servei d'ajuda a domicili (SAD).\rL'àmbit territorial de la prestació del servei públic de SAD es fa extensiu a tots els municipis de la comarca a excepció de Reus, Cambrils i Prades. \r"
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "tipusContracte": {
+        "id": 393,
+        "ca": "Serveis",
+        "es": "Servicios",
+        "en": "Services",
+        "oc": "Servicis"
+      },
+      "procedimentAdjudicacio": {
+        "id": 401,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {}
+    },
+    "dadesPublicacio": {
+      "pressupostLicitacio": 815892.1,
+      "observacions": {},
+      "membresMesa": []
+    },
+    "dadesPublicacioLot": [
+      {
+        "publicacioExpedientId": 200153892,
+        "identitatEmpresa": [
+          {
+            "empresa": "ADESMA FUNDACIÓ PRIVADA",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "G25375023",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 749,
+                "ca": "No PIME",
+                "en": "No SME",
+                "oc": "Non PIME"
+              },
+              {
+                "id": 1008411,
+                "ca": "No informat"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 320,
+              "ca": "Lleida",
+              "es": "Lérida",
+              "en": "Lleida",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1003970,
+              "ca": "Lleida",
+              "es": "Lérida",
+              "en": "Lleida",
+              "oc": "null"
+            },
+            "noOberta": false,
+            "informacioUte": [],
+            "observacions": {},
+            "codiPostal": "25007"
+          },
+          {
+            "empresa": "SAD ASSITENCIAL COMARQUES MERIDIONALS S.L",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "B43672138",
+            "tipusEmpresaUnificat": [],
+            "noOberta": false,
+            "informacioUte": [],
+            "observacions": {}
+          },
+          {
+            "empresa": "AYUDA FAMILIAR CASTELLÓN SL",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "B12535365",
+            "tipusEmpresaUnificat": [],
+            "noOberta": false,
+            "informacioUte": [],
+            "observacions": {}
+          }
+        ],
+        "informesActesMesesContractacio": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [
+              {
+                "id": 1332736,
+                "titol": "PR Mesa contractació SAD.pdf",
+                "path": "TADEa3cJDgRMuvfmfWmjuCC7Cij2EdU2WoY2Mzp6eq2Cfe-QWDyd4BNfL9g3kr9jaCgusU9CtwwkvHH2orEmeuUhj9khNmPSviQ1Ndq873-kjk1m8u2rBkH8Hkyws6LPhOv137pPQcHQcPP9OkKkgM9Z1R1r1ZKpPwLJuq6U2TgXMk54zk7vq_dATPZs3L1X8Q-DKyskd-oG9GqWiS6edC1LmWRoZ4La3OTlU3eh_hHslMPfM9Ux-40M-2aG3_U57i1MFKSZDKJiRnj9TOAe6LBOXUfO-9rJR4gStA_NLPZpDub0HBbs94mMW1ncAbj0coHhaD7tpEemDLEYviuv3w==",
+                "hash": "D8A945F83F1C63240837B645650F3DE6",
+                "idioma": "ca",
+                "mida": 212531
+              }
+            ],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "informesOfertesPresumpcioAnormalitat": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "informesValoracio": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [
+              {
+                "id": 1332734,
+                "titol": "informe SAD sobre B.pdf",
+                "path": "Wz-TP061ZWYryzzMjeZEqLbO6kfCyi_ecELKXq1lE57duZAvdv_YeSz2WzJIs8A10hFShpkA2pLM0I0Q0IKn_AAVEaTKFdyxHP3PztLjO0m9etGCJPqmPBH7uPh7FC12vtGU4J51S5ziCaXnoo9UuG3L6CeD5rQnO_EKmPS2iOEMowRbmnYxasFukIKAqgbfa6PDxR_wj5sFmsnLaANSLmwMQN5iHwDqkc-g0P1TxtdyrywXElY7T1vKcN95VDC5qSmWD-S56s3qWT5pjPtkUU0RtsxjFZxnmbwntxFMf05tLMWUVRy1BqqPFP1lqq3uUSSgeR8MitjeHvAOjBXdRg==",
+                "hash": "3140E5F00810BFA202F4E31DCB356968",
+                "idioma": "ca",
+                "mida": 175703
+              },
+              {
+                "id": 1332735,
+                "titol": "informe SAD sobre C.pdf",
+                "path": "H09enMh5C2UJjOgI5k0NllTTqYBq_BcEWjwrP44nbu5sPeG5b--v60gnIAB8pnM7APeURJ4GImpwnhVkmOxDhnmRcCvhKCVZIuJL2pz528FBirDxO--UPzfkE39g4x_0X9PWMrWRWuDx7zPVbbKmrgdRth5WWdlgaJPsExxp-0yxrdCCHnJzQ3PimpfTVSFUPNpC8qEgQVCuUpezmeWU2yCTZA6jkAd7PCLyIump9VuYtIxFTwMLGV2ItfTwAmfkmvMh7JQoCajylJfbJHbEqgUDi9oy5ubOXSM5BDmU30LlAUHtOH8QXK1_qJV31EYAcdMTkPpNjt9H0gTSAgMjSg==",
+                "hash": "013ECE39A47B9702C89BBD3C6243ACC8",
+                "idioma": "ca",
+                "mida": 285724
+              }
+            ],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "observacions": {},
+        "totalOfertesRebudes": 3
+      }
+    ],
+    "dadesExpedient": {
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "bfbd4dd8-cbab-4672-54e8-a0442a09c914",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "tenderingSpaceId": 101232022,
+      "esPublicacioAntiga": true,
+      "tipusOfertaElectronica": 413,
+      "denominacioExpedientReferencia": {},
+      "esReduit": false
+    },
+    "publicacionsOficials": [],
+    "motiuEsmena": {}
+  },
+  "pathPdf": "lyTneEOIk49TQFDoi9YkyiOt5cWE5smhnqGvhEbgQHtsPl1FB--XQPhRx4y74N_-li4J7AOGWj_bX8NBpmcRWuw_8Nx5SGMpnsiLur__egvMnMckZ7uHy-Vj6ZWJmFIvVeK_Ph3zg161_UZjnn8-QIWgo-L_vkbPGVasKC08kCc1bDe4jr2YxADkYhWqAJrhYYsj76866SffaaQ2SYhn4mudE5kl17NRLkn9lhdsjevi0FWAerorZWQiKDqG3jmwSQMCdHyKspwL-cBnSaJ8EKZMtH8v1DwxYrEiwwyIX_aKihOw01yw7eKfu1uoIk-0_a2zi6q0HnCCi6hJ8sHOBA==",
+  "pathCertificacio": "ZPgnhfNYaT8wYFNKFKuEHOXYmSlHjk9YgAVrHDE4RD1CVtXNnH96fM2-UaArs-JUmzCOJH1lOZOuFbca36xC9GyiMEIL_Y82xB19GcOF-_c3I29iIc2S6ku-RLlZOG1DRUPU1CQYFtW59HG5I3PdkDgHArEvvEPEvJgFMFPKkrV3kVplA67byaKmLOJbIYOlKQvGtLWpt03cs7Of9lMurAtG2-dmEYv0fkjh5DOmE8qk4Dkjz81ihAwlGyAzc0h4Cqvb3tiIu7Qgbr6_Rixdq2pIXGKS1eSnqznN-hJaUaTyv_5XplpSyoyYwiecgYj7ACDIrYzdQKgVcN1P3AiJvQ==",
+  "pathJson": "YbEBJQR-71CI6QNr0w-4W9eskGxOUUEzI9RDyR4B9XtDAERmQ66zsUVPR88FpTMXaZ2zkJnAXQZsxyP6mSgMOXdpSayRTfpXLF-qGJZ7xSaB8cCdta69cE2lRtIf6UTvJnOpngnbMRJCBKv3SOqOcKOACzCcHDk3ESuVm0y3Oanf5mgVABlpq3fawodt2tfZm2xAFH-bPhCYFU0DFNPaM16OoiwWmBU__8aLidkDAoMGGUAxrYT6TYNDbw_NEHDBFdDtt2eyDumVB526TMUNYxIh6dXELkDvOkFxgxUwQMskks3wABHi6JfTPiiflzvrh5xWJamJ0B6WG5pmT3hIEA==",
+  "dataPublicacioReal": "2026-02-20T13:04:10.651Z",
+  "dadesExpedient": {
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": "Català",
+      "es": "Catalan",
+      "en": "Catalan",
+      "oc": "Catalan"
+    },
+    "expedientId": "bfbd4dd8-cbab-4672-54e8-a0442a09c914",
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "tenderingSpaceId": 101232022,
+    "esPublicacioAntiga": true,
+    "tipusOfertaElectronica": 413,
+    "denominacioExpedientReferencia": {},
+    "esReduit": false
+  }
+}

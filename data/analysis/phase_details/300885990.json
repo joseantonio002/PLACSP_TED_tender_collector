@@ -1,0 +1,284 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "905451/26",
+  "idExpedient": "4b131001-63ad-4eac-a80a-ab91c3a9f366",
+  "dataPublicacioPlanificada": "2026-09-17T18:25:08.426Z",
+  "organ": {
+    "nom": "Àrea Metropolitana de Barcelona",
+    "nif": "P0800258F",
+    "direccioPostal": "Carrer 62 núm. 16-18 - Zona Franca",
+    "localitat": "Barcelona, Barcelona",
+    "codiPostal": "08040",
+    "nuts": "ES511",
+    "web": "https://www.amb.cat",
+    "telefon": "932235151",
+    "fax": "932235131",
+    "email": "contractacio@amb.cat",
+    "personesContacte": [
+      {
+        "nom": "Contractació",
+        "cognom": "ÀMB",
+        "carrec": "Cap de l'Oficina Resp. Unitat enllaç PSCP i Eines Digitals",
+        "telefon": "932235151",
+        "email": "contractacio@amb.cat"
+      }
+    ],
+    "centralCompres": false,
+    "tipusPoderAdjudicador": 1500006,
+    "observacions": {},
+    "horari": {
+      "ca": "Dilluns a divendres de 08:00 a 15:00 h."
+    },
+    "organContractacioId": 28027859,
+    "activitatPrincipalOrgan": {
+      "id": 1051243,
+      "ca": "Serveis de caràcter general",
+      "es": "Servicios de carácter general"
+    }
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1008286,
+      "ca": "Expedient en avaluació",
+      "es": "Expediente en avaluación",
+      "en": "Under evaluation",
+      "oc": "En avaloracion"
+    },
+    "expedientId": "4b131001-63ad-4eac-a80a-ab91c3a9f366",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1008286,
+        "ca": "Expedient en avaluació",
+        "es": "Expediente en avaluación",
+        "en": "Under evaluation",
+        "oc": "En avaloracion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "905451/26",
+      "denominacio": {
+        "ca": "Servei de tractament de la fracció vegetal municipal procedent dels municipis de l’AMB",
+        "es": "Servicios de tratamiento de la fracción vegetal municipal procedente de los municipios del AMB"
+      },
+      "descripcio": {
+        "ca": "Servei de tractament de la fracció vegetal municipal procedent dels municipis de l’AMB",
+        "es": "Servicios de tratamiento de la fracción vegetal municipal procedente de los municipios del AMB"
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "tipusContracte": {
+        "id": 393,
+        "ca": "Serveis",
+        "es": "Servicios",
+        "en": "Services",
+        "oc": "Servicis"
+      },
+      "procedimentAdjudicacio": {
+        "id": 401,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {}
+    },
+    "dadesPublicacio": {
+      "observacions": {},
+      "membresMesa": []
+    },
+    "dadesPublicacioLot": [
+      {
+        "pressupostLicitacio": 949509.1,
+        "denominacioExpedientReferencia": {},
+        "identitatEmpresa": [
+          {
+            "empresa": "BURES PROFESIONAL, S.A.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "A17054081",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 748,
+                "ca": "PIME",
+                "en": "SME",
+                "oc": "PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the the previous options",
+                "oc": "Cap des anteriors"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 312,
+              "ca": "Girona",
+              "es": "Gerona",
+              "en": "Girona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1002717,
+              "ca": "Vilablareix"
+            },
+            "noOberta": false,
+            "informacioUte": [],
+            "observacions": {},
+            "codiPostal": "17180"
+          }
+        ],
+        "informesActesMesesContractacio": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [
+              {
+                "id": 302601955,
+                "titol": "905451-26 Acta mesa 1.pdf",
+                "path": "G4kKuqoPMw4MHX2uIbaDABNcGdh84SyZMq9WO5UVKD-tpecSZ8Oa18Lkb_kSCPTqaInIQoa7cRLBKMhLfcNFr-3Q55MemnM3etDgfed5WHdADwGB4bPHEJpRna4VURi-E5ZSBfNSJhplu0Dtv_WE5egOdgAg-GFaoVX2NTI_kBGmIeZxEB2mATddh12UjL99y9ldQEKwnAOCQ_UkthAfHTLJc7qWLfyRV0UgJ55Xd3mGw2feYUGq40lqLD19Lb7mWE-zwMtnMH71iiw-yCZ6NHB4Cfe0D1U4cDlNcHHwZVf5hohvIoaUgcxbi8p5GpQSGm2RNw8qXoR2en9omQPZ5w==",
+                "hash": "1715A8702A48527F6B4CEA66A46285C1",
+                "idioma": "ca",
+                "mida": 184352
+              }
+            ],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "informesOfertesPresumpcioAnormalitat": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "informesValoracio": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "observacions": {},
+        "totalOfertesRebudes": 1
+      }
+    ],
+    "dadesExpedient": {
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "4b131001-63ad-4eac-a80a-ab91c3a9f366",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "tipusOfertaElectronica": 413,
+      "esReduit": false
+    },
+    "publicacionsOficials": [],
+    "tipusEsmena": {
+      "id": 1008173,
+      "ca": "Correcció",
+      "es": "correción",
+      "en": "Correction",
+      "oc": "Correccion"
+    },
+    "motiuEsmena": {
+      "ca": "Esmena automàtica"
+    }
+  },
+  "pathPdf": "lj41lwpAxI0EFc7eFlkHrz-YdmYAzi5kw7uQNo345vDoT-zYWKYC-SOsF4ATu9thdN3RuxGZQF9E-Fr7FlpNLmjSIvJA8WpbozM_e9LOwVKpXTsAsaZ3pf1tgAbJs-XSwRLavJKN9u58fj2KlQxQ5OZdLWSggiO02IhvM3ugWOK4KqOAPhd6jhkHNvFNHTJGmQybUrrr-J1LitL0IKAYkPkSvdFn-VQa2JP5Tzj_k13Y8IxmHuR-xYINVOTG_lT00YiYQgwO8HTrgrCzLP-5MmYo71OSWM_bcmatpSQRW_uils16wWTrIqD9vPbjFcvUFAVSgplfLrau5dF-cDhmBg==",
+  "pathCertificacio": "ZxqVsJdCIFhHemYnYEW4fwOeKeJj8b-T9GtUVwhMRXp2qK0V_jbR9SqNiaeXmjRjN-14vfXsxPVEA68ZVobgFUAHp62UD1uPFAOji_KXpra8Eg0xabgxztZ9paIFtV5n85WuvxTP4uT2s_QezBDy0eQinXTEwToYD3YzfOkereLsnZKQmfSKDca5ky3RwXXqoA0pRR_PYy5wtmYD9RP2Rvth35-sg_IoREFmEoQ35X7qHeb7zARhMVjPdqzmgdglDEzBxs5x0VcXG5fI_Dvjuf_Qz199i5eTyiiW8rFU8Jod_-OuGMzT-gjzQ_3W3gH-VpJBSnhE5iODlK5LCsY0VQ==",
+  "pathJson": "abH5U8yCMVPqNTGXs6UnNi6dBCk8HRfw7qnyPm5HIAOJ-vtGyjNYo9zAcTuW9VJ9WeHO451fA_2MqPjZaVap9-_xsvoG_gLkVTk5qmgf4WMxjZhqH4L2uzy5bNpd8Ikk2HmJZsZYXx_3A0EVyGHVjA4D98E8mEBVE7ImIaMqcw7KHyNHrVOKiypgggQbipX5jyH2Pg4U8CbImFZUW5wwybdhRsNTvOrsy6MjgJRfFnmdGxh5wLSoD0rhEOV3Rf76uWASjlxT7t0DPuRQNntGZ1dNPrgkVeezOVF_sgdJFgp0Sncdm712cn5qp4n1LuTLomlXAubCLxpRLDfQFJC8Wg==",
+  "dataPublicacioReal": "2026-09-17T18:20:16.509Z",
+  "dadesExpedient": {
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": "Català",
+      "es": "Catalan",
+      "en": "Catalan",
+      "oc": "Catalan"
+    },
+    "expedientId": "4b131001-63ad-4eac-a80a-ab91c3a9f366",
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 413,
+    "esReduit": false
+  }
+}

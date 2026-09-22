@@ -1,0 +1,57 @@
+[
+  {
+    "codi_ambit": "1500001",
+    "nom_ambit": "Departaments i sector públic de la Generalitat de Catalunya",
+    "codi_departament_ens": "202252",
+    "nom_departament_ens": "Departament de Salut",
+    "codi_organ": "204113",
+    "nom_organ": "Servei Català de la Salut (CatSalut)",
+    "codi_unitat": "3132087",
+    "nom_unitat": "Divisió de provisió de serveis  de l'Àrea Assistencial",
+    "codi_dir3": "A09006097",
+    "codi_expedient": "SCS-2025-122",
+    "tipus_contracte": "Serveis",
+    "fase_publicacio": "Formalització",
+    "denominacio": "SCS-2025-122. CE RHB C1 Anoia",
+    "objecte_contracte": "Contractació d'emergència dels serveis de rehabilitació física i de logopèdia en la modalitat ambulatòria i domiciliaria a l'àmbit de l'Anoia.",
+    "valor_estimat_contracte": "465995.24",
+    "codi_nuts": "ES51",
+    "lloc_execucio": "Catalunya",
+    "durada_contracte": "01/01/2025 a 31/12/2025",
+    "data_publicacio_adjudicacio": "2025-02-07T12:00:00.000",
+    "data_publicacio_formalitzacio": "2025-02-10T12:30:00.000",
+    "codi_cpv": "85312500-4",
+    "tipus_identificacio": "11162",
+    "identificacio_adjudicatari": "U65918468",
+    "denominacio_adjudicatari": "UTE Fundació Sanitària Sant Josep i Fisioteràpia, SA,",
+    "import_adjudicacio_sense": "465995.24",
+    "import_adjudicacio_amb_iva": "465995.24",
+    "ofertes_rebudes": "1",
+    "resultat": "Formalització",
+    "enllac_publicacio": {
+      "url": "https://contractaciopublica.cat/ca/detall-publicacio/00c79486-0c0d-41f8-8ed6-2097f449a999/300371580"
+    },
+    "es_agregada": "NO",
+    "data_adjudicacio_contracte": "2024-12-11T00:00:00.000",
+    "data_formalitzacio_contracte": "2024-12-13T00:00:00.000",
+    "tipus_tramitacio": "Emergència",
+    "eina_presentacio_electronica": "Altres",
+    "altres_eines_licitacio": "Correu electrònic",
+    "pressupost_licitacio_sense": "465995.24",
+    "pressupost_licitacio_sense_1": "465995.24",
+    "pressupost_licitacio_amb": "465995.24",
+    "pressupost_licitacio_amb_1": "465995.24",
+    "valor_estimat_expedient": "465995.24",
+    "tipus_empresa": "PIME",
+    "url_json_adjudicacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300370321/SbE-pY9Jhp_AAH4Nhmf9BALIg3aJTzj6A4nXvWNJ006gArAsv4Tegxa92Xg_bl7U-CdwS2H0z9F0RGKlFMhDg7thNxmRNSR3Wyj7gBIqVHasV1nck1vkTe8jB2QBgqTRA-6cEWJtxfO7EnQhoH3Znj3g8ZcwyfVu_d0qUCHDagq9bmsK7m4XA9sP9d55tD6xJq0Ij6APIrVq9uif30v3Mn7rwpWH_uLqVBL0qNSOGX6oLVbEkahaxcdBbl3URNvoTkbr3VmSf7lgCD6meEhDquIy3-hIc_JkFTLMkQayYpbD4QadZpItxFZe0b2GkO3t4pAknfyNLbDziyA0CWgoTQ=="
+    },
+    "url_json_formalitzacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300371580/pLEamOHhnHHW7ynaf2mVfCOZxTO1UmOcfR3xur2BGorkVhmm_yx-aHjuG-AQprrQv5YrW2iQpxHPwR4RSaefBoQi1qf8y-EMljmh3Xvo0ywx1ta4LoqK7RmAwszdvaJOTloLJQ4eHP0qCfAVlsksRXdGVazRANfnXmKj1YpbdHpHjztLIai4SGsgIuNKmixuUpW99F6p1TBKs_jK1cNJpe3iMi8wUQkjRHqDdZv9VRSVNtc1Spa0cL4J_q0EuJHXTf7GUJjIRANaY2Z-MtrCfwA2NZoLIJppua3B1cBibf6CyfN7Vq28iYZErQZM5-jkq169rNG0LMO7UtzaZasuwQ=="
+    },
+    "id_intern": "00c79486-0c0d-41f8-8ed6-2097f449a999",
+    ":id": "row-x3hd~7maf-gcgh",
+    ":created_at": "2026-07-13T13:26:08.273Z",
+    ":updated_at": "2026-07-13T13:26:08.273Z"
+  }
+]

@@ -1,0 +1,381 @@
+[
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/11405386",
+    "updated": "2025-12-10T14:07:46.252+01:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/0cad6ef8-d560-937e-0dc0-bdf44338687e/300641893",
+    "uuid": "0cad6ef8-d560-937e-0dc0-bdf44338687e",
+    "publication_id": "300641893",
+    "expediente": "9884AM",
+    "title": "Subministrament de comptadors d'aigua freda de consum humà, aigua residuals i/o fangs, per Aigües de Manresa, SA, dividir en lots.",
+    "status": "RES",
+    "buyer_name": "Aigües de Manresa, SA",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "30877783"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "211249.74",
+    "budget_gross": null,
+    "estimated_value": "422499.47",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "38421100"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2022-11-14",
+    "deadline_time": "15:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Comptadors mecànics amb lectura plana",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Comptadors mecànics amb lectura inclinada",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Comptadors electromagnètics",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Comptadors mecànics industrials dn25-dn40",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Comptadors mecànics industrials dn>=50",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Comptadors volumètrics amb lectura inclinada",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "1",
+        "amount": "0",
+        "supplier_ids": [
+          "A08338683"
+        ],
+        "supplier_names": [
+          "SENSUS ESPAÑA, SAU"
+        ],
+        "contract_dates": [
+          "2023-03-16"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "1",
+        "amount": "0",
+        "supplier_ids": [
+          "B41956970"
+        ],
+        "supplier_names": [
+          "CONTHIDRA, SL"
+        ],
+        "contract_dates": [
+          "2023-03-16"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "2",
+        "amount": "0",
+        "supplier_ids": [
+          "B41956970"
+        ],
+        "supplier_names": [
+          "CONTHIDRA, SL"
+        ],
+        "contract_dates": [
+          "2023-03-13"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "3",
+        "amount": "0",
+        "supplier_ids": [
+          "B80611601"
+        ],
+        "supplier_names": [
+          "KROHNE IBERIA, SLU"
+        ],
+        "contract_dates": [
+          "2023-03-06"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "4",
+        "amount": "0",
+        "supplier_ids": [
+          "A08338683"
+        ],
+        "supplier_names": [
+          "SENSUS ESPAÑA, SAU"
+        ],
+        "contract_dates": [
+          "2023-03-15"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "5",
+        "amount": "0",
+        "supplier_ids": [
+          "B41956970"
+        ],
+        "supplier_names": [
+          "CONTHIDRA, SL"
+        ],
+        "contract_dates": [
+          "2023-03-16"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "5",
+        "amount": "0",
+        "supplier_ids": [
+          "A08338683"
+        ],
+        "supplier_names": [
+          "SENSUS ESPAÑA, SAU"
+        ],
+        "contract_dates": [
+          "2023-03-16"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "6",
+        "amount": "0",
+        "supplier_ids": [
+          "B41956970"
+        ],
+        "supplier_names": [
+          "CONTHIDRA, SL"
+        ],
+        "contract_dates": [
+          "2023-03-13"
+        ]
+      }
+    ],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2022-10-21"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2023-01-23"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2023-01-23"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2023-01-23"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2023-01-23"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2023-01-23"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2023-01-23"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2023-03-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2023-03-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2023-03-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2023-03-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2023-03-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2023-03-16"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "9884AM- 3.05-P01-R16 PCP_publicat.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/181416/b4da89da3ea6a3e2b3b8268014a942d2"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "9884AM-3.05-P01-R17- PPT_publicat.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/181418/2f19afa0b4b4d21e0b9121651c9b4504"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20251211_040112.atom",
+    "ordinal": 368
+  }
+]

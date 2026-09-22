@@ -1,0 +1,343 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "4390180001-2024-0010219",
+  "idExpedient": "b2c3a9ca-cf43-476d-bcac-838f671cd6ea",
+  "dataPublicacioPlanificada": "2025-05-22T09:54:47.345Z",
+  "organ": {
+    "nom": "Ajuntament de Deltebre",
+    "unitat": "Contractació",
+    "nif": "P4318100G",
+    "personesContacte": [],
+    "organContractacioId": 8911869
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1008286,
+      "ca": "Expedient en avaluació",
+      "es": "Expediente en avaluación",
+      "en": "Under evaluation",
+      "oc": "En avaloracion"
+    },
+    "expedientId": "b2c3a9ca-cf43-476d-bcac-838f671cd6ea",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1008286,
+        "ca": "Expedient en avaluació",
+        "es": "Expediente en avaluación",
+        "en": "Under evaluation",
+        "oc": "En avaloracion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "4390180001-2024-0010219",
+      "denominacio": {
+        "ca": "Camió bolquet i grua"
+      },
+      "descripcio": {
+        "ca": "Contractació administrativa anticipada d'adquisició, mitjançant operació d'arrendament financer (lising financer), de vahicle camió amb bolquet i grua per als serveis d'imatge de poble de l'Ajuntament de Deltebre."
+      },
+      "observacions": {
+        "ca": "Es posa en coneixement dels interessats que, advertit error material en el pressupost base de licitació fixat en els plecs de clàusules administratives particulars, es procedeix a la seva rectificació, quedant el pressupost base de licitació establert en [nou import corregit] euros, IVA inclòs.\n \nAquesta correcció no afecta a l'objecte del contracte, a les condicions de solvència exigides, ni als criteris d'adjudicació, i es realitza en aplicació del que es preveu en l'article 124.2 de la Llei 9/2017, de Contractes del Sector Públic.\n \n\nAmb motiu de la correcció indicada, s'amplia el termini de presentació de proposicions, que finalitzarà el dia [nova data límit de presentació] a les [hora].\n \nLes ofertes hauran de presentar-se conforme al que s'estableix en els plecs rectificats, que estan disponibles en el Perfil de Contractant."
+      },
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "unitatContractacio": 8938502,
+      "tipusContracte": {
+        "id": 394,
+        "ca": "Subministraments ",
+        "es": "Suministros",
+        "en": "Supplies ",
+        "oc": "Subministraments "
+      },
+      "procedimentAdjudicacio": {
+        "id": 401,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {},
+      "metodologiaBim": false
+    },
+    "dadesPublicacio": {
+      "observacions": {},
+      "membresMesa": [
+        {
+          "nom": "Maria Dolors",
+          "cognoms": "Casanova Domingo",
+          "carrec": {
+            "id": 487,
+            "ca": "President/a"
+          }
+        },
+        {
+          "nom": "David",
+          "cognoms": "Torres Fabra",
+          "carrec": {
+            "id": 490,
+            "ca": "Vocal en representació d'Assessoria Jurídica",
+            "en": "Board member representing Legal Advice",
+            "oc": "Vocau en representacion d'Assessoria Juridica"
+          }
+        },
+        {
+          "nom": "Raquel",
+          "cognoms": "Prats Pagà",
+          "carrec": {
+            "id": 489,
+            "ca": "Vocal en representació d'Intervenció / Control Intern",
+            "en": "Board member representing Supervision / Internal Control",
+            "oc": "Vocau en representacion d'Intervencion / Contraròtle Intèrne"
+          }
+        },
+        {
+          "nom": "HERÈNIA",
+          "cognoms": "MAURI CASTELLS",
+          "carrec": {
+            "id": 488,
+            "ca": "Secretari/ària"
+          }
+        },
+        {
+          "nom": "FRANCISCO",
+          "cognoms": "CASTRO CASANOVA",
+          "carrec": {
+            "id": 491,
+            "ca": "Vocal",
+            "en": "Board member",
+            "oc": "Vocau"
+          }
+        },
+        {
+          "nom": "JOAQUIN",
+          "cognoms": "CURTO SERRANO",
+          "carrec": {
+            "id": 491,
+            "ca": "Vocal",
+            "en": "Board member",
+            "oc": "Vocau"
+          }
+        }
+      ]
+    },
+    "dadesPublicacioLot": [
+      {
+        "pressupostLicitacio": 177465.2,
+        "publicacioExpedientId": 300458081,
+        "identitatEmpresa": [
+          {
+            "empresa": "TALLERES RAPALO SL",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "B12027819",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 307,
+              "ca": "Castelló de la Plana",
+              "es": "Castelló/Castellón"
+            },
+            "municipi": {
+              "id": 1001882,
+              "ca": "Almazán"
+            },
+            "noOberta": false,
+            "tercerSector": {
+              "id": 1008406,
+              "ca": "No tercer sector"
+            },
+            "informacioUte": [],
+            "observacions": {}
+          },
+          {
+            "empresa": "OCATRUCK SL",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "B22229652",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 317,
+              "ca": "Osca",
+              "es": "Huesca"
+            },
+            "municipi": {
+              "id": 1003410,
+              "ca": "Binéfar"
+            },
+            "noOberta": false,
+            "tercerSector": {
+              "id": 1008410,
+              "ca": "Altres"
+            },
+            "informacioUte": [],
+            "observacions": {}
+          }
+        ],
+        "informesActesMesesContractacio": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "informesOfertesPresumpcioAnormalitat": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "informesValoracio": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "observacions": {},
+        "totalOfertesRebudes": 2
+      }
+    ],
+    "dadesExpedient": {
+      "organContractacioId": 8911869,
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "b2c3a9ca-cf43-476d-bcac-838f671cd6ea",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "tipusOfertaElectronica": 413,
+      "denominacioExpedientReferencia": {}
+    },
+    "motiuEsmena": {}
+  },
+  "pathPdf": "DUzXx4vY9wVB0S7WxpHRkNUXvlEpDypcMoPg-WqrTpmm3K2xamjwzIywJ-kGGpFlucz_SdVLm6Q6gdxz1oqJEbBpBZfKm2KkFQSxvwJQuW75J4vV9RRkk9AbBO63c6Vy3trTgyVr3kDQT3r_plSOAIHTpnwSLF8kmbirkN0PU0BjtiprJ1R9Pwn9QQxv2Rrb8xVRKqqo_xEeiJX7tyd5igS3PatPZtbtGo-QEO-nn1d1mYWnsylwQvKrqiK-floUCyPH8WtlSlC9s-kkrv5AOIkSaTlOqqfxLWbsKI56W36NFC406muhwVYw3jHLUr8nQWjSDB0KatYnC10s1m12yg==",
+  "pathCertificacio": "TFs8SrvfRhctr9vZFQIm0_MgS4FHFlbYnhTMJ9eEdMBFbGRAu830qRtbMFQ8aL1ja0GIVqITHz80cNnC9rwEsODRZYGYQ19CC6tcMHWFMxQBRvDpu-x4-HF006uVKlESp-VMPeq-5kruo0iG_aDGBO3s8EAXfGh0IKHuyFFJRu6_LH_AtXRNoDOe-hcqMQNj-w0ezURgobTqPrAeABHW57aTkP7WgiG5-Rbgik1Ae6eXuVZPQdLEY2JuANVh-r0bslNXRtH-A-8pRA3WMRwMfu7Cju2Kh6yUh8X_FiZTSBAZ57wzvicqi9z_9JjcjEuy19AYmft_sz4hDgNplHV4ig==",
+  "pathJson": "fpGDJ0O35Y1sQaCWIlKvZspZLeEErp4OMUREH9IGCsryAy2zVXr0YqN1LKUNbGiLxMm_pa-ZBivt0D-yYRF1eM7vFVtkQJ6moP5jhlPfNa3GYLjJlsGn1Bh-B582333qb8PpW4BtYdqDN4-30TdxF-FiMghmkC8KJ31Xk02TsgqXDbKVAeGPnwmIz40v6-CWsnuz_RDwP30lEwfTtaQ0PtJqMmdEnlQnbZ6e19uZmsYPad_GdJN0i-uwhNlFcinl3-m9MpVVdbP1i0iugDU4iPF-W3XIFtKetl21E8CXaiENrslKE8C7FiFV_Y4pZAjWHBHQoJryeSR9j6FUH8-RPA==",
+  "dataPublicacioReal": "2025-05-22T09:56:09.066Z",
+  "dadesExpedient": {
+    "organContractacioId": 8911869,
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "expedientId": "b2c3a9ca-cf43-476d-bcac-838f671cd6ea",
+    "dataFiPublicacioPerfil": null,
+    "dataFiGestio": null,
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "tenderingSpaceId": null,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 413,
+    "dataVisiblePortalAccesExclusiu": null,
+    "expedientIdReferencia": null,
+    "codiExpedientReferencia": null,
+    "denominacioExpedientReferencia": {
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "nomOrganContractacioReferencia": null
+  }
+}

@@ -1,0 +1,45 @@
+[
+  {
+    "codi_ambit": "1500002",
+    "nom_ambit": "Entitats de l'administració local",
+    "codi_organ": "925838",
+    "nom_organ": "Ajuntament d'Olot",
+    "codi_ine10": "1711430008",
+    "codi_dir3": "L01171143",
+    "codi_expedient": "CCS12024000095",
+    "tipus_contracte": "Serveis",
+    "procediment": "Obert simplificat",
+    "fase_publicacio": "Anul·lació",
+    "denominacio": "CONTRACTACIÓ ADMINISTRATIVA DEL SERVEI D'ACOLLIDA I ATENCIÓ AL PÚBLIC DEL TEATRE PRINCIPAL D'OLOT.",
+    "objecte_contracte": "Contractació dels serveis d'acollida i atenció al públic al Teatre Principal d'Olot, atès que no disposa de serveis interns per a l'execució del mateix.",
+    "valor_estimat_contracte": "88660.00",
+    "codi_nuts": "ES512",
+    "lloc_execucio": "Olot",
+    "durada_contracte": "2 anys",
+    "termini_presentacio_ofertes": "2024-12-19T14:00:00.000",
+    "data_publicacio_anunci": "2025-01-07T10:12:00.000",
+    "data_publicacio_anul": "2025-01-07T11:24:00.000",
+    "codi_cpv": "79992000-4",
+    "enllac_publicacio": {
+      "url": "https://contractaciopublica.cat/ca/detall-publicacio/b3f640c5-3c2c-4340-9e32-bdd894f89436/300344003"
+    },
+    "es_agregada": "NO",
+    "tipus_tramitacio": "Ordinària",
+    "eina_presentacio_electronica": "Sobre digital",
+    "pressupost_licitacio_sense": "40300.00",
+    "pressupost_licitacio_sense_1": "40300.00",
+    "pressupost_licitacio_amb": "48763.00",
+    "pressupost_licitacio_amb_1": "48763.00",
+    "valor_estimat_expedient": "88660.00",
+    "url_json_licitacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300343988/B1-BOWbhsj3D0ibWU_4dYnzmtyp195V1A-mrp_h_XQ2dzn40DFKUMwIU8dkQlUFLz_pO9Jti0QiIewaOogQTb9WD8dk0eRLZdZObWqNlTm2hr9zlFaHuCDR9cnezQydqN12SB0cTcMQVtJGHddxFlWrrv6xlSDZwWJtdYF0yMG1_qnVNpou5B-5P3-O26k62YOc_MtHBhj8d9ZuC6sOmXbtcn6QjcNB_R9wdEZj_hdgtAOrl3tq-I4_G-TQO_OlmoWTO-4q7N7oMFaHZ_PIrJxeruhCOfy4FhqUbye_V4JGcLUAtf_v-C2kpbDL2kmNP_W2gqYi_pSuAMnvxoBlLKg=="
+    },
+    "url_json_anulacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300344003/WIBA2wPtRAebhLJF8FA3AMA_TSxywSniizajnFC3jAWLlqvrUJ3VRKAmcbNUM9Cm_gldI7YAIZnsLLij3VG5mw8zysEesMMf5K_bBUjhN-IlTyIAF3rICdUFSfTFyYI4lbNLwrXQUDOAdfpdGgYmZ9VXMuMAOc2UFCCJUf-zkrwo0S4RNbKBoVWiZZEliC9Z8wH-kkf-OAGin2mYIlhpbjD3VI30nIWK_r_hNDaIUUV0jDbN_rbzGBea2s_xOuEkI_lKxQ-fDWSK01apMulpTnebTw_i9E0nekVoerlOYym_kKJsD__E0CNksfJ6V0TXy1PttFkTe2wHH-uhGOsHPg=="
+    },
+    "id_intern": "b3f640c5-3c2c-4340-9e32-bdd894f89436",
+    ":id": "row-fg8c.6rht.twbi",
+    ":created_at": "2026-07-13T13:26:08.273Z",
+    ":updated_at": "2026-07-13T13:26:08.273Z"
+  }
+]

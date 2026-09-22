@@ -1,0 +1,427 @@
+PAGE 1
+Plataforma de Serveis de Contractació Pública
+Novetats i tractament de les dades 
+a PSCP i eLicita.
+Abril 2023
+PSCP
+
+
+PAGE 2
+1. Introducció
+2. Novetats PSCP
+3. 
+4.
+La Seguretat a eLicita
+Nou dataset de dades obertes de PSCP
+5. Participació en el projecte europeu liderat per 
+BSC
+Índex
+
+
+PAGE 3
+1. Introducció
+A nivell de Catalunya:
+Estratègia catalana de millora de la compra pública
+Objectiu estratègic 4.2. Millorar la transparència:
+• Ampliació del volum d’informació que s’ofereix en dades obertes.
+• Incorporació de camps de dades a la Plataforma de serveis de contractació pública i al Registre públic de contractes que
+facilitin detectar supòsits de col·lusió.
+A nivell d’Espanya:
+Estrategia nacional de contratación pública
+Objectiu E. Establir una Estratègia comú de dades de contractació pública amb la col·laboració de totes les comunitats
+autònomes.
+• Necessitat d’incrementar la quantitat i la qualitat de les dades obertes.
+A nivell d’Europa:
+Espai europeu de dades sobre contractació pública
+Implantació progressiva en els diferents Estats.
+• Arquitectura bàsica similar.
+• Connexió dels diferents portals de contractació amb aquest Espai
+• Incorporació de noves dades i amb altres fons disponibles a nivell de la UE (registres mercantils, de la propietat...)
+
+PAGE 4
+1. Introducció
+Sistema Corporatiu de Contractació Pública Electrònica
+Portal Transparència Generalitat i portals de transparència locals del 
+Consorci AOC
+RELIC
+Tota AP 
+Catalunya
+eLicita
+• PSCP
+• Sobre Digital
+• Subhasta
+Tota AP Catalunya*
+*Serveis implantats per:
+• La Secretaria Tècnica de la Junta Consultiva 
+de Contractació Pública als Departaments i 
+entitats del sector públic de la Generalitat de 
+Catalunya, organismes independents i ens 
+estatuaris.
+• El Consorci AOC als Ens locals i universitaris.
+RPC-AC
+Tota AP 
+Catalunya
+*
+CAT 
+COMP
+Depart. 
+Generalitat
+GEEC
+Departaments 
+Generalitat i entitats 
+del seu SP 
+(98 entitats)
+TEEC
+Altres entitat 
+del SP 
+Generalitat
+(25 entitats)
+SUMA
+Sector 
+Públic 
+Generalitat
+Accés 
+empreses i 
+ciutadans
+Accés 
+exclusiu AP
+Sistemes Econòmic-Financers corporatius
+Funcions comunes
+TREC
+Tota AP 
+Catalunya
+TREC
+Tribunal 
+Català de 
+Contractes
+RPC
+Tota AP 
+Catalunya
+*
+• Autenticació (GICAR / 
+EACAT / VALID)
+• Registre E/S (S@rcat / 
+MUX) 
+• Validació signatures 
+(PSIS)
+• Portasignatures
+corporatiu (PSD)
+• Plataforma 
+interoperabilitat (PICA)
+• Còpia autèntica 
+(eCopia)
+• Tributàries (ACT, TGSS, 
+AEAT)
+• Signador Centralitzat 
+(SSC)
+• Notificació electrònica 
+(eNotum)
+• Arxivat d’expedients 
+(iArxiu)
+• Antivirus corporatiu
+• Conversió de Word a Pdf
+(STD)
+
+PAGE 5
+1. Introducció
+Evolució eines PSCP i eLicita
+2008
+Posada en marxa PSCP
+Nova 
+PSCP
+LCSP
+2010
+Ampliació catàleg serveis 
+empreses i subhasta 
+electrònica
+2009
+Oferta telemàtica
+2017
+Sobre digital
+2014
+Fitxer dades 
+obertes
+2013
+Integració 
+PLACSP
+2016
+Entrada en vigor DL 3/2011 TRLCSP
+Entrada en vigor 
+Llei transparència
+Directives de 4ª generació
+LCSP 30/2007
+Adaptació normativa (pex. 
+adjudicació única)
+Increment 
+obligacions 
+publicitat + 
+utilització massiva 
+per part d'EELL
+2015
+Llei unitat 
+mercat
+2004
+Adaptació 
+normativa: 
+Avisos 
+relacionats 
+amb 
+l’execució, 
+publicacions 
+agregades
+Evolució i nova 
+interfície de 
+l'eina de Sobre 
+digital
+2011
+2023
+9/3/2018: Obligatorietat 
+ús mitjans electrònics
+20202018
+Decret 96/2004
+Ordre aprovació aplicacions 
+PSCP i eines e-licita
+…
+Full de ruta:
+• Integració SD amb
+eNotum per unificar els
+requeriments amb les 
+notificacions fefaents.
+• Perfil del licitador.
+• Integració PSCP – RPC.
+
+PAGE 6
+2. Novetats PSCP
+Estructuració de la dada
+6. Separació i gestió de lots. 
+• L’eina permet tenir els lots en diferents fases.
+• Visualització de lots de manera separada.
+• Es desplacen molts dels camps cap a les dades dels lots, això permet:
+- Fer cerques des de la Plataforma tenint en compte tant les dades de
+tot l'expedient com dels lots.
+- Tenir major flexibilitat per moure’s entre les fases dels lots.
+
+
+PAGE 7
+2. Novetats PSCP
+Estructuració de la dada
+7. Ampliació de dades estructurades. 
+• La nova Plataforma de Serveis de Contractació Pública, s’ha adaptat a la 
+LCSP mitjançant la incorporació de la informació prevista a la Llei en camps 
+estructurats i en formats oberts i reutilitzables 
+• Aquesta adaptació també ha comportat moviments de camps entre fases
+• Publicacions agregades.
+- Unificació de l’arxiu excel amb el format
+de RPC. Més endavant es construirà la
+integració entre PSCP i RPC.
+- Trasllat de les dades de l’excel al Gestor
+de publicacions, de manera que aquestes
+queden estructurades en una taula i poden
+ser modificades.
+- Trasllat a l’OpenData d’N files per N
+contractes.
+
+
+PAGE 8
+2. Novetats PSCP
+Part pública PSCP
+• Cercador d’expedients:
+- Nova ubicació més visible i accessible.
+- Resultats dinàmics en funció dels filtres.
+- Possibilitat de cercar entre expedients i entre publicacions.
+• Possibilitat de descarregar la informació via excel (pendent
+implementació)
+• Es posen a disposició a la publicació les evidències en els formats
+normalitzats i el segell de temps que certifica el moment de la
+publicació.
+
+
+PAGE 9
+2. Novetats PSCP
+Integració de Gestors d’Expedients de Contractació amb la PSCP
+Aquells òrgan de contractació que fan ús de gestors d’expedients de contractació
+(Gestors propis o de mercat en el cas dels ens locals o universitats i GEEC i
+TEEC en el cas de la Generalitat) poden automatitzar els traspàs de dades cap al
+gestor de publicacions de la Plataforma de Serveis de Contractació Pública.
+La nova PSCP incorpora un nou servei d’integració que enriqueix l’anterior, afegint
+totes les noves dades i fases de publicació.
+Es manté temporalment el model antic d’integració gestors d’expedients-PSCP
+Les aplicacions de les entitats d'àmbit local i ens universitaris poden integrar-se
+amb la PSCP mitjançant la interfície única que proporciona el Consorci AOC.
+Actualment en període d’adaptació als canvis introduïts per la nova PSCP.
+Els òrgans de contractació que desitgin integrar el seu gestor d’expedients amb la Plataforma de Serveis de Contractació
+Pública haurà de seguir una sèrie de passos.
+ Petició de la integració
+ Implementació de la integració
+ Proves d’integració
+ Homologació de la integració
+ Posada en producció de la integració
+
+PAGE 10
+2. Novetats PSCP
+Funcions Comunes
+Mòdul de Funcions Comunes, concebut com a repositori de
+dades mestres i funcionalitats cross. Ofereix serveis a ser
+consumit per la resta d’aplicacions: notificacions electròniques,
+gestió d’usuaris, mestre de licitadors, avisos i missatges, gestió
+d’òrgans/àmbits/unitats/departaments, formularis intel·ligents i
+dades mestres. Vinculat amb el govern i la gestió de la dada.
+
+
+PAGE 11
+3. La seguretat a eLicita
+Identitat
+ Signatura electrònica avançada basada en un certificat qualificat
+o reconegut
+Integritat
+ Resums criptogràfics (hash) de tots els documents de l’oferta
+Confidencialitat
+ Protocol segur de xifratge: canal segur de transmissió
+No repudi
++
+ Repositori de documents auditat: caixa forta virtual
+Paraula clau
+ Gestió de les autoritzacions d’accés a la documentació:
+ custodis i membres de la mesa (Sobre digital)
+ privilegis d’accés a les ofertes (Oferta telemàtica)
+
+PAGE 12
+3. La seguretat a eLicita
+La seguretat a eLicita
+Hora i data
+ Registre d’Entrada/Sortida que garanteix l’hora i la data de la recepció de les ofertes
+Detecció d’accessos indeguts
+Traçabilitat
+ Sonda de disponibilitat que emet alertes en cas de tall de servei
+Detecció d’errades tècniques
+ Alertes automàtiques de detecció en el cas d’accés indegut al repositori de documents
+(caixa forta)
+ Traçabilitat integral de tot el procés des de l’enviament fins a l’obertura  i descarrega de les 
+ofertes
+
+PAGE 13
+4. Característiques nou data set de dades obertes
+Estructuració de la dada
+8. Fitxers de dades obertes.
+• Conjunt de dades que engloba expedients
+de l’antiga i la nova PSCP (properament).
+• Els lots s’afegeixen com a files.
+• Sempre es mostra la darrera fase
+publicada.
+• Els contractes de les publicacions
+agregades s'afegeixen de manera
+individual.
+• Incorporació de nous camps: tipus de
+finançament, eines de licitació electrònica,
+sistema de racionalització, tipus d’empresa...,
+mantenint l’estructura del dataset de l’anterior
+PSCP.
+• Incorporació d’un enllaç amb tota la
+informació de la publicació (format JSON
+per cada fase).
+
+
+PAGE 14
+4. Característiques nou data set de dades obertes
+Nous camps
+• El dataset de la nova PSCP manté la mateixa estructura i incorpora els 
+nous camps addicionals comentats, així com enllaços al .json. 
+Nom del camp Descripció Tipus
+codi_ambit Identificador de l'àmbit organitzatiu Text Pla
+nom_ambit
+Àmbit organitzatiu (Departaments i sector públic de la Generalitat de Catalunya /Organismes 
+independents i/o estatutaris / Entitats de l'Administració local / Universitats /Altres ens) Text Pla
+codi_departament_ens Identificador de les entitats de l’Administració i del sector públic de Catalunya Text Pla
+nom_departament_ens Descripció de les entitats de l’Administració i del sector públic de Catalunya Text Pla
+codi_organ Identificador de l'organisme contractant Text Pla
+nom_organ Descripció de l'organisme contractant Text Pla
+codi_unitat Identificador de la unitat de contractació Text Pla
+nom_unitat Descripció de la unitat de contractació Text Pla
+codi_ine10 Codi INE10 Text Pla
+codi_dir3
+Identificador del directori d'unitats orgàniques i oficines de registres de les administracions 
+públiques Text Pla
+codi_expedient Codi de l'expedient de contractació Text Pla
+tipus_contracte Tipus de contracte (obres, serveis, subministraments,....) Text Pla
+procediment Procediment d’adjudicació Text Pla
+fase_publicacio Última fase publicada (de l’expedient) Text Pla
+denominacio Denominació del contracte Text Pla
+objecte_contracte Descripció del contracte Text Pla
+valor_estimat_contracte Valor estimat del lot (sense IVA) Nombre
+codi_nuts Nomenclatura de les unitats territorials estadístiques Text Pla
+lloc_execucio Lloc d'execució del contracte Text Pla
+durada_contracte Durada del contracte en anys, mesos i dies o en un interval de dates Text Pla
+termini_presentacio_ofertes Data fi de recepció d'ofertes Data & Temps
+data_publicacio_futura Data de publicació de l'alerta futura Data & Temps
+data_publicacio_previ Data de publicació de l'anunci previ Data & Temps
+data_publicacio_anunci Data de publicació de l'anunci de licitació Data & Temps
+data_publicacio_adjudicacio Data de publicació de l'adjudicació Data & Temps
+data_publicacio_formalitzacio Data de publicació de l’anunci de la formalització Data & Temps
+data_publicacio_anul
+Data de publicació de l'anul·lació (desert, desistiment, renúncia, resolució de tribunal, 
+publicació per error) Data & Temps
+numero_lot Identificador del lot Nombre
+descripcio_lot Descripció del lot Text Pla
+codi_cpv Codi del Vocabulari comú de contractes públics (CPV) Text Pla
+tipus_identificacio_adjudicatari Tipus d'identificació de l’empresa adjudicatària/contractista (NIF, UTE, DUNS, VIES o Altres) Text Pla
+identificacio_adjudicatari Identificació de l'empresa adjudicatària/contractista Text Pla
+denominacio_adjudicatari Denominació de l'empresa adjudicatària/contractista Text Pla
+Nom del camp Descripció Tipus
+import_adjudicacio_sense_iva Import adjudicació sense IVA Text Pla
+import_adjudicacio_amb_iva Import adjudicació amb IVA Text Pla
+ofertes_rebudes Número d'ofertes rebudes Nombre
+resultat
+Resultat del lot (Desert, desistit, decisió de no adjudicar o subscriure el contracte, resolució de tribunal,
+ publicat per error, adjudicat o formalitzat) Text Pla
+enllac_publicacio Enllaç de la publicació a la Plataforma de serveis de contractació pública URL del Lloc Web
+es_agregada Indicador de si el contracte ha estat publicat de manera agregada (Sí/No) Text Pla
+data_adjudicacio_contracte Data d'adjudicació del contracte Data & Temps
+data_formalitzacio_contracte Data de formalització del contracte Data & Temps
+tipus_tramitacio Tipus de tramitació Text Pla
+racionalitzacio_contractacio Sistema de racionalització de la contractació Text Pla
+tipus_financament Tipus de finançament de fons europeus afectat Text Pla
+eina_presentacio_electronica Eina corporativa de presentació electrònica d’ofertes utilitzada Text Pla
+altres_eines_licitacio_electronica Altres eines de presentació electrònica d’ofertes Text Pla
+no_admet_eina_licitacio_electronica Supòsits taxats en els que no és obligatori l’ús de les eines de licitació electrònica Text Pla
+pressupost_licitacio_sense_iva Pressupost de licitació del lot (sense IVA) Nombre
+pressupost_licitacio_sense_iva_expedient Pressupost de licitació de l’expedient sense IVA (en cas de diversos lots és la suma de tots els lots) Nombre
+pressupost_licitacio_amb_iva Pressupost de licitació del lot (amb IVA) Nombre
+pressupost_licitacio_amb_iva_expedient Pressupost de licitació de l’expedient amb IVA (en cas de diversos lots és la suma de tots els lots) Nombre
+valor_estimat_expedient Valor estimat del contracte sense IVA (a nivell expedient, per tant, comú a tots els lots)" Nombre
+data_publicacio_consulta_mercat Data de publicació de la consulta preliminar del mercat Data & Temps
+data_publicacio_avaluacio Data de publicació de la fase de l’avaluació de l’expedient Data & Temps
+data_publicacio_contracte_agregat Data de la publicació agregada Data & Temps
+data_publicacio_encarrec Data de publicació de l’encàrrec a mitjà propi Data & Temps
+tipus_empresa Tipus d’empresa adjudicatària/contractista (Pime / No Pime) Text Pla
+url_json_futura Enllaç per descarregar tota la informació de la fase d’alerta futura URL del Lloc Web
+url_json_cpm Enllaç per descarregar informació de la fase consulta preliminar del mercat URL del Lloc Web
+url_json_previ Enllaç per descarregar informació de la fase anunci previ URL del Lloc Web
+url_json_licitacio Enllaç per descarregar informació de la fase anunci de licitació URL del Lloc Web
+url_json_avaluacio Enllaç per descarregar informació de la fase d’avaluació URL del Lloc Web
+url_json_adjudicacio Enllaç per descarregar informació de la fase d’adjudicació URL del Lloc Web
+url_json_formalitzacio Enllaç per descarregar informació de la fase de formalització URL del Lloc Web
+url_json_execucio Enllaç per descarregar informació de la fase d’execució (modificacions, pròrrogues i altres) URL del Lloc Web
+url_json_anulacio Enllaç per descarregar informació de la fase d’anul·lació URL del Lloc Web
+url_json_encarrec Enllaç per descarregar informació de l’encàrrec a mitjà propi URL del Lloc Web
+url_json_agregada Enllaç per descarregar informació de la publicació agregada URL del Lloc Web
+
+PAGE 15
+5. Participació en el projecte europeu liderat per BSC
+OBJECTIU: Definir i implementar serveis basats en Intel·ligència Artificial (IA), NLP ,
+ontologies i tècniques de similitud, per a l’enriquiment de metadades relatives a les
+dades de contractació de plataformes públiques i als documents continguts en les
+mateixes, a fi de desenvolupar:
+• Cercador semàntic (Next Procurement Semantic Search)
+• Visor (Next Procurement Viewer)
+• Enriquidor de metadades
+APORTACIÓ AL PROJECTE:
+• Generalitat de Catalunya (DGCP): definició dels casos d'ús a assolir mitjançant el projecte.
+• CTTI: facilitar l’accés a documents de la PSCP per a entrenar els serveis que s’implementaran, i vetllar per a que els mateixos
+es construeixin de manera que puguin ser utilitzats dins del marc d’eines d’eContractació de la Generalitat.
+PARTICIPANTS:
+• Barcelona Supercomputing Center (BSC)
+• Localidata (Startup de la UPM)
+• Ajuntament de Saragossa
+• Ajuntament de Madrid
+• Universitat Carlos III de Madrid
+• Universitat Politècnica de Madrid

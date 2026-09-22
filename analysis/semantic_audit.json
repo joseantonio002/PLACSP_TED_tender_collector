@@ -1,0 +1,751 @@
+{
+  "execution_action_date_scope": {
+    "records": 35098,
+    "buyers": 767,
+    "buyer_exp_pairs": 19283
+  },
+  "counts": {
+    "ordinary_lot_zero_rows": 1,
+    "ordinary_missing_lot_rows": 58616,
+    "ordinary_positive_named_lot_rows": 29460,
+    "ordinary_procedures_multiple_phases_across_rows": 20,
+    "ordinary_identical_titles_multiple_uuid_groups": 1478,
+    "ordinary_buyer_names_per_code_multiple": 34,
+    "publication_date_anunci_after_deadline_rows": 10183,
+    "ordinary_buyer_dir3_placeholder_rows": 1720,
+    "same_uuid_same_publication_multiple_g_rows_groups": 16845
+  },
+  "examples": {
+    "ordinary_buyer_expediente_collision": [],
+    "missing_expediente_multiple_uuid_buckets": [
+      {
+        "buyer": "5798105",
+        "n": 17
+      },
+      {
+        "buyer": "14301168",
+        "n": 10
+      },
+      {
+        "buyer": "202209",
+        "n": 10
+      },
+      {
+        "buyer": "8885209",
+        "n": 10
+      },
+      {
+        "buyer": "15937468",
+        "n": 6
+      },
+      {
+        "buyer": "21714233",
+        "n": 6
+      },
+      {
+        "buyer": "11110",
+        "n": 5
+      },
+      {
+        "buyer": "203711",
+        "n": 4
+      },
+      {
+        "buyer": "3006367",
+        "n": 4
+      },
+      {
+        "buyer": "9205334",
+        "n": 4
+      }
+    ],
+    "ordinary_duplicate_uuid_lot": [
+      {
+        "uuid": "c1b2403b-678f-3402-108e-8eef61e026bc",
+        "lot": "3",
+        "n": 2,
+        "statuses": "Execució"
+      }
+    ],
+    "different_lot_phases": [
+      {
+        "uuid": "0a859be5-1ee8-4c70-97f5-5ac6b6677700",
+        "n": 2,
+        "statuses": "Alerta futura,Anunci de licitació"
+      },
+      {
+        "uuid": "1e7e48b8-430d-4cce-a5f9-dea3ed714a7f",
+        "n": 2,
+        "statuses": "Alerta futura,Anunci de licitació"
+      },
+      {
+        "uuid": "2b0977b0-064c-451c-970b-4be744a0b971",
+        "n": 2,
+        "statuses": "Anunci previ,Anunci de licitació"
+      },
+      {
+        "uuid": "2e471329-f5f0-463f-abf8-d2bf221290b6",
+        "n": 2,
+        "statuses": "Anunci previ,Anunci de licitació"
+      },
+      {
+        "uuid": "333e1b9c-5e7c-4a5e-9132-909d75dc4124",
+        "n": 2,
+        "statuses": "Anunci previ,Anunci de licitació"
+      },
+      {
+        "uuid": "4470f1d2-fa99-4344-a12c-dbb659555055",
+        "n": 2,
+        "statuses": "Anunci previ,Expedient en avaluació"
+      },
+      {
+        "uuid": "4a59a9bb-1948-4c72-bb15-729e769770a0",
+        "n": 2,
+        "statuses": "Anunci previ,Anunci de licitació"
+      },
+      {
+        "uuid": "5ec2d610-14a4-4847-9f73-0ac8b32159b9",
+        "n": 2,
+        "statuses": "Anunci previ,Expedient en avaluació"
+      },
+      {
+        "uuid": "6a1d8345-7d51-488d-bb4b-03d9241e468a",
+        "n": 2,
+        "statuses": "Anunci previ,Anunci de licitació"
+      },
+      {
+        "uuid": "7e6e30fe-31eb-43fc-867a-4364e81efe82",
+        "n": 2,
+        "statuses": "Alerta futura,Adjudicació"
+      }
+    ],
+    "same_title_distinct_procedures": [
+      {
+        "title": "Subministrament i manteniment de llicències de programari de Microsoft",
+        "n": 39,
+        "uuids": "028cd35d-7a3d-4a2f-a674-55d3df309ce7,18556dbe-df9a-4dec-b5c5-6018193e2b77,53748c98-364e-4c90-a02b-c4c28e999ac8,67b48283-9904-4659-958b-93f253d89f1e,a0434ab1-04a3-4c3f-b239-04da2ffff937,df26c732-d9d8-4019-831f-4a9f73934d23,09d45c81-b00c-4872-ab07-c09e975ee08c,0da30275-2820-44bf-be00-077fbe1f9b7b,121458c9-e003-4129-bdaf-bb7772a4b462,2524b9b8-9f8b-4e7d-abdc-ca173f99740a,5b898ff3-3604-421f-a077-d8c9956875e9,6b1fdd4e-5361-4ca2-8de6-d493ca03925a,6cb9a8bc-018f-4ce2-8f80-cbc76220f171,77c2719c-7a48-4351-a2b2-76755eb24a1a,82d1e51e-0437-44a1-a94e-e6f451444338,89c4ed91-8980-40d8-a726-1c69e98d4c93,8d7f774a-f540-447d-ad4b-196adf0433a1,9b552177-090f-4c56-be26-26b57db16923,9db459d0-ee92-4e9e-b98b-23153013e561,a098a5f6-8d50-46e8-b036-cdedafab8b94,a37a31cd-a238-47f1-b98e-ca448e91a139,b2dcabbf-fbd8-4af3-876c-6c2a6555bc85,c4fbb219-ecf5-498a-be5a-9a2300223985,cd5f967f-7e88-4cfa-86f5-8f114b6c5993,d92f33d1-6c72-4413-a496-51689405de30,f8ef773e-72b1-4afe-b4ee-e8d932575e26,f9e7227e-ea1a-4048-9462-3842b9123aeb,0e23186b-fa38-489f-a3a7-06fa3fd8fc63,2822b51f-b424-4ade-8ab2-67eb3f9502ec,72bfe957-1583-4160-b3b4-e755a90f52b5,6fa997e9-095b-42b0-89a4-b07e836a34ad,7f45ab1b-21e7-4d15-b990-ff8b42d854f3,84f2d487-13e0-4f38-802f-68e4f0539d53,e6dada7d-a635-404b-9ed8-fb1813c6c946,1b9ff8bb-c01d-4ddd-8f52-da15bfba5779,4bdae8a0-08df-43b7-aa37-2f9de5c5122c,92b0d8d6-d9da-4350-a21c-a71d31cd580b,750ecc55-ae93-409b-b550-c4e2712d34f1,59252048-9e16-4af7-9c2e-856851148121"
+      },
+      {
+        "title": "Subministrament de Medicaments per a l’Hospital Universitari Vall d’Hebron.",
+        "n": 37,
+        "uuids": "06597c8b-ee39-4f3b-998e-8aeb007cc024,078089de-a611-4828-a1fe-eca184723418,0699b9c0-b57f-4e58-a059-51f8f8acb280,0d2eeb77-41ac-48d2-93d9-9943d05f9a69,1476c454-c084-4ed4-b66e-76b1a9a7fdf2,1df6aadc-460d-41ff-84c4-18f9b8b29f09,1bfef847-932f-461b-81e5-6f11863973c3,20bacfc5-d436-44f4-a588-31ee85d5922c,34a8b6cc-7403-4645-8ea4-0a671fe4dd19,62dfdf98-f318-49a6-a8f8-8dd4a4f61851,6856702a-816f-4f7f-bcb5-a227e663749d,72420fb6-c11e-45b5-9040-2df8a6611ec8,75a3c962-e9ef-4478-9973-806656f6f36c,7986a2e9-5910-4aae-b168-1a1d3494b675,8782af8a-00c3-4cb1-8210-46b03997720a,8ab1824f-7187-4dd3-8073-5096b19e3944,8eadb72f-d1fd-4749-be36-05041c122155,93001d1d-65bb-4499-a619-78929780301e,9bfa2f3b-023f-4ac1-91a4-6e6e4f5f02ad,a564c2b5-22c8-45af-b27c-c165328d79dd,a4dd5179-c69d-4d67-806c-fd57ce464393,a9fc8264-7b6d-42c8-ba0c-8ada9b6afeae,af40cd77-f169-4149-8f03-e9c48a3ee0b3,acdb3677-46a9-412e-b91c-c4aabde4a638,b9576c82-91c5-41ee-b532-6d5aee5ad509,b9e4c23f-2841-4f74-83d0-1c93ca1cf3de,ca31d423-c79c-4217-9cb3-3e67567c7d93,c8655021-187d-4100-969d-d469a15e4710,d61eda47-2bbf-41f8-a772-b047810f0e8f,d6f4d91d-7ed9-4585-a49f-69886727d3a0,ea9f82c7-2e32-4c65-b9f3-d0c316ec0a52,f137759d-4081-47bd-bd9e-43547c411f23,0202ed4d-fdbc-41a6-90ba-d33604d0fdd9,91804b6f-7a47-493c-9006-db01bf4957c3,9c539307-d3a4-4d68-9d46-96ee4bbf2113,efb346b6-1eba-4dbc-b9e5-85d251f908fa,3bba2c83-6d7d-484a-8ff6-821c86f238d1"
+      },
+      {
+        "title": "Subministrament de medicaments per a l’Hospital Universitari Vall d’Hebron.",
+        "n": 30,
+        "uuids": "069ea2c0-6749-45e3-b2e0-a423131ea022,11bd2e40-31ca-47ac-82f5-45e21afefa3f,3b903f70-ae05-4773-9a2d-bb6c8e589dcc,39bf2f30-5482-492d-8bd0-7c8e2918d95d,77f09853-39d8-4945-8f2b-33e44e1fe86c,8412070e-8d0c-4341-adf1-0450bcd576c1,8dc6aa31-ed01-4402-bff0-bc19a02a3a16,a2c4b31e-79b0-4034-82bd-fff38385529a,ba0cd98c-c30a-4032-a727-d45b2e1946b7,c4458ebd-e41b-463a-9c5b-fc711c676197,c7336ac4-3329-4933-83c4-c1c069063311,f6da3024-640f-4d4b-8ea8-298836605752,14e5407c-00dc-446b-b491-2d3bf9bb9ff9,ab79e7cf-eb8b-447c-b6e9-e7365ac18312,a6e84a64-d763-4d20-a27e-9e87c6b18331,1b78dbbf-10a6-4464-9bf2-5481f670df91,3289b822-3283-4a65-b120-c80b8dd71744,73098c2a-a63e-48bf-baeb-e614487f245b,f7d214cf-da0a-4ac9-b796-d528edd6a866,19f46415-8957-4836-ab87-0b5e98a9abe8,1e6e9bd6-664b-4d05-8d67-3ed31ccb1d5e,62a8a2a5-a367-4d20-8ccd-1e0318721e7d,d863cc29-6268-437b-9465-9fe482b0c963,a6f5f9e4-5119-4ed0-b2e5-82cd26ff1aa6,2eda716a-5752-42a2-9789-dfbe928744ca,2379a88a-3214-41ba-885a-d1ebfad0e415,5a4d3a71-e00e-4a21-b8a3-7f0118e26909,44c28572-f186-47c9-9b02-1844827484f0,f46316d7-6be1-4fb6-8103-d26ca3aa71b0,3f948d44-5ee0-4360-abf5-b3afaf29e26b"
+      },
+      {
+        "title": "Subministrament material oficina",
+        "n": 17,
+        "uuids": "3172f28a-000d-4643-b88d-e98f3438c901,330a4bd1-ebcd-493b-b1e3-819deef035a9,36a1efd6-3555-488c-a78e-e5e6132b63d2,37b03c88-f714-475e-ac49-f1d07d1c9ef3,4455af24-a8a3-4df5-b9db-01b5e8ab0a4d,5711d4ab-e265-45ee-9157-804334429913,6fdcaed5-b733-4d62-be11-9d2ad2fa59fc,950cd6aa-b883-4048-b990-4977ee3afce6,99a8269b-bd78-4f79-8fdb-1b6cf7546979,a45c5640-19e0-44b4-b0a3-1d17d4be22e9,bdf20629-79a6-41ea-8d3c-318918dd89d1,e3dfcb79-7124-4135-af69-8e9a8d849ec2,dfe7f6e2-5601-4940-b32f-7a597eab41b8,efbf7fdf-974f-4723-9d28-2d819bcd605a,f73c2b27-6303-4573-9314-5d59cb1d3ad8,fe44cc81-7bf6-4ca2-a376-7701d6b39901,76518f52-19c4-49a0-82b8-b984db652ea7"
+      },
+      {
+        "title": "Emergència PPA-Servei de recollida i gestió de peces de caça",
+        "n": 11,
+        "uuids": "f29d585c-b250-42c3-8e27-64683abb9a77,000d50b4-939a-41f7-9c87-8e37441cf2f8,054bb4b7-586e-4551-aae5-049fa0266cda,198fcdea-b11d-40a4-be20-84989aab64a2,44e65673-ed7d-4aa6-8c80-e771275fe7aa,47c7c1e8-4d63-4297-8c99-469d48c45c37,5c7badf7-0cee-4dbb-9690-fc4cddd4ee78,5eec6215-ddb6-488e-a72d-6db06ed3fcdf,7366a36d-b7d3-4b5a-8aca-0c1e4e128b73,85181e5a-6ed4-4670-b17b-3c718b18075d,07b2c41b-29e8-4e55-9c64-5c471908e4f8"
+      }
+    ],
+    "same_codice_different_ids": [
+      {
+        "content_hash": "00badbe5145a13d33de51f596baea226e5489e7b46789c34fe251c65a6bb5ab9",
+        "n": 2,
+        "ids": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16638289,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16638579"
+      },
+      {
+        "content_hash": "019dec3084befd2dd1a10ac0b1b59a2bebd47da447d4f9b55725a7293bf4c442",
+        "n": 2,
+        "ids": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16638325,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16638615"
+      },
+      {
+        "content_hash": "067dbe716f50d3ee7e46a055efee5825e367d4ba1aa6f0190ac01657488f2863",
+        "n": 2,
+        "ids": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16638267,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16638557"
+      },
+      {
+        "content_hash": "08f24157cff5a9a6d50cec850d9ea2873788a151287f46b1cd53c7d3492c5478",
+        "n": 2,
+        "ids": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16638345,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16638635"
+      },
+      {
+        "content_hash": "0a2ace491748d107a6ed93a1064d5b5bbc35f0363a1e2f511b51b94a5accd4b5",
+        "n": 2,
+        "ids": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16638384,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16638674"
+      },
+      {
+        "content_hash": "0ad9df0af9b46cce096a1f9c9bc964dc0c02c4a4a5680d54794fd79dbd4a2cee",
+        "n": 2,
+        "ids": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16638382,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16638672"
+      },
+      {
+        "content_hash": "0c1e640a591f80c76b012fdc74738c0d1779373644197216f6998b56d377e7d8",
+        "n": 2,
+        "ids": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16638392,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16638682"
+      },
+      {
+        "content_hash": "0c6361e52f256d3fb09176d147adfdb2130b01c77728da246f6d9d171f7f7886",
+        "n": 2,
+        "ids": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16638282,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16638572"
+      },
+      {
+        "content_hash": "0c680b3ab54d10aea26daf7654a098fd84267ebb6988b87a057821264f5cf74e",
+        "n": 2,
+        "ids": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16638248,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16638538"
+      },
+      {
+        "content_hash": "1091e15fae08ef4f783af9d28f1af289bb4c071ed2a183df4c371dd642149fc9",
+        "n": 2,
+        "ids": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16638275,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16638565"
+      }
+    ],
+    "same_id_time_different_hash": [],
+    "placsp_exp_multiple_buyers": [
+      {
+        "expediente": "1/2026",
+        "n": 47,
+        "ids": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18694366,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18798892,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18805812,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18822631,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18822669,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18829560,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18837818,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18891801,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18900598,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18900608,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18921323,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18938238,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18938255,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18946410,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18946456,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18946487,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18968537,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18968538,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18968668,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19004554,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19021624,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19062709,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19105678,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19125258,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19192513,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19231545,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19276488,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19307459,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19307568,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19375285,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19424534,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19436422,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19490936,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19546321,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19601105,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19622434,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19640747,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19649765,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19701104,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19817627,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19882704,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19921609,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20122831,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20132771,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20132972,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20366441,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20374968"
+      },
+      {
+        "expediente": "1/2025",
+        "n": 47,
+        "ids": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16463724,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16463802,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16484495,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16496070,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16496090,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16581082,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16581107,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16619356,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16651790,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16705848,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16705873,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16705915,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16748563,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16769823,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16825993,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16834019,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16841993,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16842056,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16842137,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16862818,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16863048,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16863086,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16915692,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16984545,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16984646,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16993165,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17063309,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17079349,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17143782,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17181404,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17186721,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17197016,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17224786,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17226283,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17285973,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17385690,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17478202,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17544058,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17551725,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17576139,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17624442,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17683660,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17735393,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17750172,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17757377,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18815648,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19611317"
+      },
+      {
+        "expediente": "2/2025",
+        "n": 30,
+        "ids": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16484538,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16496083,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16508295,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16627407,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16651745,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16769818,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16863080,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16887281,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16915660,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16930510,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16947718,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16947871,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16962858,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16962978,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17045893,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17098271,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17128844,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17196974,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17208153,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17235415,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17278135,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17339641,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17591872,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17675319,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17820939,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17836432,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18044514,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18070351,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18453513,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19896967"
+      },
+      {
+        "expediente": "01/2025",
+        "n": 24,
+        "ids": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16426445,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16426447,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16496075,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16627409,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16691151,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16691167,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16691234,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16705890,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16715159,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16770075,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16799851,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16930391,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16984554,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17064847,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17079357,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17098268,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17285962,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17367309,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17406837,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17478303,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17698866,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17764476,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17919069,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18004236"
+      },
+      {
+        "expediente": "2/2026",
+        "n": 23,
+        "ids": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18822668,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18829482,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18891929,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18993498,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19081349,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19105739,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19105749,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19135864,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19183775,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19276459,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19326550,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19554578,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19611352,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19631215,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19667649,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19757409,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19802693,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19802739,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19914306,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19935197,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20126857,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20132545,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20194102"
+      },
+      {
+        "expediente": "02/2025",
+        "n": 21,
+        "ids": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16517190,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16619284,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16705888,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16715198,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16826089,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16842086,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16873753,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16984691,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17064843,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17107117,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17170033,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17191372,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17211049,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17271764,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17285834,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17293054,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17414927,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17576125,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18223708,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18798329,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19935199"
+      },
+      {
+        "expediente": "4/2026",
+        "n": 20,
+        "ids": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18900597,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18968602,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18977145,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19053217,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19053487,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19125331,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19261829,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19269873,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19352375,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19453262,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19537987,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19591537,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19767629,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19865990,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19921597,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20133711,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20133758,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20272379,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20283650,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20358074"
+      },
+      {
+        "expediente": "01/2026",
+        "n": 18,
+        "ids": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18798113,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18959940,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18977207,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18998176,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19004543,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19053488,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19105741,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19125251,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19212045,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19252065,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19407560,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19529561,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19546265,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19583196,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19876055,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19953072,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20261437,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20450412"
+      },
+      {
+        "expediente": "6/2025",
+        "n": 17,
+        "ids": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16589429,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16826101,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16833922,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16863065,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16907988,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16939279,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16984605,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17015348,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17055419,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17285845,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17293061,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18223037,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18223204,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18400526,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18521276,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18585139,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19004619"
+      },
+      {
+        "expediente": "4/2025",
+        "n": 17,
+        "ids": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16647813,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16660754,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16769876,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16947838,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16984551,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17029873,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17115378,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17176840,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17243761,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17719758,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17831121,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18085871,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18100345,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18138166,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18224350,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18389650,https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18498345"
+      }
+    ]
+  },
+  "placsp_unique_buyer_identifier_bundles": 1885,
+  "placsp_geography": {
+    "execution_barcelona_ES511": 119122,
+    "catalan_origin_without_ES51_execution": 1176,
+    "buyer_postcode_08": 20216
+  },
+  "gencat_presence_by_aggregation": {
+    "NO": {
+      "rows": 88077,
+      "fields": {
+        "expediente": {
+          "count": 87914,
+          "percent": 99.8149
+        },
+        "buyer_identifier": {
+          "count": 88077,
+          "percent": 100.0
+        },
+        "buyer_nif": {
+          "count": 0,
+          "percent": 0.0
+        },
+        "supplier_identifier": {
+          "count": 67558,
+          "percent": 76.7033
+        },
+        "cpv": {
+          "count": 87166,
+          "percent": 98.9657
+        },
+        "budget_any_scope": {
+          "count": 86074,
+          "percent": 97.7259
+        },
+        "budget_procedure": {
+          "count": 86031,
+          "percent": 97.677
+        },
+        "estimated_value_any_scope": {
+          "count": 87776,
+          "percent": 99.6583
+        },
+        "estimated_value_procedure": {
+          "count": 87776,
+          "percent": 99.6583
+        },
+        "deadline": {
+          "count": 78501,
+          "percent": 89.1277
+        },
+        "execution_location": {
+          "count": 87707,
+          "percent": 99.5799
+        },
+        "status": {
+          "count": 88077,
+          "percent": 100.0
+        },
+        "source_link": {
+          "count": 88077,
+          "percent": 100.0
+        },
+        "phase_json_link": {
+          "count": 88077,
+          "percent": 100.0
+        },
+        "award_information": {
+          "count": 67559,
+          "percent": 76.7045
+        },
+        "winner": {
+          "count": 67558,
+          "percent": 76.7033
+        }
+      }
+    },
+    "SÍ": {
+      "rows": 982892,
+      "fields": {
+        "expediente": {
+          "count": 982892,
+          "percent": 100.0
+        },
+        "buyer_identifier": {
+          "count": 982892,
+          "percent": 100.0
+        },
+        "buyer_nif": {
+          "count": 0,
+          "percent": 0.0
+        },
+        "supplier_identifier": {
+          "count": 982892,
+          "percent": 100.0
+        },
+        "cpv": {
+          "count": 802347,
+          "percent": 81.6312
+        },
+        "budget_any_scope": {
+          "count": 833243,
+          "percent": 84.7746
+        },
+        "budget_procedure": {
+          "count": 0,
+          "percent": 0.0
+        },
+        "estimated_value_any_scope": {
+          "count": 865633,
+          "percent": 88.07
+        },
+        "estimated_value_procedure": {
+          "count": 0,
+          "percent": 0.0
+        },
+        "deadline": {
+          "count": 0,
+          "percent": 0.0
+        },
+        "execution_location": {
+          "count": 812018,
+          "percent": 82.6152
+        },
+        "status": {
+          "count": 982892,
+          "percent": 100.0
+        },
+        "source_link": {
+          "count": 982892,
+          "percent": 100.0
+        },
+        "phase_json_link": {
+          "count": 982892,
+          "percent": 100.0
+        },
+        "award_information": {
+          "count": 982892,
+          "percent": 100.0
+        },
+        "winner": {
+          "count": 982892,
+          "percent": 100.0
+        }
+      }
+    }
+  },
+  "gencat_identity_excluded_duplication": {
+    "extra_exact_content_rows": 367,
+    "extra_whitespace_normalized_rows": 368,
+    "example_source_id_pairs": [
+      [
+        "03534917-ccb3-47dd-8a86-4ac31bff4224_309543577",
+        "03534917-ccb3-47dd-8a86-4ac31bff4224_309543578"
+      ],
+      [
+        "04458476-55e4-4b54-829e-884665fdba62_308611286",
+        "04458476-55e4-4b54-829e-884665fdba62_308611287"
+      ],
+      [
+        "04458476-55e4-4b54-829e-884665fdba62_308611412",
+        "04458476-55e4-4b54-829e-884665fdba62_308611413"
+      ],
+      [
+        "04458476-55e4-4b54-829e-884665fdba62_308611413",
+        "04458476-55e4-4b54-829e-884665fdba62_308611414"
+      ],
+      [
+        "04458476-55e4-4b54-829e-884665fdba62_308611414",
+        "04458476-55e4-4b54-829e-884665fdba62_308611415"
+      ],
+      [
+        "04458476-55e4-4b54-829e-884665fdba62_308611415",
+        "04458476-55e4-4b54-829e-884665fdba62_308611416"
+      ],
+      [
+        "04458476-55e4-4b54-829e-884665fdba62_308611416",
+        "04458476-55e4-4b54-829e-884665fdba62_308611417"
+      ],
+      [
+        "04458476-55e4-4b54-829e-884665fdba62_308611417",
+        "04458476-55e4-4b54-829e-884665fdba62_308611418"
+      ],
+      [
+        "04458476-55e4-4b54-829e-884665fdba62_308611418",
+        "04458476-55e4-4b54-829e-884665fdba62_308611419"
+      ],
+      [
+        "04458476-55e4-4b54-829e-884665fdba62_308611468",
+        "04458476-55e4-4b54-829e-884665fdba62_308611469"
+      ]
+    ],
+    "excluded_fields": [
+      "id_intern",
+      ":id",
+      ":created_at",
+      ":updated_at"
+    ],
+    "warning": "Equal content does not prove duplicate contracts; aggregate batches can contain legitimately indistinguishable business payloads."
+  },
+  "gencat_comparable_presence": {
+    "expediente": {
+      "count": 1070806,
+      "percent": 99.9848
+    },
+    "buyer_identifier": {
+      "count": 1070969,
+      "percent": 100.0
+    },
+    "buyer_nif": {
+      "count": 0,
+      "percent": 0.0
+    },
+    "supplier_identifier": {
+      "count": 1050450,
+      "percent": 98.0841
+    },
+    "cpv": {
+      "count": 889513,
+      "percent": 83.0568
+    },
+    "budget_any_scope": {
+      "count": 919317,
+      "percent": 85.8397
+    },
+    "budget_procedure": {
+      "count": 86031,
+      "percent": 8.033
+    },
+    "estimated_value_any_scope": {
+      "count": 953409,
+      "percent": 89.023
+    },
+    "estimated_value_procedure": {
+      "count": 87776,
+      "percent": 8.1959
+    },
+    "deadline": {
+      "count": 78501,
+      "percent": 7.3299
+    },
+    "execution_location": {
+      "count": 899725,
+      "percent": 84.0104
+    },
+    "status": {
+      "count": 1070969,
+      "percent": 100.0
+    },
+    "source_link": {
+      "count": 1070969,
+      "percent": 100.0
+    },
+    "phase_json_link": {
+      "count": 1070969,
+      "percent": 100.0
+    },
+    "award_information": {
+      "count": 1050451,
+      "percent": 98.0842
+    },
+    "winner": {
+      "count": 1050450,
+      "percent": 98.0841
+    }
+  },
+  "same_publication_timestamp_difference_proxy": {
+    "pairs": 50115,
+    "negative": 27,
+    "median_seconds": 5269.895,
+    "min_seconds": -8046950.969,
+    "max_seconds": 33877929.048,
+    "negative_examples": [
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/12463597",
+        "updated": "2025-09-22T16:07:57.624+02:00",
+        "gencat_latest_publication_time": "2025-09-23T09:40:00.000",
+        "publication_id": "300479837",
+        "seconds": -63122.376
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/15035202",
+        "updated": "2025-01-02T15:02:06.665+01:00",
+        "gencat_latest_publication_time": "2025-02-05T09:44:00.000",
+        "publication_id": "300342426",
+        "seconds": -2918513.335
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/15193008",
+        "updated": "2026-05-27T12:09:26.416+02:00",
+        "gencat_latest_publication_time": "2026-05-28T14:02:00.000",
+        "publication_id": "300786757",
+        "seconds": -93153.584
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/15435006",
+        "updated": "2025-01-03T13:00:04.741+01:00",
+        "gencat_latest_publication_time": "2025-02-14T12:56:00.000",
+        "publication_id": "300343001",
+        "seconds": -3628555.259
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/15865037",
+        "updated": "2025-01-11T11:51:11.382+01:00",
+        "gencat_latest_publication_time": "2025-02-20T16:58:00.000",
+        "publication_id": "300275254",
+        "seconds": -3474408.618
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16242328",
+        "updated": "2025-02-26T14:06:43.519+01:00",
+        "gencat_latest_publication_time": "2025-03-17T11:42:00.000",
+        "publication_id": "300385243",
+        "seconds": -1632916.481
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16406263",
+        "updated": "2026-07-03T18:01:00.831+02:00",
+        "gencat_latest_publication_time": "2026-07-06T13:50:00.000",
+        "publication_id": "300809458",
+        "seconds": -244139.169
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17332608",
+        "updated": "2026-04-17T12:04:52.303+02:00",
+        "gencat_latest_publication_time": "2026-05-04T09:40:00.000",
+        "publication_id": "300750838",
+        "seconds": -1460107.697
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18059075",
+        "updated": "2026-02-09T20:01:48.418+01:00",
+        "gencat_latest_publication_time": "2026-02-10T09:22:00.000",
+        "publication_id": "300687038",
+        "seconds": -48011.582
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/18921399",
+        "updated": "2026-04-07T12:06:09.031+02:00",
+        "gencat_latest_publication_time": "2026-07-09T15:22:00.000",
+        "publication_id": "300740425",
+        "seconds": -8046950.969
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19399475",
+        "updated": "2026-06-12T18:00:52.537+02:00",
+        "gencat_latest_publication_time": "2026-07-08T13:58:00.000",
+        "publication_id": "300803510",
+        "seconds": -2231827.463
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20350694",
+        "updated": "2026-08-28T00:00:03.905+02:00",
+        "gencat_latest_publication_time": "2026-09-17T17:16:00.000",
+        "publication_id": "300869210",
+        "seconds": -1790156.095
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20358026",
+        "updated": "2026-08-27T14:05:32.039+02:00",
+        "gencat_latest_publication_time": "2026-09-15T10:12:00.000",
+        "publication_id": "300868988",
+        "seconds": -1627587.961
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20358783",
+        "updated": "2026-08-28T16:02:55.773+02:00",
+        "gencat_latest_publication_time": "2026-09-14T17:00:00.000",
+        "publication_id": "300868752",
+        "seconds": -1472224.227
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20362412",
+        "updated": "2026-08-31T10:02:33.362+02:00",
+        "gencat_latest_publication_time": "2026-09-10T13:42:00.000",
+        "publication_id": "300852218",
+        "seconds": -877166.638
+      }
+    ],
+    "warning": "Not measured network arrival latency. Uses latest non-null publication column per representative Gencat row; floating times interpreted as Europe/Madrid, which is supported by phase samples but not a universal guarantee."
+  },
+  "fuzzy_candidate_experiment": {
+    "blocking": "exact punctuation-stripped expediente, previously unmatched latest PLACSP UUID; buyer or title SequenceMatcher >= .8",
+    "candidate_pairs": 12,
+    "placsp_ids": 11,
+    "examples": [
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/15632941",
+        "gencat_uuid": "5d96c294-93f0-4d38-8047-20f01b34d846",
+        "expediente": "288/2024",
+        "buyer_similarity": 0.8302,
+        "title_similarity": 0.0132,
+        "procedure_budget_equal": false,
+        "automatic_merge": false
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16610811",
+        "gencat_uuid": "f439f077-c0e5-49d1-9e92-bdec772866f9",
+        "expediente": "EME 25/080",
+        "buyer_similarity": 1.0,
+        "title_similarity": 0.56,
+        "procedure_budget_equal": true,
+        "automatic_merge": false
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16930489",
+        "gencat_uuid": "6ef4b7de-4a4c-446b-8fe0-5ea38cac0a67",
+        "expediente": "107/2025",
+        "buyer_similarity": 0.4054,
+        "title_similarity": 1.0,
+        "procedure_budget_equal": true,
+        "automatic_merge": false
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16947904",
+        "gencat_uuid": "e8013fe6-bbb8-46f1-b335-3a43b8261781",
+        "expediente": "257/2024",
+        "buyer_similarity": 0.8,
+        "title_similarity": 0.2722,
+        "procedure_budget_equal": false,
+        "automatic_merge": false
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17698811",
+        "gencat_uuid": "d4e300c5-d6dd-4e27-9a38-2c465e4ac32a",
+        "expediente": "280/2025(2025ELOC0001)",
+        "buyer_similarity": 1.0,
+        "title_similarity": 0.525,
+        "procedure_budget_equal": true,
+        "automatic_merge": false
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17960265",
+        "gencat_uuid": "581023b2-388b-4af6-b17b-5954d5953324",
+        "expediente": "13/2025",
+        "buyer_similarity": 0.8974,
+        "title_similarity": 0.1935,
+        "procedure_budget_equal": false,
+        "automatic_merge": false
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17960265",
+        "gencat_uuid": "7c36db17-af3d-446a-8c1c-f5a9de9a10d1",
+        "expediente": "13/2025",
+        "buyer_similarity": 0.8861,
+        "title_similarity": 0.1667,
+        "procedure_budget_equal": false,
+        "automatic_merge": false
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19239645",
+        "gencat_uuid": "1b92ec40-d2c0-417d-9aa0-9f80894c6c89",
+        "expediente": "ERPC-2026-3",
+        "buyer_similarity": 1.0,
+        "title_similarity": 0.6319,
+        "procedure_budget_equal": true,
+        "automatic_merge": false
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19399502",
+        "gencat_uuid": "47fd0610-6256-4f38-8ac7-83143f43ace6",
+        "expediente": "12/2026",
+        "buyer_similarity": 0.8675,
+        "title_similarity": 0.2807,
+        "procedure_budget_equal": false,
+        "automatic_merge": false
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19889761",
+        "gencat_uuid": "ec2314f2-aeaf-49ed-93b8-6b62531656c2",
+        "expediente": "26/003",
+        "buyer_similarity": 0.5455,
+        "title_similarity": 1.0,
+        "procedure_budget_equal": true,
+        "automatic_merge": false
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/7911175",
+        "gencat_uuid": "9e36f3b9-cef8-7563-e625-9ced1bd64b28",
+        "expediente": "BCP 319/20",
+        "buyer_similarity": 1.0,
+        "title_similarity": 0.5128,
+        "procedure_budget_equal": true,
+        "automatic_merge": false
+      },
+      {
+        "placsp_id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/18670781",
+        "gencat_uuid": "f42e51a1-9974-4cac-9015-996488221574",
+        "expediente": "5427/2025",
+        "buyer_similarity": 0.716,
+        "title_similarity": 0.8851,
+        "procedure_budget_equal": false,
+        "automatic_merge": false
+      }
+    ],
+    "warning": "Exploratory uncalibrated thresholds, not estimated precision or proof of identity."
+  }
+}

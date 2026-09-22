@@ -1,0 +1,235 @@
+[
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20283724",
+    "updated": "2026-08-11T10:02:29.069+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/4b131001-63ad-4eac-a80a-ab91c3a9f366/300837018",
+    "uuid": "4b131001-63ad-4eac-a80a-ab91c3a9f366",
+    "publication_id": "300837018",
+    "expediente": "905451/26",
+    "title": "Servicios de tratamiento de la fracción vegetal municipal procedente de los municipios del AMB",
+    "status": "PUB",
+    "buyer_name": "Àrea Metropolitana de Barcelona",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "28027859"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "949509.1",
+    "budget_gross": null,
+    "estimated_value": "2183870.93",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "90513000"
+    ],
+    "execution_nuts": [
+      "ES511"
+    ],
+    "execution_names": [],
+    "deadline_date": "2026-09-14",
+    "deadline_time": "14:00:00",
+    "procedure_type": "1",
+    "lots": [],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2026-08-11",
+          "2026-08-11"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "905451-26 Plec Administratiu.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/302448565/BAB2F1E0BDE82DCE3E975F7C2857BD1A"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "905451-26 Plec tècnic.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/302448566/FC93F5E7DFD68DA43B394AB9D5EF76BF"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2026.zip",
+    "member": "PlataformasAgregadasSinMenores_20260812_030033.atom",
+    "ordinal": 451
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20283724",
+    "updated": "2026-09-17T22:00:04.660+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/4b131001-63ad-4eac-a80a-ab91c3a9f366/300885990",
+    "uuid": "4b131001-63ad-4eac-a80a-ab91c3a9f366",
+    "publication_id": "300885990",
+    "expediente": "905451/26",
+    "title": "Servicios de tratamiento de la fracción vegetal municipal procedente de los municipios del AMB",
+    "status": "EV",
+    "buyer_name": "Àrea Metropolitana de Barcelona",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "28027859"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "949509.1",
+    "budget_gross": null,
+    "estimated_value": "2183870.93",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "90513000"
+    ],
+    "execution_nuts": [
+      "ES511"
+    ],
+    "execution_names": [],
+    "deadline_date": "2026-09-14",
+    "deadline_time": "14:00:00",
+    "procedure_type": "1",
+    "lots": [],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2026-08-11"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "905451-26 Plec Administratiu.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/302601952/BAB2F1E0BDE82DCE3E975F7C2857BD1A"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "905451-26 Plec tècnic.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/302601953/FC93F5E7DFD68DA43B394AB9D5EF76BF"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2026.zip",
+    "member": "PlataformasAgregadasSinMenores_20260920_030048_1.atom",
+    "ordinal": 407
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20283724",
+    "updated": "2026-09-21T22:00:26.651+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/4b131001-63ad-4eac-a80a-ab91c3a9f366/300888482",
+    "uuid": "4b131001-63ad-4eac-a80a-ab91c3a9f366",
+    "publication_id": "300888482",
+    "expediente": "905451/26",
+    "title": "Servicios de tratamiento de la fracción vegetal municipal procedente de los municipios del AMB",
+    "status": "EV",
+    "buyer_name": "Àrea Metropolitana de Barcelona",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "28027859"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "949509.1",
+    "budget_gross": null,
+    "estimated_value": "2183870.93",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "90513000"
+    ],
+    "execution_nuts": [
+      "ES511"
+    ],
+    "execution_names": [],
+    "deadline_date": "2026-09-14",
+    "deadline_time": "14:00:00",
+    "procedure_type": "1",
+    "lots": [],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2026-08-11"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "905451-26 Plec Administratiu.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/302601952/BAB2F1E0BDE82DCE3E975F7C2857BD1A"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "905451-26 Plec tècnic.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/302601953/FC93F5E7DFD68DA43B394AB9D5EF76BF"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2026.zip",
+    "member": "PlataformasAgregadasSinMenores.atom",
+    "ordinal": 25
+  }
+]

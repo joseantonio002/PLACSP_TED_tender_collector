@@ -1,0 +1,319 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "SCS-2025-122",
+  "idExpedient": "00c79486-0c0d-41f8-8ed6-2097f449a999",
+  "dataPublicacioPlanificada": "2025-02-10T11:30:00.000Z",
+  "organ": {
+    "nom": "Servei Català de la Salut (CatSalut)",
+    "unitat": "Divisió de provisió de serveis  de l'Àrea Assistencial",
+    "personesContacte": [],
+    "centralCompres": false,
+    "tipusPoderAdjudicador": 1500006,
+    "activitatPrincipal": "Sanitat",
+    "organContractacioId": 204113
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000043,
+      "ca": "Formalització",
+      "es": "Formalización",
+      "en": "Formalisation",
+      "oc": "Formalizacion"
+    },
+    "expedientId": "00c79486-0c0d-41f8-8ed6-2097f449a999",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000043,
+        "ca": "Formalització",
+        "es": "Formalización",
+        "en": "Formalisation",
+        "oc": "Formalizacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "SCS-2025-122",
+      "denominacio": {
+        "ca": "SCS-2025-122. CE RHB C1 Anoia"
+      },
+      "descripcio": {
+        "ca": "Contractació d'emergència dels serveis de rehabilitació física i de logopèdia en la modalitat ambulatòria i domiciliaria a l'àmbit de l'Anoia."
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 469,
+        "ca": "Emergència",
+        "es": "Emergencia",
+        "en": "Emergency",
+        "oc": "Emergéncia"
+      },
+      "unitatContractacio": 3132087,
+      "tipusContracte": {
+        "id": 393,
+        "ca": "Serveis",
+        "es": "Servicios",
+        "en": "Services",
+        "oc": "Servicis"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 11386,
+        "ca": "Altres",
+        "es": "Otros",
+        "en": "Others",
+        "oc": "D’auti"
+      },
+      "descripcioAltres": {
+        "ca": "Correu electrònic"
+      },
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {},
+      "metodologiaBim": false
+    },
+    "dadesPublicacio": {
+      "observacions": {},
+      "contractacioConjunta": false,
+      "justificacioProcedimentUtilitzat": {},
+      "contracteFinancatUe": false,
+      "valorEstimatContracte": 465995.24
+    },
+    "dadesPublicacioLot": [
+      {
+        "publicacioExpedientId": 300371580,
+        "codisCpv": [],
+        "cpvPrincipal": {
+          "codi": "85312500-4",
+          "ca": "Serveis de rehabilitació",
+          "es": "Servicios de rehabilitación",
+          "en": "Rehabilitation services",
+          "oc": "Servicis de reabilitacion"
+        },
+        "cpvsSecundaris": [],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña"
+        },
+        "dataAdjudicacio": "2024-12-10T23:00:00.000Z",
+        "dataFormalitzacio": "2024-12-12T23:00:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {},
+        "criterisAdjudicacio": [],
+        "teDiversosCriterisAdjudicacio": false,
+        "totalOfertesRebudes": 1,
+        "ofertesRebudesEconomics": 1,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 1,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "UTE Fundació Sanitària Sant Josep i Fisioteràpia, SA,",
+            "tipusIdentificador": {
+              "id": 11162,
+              "ca": "UTE",
+              "es": "UTE",
+              "en": "UTE (temporary consortium)",
+              "oc": "UTE"
+            },
+            "identificador": "U65918468",
+            "telefon": "935131690",
+            "email": "callcenter@fisiogestion.com",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "importAdjudicacioSenseIva": 465995.24,
+            "importAdjudicacioAmbIva": 465995.24,
+            "iva": 0,
+            "varisTipusIva": false,
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona"
+            },
+            "municipi": {
+              "id": 1001031,
+              "ca": "Igualada"
+            },
+            "tercerSector": {
+              "id": 1008406,
+              "ca": "No tercer sector"
+            },
+            "informacioUte": [
+              {
+                "denominacioEmpresaUte": "Fundació Sanitària Sant Josep",
+                "tipusIdentificador": {
+                  "id": 542,
+                  "ca": "NIF",
+                  "en": "NIF (Tax Identification Number)",
+                  "oc": "NIF"
+                },
+                "identificadorUte": "G61783106",
+                "participacioEmpresa": 18.96,
+                "pais": {
+                  "id": 65,
+                  "ca": "Espanya",
+                  "es": "España",
+                  "en": "Spain"
+                },
+                "provincia": {
+                  "id": 303,
+                  "ca": "Barcelona",
+                  "es": "Barcelona"
+                },
+                "municipi": {
+                  "id": 1001031,
+                  "ca": "Igualada"
+                }
+              },
+              {
+                "denominacioEmpresaUte": "Fisioteràpia, SA",
+                "tipusIdentificador": {
+                  "id": 542,
+                  "ca": "NIF",
+                  "en": "NIF (Tax Identification Number)",
+                  "oc": "NIF"
+                },
+                "identificadorUte": "A08774069",
+                "participacioEmpresa": 81.04,
+                "pais": {
+                  "id": 65,
+                  "ca": "Espanya",
+                  "es": "España",
+                  "en": "Spain"
+                },
+                "provincia": {
+                  "id": 303,
+                  "ca": "Barcelona",
+                  "es": "Barcelona"
+                },
+                "municipi": {
+                  "id": 1000948,
+                  "ca": "Barcelona"
+                }
+              }
+            ],
+            "plurianualitats": []
+          }
+        ],
+        "subcontractacio": false,
+        "subcontractacions": [],
+        "metodeCalcularValorEstimat": {},
+        "peuDeRecurs": {},
+        "adrecaEnllacMesInformacioRecurs": {},
+        "condicionsEconomiquesConcessio": [],
+        "publicacionsOficials": [],
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 301072912,
+              "titol": "0_utefundsantjosepifisioterapiasa_lotc1_contracteemergencia_signed.pdf",
+              "path": "qET1iqITLFwjSQCh0jyDGSrbqq97p8f_eXRjSvVdhS1_QYPIABfGf43wlwc9UB2WFs3cL-0lSlpXMhJ6aFVM8yw_kVNLghE_HKGkjMoA1RelK4AVBNcitKRTBpK61-TEZboGGr1CRskReoH8wLCrxjdmTMKlEFwwAiiUP0pOComg_k11hOo-wOyGVkAapftRVS7Tx6udPg0iBiD2ug0pnsbPZmfcrSYKvs08lQzA2jPYnJ8389q535S4OMwrwhun3ViauDF9f6uUFy-dPa8zCTnBwIA0kv3BZkGtx_PIbZZ85NdjyKqrw7vp075w5ycoVZr9K6j69o2ZJ8rndPo6yw==",
+              "hash": "E83665D145F5E415AA2827DFC2D55594",
+              "idioma": "ca",
+              "mida": 380800
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [
+            {
+              "id": 301072915,
+              "titol": "1_utefundsantjosepifisioterapiasa_lotc1_signed.pdf",
+              "path": "sbkUwzm5iqPwALJUevlP-YJhE0kVqU8xGyjelxkhsIz8Eg_E_g5V-c4RBNrVWMJimjD6nwMaUUJNYON39XU6eIOlPJMhvPCYTrfihF8XpMJ8AsNAqn1xH-HcMb9IJpwzYgKpxTfFXFH9pzvfmVnHTl--Noi2uTjIL23GYCZGwIMo6FHKhEjQg4lzbOMbcaIyUiEMpGqtM0pkU_a_Ox2bM9nXVOBXRJnEpKOt1LkLKMjhhnaF_bIJy7kYXPxqvC8V4VYII2mmzrLFaaR_b1inbe3ngh_897BVHtq6pKWku_HFRBZybLr0haNn2cFbpI39lNoiMB9wFai-bfc-i3xmVw==",
+              "hash": "6F821F124842E3A6E9EAB3BBE1F989EE",
+              "idioma": "ca",
+              "mida": 140585
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2024-12-31T23:00:00.000Z",
+        "fiTerminiExecucio": "2025-12-30T23:00:00.000Z",
+        "observacionsTermini": {},
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": true,
+        "estudisDictamens": false,
+        "clausulaLinguistica": false,
+        "clausulaEtica": true
+      }
+    ],
+    "dadesExpedient": {
+      "organContractacioId": 204113,
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "00c79486-0c0d-41f8-8ed6-2097f449a999",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "denominacioExpedientReferencia": {}
+    },
+    "motiuEsmena": {}
+  },
+  "pathPdf": "OM5ue8DbMWlhcadK3kT1ybWEEWEl0uipbEKT8nEZpEG2fJFYbbmOeo79WMjs4hXDWWqgpkanrzAXX75Or7Wv-afux5Vp3T3WwsiHjYkd0QZbOd8MsKYiTrBbLFzEzOY4oJLBnj_Is2hYU-g6ZLuYgmKigLQpWp8aeAKqrVFThmdVWwsXQ3BC8wLCml45fkSBt_mx-13wszRSvg-iMXMcLEuPSxXnqR1IMsEz2yvCFPlIQxpxveb3J6_mu1xTI6UjFq2pkCRITdBkedU7-NBd8xSCArRHshQJ4rTbHWOTX3ZvY-k58q_AcXyTpNprXdYH6hNnRIti7EHjF1BufdywVg==",
+  "pathCertificacio": "jCXShRUrTkW2f8y6XlYMMs4FSX-X1KdTmDAaAeJnEodE75GN4fPpW_6cBBVqJRd8jDPaEgZtyVNM2i-pMLWv8qzYJPLlxiP5gP-ND0p7WKMuw-uP3TEoCDnUatxmLVpwaREY2GisldvDOJvtUb5NWSv1tOHVEsfhIwT-0bicrwsz5OnRMPwgrCH5XX0cC7pipllJAiGoJjeUjElqKsHS6Fj8OwiaC9bX33LsU1k2r4sIHvCyr0MmRtkK_l-8al-SwJhINmlM5UU7V8z3T_DRU8kkhJ9fK2sKLO61yaf-trCKWF49RM6K4Yf2hLg8s5V7pQk-Ox2gs67kQ_rtctCxNw==",
+  "pathJson": "pLEamOHhnHHW7ynaf2mVfCOZxTO1UmOcfR3xur2BGorkVhmm_yx-aHjuG-AQprrQv5YrW2iQpxHPwR4RSaefBoQi1qf8y-EMljmh3Xvo0ywx1ta4LoqK7RmAwszdvaJOTloLJQ4eHP0qCfAVlsksRXdGVazRANfnXmKj1YpbdHpHjztLIai4SGsgIuNKmixuUpW99F6p1TBKs_jK1cNJpe3iMi8wUQkjRHqDdZv9VRSVNtc1Spa0cL4J_q0EuJHXTf7GUJjIRANaY2Z-MtrCfwA2NZoLIJppua3B1cBibf6CyfN7Vq28iYZErQZM5-jkq169rNG0LMO7UtzaZasuwQ==",
+  "dataPublicacioReal": "2025-02-10T11:30:13.926Z",
+  "dadesExpedient": {
+    "organContractacioId": 204113,
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "expedientId": "00c79486-0c0d-41f8-8ed6-2097f449a999",
+    "dataFiPublicacioPerfil": null,
+    "dataFiGestio": null,
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "tenderingSpaceId": null,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": null,
+    "dataVisiblePortalAccesExclusiu": null,
+    "expedientIdReferencia": null,
+    "codiExpedientReferencia": null,
+    "denominacioExpedientReferencia": {
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "nomOrganContractacioReferencia": null
+  }
+}

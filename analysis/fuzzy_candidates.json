@@ -1,0 +1,110 @@
+[
+  {
+    "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/15632941",
+    "gencat_uuid": "5d96c294-93f0-4d38-8047-20f01b34d846",
+    "expediente": "288/2024",
+    "buyer_similarity": 0.8302,
+    "title_similarity": 0.0132,
+    "procedure_budget_equal": false,
+    "automatic_merge": false
+  },
+  {
+    "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16610811",
+    "gencat_uuid": "f439f077-c0e5-49d1-9e92-bdec772866f9",
+    "expediente": "EME 25/080",
+    "buyer_similarity": 1.0,
+    "title_similarity": 0.56,
+    "procedure_budget_equal": true,
+    "automatic_merge": false
+  },
+  {
+    "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16930489",
+    "gencat_uuid": "6ef4b7de-4a4c-446b-8fe0-5ea38cac0a67",
+    "expediente": "107/2025",
+    "buyer_similarity": 0.4054,
+    "title_similarity": 1.0,
+    "procedure_budget_equal": true,
+    "automatic_merge": false
+  },
+  {
+    "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16947904",
+    "gencat_uuid": "e8013fe6-bbb8-46f1-b335-3a43b8261781",
+    "expediente": "257/2024",
+    "buyer_similarity": 0.8,
+    "title_similarity": 0.2722,
+    "procedure_budget_equal": false,
+    "automatic_merge": false
+  },
+  {
+    "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17698811",
+    "gencat_uuid": "d4e300c5-d6dd-4e27-9a38-2c465e4ac32a",
+    "expediente": "280/2025(2025ELOC0001)",
+    "buyer_similarity": 1.0,
+    "title_similarity": 0.525,
+    "procedure_budget_equal": true,
+    "automatic_merge": false
+  },
+  {
+    "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17960265",
+    "gencat_uuid": "581023b2-388b-4af6-b17b-5954d5953324",
+    "expediente": "13/2025",
+    "buyer_similarity": 0.8974,
+    "title_similarity": 0.1935,
+    "procedure_budget_equal": false,
+    "automatic_merge": false
+  },
+  {
+    "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17960265",
+    "gencat_uuid": "7c36db17-af3d-446a-8c1c-f5a9de9a10d1",
+    "expediente": "13/2025",
+    "buyer_similarity": 0.8861,
+    "title_similarity": 0.1667,
+    "procedure_budget_equal": false,
+    "automatic_merge": false
+  },
+  {
+    "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19239645",
+    "gencat_uuid": "1b92ec40-d2c0-417d-9aa0-9f80894c6c89",
+    "expediente": "ERPC-2026-3",
+    "buyer_similarity": 1.0,
+    "title_similarity": 0.6319,
+    "procedure_budget_equal": true,
+    "automatic_merge": false
+  },
+  {
+    "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19399502",
+    "gencat_uuid": "47fd0610-6256-4f38-8ac7-83143f43ace6",
+    "expediente": "12/2026",
+    "buyer_similarity": 0.8675,
+    "title_similarity": 0.2807,
+    "procedure_budget_equal": false,
+    "automatic_merge": false
+  },
+  {
+    "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/19889761",
+    "gencat_uuid": "ec2314f2-aeaf-49ed-93b8-6b62531656c2",
+    "expediente": "26/003",
+    "buyer_similarity": 0.5455,
+    "title_similarity": 1.0,
+    "procedure_budget_equal": true,
+    "automatic_merge": false
+  },
+  {
+    "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/7911175",
+    "gencat_uuid": "9e36f3b9-cef8-7563-e625-9ced1bd64b28",
+    "expediente": "BCP 319/20",
+    "buyer_similarity": 1.0,
+    "title_similarity": 0.5128,
+    "procedure_budget_equal": true,
+    "automatic_merge": false
+  },
+  {
+    "placsp_id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/18670781",
+    "gencat_uuid": "f42e51a1-9974-4cac-9015-996488221574",
+    "expediente": "5427/2025",
+    "buyer_similarity": 0.716,
+    "title_similarity": 0.8851,
+    "procedure_budget_equal": false,
+    "automatic_merge": false
+  }
+]

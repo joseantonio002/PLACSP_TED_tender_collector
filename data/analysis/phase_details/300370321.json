@@ -1,0 +1,310 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "SCS-2025-122",
+  "idExpedient": "00c79486-0c0d-41f8-8ed6-2097f449a999",
+  "dataPublicacioPlanificada": "2025-02-07T11:00:00.000Z",
+  "organ": {
+    "nom": "Servei Català de la Salut (CatSalut)",
+    "unitat": "Divisió de provisió de serveis  de l'Àrea Assistencial",
+    "personesContacte": [],
+    "centralCompres": false,
+    "tipusPoderAdjudicador": 1500006,
+    "activitatPrincipal": "Sanitat",
+    "organContractacioId": 204113
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000042,
+      "ca": "Adjudicació",
+      "es": "Adjudicación",
+      "en": "Adjudication",
+      "oc": "Adjudicacion"
+    },
+    "expedientId": "00c79486-0c0d-41f8-8ed6-2097f449a999",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000042,
+        "ca": "Adjudicació",
+        "es": "Adjudicación",
+        "en": "Adjudication",
+        "oc": "Adjudicacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "SCS-2025-122",
+      "denominacio": {
+        "ca": "SCS-2025-122. CE RHB C1 Anoia"
+      },
+      "descripcio": {
+        "ca": "Contractació d'emergència dels serveis de rehabilitació física i de logopèdia en la modalitat ambulatòria i domiciliaria a l'àmbit de l'Anoia."
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 469,
+        "ca": "Emergència",
+        "es": "Emergencia",
+        "en": "Emergency",
+        "oc": "Emergéncia"
+      },
+      "unitatContractacio": 3132087,
+      "tipusContracte": {
+        "id": 393,
+        "ca": "Serveis",
+        "es": "Servicios",
+        "en": "Services",
+        "oc": "Servicis"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 11386,
+        "ca": "Altres",
+        "es": "Otros",
+        "en": "Others",
+        "oc": "D’auti"
+      },
+      "descripcioAltres": {
+        "ca": "Correu electrònic"
+      },
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {},
+      "metodologiaBim": false
+    },
+    "dadesPublicacio": {
+      "pressupostLicitacio": 465995.24,
+      "observacions": {},
+      "valorEstimatContracte": 465995.24,
+      "iva": 0,
+      "varisTipusIva": false,
+      "pressupostBaseLicitacioAmbIVA": 465995.24,
+      "contracteRelacionatFinanciatFonsUnioEuropea": false
+    },
+    "dadesPublicacioLot": [
+      {
+        "pressupostLicitacio": 465995.24,
+        "publicacioExpedientId": 300370321,
+        "dataAdjudicacio": "2024-12-10T23:00:00.000Z",
+        "terminiFormalitzacioContracte": {
+          "ca": "La formalització del contracte serà en un termini no superior a 5 dies naturals comptadors des del següent al que s'hagués rebut el requeriment.\n"
+        },
+        "importAdjudicacio": 465995.24,
+        "ofertaAdjudicatariaIncursa": false,
+        "observacions": {},
+        "peuDeRecurs": {
+          "ca": "Contra aquesta resolució, que no exhaureix la via administrativa, es pot interposar recurs d'alçada davant l'òrgan superior jeràrquic de l'òrgan que ha dictat l'acte impugnat, és a dir, davant la consellera de Salut, de conformitat amb allò que preveuen els articles 112, 121 i 122 de la Llei 39/2015, d'1 d'octubre, de procediment administratiu comú de les administracions públiques, i l'article 76 de la llei 26/2010, de 3 d'agost, de Règim jurídic i de procediment de les administracions públiques catalanes."
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "empresesAdjudicataries": [
+          {
+            "denominacio": "UTE Fundació Sanitària Sant Josep i Fisioteràpia, SA,",
+            "tipusIdentificador": {
+              "id": 11162,
+              "ca": "UTE",
+              "es": "UTE",
+              "en": "UTE (temporary consortium)",
+              "oc": "UTE"
+            },
+            "identificador": "U65918468",
+            "varisTipusIva": false,
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona"
+            },
+            "municipi": {
+              "id": 1001031,
+              "ca": "Igualada"
+            },
+            "tercerSector": {
+              "id": 1008406,
+              "ca": "No tercer sector"
+            },
+            "informacioUte": [
+              {
+                "denominacioEmpresaUte": "Fundació Sanitària Sant Josep",
+                "tipusIdentificador": {
+                  "id": 542,
+                  "ca": "NIF",
+                  "en": "NIF (Tax Identification Number)",
+                  "oc": "NIF"
+                },
+                "identificadorUte": "G61783106",
+                "pais": {
+                  "id": 65,
+                  "ca": "Espanya",
+                  "es": "España",
+                  "en": "Spain"
+                },
+                "provincia": {
+                  "id": 303,
+                  "ca": "Barcelona",
+                  "es": "Barcelona"
+                },
+                "municipi": {
+                  "id": 1001031,
+                  "ca": "Igualada"
+                }
+              },
+              {
+                "denominacioEmpresaUte": "Fisioteràpia, SA",
+                "tipusIdentificador": {
+                  "id": 542,
+                  "ca": "NIF",
+                  "en": "NIF (Tax Identification Number)",
+                  "oc": "NIF"
+                },
+                "identificadorUte": "A08774069",
+                "pais": {
+                  "id": 65,
+                  "ca": "Espanya",
+                  "es": "España",
+                  "en": "Spain"
+                },
+                "provincia": {
+                  "id": 303,
+                  "ca": "Barcelona",
+                  "es": "Barcelona"
+                },
+                "municipi": {
+                  "id": 1000948,
+                  "ca": "Barcelona"
+                }
+              }
+            ]
+          }
+        ],
+        "resolucioAdjudicacio": {
+          "ca": [
+            {
+              "id": 301069129,
+              "titol": "utefundsantjosepifisioterapiasa_lotc1_resoluci_emerg_ncia2025.pdf",
+              "path": "LIm8DCF4wcSTcd3OhPT8TLUwKARpmZrmIeDTFnpxi83DSDMy68ln5dXI5jFrl5By004oVzn0eiyQZrJohC1MhWg0aPhPx5Y6dKWnFQgn8L_-wff_7k7hLBVrtucFtwpul6MCvzq8umrSFACizLVXnP_Qkix9ZjhepSjqTEPvXPO38ZAjKEWwF7bqtVNYHn04_iy-C8PTdTAHH0gCvEt1cRaTISgNPuV7pZndnZ-R73kBe-pPvSGljjpFxeA-HBDg3Vn1EghsWrca-q3cIdAfajWkXD9shq16ckX_MgGY3g8tsaeOXV4V5FK6C_JyhgtLadTrua7G9GTXMyeJ8TbAbA==",
+              "hash": "5CF7F8EC33A687A749232106E4F02D97",
+              "idioma": "ca",
+              "mida": 159144
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "importAdjudicacioIva": 465995.24,
+        "ivaAdjudicacio": 0,
+        "varisTipusIvaAdjudicacio": false,
+        "valorEstimatContracte": 465995.24,
+        "iva": 0,
+        "varisTipusIva": false,
+        "pressupostBaseLicitacioAmbIVA": 465995.24,
+        "codisCpv": [],
+        "cpvPrincipal": {
+          "codi": "85312500-4",
+          "ca": "Serveis de rehabilitació",
+          "es": "Servicios de rehabilitación",
+          "en": "Rehabilitation services",
+          "oc": "Servicis de reabilitacion"
+        },
+        "cpvsSecundaris": [],
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña"
+        },
+        "reservaSocial": false,
+        "duradaTermini": {
+          "esDurada": false,
+          "iniciTermini": "2024-12-31T23:00:00.000Z",
+          "fiTermini": "2025-12-30T23:00:00.000Z",
+          "observacions": {}
+        },
+        "teDiversosCriterisAdjudicacio": false,
+        "criterisAdjudicacio": [],
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": true,
+        "prescripcionsTecniquesSocials": false,
+        "prescripcionsTecniquesAmbientals": false,
+        "totalOfertesRebudes": 1,
+        "estudisDictamens": false,
+        "clausulaLinguistica": false,
+        "clausulaEtica": true,
+        "plurianualitats": []
+      }
+    ],
+    "dadesExpedient": {
+      "organContractacioId": 204113,
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "00c79486-0c0d-41f8-8ed6-2097f449a999",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "denominacioExpedientReferencia": {}
+    },
+    "motiuEsmena": {}
+  },
+  "pathPdf": "aBclvA7xPcpGI6kObHjjF67bfsFy29p68zyN-pXaaARRQOnCNFCLtoN9UAZEejZE5itj1nEC0VjpYPaCKZzdHXmsPEqVX1nDbOct_YJoayvMlhGXXh0k6MoTNcdmjdGo_ofVDLZjVshrZ_iTMF6OXR4ZoHNoUzZaPmdGRYe9VMHQ0bWAKbydQx7zSZRO07yus2dFPxTQ1iUyZ70fG_af2GzJY0XKLjxFF4KB0aMoskTdd0Ueckk7yiWFKTff55J57YapX5xZ8aFet7dmtt2lsG13UmHcJe8ohK39a26x2-R4eZ329b7zEs92SlsyeZ0NiBdM5puz9_bxZG_sEsR6cA==",
+  "pathCertificacio": "ZQZoGdgxOf97gr1ii79hs4pYkpWAddhgr9H10y-VJ5r7Inh8ibTUW0dbx0E0HrFEmQ5ZynAojMJHziaoZ8qFPpBtKYliRuBTo4osM0koZQko3ZUdplux0XY9AEXlhjIlZx1ryIAkgkMelaUYZqwB7ocSiqjQ__-6WZ_quyZNw70YqEpkxzjXSxc3UpV2wVwqggHhCmoWgRTP7oytJ0aG5sjBy_2nQpsvhr2ObqPYGERZaUy3PDnopB516ptpVcbC-5ZDIiJHp4kVDKxQf3iIQM7a6QhfjNKUzIQhbOAZZ9hU84MPNoBkATpjEftQK0ltiZK-E9lxKjPy5Mdas0AR4Q==",
+  "pathJson": "SbE-pY9Jhp_AAH4Nhmf9BALIg3aJTzj6A4nXvWNJ006gArAsv4Tegxa92Xg_bl7U-CdwS2H0z9F0RGKlFMhDg7thNxmRNSR3Wyj7gBIqVHasV1nck1vkTe8jB2QBgqTRA-6cEWJtxfO7EnQhoH3Znj3g8ZcwyfVu_d0qUCHDagq9bmsK7m4XA9sP9d55tD6xJq0Ij6APIrVq9uif30v3Mn7rwpWH_uLqVBL0qNSOGX6oLVbEkahaxcdBbl3URNvoTkbr3VmSf7lgCD6meEhDquIy3-hIc_JkFTLMkQayYpbD4QadZpItxFZe0b2GkO3t4pAknfyNLbDziyA0CWgoTQ==",
+  "dataPublicacioReal": "2025-02-07T11:00:48.311Z",
+  "dadesExpedient": {
+    "organContractacioId": 204113,
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "expedientId": "00c79486-0c0d-41f8-8ed6-2097f449a999",
+    "dataFiPublicacioPerfil": null,
+    "dataFiGestio": null,
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "tenderingSpaceId": null,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": null,
+    "dataVisiblePortalAccesExclusiu": null,
+    "expedientIdReferencia": null,
+    "codiExpedientReferencia": null,
+    "denominacioExpedientReferencia": {
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "nomOrganContractacioReferencia": null
+  }
+}

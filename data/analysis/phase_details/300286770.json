@@ -1,0 +1,511 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "PR-2025-7",
+  "idExpedient": "deed8b7e-fcb0-45db-bc95-1b47db67b496",
+  "dataPublicacioPlanificada": "2024-10-30T14:15:31.233Z",
+  "organ": {
+    "nom": "Departament de la Presidència",
+    "unitat": "Bústia de Contractació Presidència",
+    "direccioPostal": "Carrer Sant Honorat, 2",
+    "localitat": "Barcelona, Barcelona",
+    "codiPostal": "08002",
+    "nuts": "ES511",
+    "telefon": "934024600",
+    "email": "contractacio.presidencia@gencat.cat",
+    "personesContacte": [],
+    "centralCompres": false,
+    "observacions": {},
+    "horari": {},
+    "organContractacioId": 202037
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000040,
+      "ca": "Anunci de licitació",
+      "es": "Anuncio de licitación",
+      "en": "Tender announcement",
+      "oc": "Anóncia de licitacion"
+    },
+    "expedientId": "deed8b7e-fcb0-45db-bc95-1b47db67b496",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000040,
+        "ca": "Anunci de licitació",
+        "es": "Anuncio de licitación",
+        "en": "Tender announcement",
+        "oc": "Anóncia de licitacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "PR-2025-7",
+      "denominacio": {
+        "ca": "Servei de recollida de dades de les minories religioses a Catalunya del Mapa Religiós de Catalunya. PR-2025-7"
+      },
+      "descripcio": {
+        "ca": "Servei de recollida de dades de les minories religioses a Catalunya del Mapa Religiós de Catalunya durant els anys 2025, 2026 i 2027."
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "unitatContractacio": 100000015,
+      "tipusContracte": {
+        "id": 393,
+        "ca": "Serveis",
+        "es": "Servicios",
+        "en": "Services",
+        "oc": "Servicis"
+      },
+      "procedimentAdjudicacio": {
+        "id": 401,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {}
+    },
+    "dadesPublicacio": {
+      "pressupostLicitacio": 214876.03,
+      "observacions": {
+        "ca": "Expedient de despesa pluriennal. Resolució de la directora general de Pressupostos de data 5 de juliol de 2024.\nDistribució de les anualitats (IVA inclòs):\n2025: 86.489,60 €\n2026: 86.648,97 €\n2027: 86.861,43 €\nTOTAL: 260.000,00 €"
+      },
+      "contracteHarmonitzat": false,
+      "dataTerminiPresentacioOSolicitud": "2024-07-29T11:00:00.000Z",
+      "adrecaElectronicaPresentacioOfertes": {},
+      "preveuenModificacionsAlsPlecs": false,
+      "preveuenProrroguesAlsPlecs": false,
+      "informacioComplementariaProrroga": {},
+      "informacioComplementariaModificacio": {},
+      "valorEstimatContracte": 214876.03,
+      "iva": 21,
+      "varisTipusIva": false,
+      "pressupostBaseLicitacioAmbIva": 260000.0,
+      "acpAplicable": true,
+      "justificacioProcedimentUtilitzat": {},
+      "plecsDeClausulesAdministratives": {
+        "ca": [
+          {
+            "id": 300833739,
+            "titol": "7_PCAP.pdf",
+            "path": "uF8obdM2jN_rf5_ltP-X_Mm04u3TSTQDCXCXYuZZnlbycVp367tKJWEg2EN4nDoAkpRFSBz6oGi_T9yptE9K4BxmdEVvNcKhINA64wOg1kr-XfC1JqB2AC3BX4f2Q-z5ITqODOVLg0-ouTkNyL9tjj4ejq9PfsOCA_wn3hElT6wdTyszd6UEPlOOkJ_TdstE-Vdy3Ash3wTa5mjy6FnGYDEfDabAoUUeAGLs27TEdmBwFLO6f42KA380zy-SrKaFJNgRLsV21-gRm9MfY1wuhtD05TyiAUoyK8UrckjmaQWGsQJ1-eDhRaeFD7AUxmMq3sWGdD8EfyvagK723SFBdg==",
+            "hash": "13628235E43D378ECB0E931699599FD1",
+            "idioma": "ca",
+            "mida": 1845001
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "plecsDePrescripcionsTecniques": {
+        "ca": [
+          {
+            "id": 300833740,
+            "titol": "7_PPT.pdf",
+            "path": "HPT3IyGQ9SzkX06PLo2Ig0ijhA8HQ9gxml7FF2h_BCDl2Rl0j_wJHYOfBrcErG6XqTyrYCZdSioNr7xNWZFFg4zcsk15xmcXtKmM07fT5Vmq0bp5odrFwlzSaVhfLDTY9ZlNBF6Rs4QJaxfALw22nw9VlliQtvMpUx_sefgGuOsRL4_e93eoNJPghJ2upFurZ7dEWGze6E5Zo-QP0NYbHih852zWDbdSJw6izxtY5_F-n5ZKDPwamVvT3jr1QQbsBCJ6cj_5TGYWt9P_hHh9n-oD-IscE2pfGkxZYF_Hm57H4aaobPmwt76pkhaekrhuGUQQo6-7Bgjew5TOZSQiAw==",
+            "hash": "AC55537A85ED4C76F4AA5F3062C74FE7",
+            "idioma": "ca",
+            "mida": 2952536
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "memoriaJustificativaContracte": {
+        "ca": [
+          {
+            "id": 300833738,
+            "titol": "7_Inf_Jus_S.pdf",
+            "path": "cs08OJ4NYFAmmG0nt0f8Hm3ItSxPj8FbMaz8bBwE5IfLfJs6ZtNC7nymwwWx-PziKgdwAoxDMnn0T3o1owwvVv8bVRvUNv7gIMz0qDluL_iubrP8ekQyNSVgL8wwcUwSy49d43MvxpjpvWcCu1gfum9_o1JhsUsvOAgsb0GeLBmcuTMaEGZJyHNYFecHTw95zQxQp9h1yHVBOOZxQB672yUO68P-1yMRnoPb7_Y7D3huw6psFRRLTzPpum7_1Q6Km_t_C-9RaXjq2YKktv3sT40i-y-YFIOSL5mSgVZhgoVzSDhB4do3fcWaq-s8nRo3BiHPBjQwhYdhpt3pfx-xrA==",
+            "hash": "4F40CBC39C1F57E6AFF1D028F166D7D8",
+            "idioma": "ca",
+            "mida": 702702
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "documentsAprovacio": {
+        "ca": [
+          {
+            "id": 300833737,
+            "titol": "7_Res aprov.pdf",
+            "path": "Ghzf-X0HEMRclVjFPE1Z-j29L7nMDiw13oycydVxk2LmGR5DhNEJGKRLe0pOLJGgBTn8hE09Ffd_aN8f_9yVR4Dt-pn9IS7_AThpgmSPMl_qATSQ2LpEWatXN5qyuvF3R8otczSfugiDdQGwB-xBKbPG_PP-OPnhsGEj0PLkopXEBMFPWYP8hzCREXYb-HoV6_OduWf5eYA_kHrMHpXNivtHJWbJARmntqG7gQPQxSa8fnGU8Dg2wPbj6UddwxOW7TJ5fz7r5ne6a6qifICCeRuUNatnG07kq9oFYp-qFlmOqSgv-tOBUfEyyTUeosvj__uZ0VKm6-Ncu6QHauGXaA==",
+            "hash": "E485B3CCE785097A4A8EDD1595C07AEF",
+            "idioma": "ca",
+            "mida": 234147
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "altresDocuments": {
+        "ca": [
+          {
+            "id": 300833736,
+            "titol": "7_Inf_Comp_UP_AJ_S.pdf",
+            "path": "PsZZXyVIg5C3plWpxs0cc07gZBGDCar9M0AbuX1hTlNpX8M7q9n-8t_eIiL-y0S9yUbOGpdtHtrRfD5Qf4vbLXTneKdvdRkseyRexxyII5v-zYduvWQEXyGZ6Wugt_GgR8KN89OpirExO0BlJdB14ece6__JB--1oD6J9MKhkzHgCHgFai_0m5lvtU3uAUVXPy-CJr9GAtxhw8qDbJyo-cPmcH2oGqGGVVobCVPLiVtaQcsSY1dEC6VHRFUv_oEbLVbKAKcNuCfeIJPhYyXpBvmO3qtKatQmoT4C71GClSHKRLoNqXBawPmfvtKAgepmvt9sFgJ7o3ggRoRDqgsXcg==",
+            "hash": "1976C87FE3CF76AD13FEC0DA189A4AF0",
+            "idioma": "ca",
+            "mida": 141844
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "llenguesRedactarOfertes": {},
+      "justificacioNoExistenciaLots": {
+        "id": 1008190,
+        "ca": "Art.99.3 b) El fet que la realització independent de les diverses prestacions compreses en l’objecte el contracte en dificulti l’execució correcta des del punt de vista tècnic; o bé que el risc per a l’execució correcta del contracte procedeixi de la naturalesa del seu objecte, en implicar la necessitat de coordinar l’execució de les diferents prestacions, qüestió que es podria veure impossibilitada per la seva divisió en lots i l’execució per una pluralitat de contractistes diferents. Tots dos aspectes, si s’escau, s’han de justificar degudament en l’expedient",
+        "en": "Art. 99.3.b) The fact that the independent performance of the various services indicated as the purpose of the contract hinders their correct implementation from a technical point of view; or that the risk for the correct implementation of the contract comes from the nature of its purpose, since it involves the need to coordinate the implementation of the various services, an issue that could be made impossible by its division into lots and being undertaken by a plurality of different contractors. Both aspects, if applicable, must be duly justified in the file",
+        "oc": "Art.99.3 b) Er hèt qu'era realizacion independenta des diuèrses prestacions comprenudes en er objècte eth contracte ne dificulte era execucion corrècta dempús deth punt d'enguarda tecnic; o plan qu'eth risc entara execucion corrècta deth contracte provengue dera natura deth sòn objècte, en implicar eth besonh de coordinar era execucion des diferentes prestacions, ahèr que se poirie veir impossibilitada pera sua division en lòts e era execucion per ua pluralitat de contractistes diferenti. Toti dus aspèctes, se s’esquèr, les cau justificar degudaments en expedient"
+      },
+      "contracteRelacionatFinanciatFonsUnioEuropea": false,
+      "divisioEnLots": {
+        "id": 1008401,
+        "ca": "Sense lots"
+      },
+      "motiuContracteNoInformatLots": {},
+      "publicacionsOficials": [],
+      "contractacioConjunta": false,
+      "peuRecurs": {
+        "ca": "D’acord amb l’article 44.2 LCSP, contra els anuncis de licitació, els plecs i els documents contractuals que estableixin les condicions que han de regir la contractació, la resolució d’adjudicació del contracte i els actes de tràmit adoptats en el procediment d’adjudicació, sempre que aquests decideixin directament o indirectament sobre l’adjudicació, determinin la impossibilitat de continuar el procediment o produeixin indefensió o perjudici irreparable a drets o interessos legítims, es pot interposar potestativament recurs especial en matèria contractació o bé recurs contenciós administratiu. També serà objecte d’aquest recurs les modificacions contractuals basades en l'incompliment del que estableixen els articles 204 i 205 LCSP, per entendre que la modificació va haver de ser objecte d'una nova adjudicació.\n"
+      },
+      "adrecaPresentacioRecurs": {},
+      "elementsCondicionsOfertesIntegradores": {}
+    },
+    "dadesPublicacioLot": [
+      {
+        "ultimaObertura": {
+          "dataObertura": "2024-11-05T12:30:00.000Z",
+          "lloc": {
+            "ca": "Microsoft Teams",
+            "es": "Microsoft Teams"
+          },
+          "descripcio": {
+            "ca": "Acte Públic. La data de l'acte serà publicada en l'anunci de licitació",
+            "es": "Acte Públic. La data de l'acte serà publicada en l'anunci de licitació"
+          },
+          "personesAutoritzades": {
+            "ca": "Sí, acte públic",
+            "es": "Sí, acte públic"
+          },
+          "dataOberturaText": {},
+          "mostrarDataObertura": true
+        },
+        "pressupostLicitacio": 214876.03,
+        "publicacioExpedientId": 300196680,
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 260000.0,
+        "varisTipusIva": false,
+        "valorEstimat": 214876.03,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña"
+        },
+        "duradaTermini": {
+          "esDurada": false,
+          "iniciTermini": "2024-12-31T23:00:00.000Z",
+          "fiTermini": "2027-12-30T23:00:00.000Z",
+          "observacions": {}
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "ca": "L’empresa contractista ha d’adequar la seva activitat als principis ètics i a les regles de conducta que s’estableixen en la clàusula 32 d’aquest Plec de clàusules administratives particulars, d’acord amb l’obligació que imposa la Instrucció 1/2019 de la Direcció General de Contractació Publica de la Generalitat de Catalunya."
+            }
+          },
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "ca": "L’empresa contractista haurà de sotmetre’s a les condicions especials d’execució regulades a la clàusula 21.8 del PCAP, d’acord amb l’art. 202.1 LCSP."
+            }
+          },
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008183,
+              "ca": "Condicions especials tipus  Social",
+              "en": "Special social type conditions",
+              "oc": "Condicions especiaus tipe Sociau"
+            },
+            "descripcio": {
+              "ca": "Durant l’execució del contracte les empreses contractistes hauran de complir, per a les noves contractacions de personal, que almenys un 20% d’aquestes es fan a col·lectius que requereixen una especial protecció, preferentment a persones aturades de llarga durada, amb la finalitat de promoure la inclusió, la cohesió, la igualtat de tracte i la no-discriminació, en compliment de la Llei 19/2020, del 30 de desembre, d'igualtat de tracte i no-discriminació i de l’article 202.2 LCSP."
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "dataObertura": "2024-11-05T12:30:00.000Z",
+            "lloc": {
+              "ca": "Microsoft Teams",
+              "es": "Microsoft Teams"
+            },
+            "descripcio": {
+              "ca": "Acte Públic. La data de l'acte serà publicada en l'anunci de licitació",
+              "es": "Acte Públic. La data de l'acte serà publicada en l'anunci de licitació"
+            },
+            "personesAutoritzades": {
+              "ca": "Sí, acte públic",
+              "es": "Sí, acte públic"
+            },
+            "dataOberturaText": {},
+            "mostrarDataObertura": true
+          }
+        ],
+        "prorroguesPrevistes": false,
+        "informacioProrrogaComplementaria": {},
+        "modificacioPrevista": false,
+        "informacioModificacioComplementaria": {},
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "garantiaDefinitiva": true,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008242,
+              "ca": "Relació serveis o treballs efectuats de la mateixa naturalesa en el curs de com a màxim els últims tres anys",
+              "en": "List of services or work of the same nature carried out during the last three years at most",
+              "oc": "Relacion servicis o trabalhs efectuadi dera madeisha natura en cors de coma maximom es darrèri tres ans"
+            },
+            "valorMinimExigit": {
+              "ca": "Serveis o treballs d’igual o similar naturalesa a l’objecte del contracte realitzats en els darrers tres anys. L’import anual dels serveis o treballs d’igual o similar naturalesa realitzats durant l’anualitat de major execució del període de tres anys esmentat serà de, com a mínim, 71.625,34 euros."
+            },
+            "mitjaAcreditacio": {
+              "id": 1008247,
+              "ca": " Declaració responsable",
+              "en": " Responsible statement",
+              "oc": " Declaracion responsabla"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008218,
+              "ca": "Volum anual de negocis",
+              "en": "Annual volume of business",
+              "oc": "Volum annau de negòcis"
+            },
+            "valorMinimExigit": {
+              "ca": "Xifra anual de negocis en l’àmbit d’activitats corresponent a l’objecte del contracte, en relació al millor exercici dins dels tres darrers anys disponibles en funció de la data de creació o d’inici de les activitats empresarials, per un import igual o superior a 107.438,01€."
+            },
+            "mitjaAcreditacio": {
+              "id": 1008227,
+              "ca": "Declaració responsable del volum de negocis global de l’empresa",
+              "en": "Responsible statement of the company's overall business volume",
+              "oc": "Declaracion responsabla deth volum de negòcis globaus dera empresa"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "percentatgeGarantiaDefinitiva": 5.0,
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 25.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008363,
+                  "ca": "Característiques tècniques i funcionals"
+                },
+                "puntuacio": 25.0,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 40.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 40.0,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 35.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008361,
+                  "ca": "Altres criteris relacionats amb els costos",
+                  "en": "Other criteria related to costs",
+                  "oc": "D’auti critèris restacadi damb es còsti"
+                },
+                "puntuacio": 35.0,
+                "descripcioCriteri": {}
+              }
+            ]
+          }
+        ],
+        "codisCpv": [],
+        "cpvPrincipal": {
+          "codi": "79315000-5",
+          "ca": "Serveis de recerca social",
+          "es": "Servicios de investigación social",
+          "en": "Social research services",
+          "oc": "Servicis de recèrca sociau"
+        },
+        "cpvsSecundaris": [
+          {
+            "codi": "79320000-3",
+            "ca": "Serveis d'enquestes d'opinió pública",
+            "es": "Servicios de encuestas de opinión pública",
+            "en": "Public-opinion polling services",
+            "oc": "Servicis d'enquèstes d'opinion publica"
+          }
+        ],
+        "garantiaComplementaria": false,
+        "preuUnitari": false
+      }
+    ],
+    "dadesExpedient": {
+      "organContractacioId": 202037,
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "deed8b7e-fcb0-45db-bc95-1b47db67b496",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "tipusOfertaElectronica": 413,
+      "denominacioExpedientReferencia": {}
+    },
+    "tipusEsmena": {
+      "id": 1008194,
+      "ca": "Data obertura de sobres",
+      "en": "Envelope opening date",
+      "oc": "Data dubertura de sobres"
+    },
+    "motiuEsmena": {
+      "ca": "Modificació de dades d'obertura"
+    }
+  },
+  "pathPdf": "gjFKWlPiyTP764mz0Yf9BrPku8AwtBFrqWvwVZz7MY3HPLppIoFol30h4_tgu0400FBUU2rLNA0YkupLrRw6aK3kHSNSFkaTTIhyMVUV7QpncDQVPUETzipIovznswRJEmAZekHPE9lEo_kD1Ex-Ow4KBOprHY1L96E-24zGuioUR7E9M8U8NnV1YTlIVrIzzg8S6m0qaNAJ_3n92bdRunxYBkdKzzQkOmTiDpj9adugEjT0dyxe7UvEjvz-zK9fH4WCZDmmktThvZCMnkDra1SG3MiCWO9OMaRzVbk5cAgs5A5EuV0V2gOuUF6kYYjQ64mXfh6ptN6LVNMlf2ZbJQ==",
+  "pathCertificacio": "h9CU2Z34VPRCvMn1mGvybUJFWu3AOyN5dkL7HiY6e8HGl6Qd39UnT2jQG1-NbrVlNozB6roWze50nUPpYAcd5JjDMxuahp7Y8N41SmglctSn22lsl2XsE3sSl4YWgOhp-4uSvF2tbkT420gf_wJiAkulZ9qxRWrnEApvB3AiNQ53hpgexBbfJyRXlHNz9n_4PbnJM3ospcXHNwocT0xDKezIXcnFh55OCvhdNmb79AsrBvGdaM6qm8r1cnkTztYUqq7BbaXNUFngG2i8j0MEGetXzh7ZME5a8-Azs4mNY6uXlZdKw-vLfyfCSwnCu1Id6lcgPJbMrBGJynqSqsPYJQ==",
+  "pathJson": "F8bLqjKZozl985dvNgmg5fJIYTZG8MNB3H9HWJOwsIVwx2tcvLaa1TGhlP1MtDNtctXZkT3dgoP_VbpqG1GA_Ai6LomA28u5BhL24pNYOC0_6_Z3kx1QfnJdaePAsa0DErhSDQaT39hTqCCiEdJD3bE-pxzgPGj7A7zHVLK4EJ3WmHLXdqin7B3QpKLAb6oLJycsJMESn0Pds0S_9POu2e8cJTEA9Rud6XXUqssEfBMZXetiBYllxXlUptFhK6w0wbXvHuHaNrgJ2d3avfRlaUqCwES0H-HDz6beuFjKRYZWad3yP_yMyPoakpXQ5rbJ0QSUuANs15AcB25Boy5AVA==",
+  "dataPublicacioReal": "2024-10-30T14:16:05.818Z",
+  "dadesExpedient": {
+    "organContractacioId": 202037,
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "expedientId": "deed8b7e-fcb0-45db-bc95-1b47db67b496",
+    "dataFiPublicacioPerfil": null,
+    "dataFiGestio": null,
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "tenderingSpaceId": null,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 413,
+    "dataVisiblePortalAccesExclusiu": null,
+    "expedientIdReferencia": null,
+    "codiExpedientReferencia": null,
+    "denominacioExpedientReferencia": {
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "nomOrganContractacioReferencia": null
+  }
+}

@@ -1,0 +1,64 @@
+[
+  {
+    "codi_ambit": "1500002",
+    "nom_ambit": "Entitats de l'administració local",
+    "codi_organ": "2867949",
+    "nom_organ": "Ajuntament de la Pobla de Segur",
+    "codi_ine10": "2517130008",
+    "codi_dir3": "L01251713",
+    "codi_expedient": "288/2024",
+    "tipus_contracte": "Subministraments",
+    "procediment": "Contracte menor",
+    "fase_publicacio": "Formalització",
+    "denominacio": "Contracte Menor del subministrament i instal·lació d'un punt de recàrrega per bicicletes elèctriques i un punt per autocaravanes a la Pobla de Segur. Actuació 5 de l'Eix 2 del Pla de Sostenibilitat Turística (PSTD) finançat pel PRTR - Next Generation EU",
+    "objecte_contracte": "Contracte Menor del subministrament i instal·lació d'un punt de recàrrega per bicicletes elèctriques i un punt de recàrrega semi-ràpid per autocaravanes a la Pobla de Segur. Actuació 5 de l'Eix 2 del Pla de Sostenibilitat Turística (PSTD) finançat pel Pla de Recuperació, Transformació i Resiliència (PRTR) - Next Generation EU",
+    "valor_estimat_contracte": "13223.14",
+    "codi_nuts": "ES513",
+    "lloc_execucio": "Pobla de Segur, la",
+    "durada_contracte": "06/05/2025 a 22/06/2025",
+    "termini_presentacio_ofertes": "2025-03-31T18:00:00.000",
+    "data_publicacio_anunci": "2025-03-19T14:20:00.000",
+    "data_publicacio_adjudicacio": "2025-07-16T11:07:00.000",
+    "data_publicacio_formalitzacio": "2025-09-15T13:42:00.000",
+    "codi_cpv": "31681500-8||45231400-9||45315300-1||45314320-0||45311000-0",
+    "tipus_identificacio": "542",
+    "identificacio_adjudicatari": "A63395719",
+    "denominacio_adjudicatari": "ALTERVAC, S.A.",
+    "import_adjudicacio_sense": "9124.00",
+    "import_adjudicacio_amb_iva": "11040.04",
+    "ofertes_rebudes": "6",
+    "resultat": "Formalització",
+    "enllac_publicacio": {
+      "url": "https://contractaciopublica.cat/ca/detall-publicacio/5d96c294-93f0-4d38-8047-20f01b34d846/300560723"
+    },
+    "es_agregada": "NO",
+    "data_adjudicacio_contracte": "2025-04-30T00:00:00.000",
+    "data_formalitzacio_contracte": "2025-05-06T00:00:00.000",
+    "tipus_tramitacio": "Ordinària",
+    "tipus_financament": "MRR (Mecanisme de recuperació, transformació i resiliència)",
+    "eina_presentacio_electronica": "Sobre digital",
+    "pressupost_licitacio_sense": "13223.14",
+    "pressupost_licitacio_sense_1": "13223.14",
+    "pressupost_licitacio_amb": "16000.00",
+    "pressupost_licitacio_amb_1": "16000.00",
+    "valor_estimat_expedient": "13223.14",
+    "data_publicacio_avaluacio": "2025-07-16T09:11:00.000",
+    "tipus_empresa": "PIME",
+    "url_json_licitacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300401838/gMMJ9hsY8M3C11d7BcGV9SlTZfAcJDCq3ioOHgD55mblto790FIkpGphtgi2eupZ97HZHSzf4fhOGl15ZRqzKB7NjxU7seldHEkTk7E2KfvhXM59zUnYF-VWsdGe9CbHeje8Tdkux9aB45USN5Sw4vMFfEL8i1epTuyT0BnbGQnyh6VUTtT7ht1m9ckFVNMRJd69VDKKY_nqbKfSmN1lOIC7tqWhQZv4DsZPV0KVDIFq_UR45JwIqSxUpkNWFPHKdpaCofP_epZ3mMf9VReHG7cdwvtTsCFDSuT17mu9cl9AQcruPJ35IULrRnEhR4JbtVVKDo84uTVvcNRpvb-y1w=="
+    },
+    "url_json_avaluacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300514100/XQIToTF-GkysNX9swS0XpHfURrAiuRx-o2JW3M74fAD3YZ5LvqDCipyR756uAJwx2zGsgE7idNLzULwQEZjvhIXJmVy2NXvLfoaQf-Ym801r7dqp6ZyjNpSZid121vyPJesz2I9RXAzjtquRA97Yh8tdqJKdZWJUkLpZUtiE8QLaNLOdtmrFoRtKRG8amvfNRFhth_C-aei7li5p61RzXC3WiLvlyFGwos-E4PhXNw9s99-6WEr_klXXxj8lMIMICR7TrBySUE4Ts4R_eFQCErGj4qTcp12oCgbgpdX7a1oc0yDVm1LHgTPYUkonwKdtEo7msoMcm1bN-o-ZLxMuVA=="
+    },
+    "url_json_adjudicacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300514206/Hzxt1b3dM-pABI5qd9EK2o1PKFIVuSzyKg_iBzEcj77aRkt15UJaNeiz3qTuRWgzvnZ7Rq8XKN80f0PwgQ8bUGaDmvBukP3sC62L6UHK5CvEOEMWQimbNkRWePBxTEotTqKs51Gk6v2TNg-NFCLqp2uj3zcmSIWw8aH-oPzP-XFpLz6kO2ntlvc73lxBLThbbxKWEyXJ0_L_LsJIL3AFTK7c0DmJ6EZxE3-t2Bsdf0kyp2DV6xlPPTI_qsX2oc5gricSDH6HIq170m2mCO9gTslSxM6sOAzBJGZIEM5dsZ0ZivYaQU07z3Oghux7tZL4-pV-CH8PI9eG1TKTKrBApw=="
+    },
+    "url_json_formalitzacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300560723/l_RO9IhJIpHD9BP8IwEs4TYdppOi9c3zb8yGhH5PAHN-6s8VgK6oo5bhGQ-2zdnqMo-PlFS7qxMb8_bpOVB5iTdx6VdFvhiZ8uMaLv1Uzn3Ahk4YeagupBlO5hMoDb4eUifaAjFiOiGTkIzYcrosPyeuIH5KqdfusQEo34ct6dOxgjpZ0s2iDRA0jYZOb9rC3mpOf83lm7pR-LXCiiYgfnRZPM-m88u3mjH8oQibldplha9o9iPc_3PO0bCpFVkn6MVC9jmcjdCRoKo-IAiQZ7txVXH79qBa5AWdXngONwSHMChlYlHw9gio5MhFis6k36JM0vc7_PrpSleh51KMrQ=="
+    },
+    "id_intern": "5d96c294-93f0-4d38-8047-20f01b34d846",
+    ":id": "row-z93q_cgx2_7ssf",
+    ":created_at": "2026-07-13T13:26:08.273Z",
+    ":updated_at": "2026-07-13T13:26:08.273Z"
+  }
+]

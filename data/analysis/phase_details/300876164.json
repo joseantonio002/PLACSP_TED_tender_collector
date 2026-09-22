@@ -1,0 +1,190 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "1262-0001/2023",
+  "idExpedient": "36225576-7368-45a8-934c-4d79492c908e",
+  "dataPublicacioPlanificada": "2026-09-07T10:01:22.076Z",
+  "organ": {
+    "nom": "Conselh Generau d'Aran",
+    "nif": "P7500011G",
+    "direccioPostal": "Plaça d'Aran, 1-2",
+    "localitat": "Lleida, Vielha e Mijaran",
+    "codiPostal": "25530",
+    "nuts": "ES513",
+    "web": "http://www.conselharan.org/",
+    "telefon": "973641801",
+    "fax": "973641769",
+    "email": "contractacion@aran.org",
+    "personesContacte": [
+      {
+        "nom": "fabian",
+        "cognom": "arroyo olalla",
+        "carrec": "tag",
+        "email": "f.arroyo@aran.org"
+      },
+      {
+        "nom": "Yolanda",
+        "cognom": "Amiell Sangüesa",
+        "carrec": "secretària accidental",
+        "telefon": "973641801",
+        "email": "y.amiell@aran.org"
+      }
+    ],
+    "centralCompres": false,
+    "tipusPoderAdjudicador": 1500006,
+    "observacions": {},
+    "horari": {
+      "ca": "De deluns a diuendres de 8.30 a 14.00"
+    },
+    "organContractacioId": 31230076,
+    "activitatPrincipalOrgan": {
+      "id": 1051243,
+      "ca": "Serveis de caràcter general",
+      "es": "Servicios de carácter general"
+    }
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000041,
+      "ca": "Anul·lació",
+      "es": "Anulación",
+      "en": "Cancellation",
+      "oc": "Anullacion"
+    },
+    "expedientId": "36225576-7368-45a8-934c-4d79492c908e",
+    "teLots": true,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000041,
+        "ca": "Anul·lació",
+        "es": "Anulación",
+        "en": "Cancellation",
+        "oc": "Anullacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "1262-0001/2023",
+      "denominacio": {
+        "oc": "MAQUINARIA ENTAD MANTENIMENT DE CAMINS"
+      },
+      "descripcio": {
+        "oc": "Maquinaria propia entad manteniment de camins dera xarxa veinau e rurau d'Aran"
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "tipusContracte": {
+        "id": 394,
+        "ca": "Subministraments ",
+        "es": "Suministros",
+        "en": "Supplies ",
+        "oc": "Subministraments "
+      },
+      "procedimentAdjudicacio": {
+        "id": 401,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "tipusSubministraments": {
+        "id": 1008430,
+        "ca": "Adquisició o arrendament de productes i béns"
+      }
+    },
+    "dadesPublicacio": {
+      "observacions": {}
+    },
+    "dadesPublicacioLot": [
+      {
+        "numeroLot": "5",
+        "lotId": 4,
+        "descripcio": {
+          "oc": "EXCAVADORA COMPACTA AMB CADENES"
+        },
+        "pressupostLicitacio": 27933.89,
+        "publicacioExpedientId": 300876164,
+        "titol": "EXCAVADORA COMPACTA AMB CADENES",
+        "denominacioExpedientReferencia": {},
+        "dataAnulacio": "2026-09-07T09:55:00.000Z",
+        "observacions": {},
+        "tipusAnulacioDesert": {
+          "id": 1008289,
+          "ca": "Declaració desert",
+          "en": "Declaration of desertion",
+          "oc": "Declaracion de desèrta"
+        },
+        "documents": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        }
+      }
+    ],
+    "dadesExpedient": {
+      "idiomaPerDefecte": {
+        "id": 1000034,
+        "ca": "Aranès",
+        "es": "Aranés",
+        "en": "Aranese",
+        "oc": "Aranés"
+      },
+      "expedientId": "36225576-7368-45a8-934c-4d79492c908e",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "tipusOfertaElectronica": 413,
+      "esReduit": false
+    },
+    "publicacionsOficials": [],
+    "motiuEsmena": {}
+  },
+  "pathPdf": "YTHb4TdWmOgT-gKMgE4hCTiO223TxyzWXa3MSQ38dRfSpDr9uEMgcfY2xgxvkd2MEaMg0Fk97Qyu55MNb9mkC_2bOgVS1EBVvpMPDTBfhWl_y1mXLH6Sg9lKR-2SMvEu7a_3w-6aOEqq5U4-wXW8FAKHkamGuHEZvRNL27eB1MLS5p_Cp-xVUGpC9MOu5BgKLo_YbASeuLD_su9DFbH3ZscdrCcgVStW5O905L8NQ6kw5xXgip3qy_uhJU8CU0VDGP1RQ18Z39wLgoisddIW_9eNMe50bM55elhgFwXNLfdy36zpH-EOKLO2XdqnR6IKoff7V4AkKY9hUjKpacmarA==",
+  "pathCertificacio": "sE5iVhl7QOpVVQVl_Y7HBmc5-ZH3xLms-TifoYiHEoqVtGh171dMTs6j005pLRi8mrpM6kF3ht90tkxYi_Bg1TAY5se5FmtePFpZUqiTKCrxJq7CdmXyTihiYFiMre6fvkVyr0o-xUkNWqJgHK6OvWeZmLGFfaHW_M_frMX9K_0z0yiW3i9iNCS3o3KSyXzno32M4JMK6qEwoc2z846sfTKC5VcX7YjtrBuL1GIL4caPL_r7ke-p5wca39I_VBCEuCyG227Afx-Q3EPdLG3DN60M2BMzVyeZDSOTIKv-JnDeqhdH0ysAplABM0k-8WRaLQKDrufTBInlRgShh3ER5w==",
+  "pathJson": "ezitr2E706NzxQwww1egPXAOMpV2vg09Cn_X5QbFF0JYSZeFQWwD3xNfJyye-1Bz2FlG_eLBMNWWaG5nb0DxX9fw9ZAIRA_ULrFY5xRJ5qebmjtdEH08eQnLJSVfz8V1800Z510hnyf7FBPqOtRiXssblKieT3zeFZiMJ7xIh4TCv9Knb3HBoSE6y1Ewbmbya6Omffp---jTJh18heY09HSF2cFXupPVaxXEmWXVCmaGrOa64u1u1hWwf1yCpNRQppM72UoO-7vuzf_gk_EmeHe1E5V7Bao1EyC5QAyIKPNFqWGwxX8LTF4HTUSfZ3YlKZjXTuATrZao8bZybp1uaw==",
+  "dataPublicacioReal": "2026-09-07T10:02:20.829Z",
+  "dadesExpedient": {
+    "idiomaPerDefecte": {
+      "id": 1000034,
+      "ca": "Aranès",
+      "es": "Aranés",
+      "en": "Aranese",
+      "oc": "Aranés"
+    },
+    "expedientId": "36225576-7368-45a8-934c-4d79492c908e",
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 413,
+    "esReduit": false
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "PR-2025-7",
+  "idExpedient": "deed8b7e-fcb0-45db-bc95-1b47db67b496",
+  "dataPublicacioPlanificada": "2025-01-31T09:08:12.677Z",
+  "organ": {
+    "nom": "Departament de la Presidència",
+    "unitat": "Bústia de Contractació Presidència",
+    "direccioPostal": "Carrer Sant Honorat, 2",
+    "localitat": "Barcelona, Barcelona",
+    "codiPostal": "08002",
+    "nuts": "ES511",
+    "telefon": "934024600",
+    "email": "contractacio.presidencia@gencat.cat",
+    "personesContacte": [],
+    "centralCompres": false,
+    "observacions": {},
+    "horari": {},
+    "organContractacioId": 202037
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000043,
+      "ca": "Formalització",
+      "es": "Formalización",
+      "en": "Formalisation",
+      "oc": "Formalizacion"
+    },
+    "expedientId": "deed8b7e-fcb0-45db-bc95-1b47db67b496",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000043,
+        "ca": "Formalització",
+        "es": "Formalización",
+        "en": "Formalisation",
+        "oc": "Formalizacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "PR-2025-7",
+      "denominacio": {
+        "ca": "Servei de recollida de dades de les minories religioses a Catalunya del Mapa Religiós de Catalunya. PR-2025-7"
+      },
+      "descripcio": {
+        "ca": "Servei de recollida de dades de les minories religioses a Catalunya del Mapa Religiós de Catalunya durant els anys 2025, 2026 i 2027."
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "unitatContractacio": 100000015,
+      "tipusContracte": {
+        "id": 393,
+        "ca": "Serveis",
+        "es": "Servicios",
+        "en": "Services",
+        "oc": "Servicis"
+      },
+      "procedimentAdjudicacio": {
+        "id": 401,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {}
+    },
+    "dadesPublicacio": {
+      "observacions": {},
+      "contractacioConjunta": false,
+      "justificacioProcedimentUtilitzat": {},
+      "contracteFinancatUe": false,
+      "valorEstimatContracte": 214876.03
+    },
+    "dadesPublicacioLot": [
+      {
+        "publicacioExpedientId": 300364522,
+        "codisCpv": [],
+        "cpvPrincipal": {
+          "codi": "79315000-5",
+          "ca": "Serveis de recerca social",
+          "es": "Servicios de investigación social",
+          "en": "Social research services",
+          "oc": "Servicis de recèrca sociau"
+        },
+        "cpvsSecundaris": [
+          {
+            "codi": "79320000-3",
+            "ca": "Serveis d'enquestes d'opinió pública",
+            "es": "Servicios de encuestas de opinión pública",
+            "en": "Public-opinion polling services",
+            "oc": "Servicis d'enquèstes d'opinion publica"
+          }
+        ],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña"
+        },
+        "dataAdjudicacio": "2024-12-23T09:56:00.000Z",
+        "dataFormalitzacio": "2025-01-27T23:00:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {},
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 25,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008363,
+                  "ca": "Característiques tècniques i funcionals"
+                },
+                "puntuacio": 25,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 40,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 40,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 35,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008361,
+                  "ca": "Altres criteris relacionats amb els costos",
+                  "en": "Other criteria related to costs",
+                  "oc": "D’auti critèris restacadi damb es còsti"
+                },
+                "puntuacio": 35,
+                "descripcioCriteri": {}
+              }
+            ]
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 2,
+        "ofertesRebudesEconomics": 1,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 2,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "FUNDACIÓ PERE TARRÉS",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "R5800395E",
+            "telefon": "934101602",
+            "email": "if@peretarres.org",
+            "tipusEmpresa": {
+              "id": 749,
+              "ca": "No PIME",
+              "en": "No SME",
+              "oc": "Non PIME"
+            },
+            "importAdjudicacioSenseIva": 204236,
+            "importAdjudicacioAmbIva": 247125.56,
+            "iva": 21,
+            "varisTipusIva": false,
+            "informacioUte": [],
+            "plurianualitats": [
+              {
+                "anyAdjudicacio": "2025"
+              },
+              {
+                "anyAdjudicacio": "2026"
+              },
+              {
+                "anyAdjudicacio": "2027"
+              }
+            ]
+          }
+        ],
+        "subcontractacio": false,
+        "subcontractacions": [],
+        "metodeCalcularValorEstimat": {},
+        "peuDeRecurs": {},
+        "adrecaEnllacMesInformacioRecurs": {},
+        "condicionsEconomiquesConcessio": [],
+        "publicacionsOficials": [],
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 301051769,
+              "titol": "7_CTE_S.pdf",
+              "path": "RtGKQW581YGufGx7G2GHeRBPziszK3XO-e9x9WmWrphKF-OvjKz37hgzuKiiewd_utq8t5Ma_6etn86hCt4Tz3wyrVplktvzlvsOmqBPeG699toCO0WbSy5UiF_EeMfBHHwO2zvoERVDh3Dw0ydeiE3FuZQjnJ_5saBbmLmxOlj8bJVQVoLvEQUIpjnRIFsl3Ma1sRgfVI68-jdt3hBBT1F8WgdAc5Bx2KeZKZZAWMnQu6pPYGeqio0ZE6K9lGjjRHInGDdtJfvAoJTW6-VBQQRX_kkrVwE4-3uBYzQ2uNr7sgj1PID0EBfYB8FZO3Zn5h9v97AmGu84IGJr-ojh4w==",
+              "hash": "60F4F8E0955DEFABD507D6B3F371A421",
+              "idioma": "ca",
+              "mida": 374031
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2025-01-27T23:00:00.000Z",
+        "fiTerminiExecucio": "2027-12-30T23:00:00.000Z",
+        "observacionsTermini": {
+          "ca": "El termini d’execució del contracte és des de la data de la darrera signatura electrònica del contracte i fins al 31 de desembre de 2027."
+        },
+        "preuUnitari": false
+      }
+    ],
+    "dadesExpedient": {
+      "organContractacioId": 202037,
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "deed8b7e-fcb0-45db-bc95-1b47db67b496",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "tipusOfertaElectronica": 413,
+      "denominacioExpedientReferencia": {}
+    },
+    "motiuEsmena": {}
+  },
+  "pathPdf": "Zvo-VCMeAr6r2EweP0PlSgtVJu0g8Y6ZKtnRDS4jzbJ5V2343owDEd7tQagGOgosaXhxfLR0qIGYazL8dTuzKKNBc2wDaejg7jhoXgSof5m7GBnXDF6GfuilGt2xPR8sU8_v8Q29bxHSJmJZlLMT35zBzlN7sCrowyH5Zp32flzgpYDGzp1HXmU-LT2Mk8NRPByzZhf2rErvDjZn6HG5oyTrO9nRQkcl8szlCYURbS5Fa3tFUuSlH2wxTR7EKV8m8CIslNaNgU-tOSCYqTVZAcOpi_bqQnF0Ow6gDnKY2ycqMBfpkkB_6cTobvqaleRjPtM8TfWk6qnZQ_wWbZxuew==",
+  "pathCertificacio": "d67IckApYUyqEJ1ozl3azafHbTLce5hV0oqHWKQB4r1a40uxZaekedGwYq0o07G6mXy1RGpXznO4368cK1x-ABq8WU-_UNDjFVhs2reTDmhp2c3AIjuQ6EAWkB0JQuIZaXSRUzNSI85HMVQtX52NQLigx0uRjENg3k7EZ1J24QMkJPZL0y9sXqDVUcoBqQchIyW-qgW492DZKPDOAAXXiHHrIUUbfjVm-f7xYyQo7zoq-tL0d956GbTTe-12b5KAVf90u_6Puff4f7TDZZES-CDLTpUNMG-jN91lE6qOFX2CcZGgjW4rkrunYXC5WcsemgHyGTgHnhTIQLoSXkCfKQ==",
+  "pathJson": "BlN6f45kJBkos1hwr80dujpFiAmbvJNAXwUuipFAZKRGbDl0p6UAU5PttqgO7iwOxKeWxnwhewlYdSvimi74MxKnmxmpWo_w9dyDD4nbvQ28kvq5m94UZHRNOqRSyBef9-BKphGICAXYgdFLwOVf89UHD1XkRjQYAs1ScF13podMGdY82LhKjFgvZ6xym08PtuJ2Lx5YsYdM_C-bqC0V-xqqBhb5oJDu9uUiICvG7ZbhZ9rQjwzHoNTMXnhEH15DRTuF0J4yNyUVWhsdiZ-JirPIcO428MZR8FsN7W3cBWH8KFo3IDIRwQZq_OYDPlx-Qc-vy6eWyEggry4CJv5Ptw==",
+  "dataPublicacioReal": "2025-01-31T09:10:09.117Z",
+  "dadesExpedient": {
+    "organContractacioId": 202037,
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "expedientId": "deed8b7e-fcb0-45db-bc95-1b47db67b496",
+    "dataFiPublicacioPerfil": null,
+    "dataFiGestio": null,
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "tenderingSpaceId": null,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 413,
+    "dataVisiblePortalAccesExclusiu": null,
+    "expedientIdReferencia": null,
+    "codiExpedientReferencia": null,
+    "denominacioExpedientReferencia": {
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "nomOrganContractacioReferencia": null
+  }
+}

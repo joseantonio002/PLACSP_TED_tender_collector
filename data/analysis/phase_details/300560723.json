@@ -1,0 +1,373 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "288/2024",
+  "idExpedient": "5d96c294-93f0-4d38-8047-20f01b34d846",
+  "dataPublicacioPlanificada": "2025-09-15T11:40:53.975Z",
+  "organ": {
+    "nom": "Ajuntament de la Pobla de Segur",
+    "nif": "P2521300J",
+    "direccioPostal": "Av. Verdaguer, 35",
+    "localitat": "Altres/Diversos, No Consta",
+    "codiPostal": "99999",
+    "nuts": "OT",
+    "web": "www.lapobladesegur.cat",
+    "telefon": "973680038",
+    "fax": "973681107",
+    "email": "ajuntament@lapobladesegur.cat",
+    "personesContacte": [
+      {
+        "nom": "Lídia",
+        "cognom": "Carbonell Figuerola",
+        "carrec": "Secretària-interventora",
+        "telefon": "973680038",
+        "email": "secretaria@lapobladesegur.cat"
+      },
+      {
+        "nom": "Josep",
+        "cognom": "Torras Altisent",
+        "carrec": "Enginyer tècnic municipal",
+        "telefon": "973680038",
+        "email": "enginyeria@lapobladesegur.cat"
+      }
+    ],
+    "centralCompres": false,
+    "observacions": {},
+    "horari": {
+      "ca": "De dilluns a divendres, de 8:30 a 14:30 hores. "
+    },
+    "organContractacioId": 2867949
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000043,
+      "ca": "Formalització",
+      "es": "Formalización",
+      "en": "Formalisation",
+      "oc": "Formalizacion"
+    },
+    "expedientId": "5d96c294-93f0-4d38-8047-20f01b34d846",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000043,
+        "ca": "Formalització",
+        "es": "Formalización",
+        "en": "Formalisation",
+        "oc": "Formalizacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "288/2024",
+      "denominacio": {
+        "ca": "Contracte Menor del subministrament i instal·lació d'un punt de recàrrega per bicicletes elèctriques i un punt per autocaravanes a la Pobla de Segur. Actuació 5 de l'Eix 2 del Pla de Sostenibilitat Turística (PSTD) finançat pel PRTR - Next Generation EU"
+      },
+      "descripcio": {
+        "ca": "Contracte Menor del subministrament i instal·lació d'un punt de recàrrega per bicicletes elèctriques i un punt de recàrrega semi-ràpid per autocaravanes a la Pobla de Segur. Actuació 5 de l'Eix 2 del Pla de Sostenibilitat Turística (PSTD) finançat pel Pla de Recuperació, Transformació i Resiliència (PRTR) - Next Generation EU"
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "tipusContracte": {
+        "id": 394,
+        "ca": "Subministraments ",
+        "es": "Suministros",
+        "en": "Supplies ",
+        "oc": "Subministraments "
+      },
+      "procedimentAdjudicacio": {
+        "id": 403,
+        "ca": "Contracte menor",
+        "es": "Contrato menor",
+        "en": "minor contract",
+        "oc": "Contracte mendre"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": true,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {},
+      "tipusSubministraments": {
+        "id": 1008432,
+        "ca": "Adquisició"
+      }
+    },
+    "dadesPublicacio": {
+      "observacions": {},
+      "contractacioConjunta": false,
+      "justificacioProcedimentUtilitzat": {},
+      "contracteFinancatUe": true,
+      "tipusFinancament": {
+        "id": 1008344,
+        "ca": "MRR (Mecanisme de recuperació, transformació i resiliència)",
+        "en": "RRF (Recovery, Resilience Facility)",
+        "oc": "MRR (Mecanisme de recuperacion, transformacion e resiliéncia)"
+      },
+      "valorEstimatContracte": 13223.14
+    },
+    "dadesPublicacioLot": [
+      {
+        "pressupostLicitacio": 13223.14,
+        "publicacioExpedientId": 300560723,
+        "cpvPrincipal": {
+          "codi": "31681500-8",
+          "ca": "Carregador elèctric",
+          "es": "Dispositivos de realimentación",
+          "en": "Rechargers",
+          "oc": "Cargador electric"
+        },
+        "cpvsSecundaris": [
+          {
+            "codi": "45231400-9",
+            "ca": "Treballs de construcció de línies de conducció elèctrica",
+            "es": "Trabajos de construcción de líneas de conducción eléctrica",
+            "en": "Construction work for electricity power lines",
+            "oc": "Trabalhs de bastiment de linhes de conduccion electrica"
+          },
+          {
+            "codi": "45315300-1",
+            "ca": "Instal·lacions de subministrament d'electricitat",
+            "es": "Instalaciones de suministro de electricidad",
+            "en": "Electricity supply installations",
+            "oc": "Installacions de subministrament d'electricitat"
+          },
+          {
+            "codi": "45314320-0",
+            "ca": "Instal·lació de cablatge informàtic",
+            "es": "Instalación de cableado informático",
+            "en": "Installation of computer cabling",
+            "oc": "Installacion de cablatge informatic"
+          },
+          {
+            "codi": "45311000-0",
+            "ca": "Treballs d'instal·lació de cablatge i accessoris elèctrics",
+            "es": "Trabajos de instalación de cableado y accesorios eléctricos",
+            "en": "Electrical wiring and fitting work",
+            "oc": "Trabalhs d'installacion de cablatge e accessòris electrics"
+          }
+        ],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES513",
+          "ca": "Pobla de Segur, la"
+        },
+        "dataAdjudicacio": "2025-04-29T22:00:00.000Z",
+        "dataFormalitzacio": "2025-05-05T22:00:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {},
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 50,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 50,
+                "descripcioCriteri": {},
+                "identificador": "3981125341677579"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 50,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008369,
+                  "ca": "Experiència del personal adscrit",
+                  "en": "Experience of assigned staff",
+                  "oc": "Experiéncia deth personau adscrit"
+                },
+                "puntuacio": 30,
+                "descripcioCriteri": {},
+                "identificador": "3981125341679902"
+              },
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 20,
+                "descripcioCriteri": {
+                  "ca": "Ampliació del termini de garantia"
+                },
+                "identificador": "3981125341680049"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 6,
+        "ofertesRebudesEconomics": 6,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 6,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "ALTERVAC, S.A.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A63395719",
+            "telefon": "657943246",
+            "email": "mginart@altervac.com",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "importAdjudicacioSenseIva": 9124,
+            "importAdjudicacioAmbIva": 11040.04,
+            "iva": 21,
+            "varisTipusIva": false,
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona"
+            },
+            "municipi": {
+              "id": 1001129,
+              "ca": "Sant Celoni"
+            },
+            "tercerSector": {
+              "id": 1008406,
+              "ca": "No tercer sector"
+            },
+            "informacioUte": [],
+            "plurianualitats": []
+          }
+        ],
+        "subcontractacio": false,
+        "subcontractacions": [],
+        "metodeUtilitzatCalculValorEstimat": {},
+        "peuDeRecurs": {},
+        "adrecaEnllacMesInformacioRecurs": {},
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 301598083,
+              "titol": "Actuació 5_Annex 11. Acceptació adjudicació diligenciat.pdf",
+              "path": "UxPhZU9Fm-Mb8vPinmtE7_XRWdD_HeTki8qTtzTjpe1zLUb6HCLHsYKklkknrhp_wj8iwLg4qwlqpq_BB1_fzSuWjiDMycGNt5cqENObSuDOq0D2aWFEsDplyu9Gb5ABsViLvEwLdK9OY3dWUNcNmXqs2S3BJZ7Rh6SndGrkn9tgoTlKKfLpD_3v20BSih-VQJ6Pw3Y_hwiwg7joByDkZ_v-8SJFlBLi_eMQG-ZKRO_inAS0zmf_LrLwGAoH3ks8r9kshlHGcB60yFStFjV5Mnx0NKIxG_IcuO_SShLIbo4YeY-9vqXWoPx13FFN0B0Rd6H9ZYl9un7RAsumtCsu-A==",
+              "hash": "429ACEE79092792FEDC99C094E4373BB",
+              "idioma": "ca",
+              "mida": 262596
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2025-05-05T22:00:00.000Z",
+        "fiTerminiExecucio": "2025-06-21T22:00:00.000Z",
+        "observacionsTermini": {
+          "ca": "- El termini de durada pel document tècnic serà de quatre (4) setmanes des de l’acceptació de l’adjudicació.\n- El termini de subministrament dels punts de recàrrega serà de quatre (4) setmanes des de l’acceptació de l’adjudicació.\n- El termini d’instal·lació dels punts de recàrrega serà de dos (2) setmanes des de l’aprovació del document tècnic per part de l’Ajuntament de la Pobla de Segur."
+        },
+        "canonExplotacio": {}
+      }
+    ],
+    "dadesExpedient": {
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "5d96c294-93f0-4d38-8047-20f01b34d846",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "tipusOfertaElectronica": 413,
+      "denominacioExpedientReferencia": {}
+    },
+    "publicacionsOficials": [],
+    "motiuEsmena": {}
+  },
+  "pathPdf": "jUdEWKjaTQn3MWjaIDgVy6GCV53g3-_mNKZQTX3xx7WjpBNMGXKRR317nMXpPCL3cPfSIrb8ouBX5wlxVDUEWhEV4yfcVqTkT2XoILdakw55vQTQtlJB7D3vYTf6SlmUNhl5KOenBcaMJL7nQUlwuzCv5Ac3FQHrkpEcU6ektTNWO0tpteAZQF4fDI2fJKrZQQVMs8Qt9kCjj7-KAOOHMWbIL_yOCKd17ICCeEUc5mj---NaXDJXsiN1WoaaULacFS90KMdoMrL9jVyFUg2VSvzLkEgkY2bLYknt-9Ec6hryMAlW8VMgAfPauPGx46rEfsej8RTUz1Pp5FPIvF9ZrQ==",
+  "pathCertificacio": "sPW_pLvY8huhiab6YdS25PsCUbqW0O0sPVybBaDsyHT4Warl9o5SToSUdqtpB47uTV7uN0DIbzpgV7pUZZTRT-tegqsKUihzHfEDfwMrj0puc6XBz6-_lJRTOlTwVDazMXs8V3X-ScvokBS0AYb1jthqK5HadMg-0TBuFObMc2fskSjLgBmzISQxrLGKN0EPHKUgDfiHE1p4WZwy6XNWYFySNsN2AcSJygXAIITQgNgARS2qPAxZ2am5eI3PJ2iJ6SsiBR3v87QIoyqkdqOlR9Hi9-WhO1z2oeVk9S_PybJWoC1UMHuCLX2vF4Xg5zrQEhP-3cS_eWeRN-Dy5hZdtw==",
+  "pathJson": "l_RO9IhJIpHD9BP8IwEs4TYdppOi9c3zb8yGhH5PAHN-6s8VgK6oo5bhGQ-2zdnqMo-PlFS7qxMb8_bpOVB5iTdx6VdFvhiZ8uMaLv1Uzn3Ahk4YeagupBlO5hMoDb4eUifaAjFiOiGTkIzYcrosPyeuIH5KqdfusQEo34ct6dOxgjpZ0s2iDRA0jYZOb9rC3mpOf83lm7pR-LXCiiYgfnRZPM-m88u3mjH8oQibldplha9o9iPc_3PO0bCpFVkn6MVC9jmcjdCRoKo-IAiQZ7txVXH79qBa5AWdXngONwSHMChlYlHw9gio5MhFis6k36JM0vc7_PrpSleh51KMrQ==",
+  "dataPublicacioReal": "2025-09-15T11:42:15.517Z",
+  "dadesExpedient": {
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": "Català",
+      "es": "Catalan",
+      "en": "Catalan",
+      "oc": "Catalan"
+    },
+    "expedientId": "5d96c294-93f0-4d38-8047-20f01b34d846",
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 413,
+    "denominacioExpedientReferencia": {}
+  }
+}

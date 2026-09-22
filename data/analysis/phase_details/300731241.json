@@ -1,0 +1,2675 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "ME. MEC-25L02",
+  "idExpedient": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+  "dataPublicacioPlanificada": "2026-03-24T14:47:17.589Z",
+  "organ": {
+    "nom": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "unitat": "Infraestructures.cat",
+    "nif": "A59377135",
+    "direccioPostal": "Carrer dels Vergós, 36-42",
+    "localitat": "Barcelona, Barcelona",
+    "codiPostal": "08017",
+    "nuts": "ES511",
+    "telefon": "934444444",
+    "email": "licitacio@infraestructures.cat",
+    "personesContacte": [],
+    "centralCompres": false,
+    "tipusPoderAdjudicador": 1500007,
+    "observacions": {},
+    "horari": {},
+    "organContractacioId": 203633,
+    "activitatPrincipalOrgan": {
+      "id": 1051240,
+      "ca": "Infraestructures",
+      "es": "Infraestructuras"
+    }
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000042,
+      "ca": "Adjudicació",
+      "es": "Adjudicación",
+      "en": "Adjudication",
+      "oc": "Adjudicacion"
+    },
+    "expedientId": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "teLots": true,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000042,
+        "ca": "Adjudicació",
+        "es": "Adjudicación",
+        "en": "Adjudication",
+        "oc": "Adjudicacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "ME. MEC-25L02",
+      "denominacio": {
+        "ca": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02"
+      },
+      "descripcio": {
+        "ca": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02"
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "unitatContractacio": 23311099,
+      "tipusContracte": {
+        "id": 393,
+        "ca": "Serveis",
+        "es": "Servicios",
+        "en": "Services",
+        "oc": "Servicis"
+      },
+      "procedimentAdjudicacio": {
+        "id": 401,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {},
+      "metodologiaBim": false
+    },
+    "dadesPublicacio": {
+      "pressupostLicitacio": 41129079.8,
+      "observacions": {},
+      "valorEstimatContracte": 83579468.07,
+      "iva": 21,
+      "varisTipusIva": false,
+      "pressupostBaseLicitacioAmbIVA": 49766186.56,
+      "contracteRelacionatFinanciatFonsUnioEuropea": false
+    },
+    "dadesPublicacioLot": [
+      {
+        "numeroLot": "1",
+        "lotId": 0,
+        "descripcio": {
+          "ca": "Edificis judicials Barcelona"
+        },
+        "pressupostLicitacio": 2292542.12,
+        "publicacioExpedientId": 300731241,
+        "titol": "Edificis judicials Barcelona",
+        "dataAdjudicacio": "2025-10-15T15:00:00.000Z",
+        "terminiFormalitzacioContracte": {
+          "ca": "De conformitat amb l'article 153.3 LCSP, un cop transcorreguts els 15 dies hàbils d'ençà la notificació i publicació de l'adjudicació. "
+        },
+        "importAdjudicacio": 2011802.23,
+        "ofertaAdjudicatariaIncursa": false,
+        "observacions": {
+          "ca": "D’acord amb el desglossament d’imports següent, i per un termini de 37 mesos:\n\n-\tUn import de 1.728.071,36 euros (sense IVA) relatiu al Servei de transició, conservació i manteniment i de gestió energètica i millora ambiental.\n\n-\tUn import màxim de 283.730,87 euros (sense IVA) relatiu a d’Altres intervencions i correctius extra d’acord amb un percentatge de baixa del 0,00 % en concepte de despeses generals i benefici industrial a aplicar al pressupost d’execució material (PEM) de la valoració de les eventuals intervencions del Pla d’intervencions, i d’un 0,00 % en concepte de redacció de memòria valorada a aplicar al pressupost d’execució per contracte (PEC) de les eventuals intervencions del Pla d’intervencions.\n\n-\tUn import de 1.250,00 euros (sense IVA) relatiu a la franquícia sobre els materials, components d’equips o equips que el licitador assumirà al seu càrrec per manteniment correctiu. \n"
+        },
+        "peuDeRecurs": {
+          "ca": "Contra aquest acord es pot interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n\nAquest recurs té caràcter potestatiu, és gratuït per als recurrents i es pot interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, regulador a de la jurisdicció contenciosa administrativa.\n"
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "empresesAdjudicataries": [
+          {
+            "denominacio": "GESTIÓN INTEGRAL DE INSTALACIONES S.L",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "B60650801",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 748,
+                "ca": "PIME",
+                "en": "SME",
+                "oc": "PIME"
+              },
+              {
+                "id": 1008411,
+                "ca": "No informat"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1001132,
+              "ca": "Sant Cugat del Vallès"
+            },
+            "informacioUte": []
+          }
+        ],
+        "resolucioAdjudicacio": {
+          "ca": [
+            {
+              "id": 302121743,
+              "titol": "Resolució adjudicació ME. MEC-25L02 Lot1.pdf",
+              "path": "iIcH1G8SGE2fzuyNCBmaS3JNyq24oRnP8vpD2wCOQqanRPZHfuwpRioxduCsHT2nCIdE8QfKYZaxIUWdIxQaqsPId62HWrnW70UJWvRoDNCgMT_7AkDZI0-UcSEsOhRLrhInAhU1BeXwaEuUTtt34xQqeRqM5IAXTccHNC3An8_sOke1j8DtyRrPtvA7p3fIqFPvMwuIHWVMw66XlH2LeJ1wKDHAvz2itzLLa16RV7cj0hGslj5pSt1BSdtusUrGomTJ758EFeK8rlLhLk7e_MiH8t_9jAb1rlHBrTLEKYNv6SG9s7vAMP62IQA0BxhAMjBREoyq6MRTEjWHX1oxtw==",
+              "hash": "D0EE32DE248F7B90E781434DBE81B974",
+              "idioma": "ca",
+              "mida": 174502
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "importAdjudicacioIva": 2434280.7,
+        "ivaAdjudicacio": 21,
+        "varisTipusIvaAdjudicacio": false,
+        "valorEstimatContracte": 4500965.74,
+        "iva": 21,
+        "varisTipusIva": false,
+        "pressupostBaseLicitacioAmbIVA": 2773975.96,
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "reservaSocial": false,
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 3,
+          "mesos": 1,
+          "observacions": {}
+        },
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "prescripcionsTecniquesSocials": false,
+        "prescripcionsTecniquesAmbientals": false,
+        "totalOfertesRebudes": 18,
+        "estudisDictamens": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "llistatPrescripcionsTecniquesSocials": [],
+        "descripcioLicitacio": {},
+        "subcontractacions": [],
+        "canonExplotacio": {},
+        "metodeUtilitzatCalculValorEstimat": {}
+      },
+      {
+        "numeroLot": "2",
+        "lotId": 1,
+        "descripcio": {
+          "ca": "Edificis judicials Barcelona Províncies Nord"
+        },
+        "pressupostLicitacio": 4557472.52,
+        "publicacioExpedientId": 300731241,
+        "titol": "Edificis judicials Barcelona Províncies Nord",
+        "dataAdjudicacio": "2025-10-15T15:00:00.000Z",
+        "terminiFormalitzacioContracte": {
+          "ca": "De conformitat amb l'article 153.3 LCSP, un cop transcorreguts els 15 dies hàbils d'ençà la notificació i publicació de l'adjudicació.\n"
+        },
+        "importAdjudicacio": 3845214.11,
+        "ofertaAdjudicatariaIncursa": false,
+        "observacions": {
+          "ca": "D’acord amb el desglossament d’imports següent, i per un termini de 37 mesos:\n\n-\tUn import de 3.173.786,41 euros (sense IVA) relatiu al Servei de transició, conservació i manteniment i de gestió energètica i millora ambiental.\n\n-\tUn import màxim de 671.427,69 euros (sense IVA) relatiu a d’Altres intervencions i correctius extra d’acord amb un percentatge de baixa del 0,00 % en concepte de despeses generals i benefici industrial a aplicar al pressupost d’execució material (PEM) de la valoració de les eventuals intervencions del Pla d’intervencions, i d’un 0,00 % en concepte de redacció de memòria valorada a aplicar al pressupost d’execució per contracte (PEC) de les eventuals intervencions del Pla d’intervencions.\n\n-\tUn import de 1.250,00 euros (sense IVA) relatiu a la franquícia sobre els materials, components d’equips o equips que el licitador assumirà al seu càrrec per manteniment correctiu. \n"
+        },
+        "peuDeRecurs": {
+          "ca": "Contra aquest acord es pot interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n\nAquest recurs té caràcter potestatiu, és gratuït per als recurrents i es pot interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, regulador a de la jurisdicció contenciosa administrativa.\n"
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "empresesAdjudicataries": [
+          {
+            "denominacio": "Elecnor",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A79486833",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 749,
+                "ca": "No PIME",
+                "en": "No SME",
+                "oc": "Non PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the previous options",
+                "oc": "Cap des anteriores"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1001002,
+              "ca": "Cornellà de Llobregat"
+            },
+            "informacioUte": []
+          }
+        ],
+        "resolucioAdjudicacio": {
+          "ca": [
+            {
+              "id": 302121744,
+              "titol": "Resolució adjudicació ME. MEC-25L02 Lot2.pdf",
+              "path": "JV9gE2zgz2WZ4om4o6y6MMCPVP3nudED5J3PRuHeZO8NPQ_C1XjnGYVRdW2Mc4eODxq4LP1dG601NVSHWV-nAnIhbIWNOXIYcrrCP3mOOQEckyT53YFhtBtqFNbNyMl6t3762qtuRUkAG0KSB-b-AFEQ8yJjqAmOeJNu--wj00ypHFRALwgc8eIy3FYlV1NYLwOE77pDnUKS8hRhqK8rHCcouTAFaVtLp1A7mQTRr66EEJY6VbCJ5TSP6AHhDjoZKqTzZT2gS6O29o3K_dIBk7VNgsBHqVvnDEVm_-0bIapu319WOwH2YYr-yZOdjGhBCurzhPmtxubYe6QrB_Pd6g==",
+              "hash": "F48084EB070947CBB1B84089AB84AB5C",
+              "idioma": "ca",
+              "mida": 176093
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "importAdjudicacioIva": 4652709.07,
+        "ivaAdjudicacio": 21,
+        "varisTipusIvaAdjudicacio": false,
+        "valorEstimatContracte": 9218798.18,
+        "iva": 21,
+        "varisTipusIva": false,
+        "pressupostBaseLicitacioAmbIVA": 5514541.75,
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "reservaSocial": false,
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 3,
+          "mesos": 1,
+          "observacions": {}
+        },
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "prescripcionsTecniquesSocials": false,
+        "prescripcionsTecniquesAmbientals": false,
+        "totalOfertesRebudes": 18,
+        "estudisDictamens": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "llistatPrescripcionsTecniquesSocials": [],
+        "descripcioLicitacio": {},
+        "subcontractacions": [],
+        "canonExplotacio": {},
+        "metodeUtilitzatCalculValorEstimat": {}
+      },
+      {
+        "numeroLot": "4",
+        "lotId": 2,
+        "descripcio": {
+          "ca": "Edificis judicials Tarragona i Terres de l’Ebre"
+        },
+        "pressupostLicitacio": 3430093.93,
+        "publicacioExpedientId": 300731241,
+        "titol": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "dataAdjudicacio": "2025-10-15T15:00:00.000Z",
+        "terminiFormalitzacioContracte": {
+          "ca": "De conformitat amb l'article 153.3 LCSP, un cop transcorreguts els 15 dies hàbils d'ençà la notificació i publicació de l'adjudicació."
+        },
+        "importAdjudicacio": 2915028.09,
+        "ofertaAdjudicatariaIncursa": false,
+        "observacions": {
+          "ca": "D’acord amb el desglossament d’imports següent, i per un termini de 37 mesos:\n\n-\tUn import de 2.514.733,21 euros (sense IVA) relatiu al Servei de transició, conservació i manteniment i de gestió energètica i millora ambiental.\n\n-\tUn import màxim de 400.294,88 euros (sense IVA) relatiu a d’Altres intervencions i correctius extra d’acord amb un percentatge de baixa del 0,00 % en concepte de despeses generals i benefici industrial a aplicar al pressupost d’execució material (PEM) de la valoració de les eventuals intervencions del Pla d’intervencions, i d’un 0,00 % en concepte de redacció de memòria valorada a aplicar al pressupost d’execució per contracte (PEC) de les eventuals intervencions del Pla d’intervencions.\n\n-\tUn import de 1.250,00 euros (sense IVA) relatiu a la franquícia sobre els materials, components d’equips o equips que el licitador assumirà al seu càrrec per manteniment correctiu. \n"
+        },
+        "peuDeRecurs": {
+          "ca": "Contra aquest acord es pot interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n\nAquest recurs té caràcter potestatiu, és gratuït per als recurrents i es pot interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, regulador a de la jurisdicció contenciosa administrativa.\n"
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "empresesAdjudicataries": [
+          {
+            "denominacio": "COMSA Service Facility Management, S.A.U.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A60470127",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 749,
+                "ca": "No PIME",
+                "en": "No SME",
+                "oc": "Non PIME"
+              },
+              {
+                "id": 1008410,
+                "ca": "Altres"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1001002,
+              "ca": "Cornellà de Llobregat"
+            },
+            "informacioUte": []
+          }
+        ],
+        "resolucioAdjudicacio": {
+          "ca": [
+            {
+              "id": 302121745,
+              "titol": "Resolució adjudicació ME. MEC-25L02 Lot4.pdf",
+              "path": "RtXLoec7QYvZBH-cPI7_F-8Vi-HNGkAYW5VqUx1n3o9BLBmbQwWELwmQaIGxuawgYeCAQCZjEcsksc2d_Cx33r5SchfJm6xkSF9g9N3ZdbkZ7EoGtH1-wV3ugHE6zXCjPIVbsZnXQjtnxpT7MfXDllqWE9WDd0wVL02Q9UrjHbaNWH6ABpxWb2UMoY3fraMe4V4etuUGhajF2njNX-Wz2QAevV6fCqhWQHAPxC6xdYm3MYhoCuy3X8H7mAIcWEtTQKShGo6FhUoLeqNFTt60fTBmNbDZj5jxUnj3NJDbxjtYZiIsbeOagvpAn9KgAO65omOmYceio-lnYZp97ICAng==",
+              "hash": "6D250C71901B4690E45497E5B3736088",
+              "idioma": "ca",
+              "mida": 174884
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "importAdjudicacioIva": 3527183.99,
+        "ivaAdjudicacio": 21,
+        "varisTipusIvaAdjudicacio": false,
+        "valorEstimatContracte": 6734237.17,
+        "iva": 21,
+        "varisTipusIva": false,
+        "pressupostBaseLicitacioAmbIVA": 4150413.66,
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "reservaSocial": false,
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 3,
+          "mesos": 1,
+          "observacions": {}
+        },
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "prescripcionsTecniquesSocials": false,
+        "prescripcionsTecniquesAmbientals": false,
+        "totalOfertesRebudes": 18,
+        "estudisDictamens": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "llistatPrescripcionsTecniquesSocials": [],
+        "descripcioLicitacio": {},
+        "subcontractacions": [],
+        "canonExplotacio": {},
+        "metodeUtilitzatCalculValorEstimat": {}
+      },
+      {
+        "numeroLot": "3",
+        "lotId": 3,
+        "descripcio": {
+          "ca": "Edificis judicials Barcelona Províncies Sud"
+        },
+        "pressupostLicitacio": 2563959.76,
+        "publicacioExpedientId": 300731241,
+        "titol": "Edificis judicials Barcelona Províncies Sud",
+        "dataAdjudicacio": "2026-03-22T23:00:00.000Z",
+        "terminiFormalitzacioContracte": {
+          "ca": "De conformitat amb l'article 153.3 LCSP, un cop transcorreguts els 15 dies hàbils d'ençà la notificació i publicació de l'adjudicació."
+        },
+        "importAdjudicacio": 2199111.88,
+        "ofertaAdjudicatariaIncursa": false,
+        "observacions": {
+          "ca": "L'import d'adjudicació és màxim de 2.199.111,88 euros (IVA exclòs), d’acord amb la previsió d’execució inicial de 37 mesos, que s’haurà d’ajustar de manera proporcional a la nova durada efectiva en funció del termini que quedarà definitivament fixat un cop formalitzat el contracte, finalitzant, en tot cas, el 30 de juny de 2028."
+        },
+        "peuDeRecurs": {
+          "ca": "Els actes que es dictin en el present procediment de licitació podran interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n \nAquest recurs té caràcter potestatiu, és gratuït per als recurrents, es podrà interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, reguladora de la jurisdicció contenciosa administrativa."
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "empresesAdjudicataries": [
+          {
+            "denominacio": "Elecnor Servicios y Proyectos, SAU",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A79486833",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 749,
+                "ca": "No PIME",
+                "en": "No SME",
+                "oc": "Non PIME"
+              },
+              {
+                "id": 1008410,
+                "ca": "Altres"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1000948,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "informacioUte": []
+          }
+        ],
+        "resolucioAdjudicacio": {
+          "ca": [
+            {
+              "id": 302121778,
+              "titol": "Resolució Adjudicació President.pdf",
+              "path": "Vgadoy1Ur634iUr6Z5n4hXMg03Z0pH7XwuguFB64Jvbj0Lb8tZVM8dcfk3XjvCumZHlggjfXY6E1ZMbWqv9FY5Ws5EcS38OIi_v5hs6ljGwHwMJvPgtm50rEuDNKjZyc6To0qWIHNyDUc3jWTJl_CSCWbIbESuIfpAeJohD9SyGYhB2D6Q5TOrVEqA9FQJcPGvvAraa7U12mOKnOwDhTKCw8UBaR_NCMCdE20Yj5MzPSRx_0d2nKBHedymeQWit1ge5wsNuaEKT38AyjQ3TrmMpYFyehDkebwvhLQFlzfdJSTE1JYyHPGyzyPvFgTiOx-XiyHLIhNiTCMaZuJfiZzA==",
+              "hash": "11DDF17F2FE4D1BD1ADEF717A5FF2A29",
+              "idioma": "ca",
+              "mida": 133103
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "importAdjudicacioIva": 2660925.37,
+        "ivaAdjudicacio": 21,
+        "varisTipusIvaAdjudicacio": false,
+        "valorEstimatContracte": 6044837.62,
+        "iva": 21,
+        "varisTipusIva": false,
+        "pressupostBaseLicitacioAmbIVA": 3102391.31,
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "reservaSocial": false,
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 2,
+          "mesos": 2,
+          "observacions": {
+            "ca": "El termini quedarà definitivament fixat un cop formalitzat el contracte, finalitzant, en tot cas, el 30 de juny de 2028."
+          }
+        },
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "prescripcionsTecniquesSocials": false,
+        "prescripcionsTecniquesAmbientals": false,
+        "totalOfertesRebudes": 18,
+        "estudisDictamens": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "llistatPrescripcionsTecniquesSocials": [],
+        "descripcioLicitacio": {},
+        "subcontractacions": [],
+        "canonExplotacio": {},
+        "metodeUtilitzatCalculValorEstimat": {}
+      },
+      {
+        "numeroLot": "5",
+        "lotId": 4,
+        "descripcio": {
+          "ca": "Edificis judicials Lleida"
+        },
+        "pressupostLicitacio": 2241527.31,
+        "publicacioExpedientId": 300731241,
+        "titol": "Edificis judicials Lleida",
+        "dataAdjudicacio": "2025-10-20T16:30:00.000Z",
+        "terminiFormalitzacioContracte": {
+          "ca": "De conformitat amb l'article 153.3 LCSP, un cop transcorreguts els 15 dies hàbils d'ençà la notificació i publicació de l'adjudicació."
+        },
+        "importAdjudicacio": 1952457.57,
+        "ofertaAdjudicatariaIncursa": false,
+        "observacions": {
+          "ca": "D'acord amb el desglossament d’imports següent, i per un termini de 37 mesos:\n\n-\tUn import de 1.664.600,48 euros (sense IVA) relatiu al Servei de transició, conservació i manteniment i de gestió energètica i millora ambiental.\n\n-\tUn import màxim de 287.857,09 euros (sense IVA) relatiu a d’Altres intervencions i correctius extra d’acord amb un percentatge de baixa del 0,00 % en concepte de despeses generals i benefici industrial a aplicar al pressupost d’execució material (PEM) de la valoració de les eventuals intervencions del Pla d’intervencions, i d’un 0,00 % en concepte de redacció de memòria valorada a aplicar al pressupost d’execució per contracte (PEC) de les eventuals intervencions del Pla d’intervencions.\n\n-\tUn import de 1.250,00 euros (sense IVA) relatiu a la franquícia sobre els materials, components d’equips o equips que el licitador assumirà al seu càrrec per manteniment correctiu. \n"
+        },
+        "peuDeRecurs": {
+          "ca": "Contra aquest acord es pot interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n\nAquest recurs té caràcter potestatiu, és gratuït per als recurrents i es pot interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, regulador a de la jurisdicció contenciosa administrativa."
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "empresesAdjudicataries": [
+          {
+            "denominacio": "MH INDUSTRIAS, S.L.U",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "B64570567",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 748,
+                "ca": "PIME",
+                "en": "SME",
+                "oc": "PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the previous options",
+                "oc": "Cap des anteriores"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1001193,
+              "ca": "Cerdanyola del Vallès"
+            },
+            "informacioUte": []
+          }
+        ],
+        "resolucioAdjudicacio": {
+          "ca": [
+            {
+              "id": 302121746,
+              "titol": "Resolució adjudicació ME. MEC-25L02 Lot5.pdf",
+              "path": "hXCNol3Twm0dpeSozl7gXx0xAhVKuLtyY0Ti4pOVKXiRLrYPybDxG6rryZZ6I8ZY2E5z5K9crsppGnSjmQUcMdJT5Oj-cq_cEPrgMUrDtb6jfIlNgYUyRRVdKGLEp3w14kGqFPO9H5SZtzkAy1ATTdK8Fh1_BUUwFhm3MEB-UwIl4TnUTBHd1qbn5co2ENIVlZm_xBdu_OgLMb_WT_injk7yFPEoQOnQmnYMDzOE8L4mfYX6ziSIuWJ031DB4GkGFzEiHWIZ6gTMsWfS7qxEYklViwM4_uB10ty87bQFgD1iTdd-nRJpf8Jid21LVvIqZfeycFajzXKscX9YcGq2HQ==",
+              "hash": "242C8E6294DD977874375E785E743D2C",
+              "idioma": "ca",
+              "mida": 178782
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "importAdjudicacioIva": 2362473.66,
+        "ivaAdjudicacio": 21,
+        "varisTipusIvaAdjudicacio": false,
+        "valorEstimatContracte": 4400847.98,
+        "iva": 21,
+        "varisTipusIva": false,
+        "pressupostBaseLicitacioAmbIVA": 2712248.05,
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "reservaSocial": false,
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 3,
+          "mesos": 1,
+          "observacions": {}
+        },
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "prescripcionsTecniquesSocials": false,
+        "prescripcionsTecniquesAmbientals": false,
+        "totalOfertesRebudes": 18,
+        "estudisDictamens": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "llistatPrescripcionsTecniquesSocials": [],
+        "descripcioLicitacio": {},
+        "subcontractacions": [],
+        "canonExplotacio": {},
+        "metodeUtilitzatCalculValorEstimat": {}
+      },
+      {
+        "numeroLot": "6",
+        "lotId": 5,
+        "descripcio": {
+          "ca": "Edificis judicials Girona"
+        },
+        "pressupostLicitacio": 3091271.76,
+        "publicacioExpedientId": 300731241,
+        "titol": "Edificis judicials Girona",
+        "dataAdjudicacio": "2025-10-15T16:00:00.000Z",
+        "terminiFormalitzacioContracte": {
+          "ca": "De conformitat amb l'article 153.3 LCSP, un cop transcorreguts els 15 dies hàbils d'ençà la notificació i publicació de l'adjudicació."
+        },
+        "importAdjudicacio": 2573810.83,
+        "ofertaAdjudicatariaIncursa": false,
+        "observacions": {
+          "ca": "D’acord amb el desglossament d’imports següent, i per un termini de 37 mesos:\n\n-\tUn import de 2.060.027,87 euros (sense IVA) relatiu al Servei de transició, conservació i manteniment i de gestió energètica i millora ambiental.\n\n-\tUn import màxim de 513.782,96 euros (sense IVA) relatiu a d’Altres intervencions i correctius extra d’acord amb un percentatge de baixa del 0,00 % en concepte de despeses generals i benefici industrial a aplicar al pressupost d’execució material (PEM) de la valoració de les eventuals intervencions del Pla d’intervencions, i d’un 0,00 % en concepte de redacció de memòria valorada a aplicar al pressupost d’execució per contracte (PEC) de les eventuals intervencions del Pla d’intervencions.\n\n-\tUn import de 1.250,00 euros (sense IVA) relatiu a la franquícia sobre els materials, components d’equips o equips que el licitador assumirà al seu càrrec per manteniment correctiu. \n"
+        },
+        "peuDeRecurs": {
+          "ca": "Contra aquest acord es pot interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n\nAquest recurs té caràcter potestatiu, és gratuït per als recurrents i es pot interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, regulador a de la jurisdicció contenciosa administrativa.\n"
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "empresesAdjudicataries": [
+          {
+            "denominacio": "OHL SERVICIOS INGESAN, S.A.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A27178789",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 749,
+                "ca": "No PIME",
+                "en": "No SME",
+                "oc": "Non PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the previous options",
+                "oc": "Cap des anteriores"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1001002,
+              "ca": "Cornellà de Llobregat"
+            },
+            "informacioUte": []
+          }
+        ],
+        "resolucioAdjudicacio": {
+          "ca": [
+            {
+              "id": 302121747,
+              "titol": "Resolució adjudicació ME. MEC-25L02 Lot6.pdf",
+              "path": "ljHJQMMmSD97Mg9cKAUvkofCrwQTU6S4_ibuIDC20QmhPmLDMmG1BUKaLv-t5C-wuSLbVwt_xXn4wdYNhSrPJTecuov7zVpVYv8lL3RDEsqbZS5geGM58HgnfLZZ9zjpy0prlw5TB2KqI7zu9t9F8T19uyxfDq1E44S11Sz4JW-JePYs-Z--EvSYNkNu6N4N5m-o4WZUBZi019hhFE4ErDQcLlsfqdgo9KcUFPyWAQnn13vVXRCtBUEm25ZkrY6zKqJtETG1PwLvegR35qFRCWlefqJEplnFYy5v-tWwuWebHwrHQcU4J_VPiOVh4Xat8xEhhy9wLok-HTprIZn-Kg==",
+              "hash": "55650F77D76539FAE0B8DADDE695B295",
+              "idioma": "ca",
+              "mida": 175390
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "importAdjudicacioIva": 3114311.1,
+        "ivaAdjudicacio": 21,
+        "varisTipusIvaAdjudicacio": false,
+        "valorEstimatContracte": 6069620.76,
+        "iva": 21,
+        "varisTipusIva": false,
+        "pressupostBaseLicitacioAmbIVA": 3740438.83,
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "reservaSocial": false,
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 3,
+          "mesos": 1,
+          "observacions": {}
+        },
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "prescripcionsTecniquesSocials": false,
+        "prescripcionsTecniquesAmbientals": false,
+        "totalOfertesRebudes": 18,
+        "estudisDictamens": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "llistatPrescripcionsTecniquesSocials": [],
+        "descripcioLicitacio": {},
+        "subcontractacions": [],
+        "canonExplotacio": {},
+        "metodeUtilitzatCalculValorEstimat": {}
+      },
+      {
+        "numeroLot": "7",
+        "lotId": 6,
+        "descripcio": {
+          "ca": "Centres penitenciaris i Centres educatius juvenils Barcelona "
+        },
+        "pressupostLicitacio": 3754547.63,
+        "publicacioExpedientId": 300731241,
+        "titol": "Centres penitenciaris i Centres educatius juvenils",
+        "dataAdjudicacio": "2026-03-22T23:00:00.000Z",
+        "terminiFormalitzacioContracte": {
+          "ca": "De conformitat amb l'article 153.3 LCSP, un cop transcorreguts els 15 dies hàbils d'ençà la notificació i publicació de l'adjudicació."
+        },
+        "importAdjudicacio": 3423168.37,
+        "ofertaAdjudicatariaIncursa": false,
+        "observacions": {
+          "ca": "L'import màxim d'adjudicació és 3.423.168,37 euros (IVA exclòs), d’acord amb la previsió d’execució inicial de 37 mesos, que s’haurà d’ajustar de manera proporcional a la nova durada efectiva en funció del termini que quedarà definitivament fixat un cop formalitzat el contracte, finalitzant, en tot cas, el 30 de juny de 2028."
+        },
+        "peuDeRecurs": {
+          "ca": "Els actes que es dictin en el present procediment de licitació podran interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n \nAquest recurs té caràcter potestatiu, és gratuït per als recurrents, es podrà interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, reguladora de la jurisdicció contenciosa administrativa."
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "empresesAdjudicataries": [
+          {
+            "denominacio": "Serveis Integrals de Manteniment RUBATEC, S.A.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A60744216",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 749,
+                "ca": "No PIME",
+                "en": "No SME",
+                "oc": "Non PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the previous options",
+                "oc": "Cap des anteriores"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1000948,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "informacioUte": []
+          }
+        ],
+        "resolucioAdjudicacio": {
+          "ca": [
+            {
+              "id": 302121785,
+              "titol": "Resolució Adjudicació President.pdf",
+              "path": "T7CTXFRglByTHs-OCXcHW-0KJPW3h7CHKJWXcNp3GewztBmziV5DLWirHk357aPWkygbnhkVg6hhpivDLL2wyOuzfahlwAe8IEaOYLFdhcZEF8V8a4aE-wcQS9AqJ8NP68S7KFVXpgTzjrUbiK_miIJ5uor6Ygbr1CHkKl-e1YPYK_DoyaHwSG3Biq0iylO3YH2PQA-sD-19vhcF7mC8e-7WzbSS1eLBjQRZF7YEXxaQPacCaW7cRRnolt429rHPLq1YiX16LCs6JrMRMldsCZ6hjhzDBPGPUCCW3673E-ZIXYf498YyE09hwLqq7i-8zAtpzn8nKCSIvKVOchrS-w==",
+              "hash": "3BC9245EB984DCE76919BB13CDF1A607",
+              "idioma": "ca",
+              "mida": 133244
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "importAdjudicacioIva": 4142033.73,
+        "ivaAdjudicacio": 21,
+        "varisTipusIvaAdjudicacio": false,
+        "valorEstimatContracte": 7451421,
+        "iva": 21,
+        "varisTipusIva": false,
+        "pressupostBaseLicitacioAmbIVA": 4543002.63,
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "reservaSocial": false,
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 2,
+          "mesos": 2,
+          "observacions": {
+            "ca": "El termini quedarà definitivament fixat un cop formalitzat el contracte, finalitzant, en tot cas, el 30 de juny de 2028."
+          }
+        },
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "prescripcionsTecniquesSocials": false,
+        "prescripcionsTecniquesAmbientals": false,
+        "totalOfertesRebudes": 18,
+        "estudisDictamens": true,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "llistatPrescripcionsTecniquesSocials": [],
+        "descripcioLicitacio": {},
+        "subcontractacions": [],
+        "canonExplotacio": {},
+        "metodeUtilitzatCalculValorEstimat": {}
+      },
+      {
+        "numeroLot": "8",
+        "lotId": 7,
+        "descripcio": {
+          "ca": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental"
+        },
+        "pressupostLicitacio": 5535717.94,
+        "publicacioExpedientId": 300731241,
+        "titol": "Centres penitenciaris i Centres educatius juvenils",
+        "dataAdjudicacio": "2025-10-15T15:00:00.000Z",
+        "terminiFormalitzacioContracte": {
+          "ca": "De conformitat amb l'article 153.3 LCSP, un cop transcorreguts els 15 dies hàbils d'ençà la notificació i publicació de l'adjudicació."
+        },
+        "importAdjudicacio": 4845595.77,
+        "ofertaAdjudicatariaIncursa": false,
+        "observacions": {
+          "ca": "D’acord amb el desglossament d’imports següent, i per un termini de 37 mesos:\n\n-\tUn import de 4.149.444,26 euros (sense IVA) relatiu al Servei de transició, conservació i manteniment i de gestió energètica i millora ambiental.\n\n-\tUn import màxim de 696.151,51 euros (sense IVA) relatiu a d’Altres intervencions i correctius extra d’acord amb un percentatge de baixa del 0,00 % en concepte de despeses generals i benefici industrial a aplicar al pressupost d’execució material (PEM) de la valoració de les eventuals intervencions del Pla d’intervencions, i d’un 0,00 % en concepte de redacció de memòria valorada a aplicar al pressupost d’execució per contracte (PEC) de les eventuals intervencions del Pla d’intervencions.\n\n-\tUn import de 1.250,00 euros (sense IVA) relatiu a la franquícia sobre els materials, components d’equips o equips que el licitador assumirà al seu càrrec per manteniment correctiu. \n"
+        },
+        "peuDeRecurs": {
+          "ca": "Contra aquest acord es pot interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n\nAquest recurs té caràcter potestatiu, és gratuït per als recurrents i es pot interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, regulador a de la jurisdicció contenciosa administrativa.\n"
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "empresesAdjudicataries": [
+          {
+            "denominacio": "Eulen, S.A.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A28517308",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 749,
+                "ca": "No PIME",
+                "en": "No SME",
+                "oc": "Non PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the previous options",
+                "oc": "Cap des anteriores"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1000948,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "informacioUte": []
+          }
+        ],
+        "resolucioAdjudicacio": {
+          "ca": [
+            {
+              "id": 302121748,
+              "titol": "Resolució adjudicació ME. MEC-25L02 Lot8.pdf",
+              "path": "BfaFcCoNjbugnB8AK08ju_pShKYIvUfrXNFCi_494xlV2EdFT4p8x9ichHpHefT4QENgbD4POZn6BToRT10FS5ZrAaxnah_eHd--k_QQGY3-xJc89O9RclAwXEhLL7G6b7z_Rcfe7hvLEmXHbXaSxwcMJ3IRAmlmffAzNg544ME8TS8nre6VgCtcTkeQGqfiSPl3_sFjiGKHc65iIS0PWs5IuCzXYPXtiRiQgoy9yqs01CbTgurmuJLwlqRS_LLP9HPJImSCnJbYQPsil5wPoVxyzr8KObEYDT3jp5f4xEVPmVT254LbAGHH3C0vAC8SjYMSBZn3tDadEt1v0VQQMw==",
+              "hash": "9E0103FD2D313616A65229D2047473AA",
+              "idioma": "ca",
+              "mida": 175229
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "importAdjudicacioIva": 5863170.88,
+        "ivaAdjudicacio": 21,
+        "varisTipusIvaAdjudicacio": false,
+        "valorEstimatContracte": 12334021.84,
+        "iva": 21,
+        "varisTipusIva": false,
+        "pressupostBaseLicitacioAmbIVA": 6698218.71,
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "reservaSocial": false,
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 3,
+          "mesos": 1,
+          "observacions": {}
+        },
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "prescripcionsTecniquesSocials": false,
+        "prescripcionsTecniquesAmbientals": false,
+        "totalOfertesRebudes": 18,
+        "estudisDictamens": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "llistatPrescripcionsTecniquesSocials": [],
+        "descripcioLicitacio": {},
+        "subcontractacions": [],
+        "canonExplotacio": {},
+        "metodeUtilitzatCalculValorEstimat": {}
+      },
+      {
+        "numeroLot": "9",
+        "lotId": 8,
+        "descripcio": {
+          "ca": "Centre penitenciari Brians 1"
+        },
+        "pressupostLicitacio": 3916206.83,
+        "publicacioExpedientId": 300731241,
+        "titol": "Centre penitenciari Brians 1",
+        "dataAdjudicacio": "2025-10-15T15:00:00.000Z",
+        "terminiFormalitzacioContracte": {
+          "ca": "De conformitat amb l'article 153.3 LCSP, un cop transcorreguts els 15 dies hàbils d'ençà la notificació i publicació de l'adjudicació."
+        },
+        "importAdjudicacio": 3521574.16,
+        "ofertaAdjudicatariaIncursa": false,
+        "observacions": {
+          "ca": "D’acord amb el desglossament d’imports següent, i per un termini de 37 mesos:\n\n-\tUn import de 3.024.939,19 euros (sense IVA) relatiu al Servei de transició, conservació i manteniment i de gestió energètica i millora ambiental.\n\n-\tUn import màxim de 496.634,97 euros (sense IVA) relatiu a d’Altres intervencions i correctius extra d’acord amb un percentatge de baixa del 0,00 % en concepte de despeses generals i benefici industrial a aplicar al pressupost d’execució material (PEM) de la valoració de les eventuals intervencions del Pla d’intervencions, i d’un 0,00 % en concepte de redacció de memòria valorada a aplicar al pressupost d’execució per contracte (PEC) de les eventuals intervencions del Pla d’intervencions.\n\n-\tUn import de 1.250,00 euros (sense IVA) relatiu a la franquícia sobre els materials, components d’equips o equips que el licitador assumirà al seu càrrec per manteniment correctiu. \n"
+        },
+        "peuDeRecurs": {
+          "ca": "Contra aquest acord es pot interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n\nAquest recurs té caràcter potestatiu, és gratuït per als recurrents i es pot interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, regulador a de la jurisdicció contenciosa administrativa.\n"
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "empresesAdjudicataries": [
+          {
+            "denominacio": "URBIA INTERMEDIACIÓN INGENIERIA Y SERVICIOS, S.A.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A07077969",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 748,
+                "ca": "PIME",
+                "en": "SME",
+                "oc": "PIME"
+              },
+              {
+                "id": 1008410,
+                "ca": "Altres"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 302,
+              "ca": "Illes Balears",
+              "es": "Islas Baleares",
+              "en": "Balearic Islands",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1001086,
+              "ca": "Palma"
+            },
+            "informacioUte": []
+          }
+        ],
+        "resolucioAdjudicacio": {
+          "ca": [
+            {
+              "id": 302121749,
+              "titol": "Resolució adjudicació ME. MEC-25L02 Lot9.pdf",
+              "path": "h0GSeLZuFFNdqsMahmHOhwazjK3syQbDxQwBg-DYGHBNvHgk6Gx251J7z-7q1HQzxR6rcbUFI4B-dLr87iAB3iJtoo0TViYMT1t2qr4KOkQb7KTicarDnZtwWd_C4odYFHldXp3ZWHU9jOsPOAoMnmWsdFSeWfdpMKnPjlrcYpyvNnSAy-DeYtZWCIH1wyYuOYpPXVG0pEAWO1qN-SFua8dth6WSxF8Jw858xo3Y8MNr4qWa5-qJd-jVxbDrXZMxgsdP0S8DDZv7TAzGDFmBy3rmnPxCvTuMHvJwxhv7mCcJ78Jw5GAaSLWCOc6c3lZr1SomNHciJausN-NytdhIOA==",
+              "hash": "BCA5132DAA2FF9640CBDD0B9A1F759A1",
+              "idioma": "ca",
+              "mida": 176972
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "importAdjudicacioIva": 4261104.73,
+        "ivaAdjudicacio": 21,
+        "varisTipusIvaAdjudicacio": false,
+        "valorEstimatContracte": 7688765.08,
+        "iva": 21,
+        "varisTipusIva": false,
+        "pressupostBaseLicitacioAmbIVA": 4738610.26,
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "reservaSocial": false,
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 3,
+          "mesos": 1,
+          "observacions": {}
+        },
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "prescripcionsTecniquesSocials": false,
+        "prescripcionsTecniquesAmbientals": false,
+        "totalOfertesRebudes": 18,
+        "estudisDictamens": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "llistatPrescripcionsTecniquesSocials": [],
+        "descripcioLicitacio": {},
+        "subcontractacions": [],
+        "canonExplotacio": {},
+        "metodeUtilitzatCalculValorEstimat": {}
+      },
+      {
+        "numeroLot": "10",
+        "lotId": 9,
+        "descripcio": {
+          "ca": "Centre penitenciari Brians 2"
+        },
+        "pressupostLicitacio": 4899681.06,
+        "publicacioExpedientId": 300731241,
+        "titol": "Centre penitenciari Brians 2",
+        "dataAdjudicacio": "2025-10-15T15:00:00.000Z",
+        "terminiFormalitzacioContracte": {
+          "ca": "De conformitat amb l'article 153.3 LCSP, un cop transcorreguts els 15 dies hàbils d'ençà la notificació i publicació de l'adjudicació."
+        },
+        "importAdjudicacio": 4481305.18,
+        "ofertaAdjudicatariaIncursa": false,
+        "observacions": {
+          "ca": "D’acord amb el desglossament d’imports següent, i per un termini de 37 mesos:\n\n-\tUn import de 3.765.374,97 euros (sense IVA) relatiu al Servei de transició, conservació i manteniment i de gestió energètica i millora ambiental.\n\n-\tUn import màxim de 715.930,21 euros (sense IVA) relatiu a d’Altres intervencions i correctius extra d’acord amb un percentatge de baixa del 0,00 % en concepte de despeses generals i benefici industrial a aplicar al pressupost d’execució material (PEM) de la valoració de les eventuals intervencions del Pla d’intervencions, i d’un 0,00 % en concepte de redacció de memòria valorada a aplicar al pressupost d’execució per contracte (PEC) de les eventuals intervencions del Pla d’intervencions.\n\n-\tUn import de 1.250,00 euros (sense IVA) relatiu a la franquícia sobre els materials, components d’equips o equips que el licitador assumirà al seu càrrec per manteniment correctiu. \n"
+        },
+        "peuDeRecurs": {
+          "ca": "Contra aquest acord es pot interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n\nAquest recurs té caràcter potestatiu, és gratuït per als recurrents i es pot interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, regulador a de la jurisdicció contenciosa administrativa.\n"
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "empresesAdjudicataries": [
+          {
+            "denominacio": "URBIA INTERMEDIACIÓN INGENIERIA Y SERVICIOS, S.A.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A07077969",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 748,
+                "ca": "PIME",
+                "en": "SME",
+                "oc": "PIME"
+              },
+              {
+                "id": 1008410,
+                "ca": "Altres"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 302,
+              "ca": "Illes Balears",
+              "es": "Islas Baleares",
+              "en": "Balearic Islands",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1001086,
+              "ca": "Palma"
+            },
+            "informacioUte": []
+          }
+        ],
+        "resolucioAdjudicacio": {
+          "ca": [
+            {
+              "id": 302121750,
+              "titol": "Resolució adjudicació ME. MEC-25L02 Lot10.pdf",
+              "path": "YL5SAk9p9Aq5SKAQJe8IfyX8rrnUnP0OqYETO2cmVgoFPJ9fI0_7hcZygJVzbHh98k75rq_HXyGZu_VO9lKulQCUTZXr8eeYrjhf07r7A70GojtFyPQwzXhYV8SwfurhbN5XhjHS_XHsDVy9g6Pts_B_PBNdQWA-iEm1-ojbbAz8Q8yLEloBeY_Md7yYq-yRcssGID-oipRGKK1IzhGNj-83EP2L_3ueCGryGQF70rr7dNdw8QSZmapNZSIkhUToYHa8OA_vIqz7CEOLK7whvliOF9OrGscdbKsEKU3zKOKibFeSxQzj6XBCrsUY_MSrj0msfIfnfuT6qRqTUFnE5Q==",
+              "hash": "907615F43009B6E83B740636CD2C4DD2",
+              "idioma": "ca",
+              "mida": 175772
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "importAdjudicacioIva": 5422379.27,
+        "ivaAdjudicacio": 21,
+        "varisTipusIvaAdjudicacio": false,
+        "valorEstimatContracte": 9620001.72,
+        "iva": 21,
+        "varisTipusIva": false,
+        "pressupostBaseLicitacioAmbIVA": 5928614.08,
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "reservaSocial": false,
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 3,
+          "mesos": 1,
+          "observacions": {}
+        },
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "prescripcionsTecniquesSocials": false,
+        "prescripcionsTecniquesAmbientals": false,
+        "totalOfertesRebudes": 18,
+        "estudisDictamens": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "llistatPrescripcionsTecniquesSocials": [],
+        "descripcioLicitacio": {},
+        "subcontractacions": [],
+        "canonExplotacio": {},
+        "metodeUtilitzatCalculValorEstimat": {}
+      },
+      {
+        "numeroLot": "11",
+        "lotId": 10,
+        "descripcio": {
+          "ca": "Centres penitenciaris i Centres educatius juvenils Lleida"
+        },
+        "pressupostLicitacio": 2540887.71,
+        "publicacioExpedientId": 300731241,
+        "titol": "Centres penitenciaris i Centres educatius juvenils",
+        "dataAdjudicacio": "2025-10-20T16:30:00.000Z",
+        "terminiFormalitzacioContracte": {
+          "ca": "De conformitat amb l'article 153.3 LCSP, un cop transcorreguts els 15 dies hàbils d'ençà la notificació i publicació de l'adjudicació."
+        },
+        "importAdjudicacio": 2242926.62,
+        "ofertaAdjudicatariaIncursa": false,
+        "observacions": {
+          "ca": "D’acord amb el desglossament d’imports següent, i per un termini de 37 mesos:\n\n-\tUn import de 1.581.429,10 euros (sense IVA) relatiu al Servei de transició, conservació i manteniment i de gestió energètica i millora ambiental.\n\n-\tUn import màxim de 661.497,52 euros (sense IVA) relatiu a d’Altres intervencions i correctius extra d’acord amb un percentatge de baixa del 0,00 % en concepte de despeses generals i benefici industrial a aplicar al pressupost d’execució material (PEM) de la valoració de les eventuals intervencions del Pla d’intervencions, i d’un 0,00 % en concepte de redacció de memòria valorada a aplicar al pressupost d’execució per contracte (PEC) de les eventuals intervencions del Pla d’intervencions.\n\n-\tUn import de 1.250,00 euros (sense IVA) relatiu a la franquícia sobre els materials, components d’equips o equips que el licitador assumirà al seu càrrec per manteniment correctiu. \n"
+        },
+        "peuDeRecurs": {
+          "ca": "Contra aquest acord es pot interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n\nAquest recurs té caràcter potestatiu, és gratuït per als recurrents i es pot interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, regulador a de la jurisdicció contenciosa administrativa."
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "empresesAdjudicataries": [
+          {
+            "denominacio": "MH INDUSTRIAS, S.L.U",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "B64570567",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 748,
+                "ca": "PIME",
+                "en": "SME",
+                "oc": "PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the previous options",
+                "oc": "Cap des anteriores"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1001193,
+              "ca": "Cerdanyola del Vallès"
+            },
+            "informacioUte": []
+          }
+        ],
+        "resolucioAdjudicacio": {
+          "ca": [
+            {
+              "id": 302121751,
+              "titol": "Resolució adjudicació ME. MEC-25L02 Lot11.pdf",
+              "path": "SQg_r4tTFOBFG339_1Nz4vzR1OwayWSSPZvzyQyBG0IMLS4TISKQpYC1ec6Rh8abMkuDUduinGUBbkWivy7zx3SvBm07cDj9P03hAcrSnN9NMHPx6CYU6JpoGVOr9vOO-34t-c0dEsfTCUxq0AcPPMpfCx8DEcWXb1n4ScK2d6qC6aYXoikd8oVGOBxtnL8yTA9-VlqipNcjtewAe4Y6rJjphn0KOQBqUG4ADN7YHH3RDtIoE7_QzrkzbNCQVr3-HfMCPFOWtFuGTG9sS5jf3Lq-R6zwEnW0hhMA14armyd7TNyE3Ht6AF-KI9aXGbF6QKOnMRpWxrMBF2vjbQGzwQ==",
+              "hash": "AC01B48EC1592A78E06B5CC42B311364",
+              "idioma": "ca",
+              "mida": 176017
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "importAdjudicacioIva": 2713941.21,
+        "ivaAdjudicacio": 21,
+        "varisTipusIvaAdjudicacio": false,
+        "valorEstimatContracte": 4989874.84,
+        "iva": 21,
+        "varisTipusIva": false,
+        "pressupostBaseLicitacioAmbIVA": 3074474.13,
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "reservaSocial": false,
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 3,
+          "mesos": 1,
+          "observacions": {}
+        },
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "prescripcionsTecniquesSocials": false,
+        "prescripcionsTecniquesAmbientals": false,
+        "totalOfertesRebudes": 18,
+        "estudisDictamens": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "llistatPrescripcionsTecniquesSocials": [],
+        "descripcioLicitacio": {},
+        "subcontractacions": [],
+        "canonExplotacio": {},
+        "metodeUtilitzatCalculValorEstimat": {}
+      },
+      {
+        "numeroLot": "12",
+        "lotId": 11,
+        "descripcio": {
+          "ca": "Centres penitenciaris i Centres educatius juvenils Girona"
+        },
+        "pressupostLicitacio": 1263127.87,
+        "publicacioExpedientId": 300731241,
+        "titol": "Centres penitenciaris i Centres educatius juvenils",
+        "dataAdjudicacio": "2025-10-15T15:00:00.000Z",
+        "terminiFormalitzacioContracte": {
+          "ca": "De conformitat amb l'article 153.3 LCSP, un cop transcorreguts els 15 dies hàbils d'ençà la notificació i publicació de l'adjudicació."
+        },
+        "importAdjudicacio": 1079762.76,
+        "ofertaAdjudicatariaIncursa": false,
+        "observacions": {
+          "ca": "D’acord amb el desglossament d’imports següent, i per un termini de 37 mesos:\n\n-\tUn import de 887.692,78 euros (sense IVA) relatiu al Servei de transició, conservació i manteniment i de gestió energètica i millora ambiental.\n\n-\tUn import màxim de 192.069,98 euros (sense IVA) relatiu a d’Altres intervencions i correctius extra d’acord amb un percentatge de baixa del 0,00 % en concepte de despeses generals i benefici industrial a aplicar al pressupost d’execució material (PEM) de la valoració de les eventuals intervencions del Pla d’intervencions, i d’un 0,00 % en concepte de redacció de memòria valorada a aplicar al pressupost d’execució per contracte (PEC) de les eventuals intervencions del Pla d’intervencions.\n\n-\tUn import de 1.250,00 euros (sense IVA) relatiu a la franquícia sobre els materials, components d’equips o equips que el licitador assumirà al seu càrrec per manteniment correctiu. \n"
+        },
+        "peuDeRecurs": {
+          "ca": "Contra aquest acord es pot interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n\nAquest recurs té caràcter potestatiu, és gratuït per als recurrents i es pot interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, regulador a de la jurisdicció contenciosa administrativa.\n"
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "empresesAdjudicataries": [
+          {
+            "denominacio": "SERVEO",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A80241789",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 749,
+                "ca": "No PIME",
+                "en": "No SME",
+                "oc": "Non PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the previous options",
+                "oc": "Cap des anteriores"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 323,
+              "ca": "Madrid",
+              "es": "Madrid"
+            },
+            "municipi": {
+              "id": 1004416,
+              "ca": "Madrid"
+            },
+            "informacioUte": []
+          }
+        ],
+        "resolucioAdjudicacio": {
+          "ca": [
+            {
+              "id": 302121752,
+              "titol": "Resolució adjudicació ME. MEC-25L02 Lot12.pdf",
+              "path": "KHCjTwt2msYn4j2RpwAkUVHmmA-78xmNk2kDtDndU99nHTAZcslr_MS7ahBd0JNqINK3DjpB19geTsYYNOd3C02GXU59TB0ouc2oA8RokeVDcm4FRUc5D9HVA-t6gJdEYtkxKD2aLHzPNuPl69BFD_ZUO1nmkuv6ql_CZlX_zDEiukmJVSJss6MGtktH3j2q7vA_4qBvqX71hw9l3Qghi-KtyJs5SWxsQTNg75wPJoyq0GtENtnW-V9nV84EknkO6xu7b0HS7hmzx9ZvqTvzNFh1Qh4TaG1qpCoh2o-3GC4vKW5pIijaZrInb4yvFhCYvWWuWR7pEhVv41vbi8JzPA==",
+              "hash": "F427296F478DD885E224B8F770C1AC05",
+              "idioma": "ca",
+              "mida": 175374
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "importAdjudicacioIva": 1306512.94,
+        "ivaAdjudicacio": 21,
+        "varisTipusIvaAdjudicacio": false,
+        "valorEstimatContracte": 2480045.77,
+        "iva": 21,
+        "varisTipusIva": false,
+        "pressupostBaseLicitacioAmbIVA": 1528384.72,
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "reservaSocial": false,
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 3,
+          "mesos": 1,
+          "observacions": {}
+        },
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "prescripcionsTecniquesSocials": false,
+        "prescripcionsTecniquesAmbientals": false,
+        "totalOfertesRebudes": 18,
+        "estudisDictamens": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "llistatPrescripcionsTecniquesSocials": [],
+        "descripcioLicitacio": {},
+        "subcontractacions": [],
+        "canonExplotacio": {},
+        "metodeUtilitzatCalculValorEstimat": {}
+      },
+      {
+        "numeroLot": "13",
+        "lotId": 12,
+        "descripcio": {
+          "ca": "Centres penitenciaris Tarragona"
+        },
+        "pressupostLicitacio": 1042043.35,
+        "publicacioExpedientId": 300731241,
+        "titol": "Centres penitenciaris Tarragona",
+        "dataAdjudicacio": "2025-10-15T15:00:00.000Z",
+        "terminiFormalitzacioContracte": {
+          "ca": "De conformitat amb l'article 153.3 LCSP, un cop transcorreguts els 15 dies hàbils d'ençà la notificació i publicació de l'adjudicació."
+        },
+        "importAdjudicacio": 894739.25,
+        "ofertaAdjudicatariaIncursa": false,
+        "observacions": {
+          "ca": "D’acord amb el desglossament d’imports següent, i per un termini de 37 mesos:\n\n-\tUn import de 719.190,60 euros (sense IVA) relatiu al Servei de transició, conservació i manteniment i de gestió energètica i millora ambiental.\n\n-\tUn import màxim de 175.548,65 euros (sense IVA) relatiu a d’Altres intervencions i correctius extra d’acord amb un percentatge de baixa del 0,00 % en concepte de despeses generals i benefici industrial a aplicar al pressupost d’execució material (PEM) de la valoració de les eventuals intervencions del Pla d’intervencions, i d’un 0,00 % en concepte de redacció de memòria valorada a aplicar al pressupost d’execució per contracte (PEC) de les eventuals intervencions del Pla d’intervencions.\n\n-\tUn import de 1.250,00 euros (sense IVA) relatiu a la franquícia sobre els materials, components d’equips o equips que el licitador assumirà al seu càrrec per manteniment correctiu. \n"
+        },
+        "peuDeRecurs": {
+          "ca": "Contra aquest acord es pot interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n\nAquest recurs té caràcter potestatiu, és gratuït per als recurrents i es pot interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, regulador a de la jurisdicció contenciosa administrativa.\n"
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "empresesAdjudicataries": [
+          {
+            "denominacio": "COMSA Service Facility Management, S.A.U.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A60470127",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 749,
+                "ca": "No PIME",
+                "en": "No SME",
+                "oc": "Non PIME"
+              },
+              {
+                "id": 1008410,
+                "ca": "Altres"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1001002,
+              "ca": "Cornellà de Llobregat"
+            },
+            "informacioUte": []
+          }
+        ],
+        "resolucioAdjudicacio": {
+          "ca": [
+            {
+              "id": 302121753,
+              "titol": "Resolució adjudicació ME. MEC-25L02 Lot13.pdf",
+              "path": "calkaHjhRhWgyjkkc3ARe9U9v0vSWLB5bxXh40WLsrStFV3nFwUsG6dFzY21E-WifhLvVkxniNyK7tflQ6COuMk_Za3m3ySZconGhsMJvNvrAYH4hy5pMz-rpce3vZXmbZ7uiIoIUPjk6eAGwngxjnCCqY4ujlaQEiBOZg-tFOOenOrI0hmNTRfBrgjWV_9Vp6diOKyQvn74QHYlTioph0rbyjn3stWbZq6hlOS5Yw9oNL7-k3Tf--AXtI07QNTuys7nZjs46J7MrgD-QOWpu4T6Gi4cGaxxxjOwB1zZ1w7CGoDOvq7ETAZ5bdgnb5dp0x5gM2axSrlgE86mL5UoPQ==",
+              "hash": "BB21E742979DF56D7504DFAFB21602C3",
+              "idioma": "ca",
+              "mida": 176544
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "importAdjudicacioIva": 1082634.49,
+        "ivaAdjudicacio": 21,
+        "varisTipusIvaAdjudicacio": false,
+        "valorEstimatContracte": 2046030.36,
+        "iva": 21,
+        "varisTipusIva": false,
+        "pressupostBaseLicitacioAmbIVA": 1260872.45,
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "reservaSocial": false,
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 3,
+          "mesos": 1,
+          "observacions": {}
+        },
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "prescripcionsTecniquesSocials": false,
+        "prescripcionsTecniquesAmbientals": false,
+        "totalOfertesRebudes": 18,
+        "estudisDictamens": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "llistatPrescripcionsTecniquesSocials": [],
+        "descripcioLicitacio": {},
+        "subcontractacions": [],
+        "canonExplotacio": {},
+        "metodeUtilitzatCalculValorEstimat": {}
+      }
+    ],
+    "dadesExpedient": {
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+      "lleiAssociada": "Llei 2017/2019",
+      "esPublicacioAntiga": false,
+      "tipusOfertaElectronica": 413,
+      "denominacioExpedientReferencia": {},
+      "esReduit": false
+    },
+    "publicacionsOficials": [],
+    "tipusEsmena": {
+      "id": 1008172,
+      "ca": "Esmena",
+      "es": "enmienda",
+      "en": "Amendment",
+      "oc": "Esmenda"
+    },
+    "motiuEsmena": {}
+  },
+  "pathPdf": "I5Euk29pVz-JiXWqIEzXWNANOJj6KWtcUei3S5RwdTJk4f5FcC8-KLXS_4OSKiuM5P1ZwyYdTpNS0FfaNVlNT-bKxJ04ETP3hLGHi_V-d5kjp27D-J_yEm9x_20yQX4AxN6nGsUZgYQhOQfrCQ0WHT68IV9GSbLAe522naxjCdUBBGso7nNrywHjZCW8qW3ROV2GCzXLktLrAiR9LxeSK3YBWzz3ScxUOTWZQ4GUL2o1cOq_1cOtzzylUFnrjPm0JCB_R_r88V62UQ3xPWEpQP0bgUGnQ3E9WVy-yLgpqIKic1baTyntOzE8TSV1hY556MyCFJTUgDg5lUjEaEccow==",
+  "pathCertificacio": "ln79-gyDWuWHq_53t9N9chLNwFFRwODompIDtL57NCMZKKz8HGXRBmYLtRAsPrXVcU3GYr_VxE3YaoMsGUcjIaY0Rrv4GA2nUtO0x5GC3pgLDIEWaI3cWnZ96QfFaKZXbz1CP2w2HWkqRTI-n7__FDccvnzqLvfDgET2aifngc3aC0cjurHxrP-eA3xPomUCnS5YP-XY9McY6TqgXMouoI69Qb-3J0oI0IMOdkXVKa33IX4I2k7a3uSVXl8hqu3mkLswF2iqq6F_Kng39qxqhTDjLNGGEgdxAMtfTrHLY3mKl2Ci4vJl_Wg-Lg-_VEkzbHQYmge50IpyTrzKbZ0KZw==",
+  "pathJson": "L2KUcgcpfEZoCiZYoWKLqOolR01P5Nd-l6eP_lvBGPv5tsrXQLt9TrvrPiLI7Drq7VqjsKAylqyQcqcm4ksNGYjOn771N9J-Ud9gfXArPu1yzA4YeeK5M_1jT_Onspfu-LyKn9fUCSIkSm81JZA4gEjZ_j_SwkzYnFNtdRE0ydiWRLrrajY7ecMKzrHky25UifJFwtmdxVJ_PePI5LWZtnNLIKaXUXUFu4V-eBE6OoLtxVGfjy0nWtnBSLZRx_2gjbqdYGkcAan2IRROH6qbJgeMILEZMJQrRATlNZAIYp3KKlWyciqJooFoZ-UUy2fg0bKIIHmyx1xCnNU8MI5x7w==",
+  "dataPublicacioReal": "2026-03-24T14:48:14.767Z",
+  "dadesExpedient": {
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": "Català",
+      "es": "Catalan",
+      "en": "Catalan",
+      "oc": "Catalan"
+    },
+    "expedientId": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "lleiAssociada": "Llei 2017/2019",
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 413,
+    "denominacioExpedientReferencia": {},
+    "esReduit": false
+  }
+}

@@ -1,0 +1,1282 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "2026/7731",
+  "idExpedient": "0a859be5-1ee8-4c70-97f5-5ac6b6677700",
+  "dataPublicacioPlanificada": "2026-07-29T09:00:16.217Z",
+  "organ": {
+    "nom": "Diputació de Girona",
+    "nif": "P1700000A",
+    "direccioPostal": "Pujada Sant Martí, 5     (Codi Nuts ES512)",
+    "localitat": "Altres/Diversos, No Consta",
+    "codiPostal": "99999",
+    "nuts": "OT",
+    "web": "www.ddgi.cat",
+    "telefon": "972185000",
+    "fax": "972210469",
+    "email": "contractacio@ddgi.cat",
+    "personesContacte": [],
+    "centralCompres": false,
+    "tipusPoderAdjudicador": 1500006,
+    "observacions": {
+      "ca": "\\r\\r \\r\\r"
+    },
+    "horari": {},
+    "organContractacioId": 14301168,
+    "activitatPrincipalOrgan": {
+      "id": 1051243,
+      "ca": "Serveis de caràcter general",
+      "es": "Servicios de carácter general"
+    }
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000040,
+      "ca": "Anunci de licitació",
+      "es": "Anuncio de licitación",
+      "en": "Tender announcement",
+      "oc": "Anóncia de licitacion"
+    },
+    "expedientId": "0a859be5-1ee8-4c70-97f5-5ac6b6677700",
+    "teLots": true,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000040,
+        "ca": "Anunci de licitació",
+        "es": "Anuncio de licitación",
+        "en": "Tender announcement",
+        "oc": "Anóncia de licitacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "2026/7731",
+      "denominacio": {
+        "ca": "2026/7731 Contracte del subministrament d’ordinadors portàtils, dockstations, motxilles, ratolins, teclats, auriculars i pantalles per a la Diputació de Girona"
+      },
+      "descripcio": {
+        "ca": "L’objecte del contracte és l’adquisició, per part de la Diputació de Girona, d’ordinadors portàtils i dockstation, maletes d’esquena (motxilles) per a ordinadors portàtils, ratolins i teclats, auriculars i pantalles."
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "tipusContracte": {
+        "id": 394,
+        "ca": "Subministraments ",
+        "es": "Suministros",
+        "en": "Supplies ",
+        "oc": "Subministraments "
+      },
+      "procedimentAdjudicacio": {
+        "id": 1000008,
+        "ca": "Obert simplificat abreujat",
+        "es": "Simplificado de tramitación sumária",
+        "en": "Open simplified abbreviated",
+        "oc": "Daurit simplificat abracat"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "tipusSubministraments": {
+        "id": 1008431,
+        "ca": "Adquisició o arrendament d'equips i sistemes per tractament informació"
+      }
+    },
+    "dadesPublicacio": {
+      "pressupostLicitacio": 58866.4,
+      "observacions": {},
+      "contracteHarmonitzat": false,
+      "dataTerminiPresentacioOSolicitud": "2026-08-12T21:59:59.000Z",
+      "adrecaElectronicaPresentacioOfertes": {},
+      "preveuenModificacionsAlsPlecs": false,
+      "preveuenProrroguesAlsPlecs": false,
+      "informacioComplementariaProrroga": {},
+      "informacioComplementariaModificacio": {},
+      "valorEstimatContracte": 58866.4,
+      "iva": 21,
+      "varisTipusIva": false,
+      "pressupostBaseLicitacioAmbIva": 71228.34,
+      "acpAplicable": false,
+      "justificacioProcedimentUtilitzat": {},
+      "plecsDeClausulesAdministratives": {
+        "ca": [
+          {
+            "id": 302474492,
+            "titol": "PCAP_2026_7731_signat.pdf",
+            "path": "WVM6v8_gcpiP9zDzPLMGC_xMSfAwPho13Tpauj_-nH1-okA6Dyglaq1LLIaKDfUlxICJ7-y4qvmB5tZkkZ0tAZ_WzlNeZElyRFEeHsqRmumVuvA5dk2YbyyFbSA966YSlKprv88q1gFk8jgvuClwK2xwNr8p1q7IJDJjva8c_-BUzlmfDaBSxtKBCnIiX6lfrzfGc0P5iVBgimMmzNnql6BMIYwfJ7fxEBqghDPb6mOFjaP6NPn7LW3VmgG1coGLAhJuiAyNh2h-LHYG2lptosSTY9pOLUJG_ZsWDevo6GpJMl8jq8wAU8RWjNiANFcVg2Al8_nRLtwo8YFR4mCclw==",
+            "hash": "ED4A195A4D2DFAF2C7CF2F8E8B5D1A65",
+            "idioma": "ca",
+            "mida": 928552
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "plecsDePrescripcionsTecniques": {
+        "ca": [
+          {
+            "id": 302474493,
+            "titol": "PPT_2026_7731_signat.pdf",
+            "path": "Ft5xQ7FF9F2dTeIEJkrppwghO8oEV0_64KSu4ZwL4gVYSbRjTJKku46n20OGLjnegUQ-5uoD1lSGAsPh-tIgMJMU8sY-AEPpLXPjj0eo_dYGrxI0bQ60C3tP-b71V_au_PpNraKd0ZCzEJ3wyRD7Ylrd8S2OnFqlWgPtWzxgfD-JxjktYDGbDZEg5_jdxLaWkXZ1Sfa805TWsBwXtD0tW1gbIg0qcjLNTwXD8p4RVaAZ5abKON4xFhLMjttqOIwZwILDh1oCrOaOvl5RawTWlLXfuhaneeJdf2snw34ngBn6qlMcc_gGXiMd9O01ktI_NZR7_nba18Wwx3KzJ2kPyw==",
+            "hash": "F14E3C1DE7D2995697C756AD06332AD2",
+            "idioma": "ca",
+            "mida": 240654
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "memoriaJustificativaContracte": {
+        "ca": [
+          {
+            "id": 302474494,
+            "titol": "Decret inici_2026_7731_signat.pdf",
+            "path": "JC8SZwk1yRKwrCvVk0qzuUXNPG2SzJ-r-OWUhthajtn41aIA8DsqJrcnh6aleNdriMePNCd6_qEXSPWEkdjWXV860mB0qUDp5K3oWM8IPPw-zlgPt3R08YENeyiUZHVJyTnPLHy48iAYIrCamorTc2RLb5812TH6DlQFXiiK43UCj1rZXc2rYODODftGwOvah_P24kqOnCmUSX0NpaVBcDQzwUDjC_1Rj-LjmmlrUoCIg27EQdQiImi5_P8RLp1FPCMuSogCKFf7tmHU9Cm8lKczq0ld67V50x2IlLpfSB1HFv8JBDNaKfE-qLB3AP0tAUvx-24TAq18T5C9WRLaVg==",
+            "hash": "D7C76AE53185581CDAB1F9BCA8B11B4C",
+            "idioma": "ca",
+            "mida": 217990
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "documentsAprovacio": {
+        "ca": [
+          {
+            "id": 302476685,
+            "titol": "Decret aprovació 2026_7731_signat.pdf",
+            "path": "QSKQCPOvsPAltT-cv514guVJDTjxY_gUHyH5k2u536IvHCpB6-c-rtmy0fYPNSn-heWOFJEibw7EWaWi5EGxQAAjSQ8EruEdnDp1LZi4PeN286iDewHcRge9wg3t3y1fE3ELRMFPiSufEEzcuSKZMRQFoTQiJHcfgNSq2A-B9FdMI41qqiK56zx4iNokKZnm1xby5muwX9zKie__lp_tg23FVsQOs6J5Nfu8x_MM4LBa3MjRCnSeOfiU9tEKvgUnJ_9t54t6HQXQk-MhuUdSHrO-xHLRqB4BixmFV_jPI5o99lSwfpmk3U8_fVbZ8_7qdldfyUwNPOP3nBjm5udyDA==",
+            "hash": "2D8015FF18C8506C6FB80D89D3A072E0",
+            "idioma": "ca",
+            "mida": 221092
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "altresDocuments": {
+        "ca": [
+          {
+            "id": 302474520,
+            "titol": "Annex 1.docx",
+            "path": "nXCAP1hcdrlJIQRO6SPLBZsRnEYlC5WKpf27EaXNN99sBb46dg4KEBciDXFVQngUHrEvZiXN99Qq2MYBusygxqu1lk2J-m8lvmzTeiIPaJD16QWdRMd9A-15rKwB1SzKZTdv6ty6JNBddbiwQhWOf_PnleBIC-YTXhPIcFZNiWezfKwvABjE2PFNdAeKEcu_ANj52TirhGVdORQlCm6hBd9h8ijRT3UBLBy3ooH8jwIiV0cqlomsZ9-rdZXKz3NWTJyYEOhJ0JbLVnvdhdeBmDhxV7RMBAAMwqmV0it7UQS_PwoaT6gRayK4j0vyxFnl8F4cCgip-aecyHrBfeLRUQ==",
+            "hash": "F95437903B729B7D2B0B3A973D121E81",
+            "idioma": "ca",
+            "mida": 100734
+          },
+          {
+            "id": 302474521,
+            "titol": "Annex 2.1.docx",
+            "path": "J_vcwHjf7Y6Eaidj3Bw5vt1IBJ3ZPzPam72rc_vjUVYdk3EXQMRwkhnY1BXWBrVS8I0bCux9_KEdssPnfySAS4LLZPl1H1IuBmXxsHlMlaLlCiOn40GYRwatXOPajUlIzNuR7MOTrgDUE_zfa7ofjQYXvAzqk0SfGDyRzEBN7pSRf7vVrO15CqtYFSchisrjooggokNyjtQp3t4B9UpcpZAKFgjgGG75tyK2JSNE5Ek56Ul1uNSgXgbDtN9cFtPDInuNV6KdMXTe9qS9KGAwNwBIb0wM1NtFCoByE0VeTinuvbRCftOO70wUtUxE3N7Q36jN5Weewr1FKTr7o7RgXA==",
+            "hash": "26A152585B6455845149585399E6B0A2",
+            "idioma": "ca",
+            "mida": 99070
+          },
+          {
+            "id": 302474522,
+            "titol": "Annex 2.2.docx",
+            "path": "GMhM507wyW1cUGifVES9V_9UlJgaFwM7I4PvYPpBt5PuTwxqWTJO_6XTp1pylWgy8i7GfzPiZbzDpWNqszTyH8aWK9BLrjO2lDR9l3ENXB51VmsihlN1Vw8Gsca1UawAdISQgCCdDuJe_gv9BMH3s-D5f3uZs7ZtJcZDq_mudCnl-x2PEKfbI2Fpiw3AP4iArqJybIb-4vEibPU-iRzTQkd8aaDFQV7vLJp7C7SbuvNqwcfvTWeO0btQ4VC5FIswOf1-qx0Ns9ocP0xvdIHDq431zhkB_UaJ2zpoFU5iE9Hf-PBVFX9mIb8MR7Sd0KCdGY8zq-k2CYMCXyiLtIYFYA==",
+            "hash": "9A2FE5B556144D45F2946CD50415F724",
+            "idioma": "ca",
+            "mida": 96871
+          },
+          {
+            "id": 302474523,
+            "titol": "Annex 2.3.docx",
+            "path": "C61ux6YBUXQw1BZty_MpQgfnnZcTjH2Hw0c4DtEl8lOiHbzW6sPb1G-K0Cx6nFDwycB7qWxxQQ88dHiEuk_S0JAYL967857itACedg9dSTOxhVCdaJDuOtQERpOchobkzgrbyQGJGUuWjUYiTgf17fSH_Z3e1VtzCq0AJ5z9FnVHAupkU83G63uTkRELMOOYPVfbi0mlKSd2ofghQTknn3cUlPn4EUb04LBNV_eyMDrR6MUEZHcAvQCDmETJiJPjQdKXb-v80kOwxHyTpyT3uIsE2Ghinn004bkzboyktrMyT4NYk2Y5G8sASmmIxYQWdkgL9m2a4fW61hRs-DGkYA==",
+            "hash": "9E4733A04736EB2F23D3A8BA6DCF146A",
+            "idioma": "ca",
+            "mida": 97576
+          },
+          {
+            "id": 302474524,
+            "titol": "Annex 2.4.docx",
+            "path": "TpUxndmUGYaCqoG0CN4dnSnw81ZNDSaBD4t_LWA_GF67yxXLLhsdT-H_QkT9_YCTX9jXmeG5fwAGpOVu3U1j44Yo-KjblNl3F6xfEn8Y0iXbRliyTjBQYEBnJn75j2rtxB_8_7XTU3V3BU5D3RgMRumQ4b_H3paAnZqRTaUDAYfIxB-2uijEh6vkQq5Mx6urJZHjpucS8M-ORSGHDulK2pT_yHjWJ0FjoqBK--2p3Hg5zHRxLkfixl0EiRRd6Y9K3tiTuSRzYOIbAhCUUrc-xQb7ym6rPC3BP9oHrNg1RM8r7AWxlja3cu3uhL9MhOTqZUBaIXfnwNFk08rXwrD1wg==",
+            "hash": "38F3B6E56C671857186B085F2F9530AF",
+            "idioma": "ca",
+            "mida": 96859
+          },
+          {
+            "id": 302474525,
+            "titol": "Annex 2.5.docx",
+            "path": "HPPNkfUpAICzNpXKtAaeNdPrTvT75BTof2vL0_D0ZaHZVbspQRZc4wfGFL_DBclW5gqirRWuokp0LlfWYA9G0rdK_45aWOJN5yhe6Noe-1SyJo4uJtF8iSJFANakJKNzlqbnYnDPywJ22X3aY-fNvglDNMAnu9fK_snOY1pn6neBkFxGysfqkJgXKPjSoeSDf0hpJOePtgh7duKakPTLVUbvcKl1bcilTYaGv-G4rGC39QFUxy_dgp2g2no-yVXytpfdlVdp2HQHLMUuElzhnGiIsT1WancJdLE0ymGnMDP1QUTnd5zFUKf3bEDfeYDgREEvO-Ix8rmJ2Anh_EvgFw==",
+            "hash": "D6FFAAA34A289883669E5570B1BF4A9C",
+            "idioma": "ca",
+            "mida": 96813
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "seleccioLlenguesRedactarOfertes": {
+        "ca": true,
+        "es": true,
+        "en": false,
+        "oc": false
+      },
+      "utilitzenComandesElectroniques": false,
+      "acceptaFacturacioElectronica": true,
+      "utilitzaPagamentElectronic": true,
+      "acceptaCatalegElectronic": false,
+      "contracteRelacionatFinanciatFonsUnioEuropea": false,
+      "numeroDeLots": 5,
+      "divisioEnLots": {
+        "id": 1008402,
+        "ca": "Amb lots"
+      },
+      "motiuContracteNoInformatLots": {},
+      "contractacioConjunta": false,
+      "peuRecurs": {
+        "ca": "Contra el present anunci podeu interposar els següents recursos:\n1. El contenciós administratiu, de conformitat amb allò que es preveu en la Llei 29/1998, de 13 de juliol, reguladora de la jurisdicció contenciosa administrativa, davant l’òrgan jurisdiccional competent, en el termini de dos mesos a comptar de l’endemà de la publicació d’aquest anunci al perfil de contractant, sens perjudici que es pugui interposar qualsevol altre recurs que es consideri procedent.\n2. Alternativament i de forma potestativa, es pot interposar recurs de reposició, de conformitat amb allò que es preveu en els articles 123 i 124 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques, davant el mateix òrgan que ha dictat l’acte impugnat, en el termini d’un mes a comptar de l’endemà de la publicació d’aquest anunci al perfil de contractant."
+      },
+      "adrecaPresentacioRecurs": {},
+      "ofertaIntegradora": false,
+      "elementsCondicionsOfertesIntegradores": {}
+    },
+    "dadesPublicacioLot": [
+      {
+        "ultimaObertura": {
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {
+            "ca": "A partir de la data fi de presentació d'ofertes o a partir d'aquesta data + 24h"
+          },
+          "mostrarDataObertura": false,
+          "sobre": {
+            "ca": "Sobre únic",
+            "es": "Sobre únic",
+            "en": "Sobre únic",
+            "oc": "Sobre únic"
+          }
+        },
+        "numeroLot": "1",
+        "lotId": 0,
+        "descripcio": {
+          "ca": "Ordinadors portàtils i Dockstations"
+        },
+        "pressupostLicitacio": 48418,
+        "publicacioExpedientId": 300846143,
+        "titol": "Lot 1",
+        "denominacioExpedientReferencia": {},
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 58585.78,
+        "varisTipusIva": false,
+        "valorEstimat": 48418,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES512",
+          "ca": "Girona",
+          "es": "Gerona",
+          "en": "Girona",
+          "oc": "null"
+        },
+        "duradaTermini": {
+          "mesos": 1,
+          "dies": 15,
+          "observacions": {
+            "ca": "El termini màxim de lliurament serà de 45 dies naturals a comptar des de l’endemà de la formalització del contracte."
+          }
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008184,
+              "ca": "Condicions especials tipus Mediambiental",
+              "es": "Condiciones especiales tipo Medioambiental",
+              "en": "Special environmental conditions",
+              "oc": "Condicions especiaus tipe Mieiambientau"
+            },
+            "descripcio": {
+              "ca": "L’empresa adjudicatària haurà de comprometre’s a assegurar el correcte reciclatge de tots els elements de rebuig generats com a resultat de l’execució del contracte. A tall d’exemple (i sense ser una llista completa): Palets, embalatges, material elèctric o electrònic, etc. Caldrà aportar un albarà d’entrada o document equivalent que demostri l’entrega dels materials a la deixalleria."
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {
+              "ca": "A partir de la data fi de presentació d'ofertes o a partir d'aquesta data + 24h"
+            },
+            "mostrarDataObertura": false,
+            "sobre": {
+              "ca": "Sobre únic",
+              "es": "Sobre únic",
+              "en": "Sobre únic",
+              "oc": "Sobre únic"
+            }
+          }
+        ],
+        "prorroguesPrevistes": false,
+        "informacioProrrogaComplementaria": {},
+        "modificacioPrevista": false,
+        "informacioModificacioComplementaria": {},
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "garantiaDefinitiva": false,
+        "garantiaComplementaria": false,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008235,
+              "ca": "Relació subministraments principals efectuats de la mateixa naturalesa en el curs de com a màxim els últims tres anys",
+              "en": "List of the main supplies of the same nature provided during the last three years at most",
+              "oc": "Relacion subministraments principaus efectuadi dera madeisha natura en cors de coma maximom es darrèri tres ans"
+            },
+            "valorMinimExigit": {
+              "ca": "33.892,60 €"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          },
+          {
+            "criteriSolvencia": {
+              "id": 1008234,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "mitjaAcreditacio": {
+              "id": 1008257,
+              "ca": "Mostres, descripcions i fotografies dels productes a subministrar",
+              "en": "Samples, descriptions and photographs of the products to be supplied",
+              "oc": "Mòstres, descripcions e fotografies des productes a provedir"
+            },
+            "descripcioCriteriSolvencia": {
+              "ca": "Fitxa tècnica / catàleg / fotografies, etc.,  dels productes a subministrar, que permetin certificar  que compleixen les característiques requerides al plec de prescripcions tècniques."
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008218,
+              "ca": "Volum anual de negocis",
+              "en": "Annual volume of business",
+              "oc": "Volum annau de negòcis"
+            },
+            "valorMinimExigit": {
+              "ca": "72.627,00 €"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          },
+          {
+            "criteriSolvencia": {
+              "id": 1008219,
+              "ca": "Assegurança de responsabilitat civil per riscos professionals",
+              "en": "Civil liability insurance for professional risks",
+              "oc": "Assegurança de responsabilitat civiu ta risqui professionaus"
+            },
+            "valorMinimExigit": {
+              "ca": "48.418,00 €"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 80,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 80,
+                "descripcioCriteri": {},
+                "identificador": "335302924302690"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 20,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 10,
+                "descripcioCriteri": {
+                  "ca": "Millora 1: Increment de RAM (Fins a un màxim de 10 punts)"
+                },
+                "identificador": "335270169057542"
+              },
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 10,
+                "descripcioCriteri": {
+                  "ca": "Millora 2: Increment dels anys de garantia (Fins a un màxim de 10 punts)"
+                },
+                "identificador": "335270169058069"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "cpvPrincipal": {
+          "codi": "30213100-6",
+          "ca": "Ordinadors portàtils",
+          "es": "Ordenadores portátiles",
+          "en": "Portable computers",
+          "oc": "Ordenadors portatils"
+        },
+        "cpvsSecundaris": [],
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": true,
+        "prescripcionsTecniquesSocials": false,
+        "prescripcionsTecniquesAmbientals": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "llistatPrescripcionsTecniquesSocials": []
+      },
+      {
+        "ultimaObertura": {
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {
+            "ca": "A partir de la data fi de presentació d'ofertes o a partir d'aquesta data + 24h"
+          },
+          "mostrarDataObertura": false,
+          "sobre": {
+            "ca": "Sobre únic",
+            "es": "Sobre únic",
+            "en": "Sobre únic",
+            "oc": "Sobre únic"
+          }
+        },
+        "numeroLot": "2",
+        "lotId": 1,
+        "descripcio": {
+          "ca": "Motxilles per a portàtils"
+        },
+        "pressupostLicitacio": 2012.4,
+        "publicacioExpedientId": 300846143,
+        "titol": "Lot 2",
+        "denominacioExpedientReferencia": {},
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 2435,
+        "varisTipusIva": false,
+        "valorEstimat": 2012.4,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES512",
+          "ca": "Girona",
+          "es": "Gerona",
+          "en": "Girona",
+          "oc": "null"
+        },
+        "duradaTermini": {
+          "mesos": 1,
+          "dies": 15,
+          "observacions": {
+            "ca": "El termini màxim de lliurament serà de 45 dies naturals a comptar des de l’endemà de la formalització del contracte."
+          }
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008184,
+              "ca": "Condicions especials tipus Mediambiental",
+              "es": "Condiciones especiales tipo Medioambiental",
+              "en": "Special environmental conditions",
+              "oc": "Condicions especiaus tipe Mieiambientau"
+            },
+            "descripcio": {
+              "ca": "L’empresa adjudicatària haurà de comprometre’s a assegurar el correcte reciclatge de tots els elements de rebuig generats com a resultat de l’execució del contracte. A tall d’exemple (i sense ser una llista completa): Palets, embalatges, material elèctric o electrònic, etc. Caldrà aportar un albarà d’entrada o document equivalent que demostri l’entrega dels materials a la deixalleria."
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {
+              "ca": "A partir de la data fi de presentació d'ofertes o a partir d'aquesta data + 24h"
+            },
+            "mostrarDataObertura": false,
+            "sobre": {
+              "ca": "Sobre únic",
+              "es": "Sobre únic",
+              "en": "Sobre únic",
+              "oc": "Sobre únic"
+            }
+          }
+        ],
+        "prorroguesPrevistes": false,
+        "informacioProrrogaComplementaria": {},
+        "modificacioPrevista": false,
+        "informacioModificacioComplementaria": {},
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "garantiaDefinitiva": false,
+        "garantiaComplementaria": false,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008235,
+              "ca": "Relació subministraments principals efectuats de la mateixa naturalesa en el curs de com a màxim els últims tres anys",
+              "en": "List of the main supplies of the same nature provided during the last three years at most",
+              "oc": "Relacion subministraments principaus efectuadi dera madeisha natura en cors de coma maximom es darrèri tres ans"
+            },
+            "valorMinimExigit": {
+              "ca": "1.408,68 €"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          },
+          {
+            "criteriSolvencia": {
+              "id": 1008234,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "mitjaAcreditacio": {
+              "id": 1008257,
+              "ca": "Mostres, descripcions i fotografies dels productes a subministrar",
+              "en": "Samples, descriptions and photographs of the products to be supplied",
+              "oc": "Mòstres, descripcions e fotografies des productes a provedir"
+            },
+            "descripcioCriteriSolvencia": {
+              "ca": "Fitxa tècnica / catàleg / fotografies, etc.,  dels productes a subministrar, que permetin certificar  que compleixen les característiques requerides al plec de prescripcions tècniques."
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008218,
+              "ca": "Volum anual de negocis",
+              "en": "Annual volume of business",
+              "oc": "Volum annau de negòcis"
+            },
+            "valorMinimExigit": {
+              "ca": "3.018,60 €"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          },
+          {
+            "criteriSolvencia": {
+              "id": 1008219,
+              "ca": "Assegurança de responsabilitat civil per riscos professionals",
+              "en": "Civil liability insurance for professional risks",
+              "oc": "Assegurança de responsabilitat civiu ta risqui professionaus"
+            },
+            "valorMinimExigit": {
+              "ca": "2.012,40 €"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "teDiversosCriterisAdjudicacio": false,
+        "criterisAdjudicacio": [],
+        "cpvPrincipal": {
+          "codi": "18931100-5",
+          "ca": "Motxilles",
+          "es": "Mochilas",
+          "en": "Rucksacks",
+          "oc": "Morralets"
+        },
+        "cpvsSecundaris": [],
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": true,
+        "prescripcionsTecniquesSocials": false,
+        "prescripcionsTecniquesAmbientals": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "llistatPrescripcionsTecniquesSocials": []
+      },
+      {
+        "ultimaObertura": {
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {
+            "ca": "A partir de la data fi de presentació d'ofertes o a partir d'aquesta data + 24h"
+          },
+          "mostrarDataObertura": false,
+          "sobre": {
+            "ca": "Sobre únic",
+            "es": "Sobre únic",
+            "en": "Sobre únic",
+            "oc": "Sobre únic"
+          }
+        },
+        "numeroLot": "3",
+        "lotId": 2,
+        "descripcio": {
+          "ca": "Ratolins i teclats"
+        },
+        "pressupostLicitacio": 1536,
+        "publicacioExpedientId": 300846143,
+        "titol": "Lot 3",
+        "denominacioExpedientReferencia": {},
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 1858.56,
+        "varisTipusIva": false,
+        "valorEstimat": 1536,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES512",
+          "ca": "Girona",
+          "es": "Gerona",
+          "en": "Girona",
+          "oc": "null"
+        },
+        "duradaTermini": {
+          "mesos": 1,
+          "dies": 15,
+          "observacions": {
+            "ca": "El termini màxim de lliurament serà de 45 dies naturals a comptar des de l’endemà de la formalització del contracte."
+          }
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008184,
+              "ca": "Condicions especials tipus Mediambiental",
+              "es": "Condiciones especiales tipo Medioambiental",
+              "en": "Special environmental conditions",
+              "oc": "Condicions especiaus tipe Mieiambientau"
+            },
+            "descripcio": {
+              "ca": "L’empresa adjudicatària haurà de comprometre’s a assegurar el correcte reciclatge de tots els elements de rebuig generats com a resultat de l’execució del contracte. A tall d’exemple (i sense ser una llista completa): Palets, embalatges, material elèctric o electrònic, etc. Caldrà aportar un albarà d’entrada o document equivalent que demostri l’entrega dels materials a la deixalleria."
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {
+              "ca": "A partir de la data fi de presentació d'ofertes o a partir d'aquesta data + 24h"
+            },
+            "mostrarDataObertura": false,
+            "sobre": {
+              "ca": "Sobre únic",
+              "es": "Sobre únic",
+              "en": "Sobre únic",
+              "oc": "Sobre únic"
+            }
+          }
+        ],
+        "prorroguesPrevistes": false,
+        "informacioProrrogaComplementaria": {},
+        "modificacioPrevista": false,
+        "informacioModificacioComplementaria": {},
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "garantiaDefinitiva": false,
+        "garantiaComplementaria": false,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008235,
+              "ca": "Relació subministraments principals efectuats de la mateixa naturalesa en el curs de com a màxim els últims tres anys",
+              "en": "List of the main supplies of the same nature provided during the last three years at most",
+              "oc": "Relacion subministraments principaus efectuadi dera madeisha natura en cors de coma maximom es darrèri tres ans"
+            },
+            "valorMinimExigit": {
+              "ca": "1.075,20 €"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          },
+          {
+            "criteriSolvencia": {
+              "id": 1008234,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "mitjaAcreditacio": {
+              "id": 1008257,
+              "ca": "Mostres, descripcions i fotografies dels productes a subministrar",
+              "en": "Samples, descriptions and photographs of the products to be supplied",
+              "oc": "Mòstres, descripcions e fotografies des productes a provedir"
+            },
+            "descripcioCriteriSolvencia": {
+              "ca": "Fitxa tècnica / catàleg / fotografies, etc., dels productes a subministrar, que permetin certificar que compleixen les característiques requerides al plec de prescripcions tècniques."
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008218,
+              "ca": "Volum anual de negocis",
+              "en": "Annual volume of business",
+              "oc": "Volum annau de negòcis"
+            },
+            "valorMinimExigit": {
+              "ca": "2.304,00 €"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          },
+          {
+            "criteriSolvencia": {
+              "id": 1008219,
+              "ca": "Assegurança de responsabilitat civil per riscos professionals",
+              "en": "Civil liability insurance for professional risks",
+              "oc": "Assegurança de responsabilitat civiu ta risqui professionaus"
+            },
+            "valorMinimExigit": {
+              "ca": "1.536,00 €"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "teDiversosCriterisAdjudicacio": false,
+        "criterisAdjudicacio": [],
+        "cpvPrincipal": {
+          "codi": "30237410-6",
+          "ca": "Ratolí d'ordinador",
+          "es": "Ratón de ordenador",
+          "en": "Computer mouse",
+          "oc": "Ratolí d'ordenador"
+        },
+        "cpvsSecundaris": [
+          {
+            "codi": "30237460-1",
+            "ca": "Teclats d'ordinador",
+            "es": "Teclados de ordenador",
+            "en": "Computer keyboards",
+            "oc": "Teclats d'ordenador"
+          }
+        ],
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": true,
+        "prescripcionsTecniquesSocials": false,
+        "prescripcionsTecniquesAmbientals": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "llistatPrescripcionsTecniquesSocials": []
+      },
+      {
+        "ultimaObertura": {
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {
+            "ca": "A partir de la data fi de presentació d'ofertes o a partir d'aquesta data + 24h"
+          },
+          "mostrarDataObertura": false,
+          "sobre": {
+            "ca": "Sobre únic",
+            "es": "Sobre únic",
+            "en": "Sobre únic",
+            "oc": "Sobre únic"
+          }
+        },
+        "numeroLot": "4",
+        "lotId": 3,
+        "descripcio": {
+          "ca": "Auriculars doble amb diadema i micro"
+        },
+        "pressupostLicitacio": 2400,
+        "publicacioExpedientId": 300846143,
+        "titol": "Lot 4",
+        "denominacioExpedientReferencia": {},
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 2904,
+        "varisTipusIva": false,
+        "valorEstimat": 2400,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES512",
+          "ca": "Girona",
+          "es": "Gerona",
+          "en": "Girona",
+          "oc": "null"
+        },
+        "duradaTermini": {
+          "mesos": 1,
+          "dies": 15,
+          "observacions": {
+            "ca": "El termini màxim de lliurament serà de 45 dies naturals a comptar des de l’endemà de la formalització del contracte."
+          }
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008184,
+              "ca": "Condicions especials tipus Mediambiental",
+              "es": "Condiciones especiales tipo Medioambiental",
+              "en": "Special environmental conditions",
+              "oc": "Condicions especiaus tipe Mieiambientau"
+            },
+            "descripcio": {
+              "ca": "L’empresa adjudicatària haurà de comprometre’s a assegurar el correcte reciclatge de tots els elements de rebuig generats com a resultat de l’execució del contracte. A tall d’exemple (i sense ser una llista completa): Palets, embalatges, material elèctric o electrònic, etc. Caldrà aportar un albarà d’entrada o document equivalent que demostri l’entrega dels materials a la deixalleria."
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {
+              "ca": "A partir de la data fi de presentació d'ofertes o a partir d'aquesta data + 24h"
+            },
+            "mostrarDataObertura": false,
+            "sobre": {
+              "ca": "Sobre únic",
+              "es": "Sobre únic",
+              "en": "Sobre únic",
+              "oc": "Sobre únic"
+            }
+          }
+        ],
+        "prorroguesPrevistes": false,
+        "informacioProrrogaComplementaria": {},
+        "modificacioPrevista": false,
+        "informacioModificacioComplementaria": {},
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "garantiaDefinitiva": false,
+        "garantiaComplementaria": false,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008235,
+              "ca": "Relació subministraments principals efectuats de la mateixa naturalesa en el curs de com a màxim els últims tres anys",
+              "en": "List of the main supplies of the same nature provided during the last three years at most",
+              "oc": "Relacion subministraments principaus efectuadi dera madeisha natura en cors de coma maximom es darrèri tres ans"
+            },
+            "valorMinimExigit": {
+              "ca": "1.680,00 €"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          },
+          {
+            "criteriSolvencia": {
+              "id": 1008234,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "mitjaAcreditacio": {
+              "id": 1008257,
+              "ca": "Mostres, descripcions i fotografies dels productes a subministrar",
+              "en": "Samples, descriptions and photographs of the products to be supplied",
+              "oc": "Mòstres, descripcions e fotografies des productes a provedir"
+            },
+            "descripcioCriteriSolvencia": {
+              "ca": "Fitxa tècnica / catàleg / fotografies, etc., dels productes a subministrar, que permetin certificar que compleixen les característiques requerides al plec de prescripcions tècniques."
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008218,
+              "ca": "Volum anual de negocis",
+              "en": "Annual volume of business",
+              "oc": "Volum annau de negòcis"
+            },
+            "valorMinimExigit": {
+              "ca": "3.600,00 €"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          },
+          {
+            "criteriSolvencia": {
+              "id": 1008219,
+              "ca": "Assegurança de responsabilitat civil per riscos professionals",
+              "en": "Civil liability insurance for professional risks",
+              "oc": "Assegurança de responsabilitat civiu ta risqui professionaus"
+            },
+            "valorMinimExigit": {
+              "ca": "2.400,00 €"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "teDiversosCriterisAdjudicacio": false,
+        "criterisAdjudicacio": [],
+        "cpvPrincipal": {
+          "codi": "32342100-3",
+          "ca": "Auriculars de casc",
+          "es": "Auriculares de casco",
+          "en": "Headphones",
+          "oc": "Auriculars de casc"
+        },
+        "cpvsSecundaris": [],
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": true,
+        "prescripcionsTecniquesSocials": false,
+        "prescripcionsTecniquesAmbientals": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "llistatPrescripcionsTecniquesSocials": []
+      },
+      {
+        "ultimaObertura": {
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {
+            "ca": "A partir de la data fi de presentació d'ofertes o a partir d'aquesta data + 24h"
+          },
+          "mostrarDataObertura": false,
+          "sobre": {
+            "ca": "Sobre únic",
+            "es": "Sobre únic",
+            "en": "Sobre únic",
+            "oc": "Sobre únic"
+          }
+        },
+        "numeroLot": "5",
+        "lotId": 4,
+        "descripcio": {
+          "ca": "Pantalles"
+        },
+        "pressupostLicitacio": 4500,
+        "publicacioExpedientId": 300846143,
+        "titol": "Lot 5",
+        "denominacioExpedientReferencia": {},
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 5445,
+        "varisTipusIva": false,
+        "valorEstimat": 4500,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES512",
+          "ca": "Girona",
+          "es": "Gerona",
+          "en": "Girona",
+          "oc": "null"
+        },
+        "duradaTermini": {
+          "mesos": 1,
+          "dies": 15,
+          "observacions": {
+            "ca": "El termini màxim de lliurament serà de 45 dies naturals a comptar des de l’endemà de la formalització del contracte."
+          }
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008184,
+              "ca": "Condicions especials tipus Mediambiental",
+              "es": "Condiciones especiales tipo Medioambiental",
+              "en": "Special environmental conditions",
+              "oc": "Condicions especiaus tipe Mieiambientau"
+            },
+            "descripcio": {
+              "ca": "L’empresa adjudicatària haurà de comprometre’s a assegurar el correcte reciclatge de tots els elements de rebuig generats com a resultat de l’execució del contracte. A tall d’exemple (i sense ser una llista completa): Palets, embalatges, material elèctric o electrònic, etc. Caldrà aportar un albarà d’entrada o document equivalent que demostri l’entrega dels materials a la deixalleria."
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {
+              "ca": "A partir de la data fi de presentació d'ofertes o a partir d'aquesta data + 24h"
+            },
+            "mostrarDataObertura": false,
+            "sobre": {
+              "ca": "Sobre únic",
+              "es": "Sobre únic",
+              "en": "Sobre únic",
+              "oc": "Sobre únic"
+            }
+          }
+        ],
+        "prorroguesPrevistes": false,
+        "informacioProrrogaComplementaria": {},
+        "modificacioPrevista": false,
+        "informacioModificacioComplementaria": {},
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "garantiaDefinitiva": false,
+        "garantiaComplementaria": false,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008235,
+              "ca": "Relació subministraments principals efectuats de la mateixa naturalesa en el curs de com a màxim els últims tres anys",
+              "en": "List of the main supplies of the same nature provided during the last three years at most",
+              "oc": "Relacion subministraments principaus efectuadi dera madeisha natura en cors de coma maximom es darrèri tres ans"
+            },
+            "valorMinimExigit": {
+              "ca": "3.150,00 €"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          },
+          {
+            "criteriSolvencia": {
+              "id": 1008234,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "mitjaAcreditacio": {
+              "id": 1008257,
+              "ca": "Mostres, descripcions i fotografies dels productes a subministrar",
+              "en": "Samples, descriptions and photographs of the products to be supplied",
+              "oc": "Mòstres, descripcions e fotografies des productes a provedir"
+            },
+            "descripcioCriteriSolvencia": {
+              "ca": "Fitxa tècnica / catàleg / fotografies, etc., dels productes a subministrar, que permetin certificar que compleixen les característiques requerides al plec de prescripcions tècniques."
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008218,
+              "ca": "Volum anual de negocis",
+              "en": "Annual volume of business",
+              "oc": "Volum annau de negòcis"
+            },
+            "valorMinimExigit": {
+              "ca": "6.750,00 €"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          },
+          {
+            "criteriSolvencia": {
+              "id": 1008219,
+              "ca": "Assegurança de responsabilitat civil per riscos professionals",
+              "en": "Civil liability insurance for professional risks",
+              "oc": "Assegurança de responsabilitat civiu ta risqui professionaus"
+            },
+            "valorMinimExigit": {
+              "ca": "4.500,00 €"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "teDiversosCriterisAdjudicacio": false,
+        "criterisAdjudicacio": [],
+        "cpvPrincipal": {
+          "codi": "30231000-7",
+          "ca": "Pantalles d'ordinador i consoles",
+          "es": "Pantallas de ordenador y consolas",
+          "en": "Computer screens and consoles",
+          "oc": "Pantalhes d'ordenador e consòles"
+        },
+        "cpvsSecundaris": [],
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": true,
+        "prescripcionsTecniquesSocials": false,
+        "prescripcionsTecniquesAmbientals": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "llistatPrescripcionsTecniquesSocials": []
+      }
+    ],
+    "dadesExpedient": {
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "0a859be5-1ee8-4c70-97f5-5ac6b6677700",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "esReduit": false
+    },
+    "publicacionsOficials": [],
+    "motiuEsmena": {}
+  },
+  "pathPdf": "jNa2NNnJZg2HQlBgDXhp1SKuy5HiYkxGgwHqzUG7y5QyC2Cf0sF1NpegZzu85sNzoP54zpX7-FqKaCl202R7plnflt8CEL5O_2h8d2uA4pqjwjvlcYnpDqBbHODm2tiBFGAs0CdYS8kh7Alg07P-ghCYnPg8NzvOQXzRHfms5MHdbn1ajJUuj8V4wmgJR7Zb4HR31-6fChn58W9d4bF7s7YQLV-drFzj8SYYIupjg0EosAMgjy0nV9eVDHnXhUGBO1ilQq9rMLKlwKdBrnU_J5W-yxw5babxNkrqJebpVHw_zPI6RqOQuYftQrAxUbdnCTj0HK2xj8mbGnfHZcm51A==",
+  "pathCertificacio": "folT4G46aOc6IgpMa8zegX2Ysb76zC6I1rY02eevVa7dY-a0OSd2J4_XoLGKX3G2SFlQtb8tdg19-M55cIgnQ2Em34fkwsgLg4xndNajaftj2-aI9LjyYL7txxqIMIVff8fu4aqDTyjuGCUvZ-NryhYQ_At2Tkyi3TnptdwYQHzqJZy4K1vgbhsfN2jUcmIs2Q06yvh2P9blcRkipvXCVA2NaKiw7mWu4d-CjbhBaAMw0nIoz2akBj6Hwf84zzu8fveUbRlv3itS2QJmKlIrZO_3SBbRG4Qym6dmPHJu7_yeMqhlUO3llAuawtXvLcFj7wdLNzir80kI7Jmy4oeZRg==",
+  "pathJson": "epwW64pfHsq27F3CtRDv2UlexXVIbeVsNgD9Oz6ez21942A_dIUQ1WkUYo7xgX46U6BuVHwHEJTz8wIA5lMzbi8q1phTtGZr5l56v3JQgeVhgAUcVfV2tOQ7IO3m5CNslTeNfmWEo9JMhdcnvtUQHiSU_mGlVxnG5LwpKOQemJHLM1R1vbrrcMsKQq3hZeioccTNEJqsxsgV-CV4KxzvudIXJuDL_SGs3cnM_2t9ED4tPrGZaGO0KHNTxzPUw2aBFV0vIjlMMMaDzFgaGH9jvGC1ERekbnF8S0lU1Rlfjf27k_QMbPumlM351AIbC5hbPKnnoevzuYgLfJ0fcsL-eA==",
+  "dataPublicacioReal": "2026-07-29T09:02:16.712Z",
+  "dadesExpedient": {
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": "Català",
+      "es": "Catalan",
+      "en": "Catalan",
+      "oc": "Catalan"
+    },
+    "expedientId": "0a859be5-1ee8-4c70-97f5-5ac6b6677700",
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 413,
+    "esReduit": false
+  }
+}

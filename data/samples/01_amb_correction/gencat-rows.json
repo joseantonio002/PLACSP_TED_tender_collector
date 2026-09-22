@@ -1,0 +1,46 @@
+[
+  {
+    "codi_ambit": "1500002",
+    "nom_ambit": "Entitats de l'administració local",
+    "codi_organ": "28027859",
+    "nom_organ": "Àrea Metropolitana de Barcelona",
+    "codi_ine10": "8200330008",
+    "codi_dir3": "L07080004",
+    "codi_expedient": "905451/26",
+    "tipus_contracte": "Serveis",
+    "procediment": "Obert",
+    "fase_publicacio": "Expedient en avaluació",
+    "denominacio": "Servei de tractament de la fracció vegetal municipal procedent dels municipis de l’AMB",
+    "objecte_contracte": "Servei de tractament de la fracció vegetal municipal procedent dels municipis de l’AMB",
+    "valor_estimat_contracte": "2183870.93",
+    "codi_nuts": "ES511",
+    "lloc_execucio": "Barcelona",
+    "durada_contracte": "2 anys",
+    "termini_presentacio_ofertes": "2026-09-14T14:00:00.000",
+    "data_publicacio_anunci": "2026-09-17T20:18:00.000",
+    "codi_cpv": "90513000-6",
+    "ofertes_rebudes": "1",
+    "enllac_publicacio": {
+      "url": "https://contractaciopublica.cat/ca/detall-publicacio/4b131001-63ad-4eac-a80a-ab91c3a9f366/300888482"
+    },
+    "es_agregada": "NO",
+    "tipus_tramitacio": "Ordinària",
+    "eina_presentacio_electronica": "Sobre digital",
+    "pressupost_licitacio_sense": "949509.1",
+    "pressupost_licitacio_sense_1": "949509.1",
+    "pressupost_licitacio_amb": "1044460.01",
+    "pressupost_licitacio_amb_1": "1044460.01",
+    "valor_estimat_expedient": "2183870.93",
+    "data_publicacio_avaluacio": "2026-09-21T19:16:00.000",
+    "url_json_licitacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300885987/IQJl7UFLgi0SkOCLLjWx36PJPwTyEaQ_yg27b2-BPRCwtY4M6u6w9-oneGbJB-nEbqe7qs2Y68KoN86Y6YnwpcjK2pbgsvIeRnSiTfNwLFsTgJbd3yBcFfYbpCiyd94dKdyZzYD3MEtvdfTKhpY54vIC1ALpiRcPVslLFg8JEcJ6STIl5lz5Vyyv6W7c_RB0lZgqo5q-5d0GO4o17phO2EmmJYeuQpGND1kElRD1S0s1g584YdhgvgB9DKVQFueUKIJUtJC-6N2nbboA1Er764ELYRnFUBdaxfVNJxOFnuERit3g9ej7eK_6Q48EtQGhgYwShLONdclHrzYIOmkCyg=="
+    },
+    "url_json_avaluacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300888482/e2WCUKJS1VA9m1aqsAACANfHRXK8unZA3K6K6JGqaRBkYGh7WOM2o69vVCbYnqs07Z1dJS-yShAQNCx4d9TaO_Z4ZNlpUPCYtBxh5GUg0kBR0sx8Fz7bKCq_oQOfL11dE4gdC8fX_uMVmFf-t5ee96ZAQWKBOk8k_T1j5jQNZhxF7-UlW85nXQwwyfA6lr5bQ2zOPDMVHRBU2LJ55PiIESzF3xwCnpHWfzKjQdFSL6pSbXDlAXGv1mQ4l23Lpwds8Bmx0ZjU4A2W3QuzVnJ163e3_nw0E8BKSVFt33JvfQ0BJCSMe4_SLS5FgL3r7XCGo05jQ6SjCbQhfCB0ziK29w=="
+    },
+    "id_intern": "4b131001-63ad-4eac-a80a-ab91c3a9f366",
+    ":id": "row-uvc4~ws2c-5q3s",
+    ":created_at": "2026-08-12T08:00:16.789Z",
+    ":updated_at": "2026-09-22T08:00:13.604Z"
+  }
+]

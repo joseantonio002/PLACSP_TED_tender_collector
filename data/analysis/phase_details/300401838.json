@@ -1,0 +1,447 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "288/2024",
+  "idExpedient": "5d96c294-93f0-4d38-8047-20f01b34d846",
+  "dataPublicacioPlanificada": "2025-03-19T13:19:49.354Z",
+  "organ": {
+    "nom": "Ajuntament de la Pobla de Segur",
+    "nif": "P2521300J",
+    "direccioPostal": "Av. Verdaguer, 35",
+    "localitat": "Altres/Diversos, No Consta",
+    "codiPostal": "99999",
+    "nuts": "OT",
+    "web": "www.lapobladesegur.cat",
+    "telefon": "973680038",
+    "fax": "973681107",
+    "email": "ajuntament@lapobladesegur.cat",
+    "personesContacte": [
+      {
+        "nom": "Lídia",
+        "cognom": "Carbonell Figuerola",
+        "carrec": "Secretària-interventora",
+        "telefon": "973680038",
+        "email": "secretaria@lapobladesegur.cat"
+      },
+      {
+        "nom": "Josep",
+        "cognom": "Torras Altisent",
+        "carrec": "Enginyer tècnic municipal",
+        "telefon": "973680038",
+        "email": "enginyeria@lapobladesegur.cat"
+      }
+    ],
+    "centralCompres": false,
+    "observacions": {},
+    "horari": {
+      "ca": "De dilluns a divendres, de 8:30 a 14:30 hores. "
+    },
+    "organContractacioId": 2867949
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000040,
+      "ca": "Anunci de licitació",
+      "es": "Anuncio de licitación",
+      "en": "Tender announcement",
+      "oc": "Anóncia de licitacion"
+    },
+    "expedientId": "5d96c294-93f0-4d38-8047-20f01b34d846",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000040,
+        "ca": "Anunci de licitació",
+        "es": "Anuncio de licitación",
+        "en": "Tender announcement",
+        "oc": "Anóncia de licitacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "288/2024",
+      "denominacio": {
+        "ca": "Contracte Menor del subministrament i instal·lació d'un punt de recàrrega per bicicletes elèctriques i un punt per autocaravanes a la Pobla de Segur. Actuació 5 de l'Eix 2 del Pla de Sostenibilitat Turística (PSTD) finançat pel PRTR - Next Generation EU"
+      },
+      "descripcio": {
+        "ca": "Contracte Menor del subministrament i instal·lació d'un punt de recàrrega per bicicletes elèctriques i un punt de recàrrega semi-ràpid per autocaravanes a la Pobla de Segur. Actuació 5 de l'Eix 2 del Pla de Sostenibilitat Turística (PSTD) finançat pel Pla de Recuperació, Transformació i Resiliència (PRTR) - Next Generation EU"
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "tipusContracte": {
+        "id": 394,
+        "ca": "Subministraments ",
+        "es": "Suministros",
+        "en": "Supplies ",
+        "oc": "Subministraments "
+      },
+      "procedimentAdjudicacio": {
+        "id": 403,
+        "ca": "Contracte menor",
+        "es": "Contrato menor",
+        "en": "minor contract",
+        "oc": "Contracte mendre"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": true,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {},
+      "tipusSubministraments": {
+        "id": 1008432,
+        "ca": "Adquisició"
+      }
+    },
+    "dadesPublicacio": {
+      "pressupostLicitacio": 13223.14,
+      "observacions": {},
+      "dataTerminiPresentacioOSolicitud": "2025-03-31T16:00:00.000Z",
+      "adrecaElectronicaPresentacioOfertes": {},
+      "informacioComplementariaProrroga": {},
+      "informacioComplementariaModificacio": {},
+      "valorEstimatContracte": 13223.14,
+      "iva": 21,
+      "varisTipusIva": false,
+      "pressupostBaseLicitacioAmbIva": 16000,
+      "acpAplicable": false,
+      "justificacioProcedimentUtilitzat": {},
+      "plecsDeClausulesAdministratives": {
+        "ca": [],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "plecsDePrescripcionsTecniques": {
+        "ca": [],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "memoriaJustificativaContracte": {
+        "ca": [
+          {
+            "id": 301163257,
+            "titol": "Informe necessitat.pdf",
+            "path": "HzYny8S6Mrxu8GXlHt5NONMvJDjhqQbNZCl7d29jmOWzCqPwquIeKGO3sRJFcefvZ2lLr9Rf7Pz5gw4nRIltjgM1c0ViQmjISLSOcLn7nhJbJsPM8-H5b0fPwRXkBW6Ajlma057VGn8LqhXYaOy6CtmTNW5a2ONIVs6KeekLuNOjVsTK_ZxNk1V6KHJUYa0gL0HnI3_Agw_ZRClxTtCU7gStDwSHFDhPZCd3Gq_dR1Bu6or3xtidUo_mP3WZOImrlAzuVMm28NkzhL7i9eOpUp-fXHfrxUbXfBttD8RhE3FKn1eJgFtjoL9vE5XEpxMQuuZU8o92rNyzbX1-NXsp3A==",
+            "hash": "0BE7D87E6F000D54FBF383E647FD4BC4",
+            "idioma": "ca",
+            "mida": 385816
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "documentsAprovacio": {
+        "ca": [
+          {
+            "id": 301163255,
+            "titol": "DECRET 2025-0194 [Inici expedient].pdf",
+            "path": "ciUXxdaXVPV6GJZSeg0dMVTkZRegVPkioBNkrcIBgbXpAzxQp5Rged7PfuEoiehdnoYzXUMEMErGZ7iEFfYjLtkVWoiMFrsWMWwL2G3_270HkvSiGAvdxrPXhYhoSyZwITmp_Lkg4_O-3ulYdUde1YKI8OOmn9g9T41jYQAzT3CEUygo-ebGRHcwAgMAJnGctVhVQ6dZMldqgX4_GIDQfjwpovKI81bQpAIhEMiaY5QT0tXfNgXRBABxwApMBtOrt4PN0gM3YPLpO99nAAnbYr6oH-K6BjpH6yj2x3L2YpePrFtNW_8_hXw6WrqWQ6gPMXc0ggAlf9dBoMOB1EMjaA==",
+            "hash": "560EEF0C7F4781D03A783734F5F9D010",
+            "idioma": "ca",
+            "mida": 1143712
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "altresDocuments": {
+        "ca": [
+          {
+            "id": 301163678,
+            "titol": "Plec Condicions Tècniques CM.pdf",
+            "path": "rWC25vCP_JrMJ_ptoBMtMMWV86sVlUhIO7gH1Vxsysfm2e7RKLCMp7WfhZMIw4jECWWctEarh6qXq_K24cIf_FsFsDb-J7uO8OP8Os70EbVAHfdy_Wy4qt9Fi6mRHaBx4-uvdnylKuurJn20rpGbUwGFcZJpuNTvdcOCZ4wcLy_9VN2UkJo0ptt4ePdxIMxlntJGdkz6lCtwOsqznCzyx4p8HXW-weLXJtX1Q86x_MH8ZtGMOSsrRT83W9OT9bUiXme_atCDporoklM4_9W4wVjQbM2lUemPUl0zAxdsX92tw8FkLt8CSnEWBSEFM4rbn7nRZqOYoQ4DJBANxkp1Yg==",
+            "hash": "59210AD928BA5B91E1C6BB0EF9AACB55",
+            "idioma": "ca",
+            "mida": 650224
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "llenguesRedactarOfertes": {},
+      "justificacioNoExistenciaLots": {
+        "id": 1008190,
+        "ca": "Art.99.3 b) El fet que la realització independent de les diverses prestacions compreses en l’objecte el contracte en dificulti l’execució correcta des del punt de vista tècnic; o bé que el risc per a l’execució correcta del contracte procedeixi de la naturalesa del seu objecte, en implicar la necessitat de coordinar l’execució de les diferents prestacions, qüestió que es podria veure impossibilitada per la seva divisió en lots i l’execució per una pluralitat de contractistes diferents. Tots dos aspectes, si s’escau, s’han de justificar degudament en l’expedient",
+        "en": "Art. 99.3.b) The fact that the independent performance of the various services indicated as the purpose of the contract hinders their correct implementation from a technical point of view; or that the risk for the correct implementation of the contract comes from the nature of its purpose, since it involves the need to coordinate the implementation of the various services, an issue that could be made impossible by its division into lots and being undertaken by a plurality of different contractors. Both aspects, if applicable, must be duly justified in the file",
+        "oc": "Art.99.3 b) Er hèt qu'era realizacion independenta des diuèrses prestacions comprenudes en er objècte eth contracte ne dificulte era execucion corrècta dempús deth punt d'enguarda tecnic; o plan qu'eth risc entara execucion corrècta deth contracte provengue dera natura deth sòn objècte, en implicar eth besonh de coordinar era execucion des diferentes prestacions, ahèr que se poirie veir impossibilitada pera sua division en lòts e era execucion per ua pluralitat de contractistes diferenti. Toti dus aspèctes, se s’esquèr, les cau justificar degudaments en expedient"
+      },
+      "contracteRelacionatFinanciatFonsUnioEuropea": true,
+      "tipusFinancament": {
+        "id": 1008344,
+        "ca": "MRR (Mecanisme de recuperació, transformació i resiliència)",
+        "en": "RRF (Recovery, Resilience Facility)",
+        "oc": "MRR (Mecanisme de recuperacion, transformacion e resiliéncia)"
+      },
+      "divisioEnLots": {
+        "id": 1008401,
+        "ca": "Sense lots"
+      },
+      "motiuContracteNoInformatLots": {},
+      "publicacionsOficials": [],
+      "contractacioConjunta": false,
+      "peuRecurs": {
+        "ca": "1. Contra la resolució d’alcaldia que aprova l’expedient , podeu interposar recurs potestatiu de reposició en el termini d'un mes comptat a partir del dia següent a la data de la publicació, davant l’òrgan administratiu que ha dictat l'acte, la resolució del qual ha de ser dictada i notificada en el termini d'un mes a comptar de la presentació del recurs, entenent-se aquest desestimat si es produeix el silenci administratiu.\n\n2. Contra la desestimació per silenci administratiu del recurs de reposició podreu interposar recurs contenciós administratiu en el termini de sis mesos davant el Jutjat de lo contenciós administratiu de Lleida.\n\n3. També‚ podeu interposar directament recurs contenciós administratiu davant la jurisdicció abans esmentada en el termini de dos mesos a comptar del dia següent al de la publicació, si no interposeu recurs de reposició.\n\n4. No obstant, podreu interposar qualsevol altre recurs que considereu convenient al vostre dret."
+      },
+      "adrecaPresentacioRecurs": {},
+      "elementsCondicionsOfertesIntegradores": {}
+    },
+    "dadesPublicacioLot": [
+      {
+        "ultimaObertura": {
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {
+            "ca": "A partir de la data fi de presentació d'ofertes o a partir d'aquesta data + 24h"
+          },
+          "mostrarDataObertura": false,
+          "sobre": {
+            "ca": "Sobre únic",
+            "es": "Sobre únic",
+            "en": "Sobre únic",
+            "oc": "Sobre únic"
+          }
+        },
+        "pressupostLicitacio": 13223.14,
+        "publicacioExpedientId": 300401838,
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 16000,
+        "varisTipusIva": false,
+        "valorEstimat": 13223.14,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES513",
+          "ca": "Pobla de Segur, la"
+        },
+        "duradaTermini": {
+          "esDurada": true,
+          "mesos": 1,
+          "dies": 15,
+          "observacions": {
+            "ca": "- El termini de durada pel document tècnic serà de quatre (4) setmanes des de l’acceptació de l’adjudicació.\n- El termini de subministrament dels punts de recàrrega serà de quatre (4) setmanes des de l’acceptació de l’adjudicació.\n- El termini d’instal·lació dels punts de recàrrega serà de dos (2) setmanes des de l’aprovació del document tècnic per part de l’Ajuntament de la Pobla de Segur."
+          }
+        },
+        "condicionsExecucio": [],
+        "oberturaSobres": [
+          {
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {
+              "ca": "A partir de la data fi de presentació d'ofertes o a partir d'aquesta data + 24h"
+            },
+            "mostrarDataObertura": false,
+            "sobre": {
+              "ca": "Sobre únic",
+              "es": "Sobre únic",
+              "en": "Sobre únic",
+              "oc": "Sobre únic"
+            }
+          }
+        ],
+        "informacioProrrogaComplementaria": {},
+        "informacioModificacioComplementaria": {},
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [],
+        "solvenciesEconomiques": [],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 50,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 50,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 50,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008369,
+                  "ca": "Experiència del personal adscrit",
+                  "en": "Experience of assigned staff",
+                  "oc": "Experiéncia deth personau adscrit"
+                },
+                "puntuacio": 30,
+                "descripcioCriteri": {}
+              },
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 20,
+                "descripcioCriteri": {
+                  "ca": "Ampliació del termini de garantia"
+                }
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "cpvPrincipal": {
+          "codi": "31681500-8",
+          "ca": "Carregador elèctric",
+          "es": "Dispositivos de realimentación",
+          "en": "Rechargers",
+          "oc": "Cargador electric"
+        },
+        "cpvsSecundaris": [
+          {
+            "codi": "45311000-0",
+            "ca": "Treballs d'instal·lació de cablatge i accessoris elèctrics",
+            "es": "Trabajos de instalación de cableado y accesorios eléctricos",
+            "en": "Electrical wiring and fitting work",
+            "oc": "Trabalhs d'installacion de cablatge e accessòris electrics"
+          },
+          {
+            "codi": "45231400-9",
+            "ca": "Treballs de construcció de línies de conducció elèctrica",
+            "es": "Trabajos de construcción de líneas de conducción eléctrica",
+            "en": "Construction work for electricity power lines",
+            "oc": "Trabalhs de bastiment de linhes de conduccion electrica"
+          },
+          {
+            "codi": "45315300-1",
+            "ca": "Instal·lacions de subministrament d'electricitat",
+            "es": "Instalaciones de suministro de electricidad",
+            "en": "Electricity supply installations",
+            "oc": "Installacions de subministrament d'electricitat"
+          },
+          {
+            "codi": "45314320-0",
+            "ca": "Instal·lació de cablatge informàtic",
+            "es": "Instalación de cableado informático",
+            "en": "Installation of computer cabling",
+            "oc": "Installacion de cablatge informatic"
+          }
+        ],
+        "llistatPrescripcionsTecniquesSocials": []
+      }
+    ],
+    "dadesExpedient": {
+      "organContractacioId": 2867949,
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "5d96c294-93f0-4d38-8047-20f01b34d846",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "denominacioExpedientReferencia": {}
+    },
+    "motiuEsmena": {}
+  },
+  "pathPdf": "tzrkyjiHEprL-4C018IPCGsC9XXssu-Gxl40ts0UkzI9U6Qn-muPiCiNPSKkQsWD1il-K5OHTfhxENxGrcvDJLc0mbJCuqTQBCKBxc5POEH_fY2-6ODJQGk8I4x5BKRshxXMJ0KWPoqDzIGTkSbD19cIOnN3a0AJlXNC0-KrHMIxAcKfrz2KgEnVAkO0l4VSwGTOrYfvgNfImY3VXk_x8ybfvFUlCiyqMa_gEkVRlApQ47F3zK5vqo-bu7QY_G26gSA62-sJ_fTPmDLlTkq7ZkuMXSTaZmZY-J3fl14R2LaBVSx9LYwGAUAUewXHZTgZNYPACa0Z0RHPgycblKq4nQ==",
+  "pathCertificacio": "IDMn7j2itIivB5eVUA8rY5eHP4aeAmPoInA0o7h3Gt5JM_SLecAEl65hhirO6DO_HBFMOBKIecPhnIMtJF3xE7aJCA1e8xjBkHCXa7IHfMS9q_FKSZX-GWx118nLaFjmOy1mAtiqI7T1Knpzu54luSODI8T0IKYUNBgnleb5Ls7EQxCrqHcJF9d_Y0DtwLG2CrtanYbrLMSXf84xkLg_pyQRt02UVKV3VWdN5SI4FFNq1abIXua7-GbgNju_H4QWelWXzVtlMdTC6N8MLFdgrU8rftt4QdhEVaMTtulw32h1JY_3AhvZg8RDOJC0sWVDr-f_NiOaVwL3Zpp-qaUNNQ==",
+  "pathJson": "gMMJ9hsY8M3C11d7BcGV9SlTZfAcJDCq3ioOHgD55mblto790FIkpGphtgi2eupZ97HZHSzf4fhOGl15ZRqzKB7NjxU7seldHEkTk7E2KfvhXM59zUnYF-VWsdGe9CbHeje8Tdkux9aB45USN5Sw4vMFfEL8i1epTuyT0BnbGQnyh6VUTtT7ht1m9ckFVNMRJd69VDKKY_nqbKfSmN1lOIC7tqWhQZv4DsZPV0KVDIFq_UR45JwIqSxUpkNWFPHKdpaCofP_epZ3mMf9VReHG7cdwvtTsCFDSuT17mu9cl9AQcruPJ35IULrRnEhR4JbtVVKDo84uTVvcNRpvb-y1w==",
+  "dataPublicacioReal": "2025-03-19T13:20:05.945Z",
+  "dadesExpedient": {
+    "organContractacioId": 2867949,
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "expedientId": "5d96c294-93f0-4d38-8047-20f01b34d846",
+    "dataFiPublicacioPerfil": null,
+    "dataFiGestio": null,
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "tenderingSpaceId": null,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 413,
+    "dataVisiblePortalAccesExclusiu": null,
+    "expedientIdReferencia": null,
+    "codiExpedientReferencia": null,
+    "denominacioExpedientReferencia": {
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "nomOrganContractacioReferencia": null
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "case_id": "13_timestamp_disagreement",
+  "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20350694",
+  "tags": [
+    "out_of_order_updates",
+    "publication_date_semantics"
+  ],
+  "fetch_historical_notices": true,
+  "placsp_observations": 1,
+  "gencat_rows": 3,
+  "evidence_references": [
+    {
+      "source": "placsp",
+      "file": "placsp-000.xml.fragment",
+      "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2026.zip",
+      "member": "PlataformasAgregadasSinMenores_20260829_030027.atom",
+      "entry_ordinal": 477,
+      "byte_start_in_member": 4787006,
+      "byte_end_in_member": 4795654,
+      "fragment_sha256": "232ca50bbcfa41219594c75c550ff2ede393903492bb5e86fe2413ce7d0a7bdc",
+      "note": "Exact byte slice, namespace bindings inherited from parent feed; original complete XML is in archive member."
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/001050000.json",
+      "row_ordinal": 3350,
+      "socrata_id": "row-3viv-kr9g_rs2t",
+      "id_intern": "ae7fb403-e3f4-4d5d-a0fd-7fe85cb8345d_0"
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/001050000.json",
+      "row_ordinal": 3351,
+      "socrata_id": "row-ijxz.ei8f_9srh",
+      "id_intern": "ae7fb403-e3f4-4d5d-a0fd-7fe85cb8345d_1"
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/001050000.json",
+      "row_ordinal": 3352,
+      "socrata_id": "row-tc57.rswu-yc48",
+      "id_intern": "ae7fb403-e3f4-4d5d-a0fd-7fe85cb8345d_2"
+    }
+  ],
+  "phase_json": {
+    "300885950": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300885950/BxQo7HW8NRgoe1dueCYiq1KJSRZN_d3LAx9HlOmrGqtM69E7twhId7fBajtDnYgyiploVMUNr1uIElSOXJU4Egnb4mE1z9Vcw85CEKH8z9p6ilZQlWi3gVvRVNL1wHVB_qepZjkiqZnWvMninlt6oE5990WbOx2RK8gGAdq9JzQgYLP_Y8hUV6pTRNxtqvEPVUQPSs9vyJqFBPwvs0Z5h03tHsV8oO7VTSl1bwXXTQeFrh3XTZOxWOADy538SED99mQaQmURqX6VjA1NOQ5xpvECql5lH5HY_iHDvq3VjfylUeGrTKf1hMBVdKkSbiT-_26NLLrKWf1vfXbVmHhYKA==",
+      "field": "url_json_licitacio",
+      "source_row_id": "row-tc57.rswu-yc48",
+      "raw_path": "data/raw/gencat/phases/300885950.json"
+    },
+    "300869210": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300869210",
+      "field": "historical_placsp_publication_link",
+      "source_placsp_updated": "2026-08-28T00:00:03.905+02:00",
+      "raw_path": "data/raw/gencat/phases/300869210.json"
+    }
+  },
+  "folder": "data/samples/13_timestamp_disagreement"
+}

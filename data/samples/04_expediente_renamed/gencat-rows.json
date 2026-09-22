@@ -1,0 +1,134 @@
+[
+  {
+    "codi_ambit": "1500002",
+    "nom_ambit": "Entitats de l'administració local",
+    "codi_departament_ens": "15937468",
+    "nom_departament_ens": "Ajuntament de Barcelona",
+    "codi_organ": "16054009",
+    "nom_organ": "Institut de Cultura de Barcelona",
+    "codi_ine10": "0801934032",
+    "codi_dir3": "LA0006806",
+    "codi_expedient": "006_24001098",
+    "tipus_contracte": "Serveis",
+    "procediment": "Obert",
+    "fase_publicacio": "Formalització",
+    "denominacio": "Serveis de gestió, atenció al públic , manteniment, servei educatiu i mediació del Castell de Montjuïc per al període 2024-2026 mesures de contractació pública sostenible",
+    "objecte_contracte": "Serveis de gestió, atenció al públic , manteniment, servei educatiu i mediació del Castell de Montjuïc per al període 2024-2026, amb mesures de contractació pública sostenible",
+    "valor_estimat_contracte": "3943448.04",
+    "codi_nuts": "ES511",
+    "lloc_execucio": "Barcelona",
+    "durada_contracte": "01/02/2025 a 31/01/2027",
+    "termini_presentacio_ofertes": "2024-09-30T23:59:00.000",
+    "data_publicacio_anunci": "2024-08-30T18:06:00.000",
+    "data_publicacio_adjudicacio": "2024-12-19T11:50:00.000",
+    "data_publicacio_formalitzacio": "2025-07-28T12:18:00.000",
+    "numero_lot": "1",
+    "descripcio_lot": "Servei de gestió, atenció al públic i manteniment- del Castell de Montjuïc",
+    "codi_cpv": "92521000-9",
+    "tipus_identificacio": "542",
+    "identificacio_adjudicatari": "B61949764",
+    "denominacio_adjudicatari": "MAGMACULTURA SL",
+    "import_adjudicacio_sense": "1879697.18",
+    "import_adjudicacio_amb_iva": "2274433.58",
+    "ofertes_rebudes": "5",
+    "resultat": "Formalització",
+    "enllac_publicacio": {
+      "url": "https://contractaciopublica.cat/ca/detall-publicacio/d64c0289-9916-43f6-a457-b4d3f02a0add/300525566"
+    },
+    "es_agregada": "NO",
+    "data_adjudicacio_contracte": "2024-12-18T18:41:00.000",
+    "data_formalitzacio_contracte": "2025-01-31T08:44:00.000",
+    "tipus_tramitacio": "Ordinària",
+    "eina_presentacio_electronica": "Altres",
+    "altres_eines_licitacio": "https://licitacions.bcn.cat/",
+    "pressupost_licitacio_sense": "1879697.18",
+    "pressupost_licitacio_sense_1": "2274971.14",
+    "pressupost_licitacio_amb": "2274433.59",
+    "pressupost_licitacio_amb_1": "2752715.08",
+    "valor_estimat_expedient": "4772699.87",
+    "data_publicacio_avaluacio": "2024-11-18T10:52:00.000",
+    "tipus_empresa": "PIME",
+    "url_json_licitacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300234179/Lh2sVfVyj4VDAghQjwtiEnpX_8EeyVvgARU_F_RLeWCSMjUnXVLpl5l01JhyA27UGNB6bEdzgXfNSYg6BK2_IDHAbstRMtzFHvyybh68EE3dCl2GiQV6Sfqrd0lx356v61mRIZGEIER8K3Suu5kXAKiNSN0u-NAUxKbTgxyFiYgF7KxUqpXsUs0gxs0B-DhKcLECoWu7LAxSezuBJjLbzEk_gcU5xOiTLW_ncSMhjF67Y0vPk0bQvU74wIp5NvcxrI6Dx51WvUP-fix90RmpYveG1P9yN3kPYuvkm0V8QfRCpQb3FTbe5Jhl9FGVQcaKB7vyDFS5ThGJoyeeic3Sug=="
+    },
+    "url_json_avaluacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300302267/boXQCi4HdcmcRh-usBK1-42azYWgBPk0LvHq9NfzAPBUIubw2edXLXhq79cTQYXI_u8GQE5WBftJIE7dhgJzpFiIDI_cAMyk8Zc3AtGxTfPxSS84yVRC7Zbb1A0XLDF1U-SrYzdPZM6RqldT9_kse7PfYDF0JTfj1AUiNpItrpvenDsRUL4Suie-CI1dEpZzgy1DqckCMUrqxfwj1u042jiTSh-8TyKPuqITEbaX1dQbq9c1nR95okDdnybMbxwkkWsMF5d9vD8fztyFWkYb5ic6We0qEW3TNBUsyANa9wK83UXdX-f17P7Uo5hWRhihWTFTW_evm-N9ehERQa2noA=="
+    },
+    "url_json_adjudicacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300334146/JxaovRDJUwVEUt5FOL4R14ORYRGUmWMU-2R8DF_B6w87vadIVmzxqfaHfg6U-UoOMB7Lo0stgBBp4NmxfhhpIb8rS4Lktqnwyg6UD6MUCQun1oXGOnzMqguPm7wuplYfCKBUK-QosJfF9aIJm3A59CVsIaskJy9x0_3vNYHpSyo14nSGXO8kgLjwV0JyfHGGDf1nqTMbNYykA6oq9jAyR0hURxUeSID6kWxYx4tCqEEx_GMkmxbQ75xPoOdKaZ1E5gUaaHAWXXXpBN3fKp1Z5WLPYGCDmH_IUCWep84j9wug42lysEkfLw4ID3mafVbQdPq5FuzSTI6f-IwtbqKCYA=="
+    },
+    "url_json_formalitzacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300525566/LmVGOvJsNJqIhr9VucPgYkpKDPBKA1V-4_2wpiD2mctjZ4pCKXFr39_9cLqgmxfGq9lVdvzSMTHTcERRUtbLL-2QuR7u6SLY0otlmOvMW5_buaQxRscpv1WDaUs17XbkgGh3JX8Y0NCMw3gDbdgZPY_0R3ino9VpNhV0W8HOfFs0ca4W4gjSOozGZG0j09Jj7tXZtxTXsSKTbMh_ghYBypZ_yoNCT3UFuO85mi7ObC3BMhOCMk-nGhSaB8KqrebC_-z-IgukL5pUudGG0wE94beI-sIOaG5f2iiW2wyEGZ6o49G4RnJp5uMp_FyxmoJXdcquFUE5qotdhxLtqYFT6g=="
+    },
+    "id_intern": "d64c0289-9916-43f6-a457-b4d3f02a0add_0",
+    ":id": "row-yi5q~5imw~4wqh",
+    ":created_at": "2026-07-13T13:26:08.273Z",
+    ":updated_at": "2026-07-13T13:26:08.273Z"
+  },
+  {
+    "codi_ambit": "1500002",
+    "nom_ambit": "Entitats de l'administració local",
+    "codi_departament_ens": "15937468",
+    "nom_departament_ens": "Ajuntament de Barcelona",
+    "codi_organ": "16054009",
+    "nom_organ": "Institut de Cultura de Barcelona",
+    "codi_ine10": "0801934032",
+    "codi_dir3": "LA0006806",
+    "codi_expedient": "006_24001098",
+    "tipus_contracte": "Serveis",
+    "procediment": "Obert",
+    "fase_publicacio": "Formalització",
+    "denominacio": "Serveis de gestió, atenció al públic , manteniment, servei educatiu i mediació del Castell de Montjuïc per al període 2024-2026 mesures de contractació pública sostenible",
+    "objecte_contracte": "Serveis de gestió, atenció al públic , manteniment, servei educatiu i mediació del Castell de Montjuïc per al període 2024-2026, amb mesures de contractació pública sostenible",
+    "valor_estimat_contracte": "829251.83",
+    "codi_nuts": "ES511",
+    "lloc_execucio": "Barcelona",
+    "durada_contracte": "01/02/2025 a 31/01/2027",
+    "termini_presentacio_ofertes": "2024-09-30T23:59:00.000",
+    "data_publicacio_anunci": "2024-08-30T18:06:00.000",
+    "data_publicacio_adjudicacio": "2024-12-19T11:50:00.000",
+    "data_publicacio_formalitzacio": "2025-07-28T12:18:00.000",
+    "numero_lot": "2",
+    "descripcio_lot": "Servei educatiu i de mediació del Castell de Montjuïc",
+    "codi_cpv": "92521000-9",
+    "tipus_identificacio": "542",
+    "identificacio_adjudicatari": "B61949764",
+    "denominacio_adjudicatari": "MAGMACULTURA SL",
+    "import_adjudicacio_sense": "395273.96",
+    "import_adjudicacio_amb_iva": "478281.50",
+    "ofertes_rebudes": "5",
+    "resultat": "Formalització",
+    "enllac_publicacio": {
+      "url": "https://contractaciopublica.cat/ca/detall-publicacio/d64c0289-9916-43f6-a457-b4d3f02a0add/300525566"
+    },
+    "es_agregada": "NO",
+    "data_adjudicacio_contracte": "2024-12-18T18:41:00.000",
+    "data_formalitzacio_contracte": "2025-01-31T08:45:00.000",
+    "tipus_tramitacio": "Ordinària",
+    "eina_presentacio_electronica": "Altres",
+    "altres_eines_licitacio": "https://licitacions.bcn.cat/",
+    "pressupost_licitacio_sense": "395273.96",
+    "pressupost_licitacio_sense_1": "2274971.14",
+    "pressupost_licitacio_amb": "478281.49",
+    "pressupost_licitacio_amb_1": "2752715.08",
+    "valor_estimat_expedient": "4772699.87",
+    "data_publicacio_avaluacio": "2024-11-18T10:52:00.000",
+    "tipus_empresa": "PIME",
+    "url_json_licitacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300234179/Lh2sVfVyj4VDAghQjwtiEnpX_8EeyVvgARU_F_RLeWCSMjUnXVLpl5l01JhyA27UGNB6bEdzgXfNSYg6BK2_IDHAbstRMtzFHvyybh68EE3dCl2GiQV6Sfqrd0lx356v61mRIZGEIER8K3Suu5kXAKiNSN0u-NAUxKbTgxyFiYgF7KxUqpXsUs0gxs0B-DhKcLECoWu7LAxSezuBJjLbzEk_gcU5xOiTLW_ncSMhjF67Y0vPk0bQvU74wIp5NvcxrI6Dx51WvUP-fix90RmpYveG1P9yN3kPYuvkm0V8QfRCpQb3FTbe5Jhl9FGVQcaKB7vyDFS5ThGJoyeeic3Sug=="
+    },
+    "url_json_avaluacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300302267/boXQCi4HdcmcRh-usBK1-42azYWgBPk0LvHq9NfzAPBUIubw2edXLXhq79cTQYXI_u8GQE5WBftJIE7dhgJzpFiIDI_cAMyk8Zc3AtGxTfPxSS84yVRC7Zbb1A0XLDF1U-SrYzdPZM6RqldT9_kse7PfYDF0JTfj1AUiNpItrpvenDsRUL4Suie-CI1dEpZzgy1DqckCMUrqxfwj1u042jiTSh-8TyKPuqITEbaX1dQbq9c1nR95okDdnybMbxwkkWsMF5d9vD8fztyFWkYb5ic6We0qEW3TNBUsyANa9wK83UXdX-f17P7Uo5hWRhihWTFTW_evm-N9ehERQa2noA=="
+    },
+    "url_json_adjudicacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300334146/JxaovRDJUwVEUt5FOL4R14ORYRGUmWMU-2R8DF_B6w87vadIVmzxqfaHfg6U-UoOMB7Lo0stgBBp4NmxfhhpIb8rS4Lktqnwyg6UD6MUCQun1oXGOnzMqguPm7wuplYfCKBUK-QosJfF9aIJm3A59CVsIaskJy9x0_3vNYHpSyo14nSGXO8kgLjwV0JyfHGGDf1nqTMbNYykA6oq9jAyR0hURxUeSID6kWxYx4tCqEEx_GMkmxbQ75xPoOdKaZ1E5gUaaHAWXXXpBN3fKp1Z5WLPYGCDmH_IUCWep84j9wug42lysEkfLw4ID3mafVbQdPq5FuzSTI6f-IwtbqKCYA=="
+    },
+    "url_json_formalitzacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300525566/LmVGOvJsNJqIhr9VucPgYkpKDPBKA1V-4_2wpiD2mctjZ4pCKXFr39_9cLqgmxfGq9lVdvzSMTHTcERRUtbLL-2QuR7u6SLY0otlmOvMW5_buaQxRscpv1WDaUs17XbkgGh3JX8Y0NCMw3gDbdgZPY_0R3ino9VpNhV0W8HOfFs0ca4W4gjSOozGZG0j09Jj7tXZtxTXsSKTbMh_ghYBypZ_yoNCT3UFuO85mi7ObC3BMhOCMk-nGhSaB8KqrebC_-z-IgukL5pUudGG0wE94beI-sIOaG5f2iiW2wyEGZ6o49G4RnJp5uMp_FyxmoJXdcquFUE5qotdhxLtqYFT6g=="
+    },
+    "id_intern": "d64c0289-9916-43f6-a457-b4d3f02a0add_1",
+    ":id": "row-awbe~umyy~aw7j",
+    ":created_at": "2026-07-13T13:26:08.273Z",
+    ":updated_at": "2026-07-13T13:26:08.273Z"
+  }
+]

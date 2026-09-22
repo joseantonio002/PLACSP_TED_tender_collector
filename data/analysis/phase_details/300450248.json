@@ -1,0 +1,2910 @@
+{
+  "codiExpedient": "ME. MEC-25L02",
+  "idExpedient": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+  "dataPublicacioPlanificada": "2025-05-15T08:54:47.213Z",
+  "organ": {
+    "nom": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "unitat": "Infraestructures.cat",
+    "direccioPostal": "Carrer dels Vergós, 36-42",
+    "localitat": "Barcelona, Barcelona",
+    "codiPostal": "08017",
+    "nuts": "ES511",
+    "telefon": "934444444",
+    "email": "licitacio@infraestructures.cat",
+    "personesContacte": [],
+    "centralCompres": false,
+    "tipusPoderAdjudicador": 1500007,
+    "activitatPrincipal": "Infraestructures",
+    "observacions": {},
+    "horari": {},
+    "organContractacioId": 203633
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000040,
+      "ca": "Anunci de licitació",
+      "es": "Anuncio de licitación",
+      "en": "Tender announcement",
+      "oc": "Anóncia de licitacion"
+    },
+    "expedientId": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "teLots": true,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000040,
+        "ca": "Anunci de licitació",
+        "es": "Anuncio de licitación",
+        "en": "Tender announcement",
+        "oc": "Anóncia de licitacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "ME. MEC-25L02",
+      "denominacio": {
+        "ca": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02"
+      },
+      "descripcio": {
+        "ca": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02"
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "unitatContractacio": 23311099,
+      "tipusContracte": {
+        "id": 393,
+        "ca": "Serveis",
+        "es": "Servicios",
+        "en": "Services",
+        "oc": "Servicis"
+      },
+      "procedimentAdjudicacio": {
+        "id": 401,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {},
+      "metodologiaBim": false
+    },
+    "dadesPublicacio": {
+      "pressupostLicitacio": 41129079.8,
+      "observacions": {},
+      "contracteHarmonitzat": true,
+      "dataTerminiPresentacioOSolicitud": "2025-05-07T11:00:00.000Z",
+      "adrecaElectronicaPresentacioOfertes": {},
+      "preveuenModificacionsAlsPlecs": true,
+      "preveuenProrroguesAlsPlecs": true,
+      "informacioComplementariaProrroga": {
+        "ca": "Vegeu Ap. 3 QC"
+      },
+      "informacioComplementariaModificacio": {
+        "ca": "Vegeu Ap. 23 QC"
+      },
+      "valorEstimatContracte": 83579468.07,
+      "iva": 21,
+      "varisTipusIva": false,
+      "pressupostBaseLicitacioAmbIva": 49766186.56,
+      "acpAplicable": true,
+      "justificacioProcedimentUtilitzat": {},
+      "plecsDeClausulesAdministratives": {
+        "ca": [
+          {
+            "id": 301299279,
+            "titol": "PCAP ME. MEC-25L02_esm3 termini.pdf",
+            "path": "PQ-3jHHxDO_LmJlEMRtBhA_DWIIckQmmSdVvQBhPfhYdtBXwsdt8GGFJwwBBCYXYpHTigS14qlogP0lgqIV-TTneWsn5hkqcWY_NEzHJDTfrgqQXm9ZDhkaeqj7jxoRkggVvfgugt4PuTp09UDT8YAFXtICvHJxQLhb8J14gQGYV5TCQ9pgUnACsf2poa2hU0hwGgXzFoV7dY7jkDv-mpIbwVjxXYj9RIZQuDqzY_U59H_IwZn2lrlViBOXCdoDdqRj6KlnyzWLgYjOWmxlE9xwIi0aiePSz3kIDsw-8INMq5xXMzAHM-9HqzX2eRxhdYzihvvduPXtmMOoWAMVX3A==",
+            "hash": "BFB597669173AFFC5A01C6DC2A9F276B",
+            "idioma": "ca",
+            "mida": 1572004
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "plecsDePrescripcionsTecniques": {
+        "ca": [
+          {
+            "id": 301299280,
+            "titol": "MEC-25L02 PPTP_esm.pdf",
+            "path": "AtnCnxo1QpA-TkLvz5Xy5NehgSs6Bhgv6-jbz0sYspem0DWNLsbjsn_mUFauexvyK9z1GkcqoXbB-26fLKU9VCOddDhsVNvJROlyS8LTGsehI2b0XzyyupJD8BgiPZSK5R70rlRwr2SEz7jESn5LdxWP9lmuTqKjSfvD5c4V19xCgE79IuRiB_9JficwXNJ6guyiCYdh5kWv0rzd1KA3vl1XjeLfQOEJn1RJS8yWdTCLoo3cqjmMAgsUgbFCMfFYCNKZDS1EUjw8YUxsPX3cAoVh1OnzIXANJSBdhwUo6KE7huiuepCkY2G0eGz3Xc6fDXRiu8FSvV69cO0bWjaFTw==",
+            "hash": "ADB43D1FC1CF380B88843A7D8BE61E92",
+            "idioma": "ca",
+            "mida": 1542671
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "memoriaJustificativaContracte": {
+        "ca": [
+          {
+            "id": 301299278,
+            "titol": "MEC-25L02_Informe Justificatiu.pdf",
+            "path": "gVwT5zHt_hH1AeAaxwobQ7gL0rYBBih8pHnPOYTVBONBKsOOA6DGEPXnNY0sdyZFPHAxHUFHoNSbsoKFD6oYQWtyRW048r_Kd8KzNcD3AUkI5HF1EbkbKFsXpRsVvf31M3pvku8pui3wP-WDxyPJpp3uL61_tRIeePAaF34XrVhMAHkvdSRwMi8Zwv9vB23ZTIqI5kNZ-X72tJDIUEVkgJFGqcnFBarSzHBwQgjIzm514n6dgeXb2zqc7py52Scac16SX0jVZ9tda1kGDP8793girxaMV4SeKCTnTfTuEvURh9ukuTR5tvTsfJKfbVB1nIDEf3r3hRftC937iN2GsA==",
+            "hash": "672E5A112B5484D1B709B7753FF225D9",
+            "idioma": "ca",
+            "mida": 5330702
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "documentsAprovacio": {
+        "ca": [
+          {
+            "id": 301299277,
+            "titol": "Aprovació expedient i Plecs ME. MEC-25L02.pdf",
+            "path": "pRgwxslxMXuYBhPshI66UhxXApJUK8hsP5YEZ1aSfdklfikUPlQhI9pHRJVK1BKFrRowbEvQ2IEAgDo_oJvJrUzuXnvXEEUe_jTzhzpgLQgF8TlcZntrhyed08B9XZk9oEYksaGhkIHQzE-ORcBwyc16dT-C9JTgx2wrjsDkYSFSqCsOzM0abDI1S0ukOjIje248Nasl-FvTk4o_JorBLEsYpa08yCX4LVYlAVrzeyXLyYiDdIU33c9lVmdL5gQ5ZmOmcIKQL62kQLEDDhKbkP9fvcLBgmnKx66zqgznI9YnsV1wOz9PvEx55NFzUh4fHkatcikR77YhP9pdZPls1A==",
+            "hash": "FA83631B86257157DF98E10108A76E75",
+            "idioma": "ca",
+            "mida": 187318
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "altresDocuments": {
+        "ca": [
+          {
+            "id": 301299274,
+            "titol": "Annexes PPTP.rar",
+            "path": "XuDlBkyHo_LRGqUUMGvzY6tefev3m3WsWQ-koztDeGJMlh5TxcE4nVbCvoZ35iAGcfKiY4iQEQw4Dvht8C7_1ryILfDPV3Ak8PnZ8Lnzas21doIGVp-lReGlJIzv1FcZmEiMK_DkX-RoC3QbWrBbydankJN_6fS27CcW_pNzA03QD7lK1FW5fN8jZM6CPAeJOA1Lug58ZoH5r7YAIEyCgcsAQtQedxEpT20mss8aZ0BYytDlAs4fzjsbJWYrrEQVekHNUXnFt09bnQzZwcxYp3mAypf51yifRNCEQhhyD_Q3Wi_9f_LGoa-_obuBW0f4aQaoc3MhtLo1x3uGnKfo5Q==",
+            "hash": "FD822F9996A16C84BD7E91C1B3652264",
+            "idioma": "ca",
+            "mida": 6376462
+          },
+          {
+            "id": 301299275,
+            "titol": "MEC-25L02 Subrogacions.rar",
+            "path": "iEAjz5SwSWXRJX2-rOSG_EtT-bqtcyKoUZIHninM2i_-1OZSpkRhc8lspsvXQ3TugM2iGY7ap__cazRACqsY_lRu9URYyK0qUKq449L7E5iNZUF3xcMmmmrHYCo5DWwPoBgfdkTejTtdpLnMrc5I1gtk2DLOgCpsDp3B8s30LODCcA0akee1NdSqAWMZQZsfQe53mXivr-3XRkfXQS329Se4VdV4KvRAbrNI_e4qPcOJMdTu43id6poMgTCeAXPYKxYzDhlDmMBxX7ONIXLdakwvzuFtyW0Vb5DPpEUyPugmGp_vjgjYSaC5AGM4SoZvOguC8c0-29VuGLhK1Kaf5g==",
+            "hash": "C86FCCF11F8EA8EBEF3CC406565DD1BA",
+            "idioma": "ca",
+            "mida": 4900155
+          },
+          {
+            "id": 301299276,
+            "titol": "Annex 9. Apèndix 4 Taula presències mínimes corregit.xlsx",
+            "path": "rWNWY4d6MuP4D3zpMBrxpUZyxjRmtCLxqtMzkT5S-qSshFRNl_tRbh0Wa8eYgeryTT7lNugnCCTcGwuxRAp684lrmpt9eh-J7cpIQVVzvdHOc-PAQA8HKsFFswx22nVGxiip3okAW29uVm9eX8NVPRKerwpNSX0lCmj5K9BFbrwmLoY9hQFCbgM-oOJkC14Lnk9H9X-y4WV1z1VftV3wOYAxsVSmbmpS7737DO1as6AheBeocDwbgG3dotQ-PIU63KuscVUaJtFOqj7AucrdoRNP28DBbQTJsMkrgKimrtHndyODQ6rvf7Rwig9MFuKQkuHUCZVQCk3P94imYbaO_A==",
+            "hash": "FEA843C4A28279FD6C464D3A56BDC442",
+            "idioma": "ca",
+            "mida": 40469
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "llenguesRedactarOfertes": {},
+      "justificacioNoExistenciaLots": {
+        "id": 1008190,
+        "ca": "Art.99.3 b) El fet que la realització independent de les diverses prestacions compreses en l’objecte el contracte en dificulti l’execució correcta des del punt de vista tècnic; o bé que el risc per a l’execució correcta del contracte procedeixi de la naturalesa del seu objecte, en implicar la necessitat de coordinar l’execució de les diferents prestacions, qüestió que es podria veure impossibilitada per la seva divisió en lots i l’execució per una pluralitat de contractistes diferents. Tots dos aspectes, si s’escau, s’han de justificar degudament en l’expedient",
+        "en": "Art. 99.3.b) The fact that the independent performance of the various services indicated as the purpose of the contract hinders their correct implementation from a technical point of view; or that the risk for the correct implementation of the contract comes from the nature of its purpose, since it involves the need to coordinate the implementation of the various services, an issue that could be made impossible by its division into lots and being undertaken by a plurality of different contractors. Both aspects, if applicable, must be duly justified in the file",
+        "oc": "Art.99.3 b) Er hèt qu'era realizacion independenta des diuèrses prestacions comprenudes en er objècte eth contracte ne dificulte era execucion corrècta dempús deth punt d'enguarda tecnic; o plan qu'eth risc entara execucion corrècta deth contracte provengue dera natura deth sòn objècte, en implicar eth besonh de coordinar era execucion des diferentes prestacions, ahèr que se poirie veir impossibilitada pera sua division en lòts e era execucion per ua pluralitat de contractistes diferenti. Toti dus aspèctes, se s’esquèr, les cau justificar degudaments en expedient"
+      },
+      "maximLotsLicitadorSePotAdjudicar": 2,
+      "contracteRelacionatFinanciatFonsUnioEuropea": false,
+      "numeroDeLots": 13,
+      "divisioEnLots": {
+        "id": 1008402,
+        "ca": "Amb lots"
+      },
+      "motiuContracteNoInformatLots": {},
+      "publicacionsOficials": [
+        {
+          "tipus": {
+            "id": 35002,
+            "ca": "DOUE",
+            "en": "OJEU",
+            "oc": "DOUE"
+          },
+          "url": "https://ted.europa.eu/es/notice/-/detail/205368-2025",
+          "dataPublicacio": "2025-03-31T07:00:00.000Z",
+          "idioma": {
+            "id": 1000031,
+            "ca": "Català",
+            "es": "Catalan",
+            "en": "Catalan",
+            "oc": "Catalan"
+          },
+          "dataTramesaDoue": "2025-03-28T10:45:00.000Z"
+        },
+        {
+          "tipus": {
+            "id": 35002,
+            "ca": "DOUE",
+            "en": "OJEU",
+            "oc": "DOUE"
+          },
+          "url": "https://ted.europa.eu/es/notice/-/detail/278073-2025",
+          "dataPublicacio": "2025-04-30T07:00:00.000Z",
+          "idioma": {
+            "id": 1000031,
+            "ca": "Català",
+            "es": "Catalan",
+            "en": "Catalan",
+            "oc": "Catalan"
+          },
+          "dataTramesaDoue": "2025-04-29T08:00:00.000Z"
+        },
+        {
+          "tipus": {
+            "id": 35002,
+            "ca": "DOUE",
+            "en": "OJEU",
+            "oc": "DOUE"
+          },
+          "url": "https://ted.europa.eu/es/notice/-/detail/312193-2025",
+          "dataPublicacio": "2025-05-15T07:00:00.000Z",
+          "idioma": {
+            "id": 1000031,
+            "ca": "Català",
+            "es": "Catalan",
+            "en": "Catalan",
+            "oc": "Catalan"
+          },
+          "dataTramesaDoue": "2025-05-13T10:00:00.000Z"
+        }
+      ],
+      "contractacioConjunta": false,
+      "peuRecurs": {
+        "ca": "Licitació susceptible de Recurs Especial en Matèria de Contractació (REMC) d'acord amb l'article 44.1 de la LCSP (vegeu apartat 24 del QC en relació amb la clàusula 18 del PCAP)."
+      },
+      "adrecaPresentacioRecurs": {},
+      "ofertaIntegradora": false,
+      "elementsCondicionsOfertesIntegradores": {}
+    },
+    "dadesPublicacioLot": [
+      {
+        "ultimaObertura": {
+          "dataObertura": "2025-05-23T08:00:00.000Z",
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {},
+          "mostrarDataObertura": true,
+          "sobre": {
+            "ca": "Sobre B",
+            "es": "Sobre B",
+            "en": "Sobre B",
+            "oc": "Sobre B"
+          }
+        },
+        "numeroLot": "1",
+        "lotId": 0,
+        "descripcio": {
+          "ca": "Edificis judicials Barcelona"
+        },
+        "pressupostLicitacio": 2292542.12,
+        "publicacioExpedientId": 300450248,
+        "titol": "Edificis judicials Barcelona",
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 2773975.96,
+        "varisTipusIva": false,
+        "valorEstimat": 4500965.74,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña"
+        },
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 3,
+          "mesos": 1,
+          "observacions": {}
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "ca": "Vegeu Ap. 18 QC"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "dataObertura": "2025-05-23T08:00:00.000Z",
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {},
+            "mostrarDataObertura": true,
+            "sobre": {
+              "ca": "Sobre B",
+              "es": "Sobre B",
+              "en": "Sobre B",
+              "oc": "Sobre B"
+            }
+          }
+        ],
+        "prorroguesPrevistes": true,
+        "informacioProrrogaComplementaria": {
+          "ca": "Vegeu Ap. 3 QC"
+        },
+        "modificacioPrevista": true,
+        "informacioModificacioComplementaria": {
+          "ca": "Vegeu Ap. 23 QC"
+        },
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "importGarantiaProvisional": 0,
+        "garantiaDefinitiva": true,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008234,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008223,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "percentatgeGarantiaDefinitiva": 5,
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "garantiaComplementaria": false,
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "llistatPrescripcionsTecniquesSocials": []
+      },
+      {
+        "ultimaObertura": {
+          "dataObertura": "2025-05-23T08:00:00.000Z",
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {},
+          "mostrarDataObertura": true,
+          "sobre": {
+            "ca": "Sobre B",
+            "es": "Sobre B",
+            "en": "Sobre B",
+            "oc": "Sobre B"
+          }
+        },
+        "numeroLot": "2",
+        "lotId": 1,
+        "descripcio": {
+          "ca": "Edificis judicials Barcelona Províncies Nord"
+        },
+        "pressupostLicitacio": 4557472.52,
+        "publicacioExpedientId": 300450248,
+        "titol": "Edificis judicials Barcelona Províncies Nord",
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 5514541.75,
+        "varisTipusIva": false,
+        "valorEstimat": 9218798.18,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña"
+        },
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 3,
+          "mesos": 1,
+          "observacions": {}
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "ca": "Vegeu Ap. 18 QC"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "dataObertura": "2025-05-23T08:00:00.000Z",
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {},
+            "mostrarDataObertura": true,
+            "sobre": {
+              "ca": "Sobre B",
+              "es": "Sobre B",
+              "en": "Sobre B",
+              "oc": "Sobre B"
+            }
+          }
+        ],
+        "prorroguesPrevistes": true,
+        "informacioProrrogaComplementaria": {
+          "ca": "Vegeu Ap. 3 QC"
+        },
+        "modificacioPrevista": true,
+        "informacioModificacioComplementaria": {
+          "ca": "Vegeu Ap. 23 QC"
+        },
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "importGarantiaProvisional": 0,
+        "garantiaDefinitiva": true,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008234,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008223,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "percentatgeGarantiaDefinitiva": 5,
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "garantiaComplementaria": false,
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "llistatPrescripcionsTecniquesSocials": []
+      },
+      {
+        "ultimaObertura": {
+          "dataObertura": "2025-05-23T08:00:00.000Z",
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {},
+          "mostrarDataObertura": true,
+          "sobre": {
+            "ca": "Sobre B",
+            "es": "Sobre B",
+            "en": "Sobre B",
+            "oc": "Sobre B"
+          }
+        },
+        "numeroLot": "4",
+        "lotId": 2,
+        "descripcio": {
+          "ca": "Edificis judicials Tarragona i Terres de l’Ebre"
+        },
+        "pressupostLicitacio": 3430093.93,
+        "publicacioExpedientId": 300450248,
+        "titol": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 4150413.66,
+        "varisTipusIva": false,
+        "valorEstimat": 6734237.17,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña"
+        },
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 3,
+          "mesos": 1,
+          "observacions": {}
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "ca": "Vegeu Ap. 18 QC"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "dataObertura": "2025-05-23T08:00:00.000Z",
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {},
+            "mostrarDataObertura": true,
+            "sobre": {
+              "ca": "Sobre B",
+              "es": "Sobre B",
+              "en": "Sobre B",
+              "oc": "Sobre B"
+            }
+          }
+        ],
+        "prorroguesPrevistes": true,
+        "informacioProrrogaComplementaria": {
+          "ca": "Vegeu Ap. 3 QC"
+        },
+        "modificacioPrevista": true,
+        "informacioModificacioComplementaria": {
+          "ca": "Vegeu Ap. 23 QC"
+        },
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "importGarantiaProvisional": 0,
+        "garantiaDefinitiva": true,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008234,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008223,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "percentatgeGarantiaDefinitiva": 5,
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "garantiaComplementaria": false,
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "llistatPrescripcionsTecniquesSocials": []
+      },
+      {
+        "ultimaObertura": {
+          "dataObertura": "2025-05-23T08:00:00.000Z",
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {},
+          "mostrarDataObertura": true,
+          "sobre": {
+            "ca": "Sobre B",
+            "es": "Sobre B",
+            "en": "Sobre B",
+            "oc": "Sobre B"
+          }
+        },
+        "numeroLot": "3",
+        "lotId": 3,
+        "descripcio": {
+          "ca": "Edificis judicials Barcelona Províncies Sud"
+        },
+        "pressupostLicitacio": 2563959.76,
+        "publicacioExpedientId": 300450248,
+        "titol": "Edificis judicials Barcelona Províncies Sud",
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 3102391.31,
+        "varisTipusIva": false,
+        "valorEstimat": 6044837.62,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña"
+        },
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 3,
+          "mesos": 1,
+          "observacions": {}
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "ca": "Vegeu Ap. 18 QC"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "dataObertura": "2025-05-23T08:00:00.000Z",
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {},
+            "mostrarDataObertura": true,
+            "sobre": {
+              "ca": "Sobre B",
+              "es": "Sobre B",
+              "en": "Sobre B",
+              "oc": "Sobre B"
+            }
+          }
+        ],
+        "prorroguesPrevistes": true,
+        "informacioProrrogaComplementaria": {
+          "ca": "Vegeu Ap. 3 QC"
+        },
+        "modificacioPrevista": true,
+        "informacioModificacioComplementaria": {
+          "ca": "Vegeu Ap. 23 QC"
+        },
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "importGarantiaProvisional": 0,
+        "garantiaDefinitiva": true,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008234,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008223,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "percentatgeGarantiaDefinitiva": 5,
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "garantiaComplementaria": false,
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "llistatPrescripcionsTecniquesSocials": []
+      },
+      {
+        "ultimaObertura": {
+          "dataObertura": "2025-05-23T08:00:00.000Z",
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {},
+          "mostrarDataObertura": true,
+          "sobre": {
+            "ca": "Sobre B",
+            "es": "Sobre B",
+            "en": "Sobre B",
+            "oc": "Sobre B"
+          }
+        },
+        "numeroLot": "5",
+        "lotId": 4,
+        "descripcio": {
+          "ca": "Edificis judicials Lleida"
+        },
+        "pressupostLicitacio": 2241527.31,
+        "publicacioExpedientId": 300450248,
+        "titol": "Edificis judicials Lleida",
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 2712248.05,
+        "varisTipusIva": false,
+        "valorEstimat": 4400847.98,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña"
+        },
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 3,
+          "mesos": 1,
+          "observacions": {}
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "ca": "Vegeu Ap. 18 QC"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "dataObertura": "2025-05-23T08:00:00.000Z",
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {},
+            "mostrarDataObertura": true,
+            "sobre": {
+              "ca": "Sobre B",
+              "es": "Sobre B",
+              "en": "Sobre B",
+              "oc": "Sobre B"
+            }
+          }
+        ],
+        "prorroguesPrevistes": true,
+        "informacioProrrogaComplementaria": {
+          "ca": "Vegeu Ap. 3 QC"
+        },
+        "modificacioPrevista": true,
+        "informacioModificacioComplementaria": {
+          "ca": "Vegeu Ap. 23 QC"
+        },
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "importGarantiaProvisional": 0,
+        "garantiaDefinitiva": true,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008234,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008223,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "percentatgeGarantiaDefinitiva": 5,
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "garantiaComplementaria": false,
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "llistatPrescripcionsTecniquesSocials": []
+      },
+      {
+        "ultimaObertura": {
+          "dataObertura": "2025-05-23T08:00:00.000Z",
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {},
+          "mostrarDataObertura": true,
+          "sobre": {
+            "ca": "Sobre B",
+            "es": "Sobre B",
+            "en": "Sobre B",
+            "oc": "Sobre B"
+          }
+        },
+        "numeroLot": "6",
+        "lotId": 5,
+        "descripcio": {
+          "ca": "Edificis judicials Girona"
+        },
+        "pressupostLicitacio": 3091271.76,
+        "publicacioExpedientId": 300450248,
+        "titol": "Edificis judicials Girona",
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 3740438.83,
+        "varisTipusIva": false,
+        "valorEstimat": 6069620.76,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña"
+        },
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 3,
+          "mesos": 1,
+          "observacions": {}
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "ca": "Vegeu Ap. 18 QC"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "dataObertura": "2025-05-23T08:00:00.000Z",
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {},
+            "mostrarDataObertura": true,
+            "sobre": {
+              "ca": "Sobre B",
+              "es": "Sobre B",
+              "en": "Sobre B",
+              "oc": "Sobre B"
+            }
+          }
+        ],
+        "prorroguesPrevistes": true,
+        "informacioProrrogaComplementaria": {
+          "ca": "Vegeu Ap. 3 QC"
+        },
+        "modificacioPrevista": true,
+        "informacioModificacioComplementaria": {
+          "ca": "Vegeu Ap. 23 QC"
+        },
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "importGarantiaProvisional": 0,
+        "garantiaDefinitiva": true,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008234,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008223,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "percentatgeGarantiaDefinitiva": 5,
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "garantiaComplementaria": false,
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "llistatPrescripcionsTecniquesSocials": []
+      },
+      {
+        "ultimaObertura": {
+          "dataObertura": "2025-05-23T08:00:00.000Z",
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {},
+          "mostrarDataObertura": true,
+          "sobre": {
+            "ca": "Sobre B",
+            "es": "Sobre B",
+            "en": "Sobre B",
+            "oc": "Sobre B"
+          }
+        },
+        "numeroLot": "7",
+        "lotId": 6,
+        "descripcio": {
+          "ca": "Centres penitenciaris i Centres educatius juvenils Barcelona "
+        },
+        "pressupostLicitacio": 3754547.63,
+        "publicacioExpedientId": 300450248,
+        "titol": "Centres penitenciaris i Centres educatius juvenils",
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 4543002.63,
+        "varisTipusIva": false,
+        "valorEstimat": 7451421,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña"
+        },
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 3,
+          "mesos": 1,
+          "observacions": {}
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "ca": "Vegeu Ap. 18 QC"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "dataObertura": "2025-05-23T08:00:00.000Z",
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {},
+            "mostrarDataObertura": true,
+            "sobre": {
+              "ca": "Sobre B",
+              "es": "Sobre B",
+              "en": "Sobre B",
+              "oc": "Sobre B"
+            }
+          }
+        ],
+        "prorroguesPrevistes": true,
+        "informacioProrrogaComplementaria": {
+          "ca": "Vegeu Ap. 3 QC"
+        },
+        "modificacioPrevista": true,
+        "informacioModificacioComplementaria": {
+          "ca": "Vegeu Ap. 23 QC"
+        },
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "importGarantiaProvisional": 0,
+        "garantiaDefinitiva": true,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008234,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008223,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "percentatgeGarantiaDefinitiva": 5,
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "garantiaComplementaria": false,
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "llistatPrescripcionsTecniquesSocials": []
+      },
+      {
+        "ultimaObertura": {
+          "dataObertura": "2025-05-23T08:00:00.000Z",
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {},
+          "mostrarDataObertura": true,
+          "sobre": {
+            "ca": "Sobre B",
+            "es": "Sobre B",
+            "en": "Sobre B",
+            "oc": "Sobre B"
+          }
+        },
+        "numeroLot": "8",
+        "lotId": 7,
+        "descripcio": {
+          "ca": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental"
+        },
+        "pressupostLicitacio": 5535717.94,
+        "publicacioExpedientId": 300450248,
+        "titol": "Centres penitenciaris i Centres educatius juvenils",
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 6698218.71,
+        "varisTipusIva": false,
+        "valorEstimat": 12334021.84,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña"
+        },
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 3,
+          "mesos": 1,
+          "observacions": {}
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "ca": "Vegeu Ap. 18 QC"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "dataObertura": "2025-05-23T08:00:00.000Z",
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {},
+            "mostrarDataObertura": true,
+            "sobre": {
+              "ca": "Sobre B",
+              "es": "Sobre B",
+              "en": "Sobre B",
+              "oc": "Sobre B"
+            }
+          }
+        ],
+        "prorroguesPrevistes": true,
+        "informacioProrrogaComplementaria": {
+          "ca": "Vegeu Ap. 3 QC"
+        },
+        "modificacioPrevista": true,
+        "informacioModificacioComplementaria": {
+          "ca": "Vegeu Ap. 23 QC"
+        },
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "importGarantiaProvisional": 0,
+        "garantiaDefinitiva": true,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008234,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008223,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "percentatgeGarantiaDefinitiva": 5,
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "garantiaComplementaria": false,
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "llistatPrescripcionsTecniquesSocials": []
+      },
+      {
+        "ultimaObertura": {
+          "dataObertura": "2025-05-23T08:00:00.000Z",
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {},
+          "mostrarDataObertura": true,
+          "sobre": {
+            "ca": "Sobre B",
+            "es": "Sobre B",
+            "en": "Sobre B",
+            "oc": "Sobre B"
+          }
+        },
+        "numeroLot": "9",
+        "lotId": 8,
+        "descripcio": {
+          "ca": "Centre penitenciari Brians 1"
+        },
+        "pressupostLicitacio": 3916206.83,
+        "publicacioExpedientId": 300450248,
+        "titol": "Centre penitenciari Brians 1",
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 4738610.26,
+        "varisTipusIva": false,
+        "valorEstimat": 7688765.08,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña"
+        },
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 3,
+          "mesos": 1,
+          "observacions": {}
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "ca": "Vegeu Ap. 18 QC"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "dataObertura": "2025-05-23T08:00:00.000Z",
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {},
+            "mostrarDataObertura": true,
+            "sobre": {
+              "ca": "Sobre B",
+              "es": "Sobre B",
+              "en": "Sobre B",
+              "oc": "Sobre B"
+            }
+          }
+        ],
+        "prorroguesPrevistes": true,
+        "informacioProrrogaComplementaria": {
+          "ca": "Vegeu Ap. 3 QC"
+        },
+        "modificacioPrevista": true,
+        "informacioModificacioComplementaria": {
+          "ca": "Vegeu Ap. 23 QC"
+        },
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "importGarantiaProvisional": 0,
+        "garantiaDefinitiva": true,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008234,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008223,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "percentatgeGarantiaDefinitiva": 5,
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "garantiaComplementaria": false,
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "llistatPrescripcionsTecniquesSocials": []
+      },
+      {
+        "ultimaObertura": {
+          "dataObertura": "2025-05-23T08:00:00.000Z",
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {},
+          "mostrarDataObertura": true,
+          "sobre": {
+            "ca": "Sobre B",
+            "es": "Sobre B",
+            "en": "Sobre B",
+            "oc": "Sobre B"
+          }
+        },
+        "numeroLot": "10",
+        "lotId": 9,
+        "descripcio": {
+          "ca": "Centre penitenciari Brians 2"
+        },
+        "pressupostLicitacio": 4899681.06,
+        "publicacioExpedientId": 300450248,
+        "titol": "Centre penitenciari Brians 2",
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 5928614.08,
+        "varisTipusIva": false,
+        "valorEstimat": 9620001.72,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña"
+        },
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 3,
+          "mesos": 1,
+          "observacions": {}
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "ca": "Vegeu Ap. 18 QC"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "dataObertura": "2025-05-23T08:00:00.000Z",
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {},
+            "mostrarDataObertura": true,
+            "sobre": {
+              "ca": "Sobre B",
+              "es": "Sobre B",
+              "en": "Sobre B",
+              "oc": "Sobre B"
+            }
+          }
+        ],
+        "prorroguesPrevistes": true,
+        "informacioProrrogaComplementaria": {
+          "ca": "Vegeu Ap. 3 QC"
+        },
+        "modificacioPrevista": true,
+        "informacioModificacioComplementaria": {
+          "ca": "Vegeu Ap. 23 QC"
+        },
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "importGarantiaProvisional": 0,
+        "garantiaDefinitiva": true,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008234,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008223,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "percentatgeGarantiaDefinitiva": 5,
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "garantiaComplementaria": false,
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "llistatPrescripcionsTecniquesSocials": []
+      },
+      {
+        "ultimaObertura": {
+          "dataObertura": "2025-05-23T08:00:00.000Z",
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {},
+          "mostrarDataObertura": true,
+          "sobre": {
+            "ca": "Sobre B",
+            "es": "Sobre B",
+            "en": "Sobre B",
+            "oc": "Sobre B"
+          }
+        },
+        "numeroLot": "11",
+        "lotId": 10,
+        "descripcio": {
+          "ca": "Centres penitenciaris i Centres educatius juvenils Lleida"
+        },
+        "pressupostLicitacio": 2540887.71,
+        "publicacioExpedientId": 300450248,
+        "titol": "Centres penitenciaris i Centres educatius juvenils",
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 3074474.13,
+        "varisTipusIva": false,
+        "valorEstimat": 4989874.84,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña"
+        },
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 3,
+          "mesos": 1,
+          "observacions": {}
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "ca": "Vegeu Ap. 18 QC"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "dataObertura": "2025-05-23T08:00:00.000Z",
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {},
+            "mostrarDataObertura": true,
+            "sobre": {
+              "ca": "Sobre B",
+              "es": "Sobre B",
+              "en": "Sobre B",
+              "oc": "Sobre B"
+            }
+          }
+        ],
+        "prorroguesPrevistes": true,
+        "informacioProrrogaComplementaria": {
+          "ca": "Vegeu Ap. 3 QC"
+        },
+        "modificacioPrevista": true,
+        "informacioModificacioComplementaria": {
+          "ca": "Vegeu Ap. 23 QC"
+        },
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "importGarantiaProvisional": 0,
+        "garantiaDefinitiva": true,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008234,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008223,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "percentatgeGarantiaDefinitiva": 5,
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "garantiaComplementaria": false,
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "llistatPrescripcionsTecniquesSocials": []
+      },
+      {
+        "ultimaObertura": {
+          "dataObertura": "2025-05-23T08:00:00.000Z",
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {},
+          "mostrarDataObertura": true,
+          "sobre": {
+            "ca": "Sobre B",
+            "es": "Sobre B",
+            "en": "Sobre B",
+            "oc": "Sobre B"
+          }
+        },
+        "numeroLot": "12",
+        "lotId": 11,
+        "descripcio": {
+          "ca": "Centres penitenciaris i Centres educatius juvenils Girona"
+        },
+        "pressupostLicitacio": 1263127.87,
+        "publicacioExpedientId": 300450248,
+        "titol": "Centres penitenciaris i Centres educatius juvenils",
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 1528384.72,
+        "varisTipusIva": false,
+        "valorEstimat": 2480045.77,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña"
+        },
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 3,
+          "mesos": 1,
+          "observacions": {}
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "ca": "Vegeu Ap. 18 QC"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "dataObertura": "2025-05-23T08:00:00.000Z",
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {},
+            "mostrarDataObertura": true,
+            "sobre": {
+              "ca": "Sobre B",
+              "es": "Sobre B",
+              "en": "Sobre B",
+              "oc": "Sobre B"
+            }
+          }
+        ],
+        "prorroguesPrevistes": true,
+        "informacioProrrogaComplementaria": {
+          "ca": "Vegeu Ap. 3 QC"
+        },
+        "modificacioPrevista": true,
+        "informacioModificacioComplementaria": {
+          "ca": "Vegeu Ap. 23 QC"
+        },
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "importGarantiaProvisional": 0,
+        "garantiaDefinitiva": true,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008234,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008223,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "percentatgeGarantiaDefinitiva": 5,
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "garantiaComplementaria": false,
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "llistatPrescripcionsTecniquesSocials": []
+      },
+      {
+        "ultimaObertura": {
+          "dataObertura": "2025-05-23T08:00:00.000Z",
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {},
+          "mostrarDataObertura": true,
+          "sobre": {
+            "ca": "Sobre B",
+            "es": "Sobre B",
+            "en": "Sobre B",
+            "oc": "Sobre B"
+          }
+        },
+        "numeroLot": "13",
+        "lotId": 12,
+        "descripcio": {
+          "ca": "Centres penitenciaris Tarragona"
+        },
+        "pressupostLicitacio": 1042043.35,
+        "publicacioExpedientId": 300450248,
+        "titol": "Centres penitenciaris Tarragona",
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 1260872.45,
+        "varisTipusIva": false,
+        "valorEstimat": 2046030.36,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña"
+        },
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 3,
+          "mesos": 1,
+          "observacions": {}
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "ca": "Vegeu Ap. 18 QC"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "dataObertura": "2025-05-23T08:00:00.000Z",
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {},
+            "mostrarDataObertura": true,
+            "sobre": {
+              "ca": "Sobre B",
+              "es": "Sobre B",
+              "en": "Sobre B",
+              "oc": "Sobre B"
+            }
+          }
+        ],
+        "prorroguesPrevistes": true,
+        "informacioProrrogaComplementaria": {
+          "ca": "Vegeu Ap. 3 QC"
+        },
+        "modificacioPrevista": true,
+        "informacioModificacioComplementaria": {
+          "ca": "Vegeu Ap. 23 QC"
+        },
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "importGarantiaProvisional": 0,
+        "garantiaDefinitiva": true,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008234,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008223,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "descripcioCriteriSolvencia": {
+              "ca": "Vegeu Ap. 9 QC"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "percentatgeGarantiaDefinitiva": 5,
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "garantiaComplementaria": false,
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "llistatPrescripcionsTecniquesSocials": []
+      }
+    ],
+    "dadesExpedient": {
+      "organContractacioId": 203633,
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+      "lleiAssociada": "Llei 2017/2019",
+      "esPublicacioAntiga": false,
+      "tipusOfertaElectronica": 413,
+      "denominacioExpedientReferencia": {}
+    },
+    "tipusEsmena": {
+      "id": 1008173,
+      "ca": "Correcció",
+      "es": "correción",
+      "en": "Correction",
+      "oc": "Correccion"
+    },
+    "motiuEsmena": {
+      "ca": "Publicació de l'enllaç al DOUE de l'anunci de licitació corregit pel que fa a l'obertura del Sobre núm. 2 del dilluns 19 al divendres 23 de maig."
+    }
+  },
+  "pathPdf": "pBNvunxbJ6zxBHqy4mxVVHOzjLxMcuJs5N9yPzUHqFtVZmApYl8mehHXEJqVac6lXZjd-1svtA_0CgbQmU0c1eUHwvqOE67i3JgbbGyasmCn5i9UFFv7c6no6lyGCt8XYuplx71uO23tvM1UaBke77ynt2tjY34emYE_18zg7cyzwpyWm0PtV-903OZinYf1D3xx_6FMj49GMTztTfhx4_k_lHUVpMjgBv0ciWQxylCgF0vQCfEcUdQJS2zF-ZhzXt-fYiNxDjteB6EbL_j8c-3IyQ8FpVe9AY0ZcrUp1wk0r2GvbSX7lLkKd0BAReHjFFGOmNqfDF4uBY7ZN7tNQg==",
+  "pathCertificacio": "jvbcpypFH63zfWJerAG50kg2HPNKuf6FR2aHIkRAFNQc9ZKo583B5EYrcncH2Sqsr8Ge4ZrVU8oICXm5vhmXIsP2RcL4ChehERyoBG3crD5Wda9zl-k-PmtU5YLif6LjcQTGoRwrIkJ0cPR3uDU5gnGeZY4Wsqbnar8GQnwGPHN2BhOypxTe-4ALmj8ZFN8LkuYDI1x_95VMxybvYKxGfwwE6HuBvn_Ku1HVeOCDeSO2GlEZRMpgchCjPNa878kOTYC7CqFqE2IUh1otlpR25mI_uGkAu1hlp9PrFIMaAcHtaB9i2ewg_64F012To5La3EaLOwb2gmMoY2j9Z8hO3Q==",
+  "pathJson": "Vg7iOmz5QppB-phbbCKM6TAXowngE-H9yoiaQNeyKAp--c2zWDBafz9_K_RiDKuE5xJuH4HlsoSUFTwHJJF0phVn-evtL6EJA6ULoN0oK-68Dx3RyDsQyjjjF-CH91FRrs3ytZgAprsXJIrTkhij-nY7Nl4AYTgfc_iTGugtLQpXI8oT4cuwkO7NpTfTmoxkKEzE9jN_feh2z29eIBTNZF3_kR_uj82xehclpuceUHbhDFNC0gc4yTzlt3ZJxDmxXDJhIdu5cASs3gTAJJ-xeu96kOcw43Ccacbt73PNGd4zC-ZB52uwYCZGfeUom6SYz9HkKBjeeql5B48-y1NL5Q==",
+  "dataPublicacioReal": "2025-05-15T08:56:08.782Z",
+  "dadesExpedient": {
+    "organContractacioId": 203633,
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "expedientId": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "dataFiPublicacioPerfil": null,
+    "dataFiGestio": null,
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": null,
+    "tenderingSpaceId": null,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 413,
+    "dataVisiblePortalAccesExclusiu": null,
+    "expedientIdReferencia": null,
+    "codiExpedientReferencia": null,
+    "denominacioExpedientReferencia": {
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "nomOrganContractacioReferencia": null
+  }
+}

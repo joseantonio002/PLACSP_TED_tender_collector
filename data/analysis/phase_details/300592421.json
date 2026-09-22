@@ -1,0 +1,365 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "AG-2023-29",
+  "idExpedient": "32eecb10-7f89-42fe-9a5f-80c771cc9e19",
+  "dataPublicacioPlanificada": "2025-10-20T10:43:22.174Z",
+  "organ": {
+    "nom": "Departament d'Agricultura, Ramaderia, Pesca i Alimentació",
+    "direccioPostal": "Gran Via de les Corts Catalanes, 612-614",
+    "localitat": "Altres/Diversos, No Consta",
+    "codiPostal": "99999",
+    "nuts": "OT",
+    "web": "http://www.gencat.cat/agricultura/perfildecontractant/",
+    "telefon": "933046700",
+    "fax": "933046706",
+    "email": "contractacio.daam@gencat.cat",
+    "personesContacte": [
+      {
+        "nom": "Xavier ",
+        "cognom": "Zaragoza Cirera",
+        "carrec": "Cap de la Secció de Contractació",
+        "telefon": "933046700",
+        "email": "contractacio.daam@gencat.cat"
+      }
+    ],
+    "centralCompres": false,
+    "observacions": {},
+    "horari": {
+      "ca": "De 09:00 a 14:00 hores\\r\\r"
+    },
+    "organContractacioId": 202191
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000041,
+      "ca": "Anul·lació",
+      "es": "Anulación",
+      "en": "Cancellation",
+      "oc": "Anullacion"
+    },
+    "expedientId": "32eecb10-7f89-42fe-9a5f-80c771cc9e19",
+    "teLots": true,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000041,
+        "ca": "Anul·lació",
+        "es": "Anulación",
+        "en": "Cancellation",
+        "oc": "Anullacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "AG-2023-29",
+      "denominacio": {
+        "ca": "Infraestructures de prevenció d'incendis en zones alt risc i actuacions de millores en forests"
+      },
+      "descripcio": {
+        "ca": "A.\tObjecte: Execució d’infraestructures de prevenció d’incendis en zones d’alt risc i d’actuacions de millores en forests públiques amb càrrec als fons PRTR"
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "tipusContracte": {
+        "id": 395,
+        "ca": "Obres",
+        "es": "Obras",
+        "en": "Work projects",
+        "oc": "Òbres"
+      },
+      "procedimentAdjudicacio": {
+        "id": 401,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {},
+      "metodologiaBim": false
+    },
+    "dadesPublicacio": {
+      "observacions": {}
+    },
+    "dadesPublicacioLot": [
+      {
+        "numeroLot": "3",
+        "lotId": 2,
+        "descripcio": {
+          "ca": "Ampliació, adaptació i millora de 7 punts d’aigua de prevenció d’incendis al PPP de Collserola."
+        },
+        "pressupostLicitacio": 168392.12,
+        "publicacioExpedientId": 300592421,
+        "titol": "Punts d’aigua de prevenció d’incendis ",
+        "dataAnulacio": "2024-01-18T09:47:00.000Z",
+        "observacions": {},
+        "tipusAnulacioDesert": {
+          "id": 1008289,
+          "ca": "Declaració desert",
+          "en": "Declaration of desertion",
+          "oc": "Declaracion de desèrta"
+        },
+        "documents": {
+          "ca": [
+            {
+              "id": 301687835,
+              "titol": "resolucio_desert_ag-2023-29_signed._lots_3__9__10__11_i_20_signed.pdf",
+              "path": "Ih2J76uVtsWN82160dtOLcTXEVGW95QFySzbeYYQZEm8pgKNiKBeyAZ2nnsBO4-RptqaOAPpoLZywnSFT4yBaEYGXBkV2KDrDcv4Xcz4fnE1FuSurNl4Obv_pDicpcFPTCCug5MSsnOvZoKLz8rHt5Ozejk1IgjbLqzy7REd9vSrWerVJUaVjBBKXe5mEu2owtr4AsdZNoDvcSudImYkrr2YuNmT80nEBjcqxFuWxYn4btHzEJ-GTuTpAhm9PFeH0wXTwbMaOK-9G14A7JXMijRdtGPP5abKUdh6ubeX56zkA_IAUk92PZXUrdmUNm93eDkPI0ebSl9SNtez-97Pdg==",
+              "hash": "AD44E2A11BC15AD263F37BE90DA340F7",
+              "idioma": "ca",
+              "mida": 15814
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        }
+      },
+      {
+        "numeroLot": "9",
+        "lotId": 8,
+        "descripcio": {
+          "ca": "Millora i manteniment de punts d’aigua als Perímetres de Protecció Prioritària (PPP) T3-Muntanyes de Prades i ET1-Priorat-Serra de Montsant."
+        },
+        "pressupostLicitacio": 237290.76,
+        "publicacioExpedientId": 300592421,
+        "titol": "Millora i manteniment de punts d’aigua ",
+        "dataAnulacio": "2024-01-18T09:47:00.000Z",
+        "observacions": {},
+        "tipusAnulacioDesert": {
+          "id": 1008289,
+          "ca": "Declaració desert",
+          "en": "Declaration of desertion",
+          "oc": "Declaracion de desèrta"
+        },
+        "documents": {
+          "ca": [
+            {
+              "id": 301687836,
+              "titol": "resolucio_desert_ag-2023-29_signed._lots_3__9__10__11_i_20_signed.pdf",
+              "path": "Mk59yzGJOuRA14N_XaZ-dPfCpxFbTSbUjZNGO6Qx7TUBpQbzdtu_V_j6nxmzq9BY5qtcm7O_nC-Sjx-kdAgrYtfafvl8eamTXUpHtCYcSgjnyKaS03rNnwhvXUxfh7Y5b8m40aRP_Fykuw6ijQC6djXFXl99jB1Oa2_DchcoF5wNvOi0nyLxXVRiMre822C5Lim7YriH4QkreBdy-XBiv3ZISzSlJ_ufhBiDAo_NyAdUy_QZKNFORoAd0pd7SVxmVvZSAUe__A1CEEvQdi8N-j0o0hGyHQjzQltKB5Be661xH2a8EIdmp2iul1jUSOuzgLpt1jgzo1VsFscaIaXH7g==",
+              "hash": "E1618D86EC24972284E420A3563E4A76",
+              "idioma": "ca",
+              "mida": 15814
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        }
+      },
+      {
+        "numeroLot": "10",
+        "lotId": 9,
+        "descripcio": {
+          "ca": "Millora i manteniment de punts d’aigua als Perímetres de Protecció Prioritària (PPP) BT1-Montmell i BT2-Ancosa- Montagut."
+        },
+        "pressupostLicitacio": 237290.76,
+        "publicacioExpedientId": 300592421,
+        "titol": "Millora i manteniment de punts d’aigua ",
+        "dataAnulacio": "2024-01-18T09:47:00.000Z",
+        "observacions": {},
+        "tipusAnulacioDesert": {
+          "id": 1008289,
+          "ca": "Declaració desert",
+          "en": "Declaration of desertion",
+          "oc": "Declaracion de desèrta"
+        },
+        "documents": {
+          "ca": [
+            {
+              "id": 301687837,
+              "titol": "resolucio_desert_ag-2023-29_signed._lots_3__9__10__11_i_20_signed.pdf",
+              "path": "fW48u8Ht8kl2ZCEPGIlEOl2dcJ8GWzOVSZBIWgdw_7RSWbNObycIbkmwcvNJyunyN8YrPq5HNJdPq8LvqPOhUnya0I9ZCE84O4TGyqWJXoI0h07dy-zjeGD2xRvgBTAu2XQOii2t30fWVkmF7g-CfpZnd174sW8s9hzyWuJiBs7Z1a__TICzxf06Ai_mOGqWRCj7EKAswl3_PAJbgCcDgMK1pZpN7VPEPu3IzbQzqkoe9KXo46hjvWfo6fQwBftZBUnTc9Coz1pWshb_65RkSJNN8c1qH0AYF1VsRf46EppLBtgXRMnO6ZMtxfjwLgnjDXFRCIUPZejgAliQ2Ug-kw==",
+              "hash": "E1618D86EC24972284E420A3563E4A76",
+              "idioma": "ca",
+              "mida": 15814
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        }
+      },
+      {
+        "numeroLot": "11",
+        "lotId": 10,
+        "descripcio": {
+          "ca": "Millora i manteniment de punts d’aigua als Perímetres de Protecció Prioritària (PPP) ET1-Priorat-Serra de Montsant i ET2-Tivissa-Vandellòs-Llaberia-Pradell."
+        },
+        "pressupostLicitacio": 237290.76,
+        "publicacioExpedientId": 300592421,
+        "titol": "Millora i manteniment de punts d’aigua ",
+        "dataAnulacio": "2024-01-18T09:47:00.000Z",
+        "observacions": {},
+        "tipusAnulacioDesert": {
+          "id": 1008289,
+          "ca": "Declaració desert",
+          "en": "Declaration of desertion",
+          "oc": "Declaracion de desèrta"
+        },
+        "documents": {
+          "ca": [
+            {
+              "id": 301687838,
+              "titol": "resolucio_desert_ag-2023-29_signed._lots_3__9__10__11_i_20_signed.pdf",
+              "path": "Y9gKPwuz2zZHnf82AJG_TyTcyN8rhUig0U4pU5taGb9RsdJxCupWWzVT3-U85168lyEEfYv7bTOZnesWOcJGH7Y_wM1Gj5YEsDAy9oiI4Z6DwelGaP-GXvzUwF7rx7eR6H7-j5_HslS53SXgngXCDT6NlX5RdiuAJSILeBrGqj37Y59ZTj8bz9gSo2m_yPt_qDEIt2Y2fbkIwWodkIpcV05dkopb5MhzRwj_XIRydvFCQqWWRYave-SmUkctXLEwkheTpn7QQdxg_k5LON_IBMW2i6rJk3q3kdJUWtMfv8JEnVaeabxEjIl8LVfzXDnL_DtnVc6xf3SXH02dviWAjg==",
+              "hash": "E1618D86EC24972284E420A3563E4A76",
+              "idioma": "ca",
+              "mida": 15814
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        }
+      },
+      {
+        "numeroLot": "14",
+        "lotId": 13,
+        "descripcio": {
+          "ca": "Consolidació d’accessos al nord de la Serra de Boumort."
+        },
+        "pressupostLicitacio": 120435.87,
+        "publicacioExpedientId": 300592421,
+        "titol": "Consolidació d’accessos ",
+        "observacions": {},
+        "tipusAnulacioDesert": {
+          "id": 1008413,
+          "ca": "Retroacció",
+          "es": "Retroacción",
+          "en": "Retroaction",
+          "oc": "Retroacció"
+        },
+        "documents": {
+          "ca": [
+            {
+              "id": 301687839,
+              "titol": "resolucio_desert_ag-2023-29_signed._lot_14_signed.pdf",
+              "path": "IUqdNG9P_E1NDsFemzwbBZcjtJ9btkGjAnYHjicWcXaPLXU0Wj76-69G71oU8UIsCj8M_-ihE5xop-SQ7n0w_QDWz4lt9bxVHJ6NQ4b4LLoqpVnHc2LlfI_-GsJ1xACKAWSkqhdLlLzn7LDqS53pb6MnfIlnuQNg5IGA5DgSG7bDdkCjtwboOMMx18bKAr18KEeR_9tS-RnoCJPoxlyfVBEaNr_5xjgR6EZ9W8wJ3APV2shdLEcgC3o4VzgXiBekq9Dy08B9L2h3nQqb9f_HJTrbrBTzxrmxX1lNkXKLNSOIqQOZfH3Ysq8mUDNTJHkxqwKJI3tLCuihkMpRxNePnw==",
+              "hash": "55BA8EC65E73B0C91F4A7AF5FA4EACDA",
+              "idioma": "ca",
+              "mida": 309761
+            },
+            {
+              "id": 301687868,
+              "titol": "RESOLUCIONS_TCCSP.zip",
+              "path": "sGnAQNtSKMDcRYlxV8nrOV7jo3vEIP0zp5ICTDLH6qslww2pXZNK0c4b9TrVzLleWcC0zZ5tNP7Dlefnvkh2qpnDvMu8atRZA8EKmeM5HWzcCMyFla00LMv5_syRu-PeAuYlDeYkT6IewHmAI_euN1SZosZpMfEwwychKkZMXU-VL3f8UN4PSM8pmKel59QkunDaCteBNshkKNn-1O6ckIY7lL89LP_F_uwUl0rAMxZ52xU0YZTykR6sKg8RhJGXWDWSdWfg3gD3DpeSxKng7OutzlrixXr3CXthgpGn9iApLYTwopqn24EvDPjIUdPBvs_AyWrFzZf5_N41yD-2SQ==",
+              "hash": "DE3D6A83B322E0407F0E97DCE225BECC",
+              "idioma": "ca",
+              "mida": 10214725
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        }
+      },
+      {
+        "numeroLot": "20",
+        "lotId": 19,
+        "descripcio": {
+          "ca": "Arranjament de punts d’aigua de prevenció d’incendis al Pirineu."
+        },
+        "pressupostLicitacio": 237290.76,
+        "publicacioExpedientId": 300592421,
+        "titol": "Arranjament de punts d’aigua ",
+        "dataAnulacio": "2024-01-18T09:47:00.000Z",
+        "observacions": {},
+        "tipusAnulacioDesert": {
+          "id": 1008289,
+          "ca": "Declaració desert",
+          "en": "Declaration of desertion",
+          "oc": "Declaracion de desèrta"
+        },
+        "documents": {
+          "ca": [
+            {
+              "id": 301687840,
+              "titol": "resolucio_desert_ag-2023-29_signed._lots_3__9__10__11_i_20_signed.pdf",
+              "path": "Ll7KaIcsokiIKKTOTn1gQd4alLTRytB0zGVP8rLGNsE4rHKhtTHN5r9-ud0R2RT5bpxLBczF89ouE8T0wwxUK7UefZPHs7BN_eGU5ydjTnm-KI2lJYUM60LbaKYGadOKJUXKVsVnELKsYHGPfc8YcQ5n0orfMWpTHlNWtFBHWR6hhr0of0ccWSNL0aqL4TrIgbytXdEJaUPd8j9MYC0JBg9SlZxZjMrEv3WvzAsREdZxCIb1ZtCkRWSK_hTwf1z9tly5Lvu1z8dUngrY4kouMyHV2i40K6d-6_brcnfh6ER4uXo7wrH0_xYOElq8D4jBHCyYj78RBVeUSvDrCilz1Q==",
+              "hash": "E1618D86EC24972284E420A3563E4A76",
+              "idioma": "ca",
+              "mida": 15814
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        }
+      }
+    ],
+    "dadesExpedient": {
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "32eecb10-7f89-42fe-9a5f-80c771cc9e19",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "tipusOfertaElectronica": 413,
+      "denominacioExpedientReferencia": {}
+    },
+    "publicacionsOficials": [],
+    "tipusEsmena": {
+      "id": 1008173,
+      "ca": "Correcció",
+      "es": "correción",
+      "en": "Correction",
+      "oc": "Correccion"
+    },
+    "motiuEsmena": {
+      "ca": "Atès que el recurs interposat per les tres empreses licitadores en el lot 14 d'aquest expedient ha estat admès pel Tribunal Català de Contractes del Sector Públic, es procedeix a continuar amb la tramitació de l'adjudicació d'aquest contracte. "
+    }
+  },
+  "pathPdf": "G_WwMm_hN_M25DaHMTY_SjdSZSPcM3VCLv9hcid5zpSv4Sb2Kaj-RkvJ2vh3lDbrqwLCWU5nnt7kcyLgFICWAoPe5jzcYLM9XOkxZPBbqDwjmRZYb-SPjMjj5_cmE0NNOLJoB8ciVG8JMemNbs1lll9aD9b9iMXShQ3FSFQgiVdPu1siHOhTafeLSLNNC2AHbm_dw25LN00TFWeQctO6rZJmkqbWFxSggOAyFeQC5IjpmdxKKGDvipwt4WGilo2oQL0s0SFqmXCHO8WdocCW-hp6q-30g4jN5erLyQN943HhveROFPmNMoQPMdOIMBEYTROUwUKyxr9Nk0St_QFYFQ==",
+  "pathCertificacio": "ro2WtmBv7aJjDikPJT8_o0KShyuhpt2MA86DYeHgCthC_SsoITYDP0eebkfvQbDk0xXW2XguAszUpPZyfSeCggGQ5IaV7YDlh9JBRK19EYU8IAIppiblY7W7uMe0zTwgol-AvpELT4ya8ws9fA6xfK6eCjLtgT3bJ0xiEPZFLbPy79HGS4tGTuSmmaPDGyytlzKJUc7ybJ_Ics6HFfBEqwG8rFNOhAB_iIPWbdDXAtBiKCbCs6T3LK5_JP9AO8CyFSH7oXRtbBJEB9p8elhlZGt-lqc7E6WOgyulOG4tZDc4-4RFiw2YrT6m9K-YKXafkQqaE4z2PRPMiIiRXLk9hA==",
+  "pathJson": "bLZ_vX-z2698Zu4VP4ZDzU4iJqN7fd_NHkrSCHKrJB8E-zW6jcpvGcyFrfseEjK0HnR8qRc7IcLp27kS178EKkNVfothZkrURCk-9F7kRy17XTyT-GqslU_C0aCeg_5y3UUtzUvKxNWofZEcCmYftP8eowXUc01yTPCZz-8soue-Q305i7fSF_loJahfAA2Maim6Z8PDJUEHhuGdnmwADAcZF3Q_wvIjf1hX5nqX-6Evl5_kHiOpQfmrdOLjuD7-bjkatUp_H68USDMw7kajbElMjDRihWSmA1jGaSRoyvwTnwZL_u2JqXFDVou-8VLbWmRvwOIkf_ypTwzkiQGSpg==",
+  "dataPublicacioReal": "2025-10-20T10:44:07.092Z",
+  "dadesExpedient": {
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": "Català",
+      "es": "Catalan",
+      "en": "Catalan",
+      "oc": "Catalan"
+    },
+    "expedientId": "32eecb10-7f89-42fe-9a5f-80c771cc9e19",
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 413,
+    "denominacioExpedientReferencia": {}
+  }
+}

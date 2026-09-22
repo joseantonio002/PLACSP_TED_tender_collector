@@ -1,0 +1,233 @@
+{
+  "placsp": {
+    "selected_record_occurrences": 218461,
+    "unique_atom_ids": 65954,
+    "unique_pscp_uuids": 56933,
+    "unique_tree_hashes": 218141,
+    "unique_codice_hashes": 191856,
+    "ids_with_multiple_observations": 45921,
+    "ids_with_multiple_updated_times": 45895,
+    "same_id_timestamp_different_tree_hash_groups": 0,
+    "ids_with_changed_expediente": 159,
+    "ids_with_multiple_pscp_uuids": 0,
+    "uuid_multiple_atom_ids": 313,
+    "buyer_exp_multiple_atom_ids": 319,
+    "expediente_multiple_buyers": 2004,
+    "unique_named_lots_by_atom_id": 36009,
+    "tombstone_occurrences_all_geographies": 86204,
+    "selected_ids_with_tombstone": 327,
+    "buyer_composite_counter_scope": "Non-null ID_OC_PLAT research buyer column, primarily aggregation; native Party identifiers remain in data and are not substituted into this namespace.",
+    "repeated_tree_hash_extra_occurrences": 320,
+    "statuses": {
+      "ADJ": 44847,
+      "ANUL": 519,
+      "EV": 62504,
+      "PRE": 1017,
+      "PUB": 54107,
+      "RES": 55467
+    },
+    "counts": {
+      "tombstones": 86204,
+      "tombstone_CERRADA": 82704,
+      "all_entries": 1624581,
+      "in_time_entries": 1620626,
+      "selected_entries": 218461,
+      "lot_occurrences": 165848,
+      "award_result_occurrences": 175450,
+      "notice_type_group_occurrences": 457693,
+      "tombstone_ANULADA": 3360,
+      "outside_updated_date_scope": 3955,
+      "tombstone_None": 140
+    },
+    "selected_field_presence": {
+      "expediente": 218461,
+      "buyer_identifier": 218461,
+      "cpv": 218329,
+      "budget": 218461,
+      "estimated_value": 218423,
+      "deadline": 206779,
+      "execution_location": 217369,
+      "status": 218461,
+      "source_link": 218461,
+      "document_links": 205561,
+      "award_information": 100318,
+      "winner": 95719,
+      "lots": 38688,
+      "buyer_nif": 31188
+    },
+    "selected_geography": {
+      "origin_platform_62": 187250,
+      "pscp_url": 187194,
+      "execution_nuts_ES51": 207851,
+      "buyer_postcode_catalunya": 22168
+    },
+    "presence_percent": {
+      "expediente": 100.0,
+      "buyer_identifier": 100.0,
+      "cpv": 99.9396,
+      "budget": 100.0,
+      "estimated_value": 99.9826,
+      "deadline": 94.6526,
+      "execution_location": 99.5001,
+      "status": 100.0,
+      "source_link": 100.0,
+      "document_links": 94.0951,
+      "award_information": 45.9203,
+      "winner": 43.8151,
+      "lots": 17.7093,
+      "buyer_nif": 14.2762
+    }
+  },
+  "gencat_counts": {
+    "rows": 1070969,
+    "multi_value_identificacio_adjudicatari": 1807,
+    "multi_value_denominacio_adjudicatari": 1807,
+    "multi_value_import_adjudicacio_sense": 1712,
+    "unique_socrata_ids": 1070969,
+    "unique_source_ids": 1070969,
+    "unique_url_uuids": 78808,
+    "unique_publication_ids": 81218,
+    "unique_buyer_expediente_pairs": 1012662,
+    "unique_buyers": 1802,
+    "unique_nonzero_lots_by_uuid": 55076,
+    "repeated_source_id_groups": 0,
+    "buyer_expediente_multiple_uuid_groups": 8878,
+    "expediente_multiple_buyer_groups": 32776,
+    "identical_business_rows_extra": 0,
+    "duplicate_uuid_lot_groups": 10715
+  },
+  "gencat_semantics": {
+    "ordinary_rows": 88077,
+    "ordinary_unique_procedure_uuids": 66491,
+    "aggregate_rows": 982892,
+    "aggregate_distinct_batch_uuids": 12317,
+    "aggregate_distinct_source_row_ids": 982892,
+    "ordinary_buyer_exp_multiple_uuids": 0,
+    "ordinary_duplicate_uuid_lot_groups": 1
+  },
+  "matching": {
+    "placsp_ids_any_historical_exact_uuid": 56310,
+    "placsp_occurrences_any_exact_uuid": 186109,
+    "gencat_ordinary_uuids_with_placsp_uuid": 55997,
+    "latest_id_candidate_tiers": {
+      "explicit_uuid": 56310,
+      "none": 9640,
+      "buyer_normalized_exp_unique_candidate": 3,
+      "buyer_exact_exp_unique_candidate": 1
+    },
+    "latest_id_field_comparisons": {
+      "different_latest_publication": 6195,
+      "different_latest_publication:procedure_budget_net:equal": 6067,
+      "different_latest_publication:procedure_estimated_value:equal": 6185,
+      "different_latest_publication:deadline_wall_time:equal": 4675,
+      "same_latest_publication": 50115,
+      "same_latest_publication:procedure_budget_net:equal": 49605,
+      "same_latest_publication:procedure_estimated_value:equal": 50113,
+      "same_latest_publication:deadline_wall_time:equal": 34167,
+      "same_publication_three_fields_equal": 33831,
+      "same_latest_publication:deadline_wall_time:missing": 6099,
+      "award_only_gencat": 388,
+      "same_latest_publication:procedure_estimated_value:missing": 2,
+      "same_latest_publication:procedure_budget_net:missing": 510,
+      "same_latest_publication:deadline_wall_time:different": 9849,
+      "same_latest_publication:deadline_difference:seconds_only": 9846,
+      "different_latest_publication:procedure_budget_net:missing": 120,
+      "different_latest_publication:deadline_wall_time:different": 1053,
+      "different_latest_publication:deadline_difference:seconds_only": 1016,
+      "different_latest_publication:procedure_budget_net:different": 8,
+      "different_latest_publication:procedure_estimated_value:missing": 2,
+      "award_only_placsp": 7,
+      "different_latest_publication:deadline_wall_time:missing": 467,
+      "uuid_match_buyer_id_disagreement": 12,
+      "different_latest_publication:procedure_estimated_value:different": 8,
+      "different_latest_publication:deadline_difference:beyond_seconds": 37,
+      "same_latest_publication:deadline_difference:beyond_seconds": 3
+    },
+    "explicit_uuid_share_of_selected_placsp_ids_percent": 85.3777,
+    "explicit_uuid_share_of_ordinary_gencat_procedure_uuids_percent": 84.2174
+  },
+  "audit_counts": {
+    "ordinary_lot_zero_rows": 1,
+    "ordinary_missing_lot_rows": 58616,
+    "ordinary_positive_named_lot_rows": 29460,
+    "ordinary_procedures_multiple_phases_across_rows": 20,
+    "ordinary_identical_titles_multiple_uuid_groups": 1478,
+    "ordinary_buyer_names_per_code_multiple": 34,
+    "publication_date_anunci_after_deadline_rows": 10183,
+    "ordinary_buyer_dir3_placeholder_rows": 1720,
+    "same_uuid_same_publication_multiple_g_rows_groups": 16845
+  },
+  "gencat_duplication": {
+    "extra_exact_content_rows": 367,
+    "extra_whitespace_normalized_rows": 368,
+    "example_source_id_pairs": [
+      [
+        "03534917-ccb3-47dd-8a86-4ac31bff4224_309543577",
+        "03534917-ccb3-47dd-8a86-4ac31bff4224_309543578"
+      ],
+      [
+        "04458476-55e4-4b54-829e-884665fdba62_308611286",
+        "04458476-55e4-4b54-829e-884665fdba62_308611287"
+      ],
+      [
+        "04458476-55e4-4b54-829e-884665fdba62_308611412",
+        "04458476-55e4-4b54-829e-884665fdba62_308611413"
+      ],
+      [
+        "04458476-55e4-4b54-829e-884665fdba62_308611413",
+        "04458476-55e4-4b54-829e-884665fdba62_308611414"
+      ],
+      [
+        "04458476-55e4-4b54-829e-884665fdba62_308611414",
+        "04458476-55e4-4b54-829e-884665fdba62_308611415"
+      ],
+      [
+        "04458476-55e4-4b54-829e-884665fdba62_308611415",
+        "04458476-55e4-4b54-829e-884665fdba62_308611416"
+      ],
+      [
+        "04458476-55e4-4b54-829e-884665fdba62_308611416",
+        "04458476-55e4-4b54-829e-884665fdba62_308611417"
+      ],
+      [
+        "04458476-55e4-4b54-829e-884665fdba62_308611417",
+        "04458476-55e4-4b54-829e-884665fdba62_308611418"
+      ],
+      [
+        "04458476-55e4-4b54-829e-884665fdba62_308611418",
+        "04458476-55e4-4b54-829e-884665fdba62_308611419"
+      ],
+      [
+        "04458476-55e4-4b54-829e-884665fdba62_308611468",
+        "04458476-55e4-4b54-829e-884665fdba62_308611469"
+      ]
+    ],
+    "excluded_fields": [
+      "id_intern",
+      ":id",
+      ":created_at",
+      ":updated_at"
+    ],
+    "warning": "Equal content does not prove duplicate contracts; aggregate batches can contain legitimately indistinguishable business payloads."
+  },
+  "geography": {
+    "execution_barcelona_ES511": 119122,
+    "catalan_origin_without_ES51_execution": 1176,
+    "buyer_postcode_08": 20216
+  },
+  "unique_buyer_bundles": 1885,
+  "time_difference_proxy": {
+    "pairs": 50115,
+    "negative": 27,
+    "median_seconds": 5269.895,
+    "min_seconds": -8046950.969,
+    "max_seconds": 33877929.048,
+    "warning": "Not measured network arrival latency. Uses latest non-null publication column per representative Gencat row; floating times interpreted as Europe/Madrid, which is supported by phase samples but not a universal guarantee."
+  },
+  "fuzzy_counts": {
+    "blocking": "exact punctuation-stripped expediente, previously unmatched latest PLACSP UUID; buyer or title SequenceMatcher >= .8",
+    "candidate_pairs": 12,
+    "placsp_ids": 11,
+    "warning": "Exploratory uncalibrated thresholds, not estimated precision or proof of identity."
+  }
+}

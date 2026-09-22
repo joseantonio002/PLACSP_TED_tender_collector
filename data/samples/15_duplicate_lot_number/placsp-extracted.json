@@ -1,0 +1,382 @@
+[
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/11230239",
+    "updated": "2025-05-07T18:02:06.198+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/c1b2403b-678f-3402-108e-8eef61e026bc/300077183",
+    "uuid": "c1b2403b-678f-3402-108e-8eef61e026bc",
+    "publication_id": "300077183",
+    "expediente": "URB/2022/164",
+    "title": "Servei de coordinació de Seguretat i Salut en fase d''execució dels projectes d''obres d''adequació i actuacions en la infraestructura de diferents zones de Gran Via ¿ Balcó Ripoll.  Aquests projectes d''obres són els següents: -Reforma de la cruïlla Gran Via ¿ Sant Maties ¿ Hospital Taulí (Referència obra: URB/2022/50). Previsió inici d''obres al desembre de 2022 i durada de 2 mesos. -Reforma del carrer de l''Alcalde Ribé (Referència obra: URB/2022/53). Previsió inici d''obres al desembre de 2022 i durada de 8 mesos. -Reforma de la Ronda d''Orient entre els carrers de Calassanç Duran i de Xaloc (Referència obra: URB/2022/54). Previsió inici d''obres al desembre de 2022 i durada de 5 mesos i 15 dies. -Reforma de la cruïlla Gran Via ¿ Quevedo i del pati de l''Artextil. Fase I (Referència obra: URB/2022/55). Previsió inici d''obres al desembre de 2022 i durada de 5 mesos. -Reforma del carrer d''Antoni Forrellad. Fase I (Referència obra: URB/2022/56). Previsió inici d''obres al desembre de 2022 i durada de 4 mesos i 20 dies. -Reforma del carrer de Calassanç Duran, entre els carrers d''Alguersuari Pascual i de Gorina i Pujol. Fase I (Referència obra: URB/2022/57). Previsió inici d''obres al desembre de 2022 i durada de 4 mesos i 15 dies. -Reforma dels carrers de l''Illa i de l''Estació de Sabadell. Fase I (Referència obra: URB/2022/58). Previsió inici d''obres al desembre de 2022 i durada de 4 mesos. -Reforma de les cruïlles de Gran Via amb els carrers de Sant Pau- Buxeda i de Sol-Sardà (Referència obra: URB/2022/59). Previsió inici d''obres al desembre de 2022 i durada de 3 mesos. -Reforma de la cruïlla Gran Via ¿ Rambla ¿ Avinguda de Barberà (Referència obra: URB/2022/62). Previsió inici d''obres al novembre de 2022 i durada de 3 mesos.",
+    "status": "ADJ",
+    "buyer_name": "Ajuntament de Sabadell",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "28279948"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "22314.06",
+    "budget_gross": null,
+    "estimated_value": "22314.06",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "71317200"
+    ],
+    "execution_nuts": [
+      "ES511"
+    ],
+    "execution_names": [],
+    "deadline_date": "2022-10-07",
+    "deadline_time": "23:59:00",
+    "procedure_type": "999",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Reforma del carrer de Calassanç Duran, entre els carrers d''Alguersuari Pascual i de Gorina i Pujol. Fase I, Reforma de la Ronda d''Orient entre els carrers de Calassanç Duran i de Xaloc, Reforma dels carrers de l''Illa i de l''Estació de Sabadell. Fase I",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Reforma de la cruïlla Gran Via - Rambla - Avinguda de Barberà",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Reforma del carrer de l''Alcalde Ribé, Reforma del carrer d''Antoni Forrellad. Fase I",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Reforma de la cruïlla Gran Via - Sant Maties - Hospital Taulí, Reforma de les cruïlles de Gran Via amb els carrers de Sant Pau- Buxeda i de Sol-Sardà, Reforma de la cruïlla Gran Via - Quevedo i del pati de l''Artextil. Fase I",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "2",
+        "amount": "4839",
+        "supplier_ids": [
+          "78080814T"
+        ],
+        "supplier_names": [
+          "SONIA SOLE PUIG"
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "4",
+        "amount": "4098.66",
+        "supplier_ids": [
+          "B81470841"
+        ],
+        "supplier_names": [
+          "INGENIERÍA Y PREVENCIÓN DE RIESGOS, S.L."
+        ],
+        "contract_dates": []
+      }
+    ],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2022-09-23"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2023-01-04"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2023-01-04"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2023-01-04"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2023-01-04"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP Ctre serveis proc. obert simplificat sumari.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301277924/7CCFDCB9A5768018ABBC94E07C67ADAD"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "PLEC DE CONDICIONS TECNIQUES.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301277925/B440180CF497699AE64618CDC8CF2CA6"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250508_040102.atom",
+    "ordinal": 46
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/11230239",
+    "updated": "2025-05-23T16:06:24.623+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/c1b2403b-678f-3402-108e-8eef61e026bc/300077183",
+    "uuid": "c1b2403b-678f-3402-108e-8eef61e026bc",
+    "publication_id": "300077183",
+    "expediente": "URB/2022/164",
+    "title": "Servei de coordinació de Seguretat i Salut en fase d''execució dels projectes d''obres d''adequació i actuacions en la infraestructura de diferents zones de Gran Via ¿ Balcó Ripoll.  Aquests projectes d''obres són els següents: -Reforma de la cruïlla Gran Via ¿ Sant Maties ¿ Hospital Taulí (Referència obra: URB/2022/50). Previsió inici d''obres al desembre de 2022 i durada de 2 mesos. -Reforma del carrer de l''Alcalde Ribé (Referència obra: URB/2022/53). Previsió inici d''obres al desembre de 2022 i durada de 8 mesos. -Reforma de la Ronda d''Orient entre els carrers de Calassanç Duran i de Xaloc (Referència obra: URB/2022/54). Previsió inici d''obres al desembre de 2022 i durada de 5 mesos i 15 dies. -Reforma de la cruïlla Gran Via ¿ Quevedo i del pati de l''Artextil. Fase I (Referència obra: URB/2022/55). Previsió inici d''obres al desembre de 2022 i durada de 5 mesos. -Reforma del carrer d''Antoni Forrellad. Fase I (Referència obra: URB/2022/56). Previsió inici d''obres al desembre de 2022 i durada de 4 mesos i 20 dies. -Reforma del carrer de Calassanç Duran, entre els carrers d''Alguersuari Pascual i de Gorina i Pujol. Fase I (Referència obra: URB/2022/57). Previsió inici d''obres al desembre de 2022 i durada de 4 mesos i 15 dies. -Reforma dels carrers de l''Illa i de l''Estació de Sabadell. Fase I (Referència obra: URB/2022/58). Previsió inici d''obres al desembre de 2022 i durada de 4 mesos. -Reforma de les cruïlles de Gran Via amb els carrers de Sant Pau- Buxeda i de Sol-Sardà (Referència obra: URB/2022/59). Previsió inici d''obres al desembre de 2022 i durada de 3 mesos. -Reforma de la cruïlla Gran Via ¿ Rambla ¿ Avinguda de Barberà (Referència obra: URB/2022/62). Previsió inici d''obres al novembre de 2022 i durada de 3 mesos.",
+    "status": "ADJ",
+    "buyer_name": "Ajuntament de Sabadell",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "28279948"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "22314.06",
+    "budget_gross": null,
+    "estimated_value": "22314.06",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "71317200"
+    ],
+    "execution_nuts": [
+      "ES511"
+    ],
+    "execution_names": [],
+    "deadline_date": "2022-10-07",
+    "deadline_time": "23:59:00",
+    "procedure_type": "999",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Reforma de la cruïlla Gran Via – Sant Maties – Hospital Taulí. Reforma de les cruïlles de Gran Via amb els carrers de Sant Pau- Buxeda i de Sol-Sardà. Reforma de la cruïlla Gran Via – Quevedo i del pati de l’Artextil. Fase I",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Reforma del carrer de l’Alcalde Ribé. Reforma del carrer d’Antoni Forrellad. Fase I",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Reforma del carrer de Calassanç Duran, entre els carrers d’Alguersuari Pascual i de Gorina i Pujol. Fase I.Reforma de la Ronda d’Orient entre els carrers de Calassanç Duran i de Xaloc. Reforma dels carrers de l’Illa i de l’Estació de Sabadell. Fase I",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Reforma de la cruïlla Gran Via – Rambla – Avinguda de Barberà",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "1",
+        "amount": "4070",
+        "supplier_ids": [
+          "B62440110"
+        ],
+        "supplier_names": [
+          "TRESAT COORDINADORES DE SEGURIDAD, S.L.P."
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "2",
+        "amount": "4098.66",
+        "supplier_ids": [
+          "B81470841"
+        ],
+        "supplier_names": [
+          "INGENIERÍA Y PREVENCIÓN DE RIESGOS, S.L."
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "3",
+        "amount": "4839",
+        "supplier_ids": [
+          "78080814T"
+        ],
+        "supplier_names": [
+          "SONIA SOLE PUIG"
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "4",
+        "amount": "1401",
+        "supplier_ids": [
+          "B62440110"
+        ],
+        "supplier_names": [
+          "TRESAT COORDINADORES DE SEGURIDAD, S.L.P."
+        ],
+        "contract_dates": []
+      }
+    ],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2022-09-23"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2023-01-04"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2023-01-04"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2023-01-04"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2023-01-04"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP Ctre serveis proc. obert simplificat sumari.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301324278/7CCFDCB9A5768018ABBC94E07C67ADAD"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "PLEC DE CONDICIONS TECNIQUES.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301324279/B440180CF497699AE64618CDC8CF2CA6"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250525_040058.atom",
+    "ordinal": 182
+  }
+]

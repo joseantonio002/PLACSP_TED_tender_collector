@@ -1,0 +1,313 @@
+PAGE 1
+Plataforma de Contratación  
+del Sector Público  
+ 
+Resumen de contenido en conjuntos de datos abiertos 
+Fecha:  
+06/08/2020 
+ 
+DIRECCIÓN GENERAL  
+DEL PATRIMONIO DEL ESTADO 
+ 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+La Plataforma de Contratación del Sector Público pone a disposición del portal de 
+transparencia del Ministerio de Haciendo varios conjuntos de datos abiertos 
+referentes a las distintas licitaciones que son publicadas. 
+Todos estos conjuntos de datos abiertos son accesibles en la dirección  
+https://www.hacienda.gob.es/es-
+ES/GobiernoAbierto/Datos%20Abiertos/Paginas/licitaciones_plataforma_contrata
+cion.aspx 
+Concretamente, los conjuntos de datos abiertos publicados son los siguientes: 
+ Licitaciones publicadas en los perfiles del contratante ubicados en la 
+Plataforma de Contratación del Sector Público, e xcluyendo los contratos 
+menores 
+ Licitaciones publicadas en la Plataforma mediante mecanismos de 
+agregación, excluyendo los contratos menores 
+ Contratos menores publicados en los perfiles del contratante ubicados en la 
+Plataforma de Contratación del Sector Público. 
+Todo el detalle referente  al formato de los ficheros de datos abiertos y a la 
+descripción disponible en cada licitación se puede consultar en el “Documento de 
+especificación técnica del mecanismo de sindicaci ón”, que se encuentra accesible 
+en dicho portal de datos abiertos. 
+En la siguiente tabla se enumeran los datos de las licitaciones que se proporcionan 
+en cada uno delos conjuntos de datos indicados anteriormente. Se indica además 
+una referencia al apartado  concreto del documento de especificación técnica  
+del mecanismo de sindicación en donde se proporcionan los detalles técnicos del 
+campo en cuestión. 
+Finalmente, los campos marcados con un asterisco (*), solo se proporcionan en 
+aquellas licitaciones que fue ron actualizadas con posterioridad al 1 de enero de 
+2018. 
+  
+
+PAGE 2
+Plataforma de Contratación  
+del Sector Público  
+ 
+Resumen de contenido en conjuntos de datos abiertos 
+Fecha:  
+06/08/2020 
+ 
+DIRECCIÓN GENERAL  
+DEL PATRIMONIO DEL ESTADO 
+ 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+ 
+DATO 
+  
+Referencia Sector 
+Público Agregadas 
+Menores 
+Sector 
+Público 
+Datos generales del expediente         
+  Estado 4.1 Sí Sí Sí 
+  Número de expediente 4.2 Sí Sí Sí 
+  Objeto del Contrato 4.3 Sí Sí Sí 
+  Valor estimado del contrato  4.4 Sí Sí Sí 
+  Presupuesto base sin impuestos 4.4 Sí Sí Sí 
+  Presupuesto base con impuestos 4.4 Sí Sí Sí 
+  Plazo de ejecución 4.5 Sí Sí Sí 
+  Clasificación CPV 4.6 Sí Sí Sí 
+  Tipo de Contrato 4.7 Sí Sí Sí 
+  Subtipo  4.8 Sí Sí Sí 
+  Pliego de prescripciones técnicas 4.9 Sí Sí Sí 
+  Pliego de cláusulas administrativas 4.9 Sí Sí Sí 
+  Anexos a los pliegos 4.9 Sí Sí Sí 
+Lugar de ejecución         
+  Código de Subentidad Nacional  4.10 Sí Sí Sí 
+  Subentidad Territorial 4.10 Sí Sí Sí 
+  País 4.10 Sí No Sí 
+  Calle 4.10 Sí No Sí 
+  Código Postal 4.10 Sí No Sí 
+  Población 4.10 Sí Sí Sí 
+Lotes         
+  Número de lote 4.11 Sí Sí Sí 
+  Objeto 4.11 Sí Sí Sí 
+  Importe sin impuestos 4.11 Sí Sí Sí 
+  Importe con impuestos 4.11 Sí Sí Sí 
+  Clasificación CPV 4.11 Sí Sí Sí 
+  Lugar de ejecución del lote (*) 4.11 Sí No No 
+Proceso de licitación         
+  Tipo de procedimiento 4.12 Sí Sí Sí 
+  Sistema de contratación 4.13 Sí No No 
+  Tramitación  4.14 Sí No Sí 
+  Presentación de la oferta  4.15 No No No 
+  Idioma de Presentación de Oferta  4.16 Sí No No 
+  La licitación hace uso de subasta electrónica (*) 4.40 Sí No No 
+  Contrato sujeto a regulación armonizada (*) 4.41 Sí No No 
+Entidad Adjudicadora         
+
+PAGE 3
+Plataforma de Contratación  
+del Sector Público  
+ 
+Resumen de contenido en conjuntos de datos abiertos 
+Fecha:  
+06/08/2020 
+ 
+DIRECCIÓN GENERAL  
+DEL PATRIMONIO DEL ESTADO 
+ 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DATO 
+  
+Referencia Sector 
+Público Agregadas 
+Menores 
+Sector 
+Público 
+  Ubicación orgánica 4.17 Sí Sí Sí 
+  Nombre 4.17 Sí Sí Sí 
+  ID 4.17 Sí Sí Sí 
+  Tipo de Administración 4.17 Sí No No 
+  Sitio web 4.17 Sí No No 
+  Calle 4.17 Sí No No 
+  Código Postal 4.17 Sí No No 
+  Población 4.17 Sí No No 
+  País 4.17 Sí No No 
+  Nombre para contacto 4.17 Sí No No 
+  Teléfono 4.17 Sí No No 
+  Fax 4.17 Sí No No 
+  Correo Electrónico  4.17 Sí No No 
+ NIF (*) 4.17 Sí No No 
+Plazo de Obtención de Pliegos         
+  Fecha 4.19 Sí No No 
+  Hora 4.19 Sí No No 
+Plazo de Presentación de Oferta         
+  Fecha 4.21 Sí Sí Sí 
+  Hora 4.21 Sí Sí Sí 
+  Observaciones 4.21 Sí Sí Sí 
+Plazo de Presentación de Solicitudes         
+  Fecha 4.43 No Sí No 
+  Hora 4.43 No Sí No 
+  Observaciones 4.43 No Sí No 
+Extensión de Contrato         
+  Opciones 4.27 Sí No No 
+  Periodo de validez de las opciones 4.27 Sí No No 
+Condiciones de Licitación         
+  Especificar personal y cualificación Profesional(CCVV)  4.28 Sí No No 
+  Admisión de Variantes  4.28 Sí No No 
+  Fórmula de Revisión de Precios  4.28 Sí No No 
+  Programas de Financiación  4.28 Sí No No 
+  Descripción de Programas de Financiación  4.28 Sí No No 
+Garantía Requerida Provisional         
+  Importe  4.29 Sí No No 
+  Moneda 4.29 Sí No No 
+
+PAGE 4
+Plataforma de Contratación  
+del Sector Público  
+ 
+Resumen de contenido en conjuntos de datos abiertos 
+Fecha:  
+06/08/2020 
+ 
+DIRECCIÓN GENERAL  
+DEL PATRIMONIO DEL ESTADO 
+ 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DATO 
+  
+Referencia Sector 
+Público Agregadas 
+Menores 
+Sector 
+Público 
+  Porcentaje  4.29 Sí No No 
+Garantía Requerida Definitiva         
+  Importe  4.29 Sí No No 
+  Moneda 4.29 Sí No No 
+  Porcentaje  4.29 Sí No No 
+Garantía Requerida Complementaria         
+  Importe  4.29 Sí No No 
+  Moneda 4.29 Sí No No 
+  Porcentaje  4.29 Sí No No 
+Requisitos de participación         
+  Título Habilitante 4.30 Sí No No 
+  Solvencia Requerida 4.30 Sí No No 
+  Clasificación empresarial solicitada 4.30 Sí No No 
+  Condiciones de admisión 4.30 Sí No No 
+Criterio de Evaluación Técnica         
+  Tipo 4.30.1 Sí No No 
+  Descripción 4.30.1 Sí No No 
+Criterio de Evaluación Económica-Financiera         
+  Tipo 4.30.2 Sí No No 
+  Descripción 4.30.2 Sí No No 
+Subcontratación permitida         
+  Porcentaje 4.31 Sí No No 
+  Descripción 4.31 Sí No No 
+Criterio de Adjudicación         
+  Descripción 4.33 Sí No No 
+  Ponderación 4.33 Sí No No 
+Limitación del número de licitadores a los que se invitará         
+  
+Criterios objetivos para la selección del número limitado 
+de candidatos 4.34 Sí No No 
+  Número previsto de operadores  4.34 Sí No No 
+  Cantidad Máxima  4.34 Sí No No 
+  Cantidad Mínima  4.34 Sí No No 
+  Número de lotes a los que se debe ofertar (*) 4.34 Sí No No 
+  Número de lotes a los que se puede ofertar (*) 4.34 Sí No No 
+  
+Número máximo de lotes que se puede adjudicar a un 
+licitador (*) 4.34 Sí No No 
+  
+El poder adjudicador se reserva el derecho de adjudicar 
+contratos que combinen lotes (*) 4.34 Sí No No 
+Resultado del procedimiento         
+
+PAGE 5
+Plataforma de Contratación  
+del Sector Público  
+ 
+Resumen de contenido en conjuntos de datos abiertos 
+Fecha:  
+06/08/2020 
+ 
+DIRECCIÓN GENERAL  
+DEL PATRIMONIO DEL ESTADO 
+ 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DATO 
+  
+Referencia Sector 
+Público Agregadas 
+Menores 
+Sector 
+Público 
+  Resultado 4.35 Sí Sí Sí 
+  Lote 4.35 Sí Sí Sí 
+  Motivación  4.35 Sí No Sí 
+  Fecha del Acuerdo  4.35 Sí Sí Sí 
+  Ofertas recibidas  4.35 Sí Sí Sí 
+  Precio de la oferta más baja  4.35 Sí No No 
+  Precio de la oferta más alta  4.35 Sí No No 
+  Se han excluido ofertas por ser anormalmente bajas 4.35 Sí No No 
+Información sobre el Contrato         
+  Número de Contrato  4.35.7 Sí No Sí 
+  Fecha de Formalización  4.35.7 Sí No Sí 
+  Fecha de Entrada en Vigor del Contrato  4.35.7 Sí No Sí 
+Adjudicatario         
+  Nombre del adjudicatario 4.35.2 Sí Sí Sí 
+  Tipo de identificador 4.35.2 Sí Sí Sí 
+  Identificador 4.35.2 Sí Sí Sí 
+  El adjudicatario es una PYME (*) 4.35.2 Sí No No 
+Importes de Adjudicación         
+  Importe total ofertado (sin impuestos)  4.35.3 Sí Sí Sí 
+  Importe total ofertado (con impuestos)  4.35.3 Sí Sí Sí 
+Condiciones de Subcontratación 
+          
+  Descripción 4.36 Sí No No 
+  Porcentaje de Subcontratación  4.36 Sí No No 
+Justificación del Proceso         
+  Descripción  4.37 No No No 
+  Código de Motivo  4.37 No No No 
+Modificaciones de contrato         
+  Número de Contrato  4.38 Sí No Sí 
+  Número de la modificación 4.38 Sí No Sí 
+  Importe sin impuestos de la modificación 4.38 Sí No Sí 
+  Importe sin impuestos del contrato tras la modificación 4.38 Sí No Sí 
+  Plazo de la modificación 4.38 Sí No Sí 
+  Plazo total tras la modificación 4.38 Sí No Sí 
+  Observaciones 4.38 Sí No Sí 
+Publicaciones oficiales         
+  Fecha de Publicación 4.39 Sí Sí Sí 
+  Tipo de Anuncio 4.39 Sí Sí Sí 
+
+PAGE 6
+Plataforma de Contratación  
+del Sector Público  
+ 
+Resumen de contenido en conjuntos de datos abiertos 
+Fecha:  
+06/08/2020 
+ 
+DIRECCIÓN GENERAL  
+DEL PATRIMONIO DEL ESTADO 
+ 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DATO 
+  
+Referencia Sector 
+Público Agregadas 
+Menores 
+Sector 
+Público 
+  Medio de Publicación 4.39 Sí Sí Sí 
+  Fecha de envío de anuncio al diario oficial (*) 4.39 Sí No No 
+  Acta adjunta a documento (*) 4.39 Sí No No 
+Otros documentos publicados         
+  Documento publicado (*) 4.42 Sí No No 
+ 

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/15632941",
+    "updated": "2025-02-18T11:27:42.014+01:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/416e0c2f-f4b8-4da7-b796-5547bf7a8603/300298741",
+    "uuid": "416e0c2f-f4b8-4da7-b796-5547bf7a8603",
+    "publication_id": "300298741",
+    "expediente": "288/2024",
+    "title": "Assessoria i gestoria laboral i fiscal per a l'Ajuntament de La Pobla de Lillet, la Residència d'Avis Lillet, Promoció Econòmica Lillet i la Societat Municipal de l'Habitatge, SLU. En concret comprèn la totalitat de serveis i actuacions necessaries per donar compliment a les obligacions de l'Ajuntament i la resta d'organismes en l'àmbit laboral i fiscal. També es troben incloses totes aquelles actuacions complementàries i accessòreis tendents a la correcta consecució de les obligacions laborals abans referides i de totes aquelles que se'n derivin segons la normativa d'aplicació en cada moment.\nAquesta contractació es tramita de forma conjunta amb la resta d'ens com a sistema de cooperació previst a la LCSP (art. 31) segons els termes acordats en conveni (no obstant, la formalització de cada lot es realitzarà per l'òrgan de contractació competent).",
+    "status": "ADJ",
+    "buyer_name": "Ajuntament de La Pobla de Lillet",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "8766912"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "14521.86",
+    "budget_gross": null,
+    "estimated_value": "58087.44",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "79414000",
+      "79220000",
+      "79211110",
+      "79140000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2024-10-15",
+    "deadline_time": "23:59:59",
+    "procedure_type": "999",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Prestació dels serveis d''assessoria i gestoria laboral i fiscal per a l''Ajuntament de La Pobla de Lillet, Promoció Econòmica Lillet i la Societat Municipal de l''Habitatge, SLU.",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Prestació dels serveis d''assessoria i gestoria laboral i fiscal per a l''Organisme Autònom Fundació Residència d''Avis de La Pobla de Lillet.",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "1",
+        "amount": "4348.11",
+        "supplier_ids": [
+          "B60487360"
+        ],
+        "supplier_names": [
+          "PARDO GESTIO, SL"
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "2",
+        "amount": "5091.1",
+        "supplier_ids": [
+          "B25609009"
+        ],
+        "supplier_names": [
+          "PARDO GESTIO, S.L."
+        ],
+        "contract_dates": []
+      }
+    ],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-09-10"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-11-13"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-11-13"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PLEC DE CLÀUSULES ADMINISTRATIVES.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/300735042/D5960E7DDEB36F0ED6977B56943BDCDA"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "20240924_Contracte_Plec de clàusules_PLEC DE CLÀUSULES TÈCNIQUES _ MODIFICAT_2024_09_23.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/300735051/83166A88A4E8E40E3E788CD5BB143475"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250219_040057_4.atom",
+    "ordinal": 255
+  }
+]

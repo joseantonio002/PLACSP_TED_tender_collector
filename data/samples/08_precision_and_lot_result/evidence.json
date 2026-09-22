@@ -1,0 +1,82 @@
+{
+  "case_id": "08_precision_and_lot_result",
+  "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/12253314",
+  "tags": [
+    "conflicting_cross_source_match",
+    "deadline_precision",
+    "lots",
+    "partial_cancellation"
+  ],
+  "fetch_historical_notices": true,
+  "placsp_observations": 1,
+  "gencat_rows": 5,
+  "evidence_references": [
+    {
+      "source": "placsp",
+      "file": "placsp-000.xml.fragment",
+      "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2026.zip",
+      "member": "PlataformasAgregadasSinMenores_20260908_030050.atom",
+      "entry_ordinal": 223,
+      "byte_start_in_member": 2306355,
+      "byte_end_in_member": 2314551,
+      "fragment_sha256": "83bb24f7cfa44c0b25504b8d74d2e864ec57366346fc7f09e202296fc7eaecea",
+      "note": "Exact byte slice, namespace bindings inherited from parent feed; original complete XML is in archive member."
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/000000000.json",
+      "row_ordinal": 6665,
+      "socrata_id": "row-nwad~6rr2.su6f",
+      "id_intern": "36225576-7368-45a8-934c-4d79492c908e_0"
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/000000000.json",
+      "row_ordinal": 6664,
+      "socrata_id": "row-eh38_k8ud-wcdx",
+      "id_intern": "36225576-7368-45a8-934c-4d79492c908e_1"
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/000000000.json",
+      "row_ordinal": 6666,
+      "socrata_id": "row-drg2~7k2k-rw9e",
+      "id_intern": "36225576-7368-45a8-934c-4d79492c908e_2"
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/000000000.json",
+      "row_ordinal": 6662,
+      "socrata_id": "row-v54b~ns6f~x348",
+      "id_intern": "36225576-7368-45a8-934c-4d79492c908e_3"
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/000000000.json",
+      "row_ordinal": 6663,
+      "socrata_id": "row-am4c_5egi~vbnm",
+      "id_intern": "36225576-7368-45a8-934c-4d79492c908e_4"
+    }
+  ],
+  "phase_json": {
+    "200000971": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/200000971/G8zv9dT9Biek4RwyOmVT2qen2NIi4L06yQFuZD2KCUwzByKCLxdoZuGhrcnPb1E77W8DMNTWZ3-e9trM9UiYio9hKU_uMirZLw_c1uOC4YBhJ1ppAvvX0nQ_MOITcDpRJgUPYB09aFdiUpABhOQd8_xyolgJc8QefzDUQwX6xAGWQWwISMFTsz7TsiWmQbxoJZIa2vahCetVc9pKimDSn6DmJY-IbpEomD1XQOMrqG4POd4BOFDDJizTtwpb4HTx50JoMxk3ns5mWFWkW9Cky9JFiyOyzc9XzxdhwMqA8SjEISrCWvKkqCD3ToDZgKZLyjeIfEo7zCa5yPm_yUSdsg==",
+      "field": "url_json_licitacio",
+      "source_row_id": "row-am4c_5egi~vbnm",
+      "raw_path": "data/raw/gencat/phases/200000971.json"
+    },
+    "300876258": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300876258/RKAFr6ihIDqaW1kXz4OqA1hzOUA_Uzi9Y7ltwxzhDwoMlpfia57NVRILVKoYRfVwCIwMmyXgfMDuCbzW-Gn6rTg8AryipMesXgD0Xfig3SlL8H75ejzTCh1FLF0K8B5wPrfkCAghbkFcI0yHBmFDSrlcPwXNVAODG8GTPMdyfNelim6cxfKL_Zy-koGJaDVnTxj3knwM9hDU_ktLiJqQ0wC7-jy-dKYPrz1lSCkbYLYjojZS9Y2f8LLQXMugBuaUKumjAggX1JHThwfJRjQ_a4ISc1G6Occ1LVr96NLfxBKlM44cXJ1w0MTbtzybbLNmBVZY0p7xGM7RQrsXVdG4yQ==",
+      "field": "url_json_avaluacio",
+      "source_row_id": "row-v54b~ns6f~x348",
+      "raw_path": "data/raw/gencat/phases/300876258.json"
+    },
+    "300876164": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300876164/ezitr2E706NzxQwww1egPXAOMpV2vg09Cn_X5QbFF0JYSZeFQWwD3xNfJyye-1Bz2FlG_eLBMNWWaG5nb0DxX9fw9ZAIRA_ULrFY5xRJ5qebmjtdEH08eQnLJSVfz8V1800Z510hnyf7FBPqOtRiXssblKieT3zeFZiMJ7xIh4TCv9Knb3HBoSE6y1Ewbmbya6Omffp---jTJh18heY09HSF2cFXupPVaxXEmWXVCmaGrOa64u1u1hWwf1yCpNRQppM72UoO-7vuzf_gk_EmeHe1E5V7Bao1EyC5QAyIKPNFqWGwxX8LTF4HTUSfZ3YlKZjXTuATrZao8bZybp1uaw==",
+      "field": "url_json_anulacio",
+      "source_row_id": "row-am4c_5egi~vbnm",
+      "raw_path": "data/raw/gencat/phases/300876164.json"
+    }
+  },
+  "folder": "data/samples/08_precision_and_lot_result"
+}

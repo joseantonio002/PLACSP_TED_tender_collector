@@ -1,0 +1,94 @@
+{
+  "case_id": "20_multiple_winners_empty_amounts",
+  "gencat_uuid": "0cad6ef8-d560-937e-0dc0-bdf44338687e",
+  "tags": [
+    "multiple_winners",
+    "empty_amount_tokens",
+    "lots"
+  ],
+  "fetch_historical_notices": false,
+  "placsp_observations": 1,
+  "gencat_rows": 6,
+  "evidence_references": [
+    {
+      "source": "placsp",
+      "file": "placsp-000.xml.fragment",
+      "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+      "member": "PlataformasAgregadasSinMenores_20251211_040112.atom",
+      "entry_ordinal": 368,
+      "byte_start_in_member": 3748133,
+      "byte_end_in_member": 3774971,
+      "fragment_sha256": "c9a6bb20986aa358dd0851b557c321629c4db7c320d3e17900278a8e98fbe835",
+      "note": "Exact byte slice, namespace bindings inherited from parent feed; original complete XML is in archive member."
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/000000000.json",
+      "row_ordinal": 168,
+      "socrata_id": "row-qqr7-vbsg.quzu",
+      "id_intern": "0cad6ef8-d560-937e-0dc0-bdf44338687e_0"
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/000000000.json",
+      "row_ordinal": 166,
+      "socrata_id": "row-bqev_mmy2.eedc",
+      "id_intern": "0cad6ef8-d560-937e-0dc0-bdf44338687e_1"
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/000000000.json",
+      "row_ordinal": 169,
+      "socrata_id": "row-vixk_x6e2.3jdu",
+      "id_intern": "0cad6ef8-d560-937e-0dc0-bdf44338687e_2"
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/000000000.json",
+      "row_ordinal": 167,
+      "socrata_id": "row-4qtm.4cxy_q835",
+      "id_intern": "0cad6ef8-d560-937e-0dc0-bdf44338687e_3"
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/000000000.json",
+      "row_ordinal": 170,
+      "socrata_id": "row-5ir5~h4j8.h8ec",
+      "id_intern": "0cad6ef8-d560-937e-0dc0-bdf44338687e_4"
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/000000000.json",
+      "row_ordinal": 171,
+      "socrata_id": "row-hb6h~6gjh~3vuj",
+      "id_intern": "0cad6ef8-d560-937e-0dc0-bdf44338687e_5"
+    }
+  ],
+  "phase_json": {
+    "107376474": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/107376474/sIy8-kvdxXUvpQlj8fqpqB7YG9FqNmGHHmf-kUbe4nffgJ_6XACLCwkMB6LO-HtDoqr_FOS8ATFO0z9TxqhRp6m5YRwSF3Iah32Z7nWzZePxvyEgquSn1yjpIjDtISxbbd-SRJ5qfaTeXYrU1WjvMLdiLIxmkYijyoNnMZg5j2fwm-btTxF3isRkp6ShaB9Uefg_2o9rgQcYk3lWO5a432lXbX_46bhK4mxGRvIG2d_Ki1ukFOiJEIIUcJnsDWhekMVk1jn0pKGZbckOZGLSugYnljyU03cUobrPJcKGTh11bssAGCEWOMt5-AcJM8Ze3PECtVJClY9l9IaOTr5kGg==",
+      "field": "url_json_licitacio",
+      "source_row_id": "row-hb6h~6gjh~3vuj",
+      "error": "404 Client Error:  for url: https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/107376474/sIy8-kvdxXUvpQlj8fqpqB7YG9FqNmGHHmf-kUbe4nffgJ_6XACLCwkMB6LO-HtDoqr_FOS8ATFO0z9TxqhRp6m5YRwSF3Iah32Z7nWzZePxvyEgquSn1yjpIjDtISxbbd-SRJ5qfaTeXYrU1WjvMLdiLIxmkYijyoNnMZg5j2fwm-btTxF3isRkp6ShaB9Uefg_2o9rgQcYk3lWO5a432lXbX_46bhK4mxGRvIG2d_Ki1ukFOiJEIIUcJnsDWhekMVk1jn0pKGZbckOZGLSugYnljyU03cUobrPJcKGTh11bssAGCEWOMt5-AcJM8Ze3PECtVJClY9l9IaOTr5kGg==",
+      "raw_path": "data/raw/gencat/legacy_probes/107376474.bin",
+      "format": "xml",
+      "recovered_by": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/107376474"
+    },
+    "115526013": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/115526013/JiI6f-PjPor5QbEsl0Gy6eX5VdQxHcFBA7TES5Eux9rJIg-AwpVOO5dNy32YsTj4JC4BauFILTx0c4KJ2AKd3MmguETTzWiBZO3wc-Y1OkhMoDl5NbCbc_1XgCYaxJi_50oBxIlZMhJC4ly3sxcbibt8ksv9FTAk8hvu4Xom-r0DRO_QVbT0qBzxpnH-zRrrp6m1Ysrsjmju3f_8F0kf0rbtFq_SyOkqa2L2b5v1L9HhLWN67H4gQC1wgfilNrEeP2WHTxiR07XynmbzPl0lpanCQGh0UI3VCQIWA44A7IFFouoNZXlYhXP6sqIDStf4WX1YLQ6jX5KxSeCrfIiebA==",
+      "field": "url_json_adjudicacio",
+      "source_row_id": "row-hb6h~6gjh~3vuj",
+      "error": "404 Client Error:  for url: https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/115526013/JiI6f-PjPor5QbEsl0Gy6eX5VdQxHcFBA7TES5Eux9rJIg-AwpVOO5dNy32YsTj4JC4BauFILTx0c4KJ2AKd3MmguETTzWiBZO3wc-Y1OkhMoDl5NbCbc_1XgCYaxJi_50oBxIlZMhJC4ly3sxcbibt8ksv9FTAk8hvu4Xom-r0DRO_QVbT0qBzxpnH-zRrrp6m1Ysrsjmju3f_8F0kf0rbtFq_SyOkqa2L2b5v1L9HhLWN67H4gQC1wgfilNrEeP2WHTxiR07XynmbzPl0lpanCQGh0UI3VCQIWA44A7IFFouoNZXlYhXP6sqIDStf4WX1YLQ6jX5KxSeCrfIiebA==",
+      "raw_path": "data/raw/gencat/legacy_probes/115526013.bin",
+      "format": "xml",
+      "recovered_by": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/115526013"
+    },
+    "300641893": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300641893/PXH6SL5y_cTQyQthWo8kWC2SxrfXnSlpxk3pGv8HmOnnFBgJQ0ro2GL29yf8PqKmutykEeWQdkK6jb4RNYg59JxrQjrL-jzR5OsPj5GWIKz_YsgaE2kZnAZK20px1maNkKYlLJleilz_eneCkCXzcAAS--WbURcH9u0_gldOq7gKOP8y5ImOWXPaR9_KIxu9wTHaA_rc_SW7z28RfUw4-8lAgejGENDqFhWkH4CtitcBEt5dQU6BEgxqMCT_Xhk6Bui72AXshLuq44DmR3l4P3OvA0U8FmC8iDzBT5RzCxy7MRw6vjD6C8Xsrc1a_FW78hcxsmqIvR2zRMlWEAIKGg==",
+      "field": "url_json_formalitzacio",
+      "source_row_id": "row-hb6h~6gjh~3vuj",
+      "raw_path": "data/raw/gencat/phases/300641893.json"
+    }
+  },
+  "folder": "data/samples/20_multiple_winners_empty_amounts"
+}

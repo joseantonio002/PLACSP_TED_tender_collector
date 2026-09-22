@@ -1,0 +1,222 @@
+[
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/10051590",
+    "updated": "2026-02-20T16:04:40.954+01:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/bfbd4dd8-cbab-4672-54e8-a0442a09c914/300701001",
+    "uuid": "bfbd4dd8-cbab-4672-54e8-a0442a09c914",
+    "publication_id": "300701001",
+    "expediente": "C 06/2022 Exp Actio núm 8100810007-2022-0000245",
+    "title": "És objecte del present Plec la contractació de la gestió, en la modalitat de concessió, del servei d'ajuda a domicili (SAD).\rL'àmbit territorial de la prestació del servei públic de SAD es fa extensiu a tots els municipis de la comarca a excepció de Reus, Cambrils i Prades.",
+    "status": "ADJ",
+    "buyer_name": "Consell Comarcal del Baix Camp",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "10248462"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "815892.1",
+    "budget_gross": null,
+    "estimated_value": "1631784.2",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "85311000"
+    ],
+    "execution_nuts": [
+      "ES514"
+    ],
+    "execution_names": [],
+    "deadline_date": "2022-06-10",
+    "deadline_time": "12:00:00",
+    "procedure_type": "1",
+    "lots": [],
+    "awards": [
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": null,
+        "amount": "779542.5",
+        "supplier_ids": [
+          "B43672138"
+        ],
+        "supplier_names": [
+          "SAD ASSITENCIAL COMARQUES MERIDIONALS S.L"
+        ],
+        "contract_dates": []
+      }
+    ],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2022-06-22"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2026-02-20"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP C 06.2022.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/345239/dc6fe6bc189c0c15ccc926d048bea5fe"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "PPT C 06.2022.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/345240/11780f5dc083d1cc09fb6e4f79dcdb0b"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2026.zip",
+    "member": "PlataformasAgregadasSinMenores_20260222_040058.atom",
+    "ordinal": 118
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/10051590",
+    "updated": "2026-02-23T12:11:00.586+01:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/bfbd4dd8-cbab-4672-54e8-a0442a09c914/300701712",
+    "uuid": "bfbd4dd8-cbab-4672-54e8-a0442a09c914",
+    "publication_id": "300701712",
+    "expediente": "C 06/2022 Exp Actio núm 8100810007-2022-0000245",
+    "title": "És objecte del present Plec la contractació de la gestió, en la modalitat de concessió, del servei d'ajuda a domicili (SAD).\rL'àmbit territorial de la prestació del servei públic de SAD es fa extensiu a tots els municipis de la comarca a excepció de Reus, Cambrils i Prades.",
+    "status": "RES",
+    "buyer_name": "Consell Comarcal del Baix Camp",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "10248462"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "815892.1",
+    "budget_gross": null,
+    "estimated_value": "1631784.2",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "85311000"
+    ],
+    "execution_nuts": [
+      "ES514"
+    ],
+    "execution_names": [],
+    "deadline_date": "2022-06-10",
+    "deadline_time": "12:00:00",
+    "procedure_type": "1",
+    "lots": [],
+    "awards": [
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": null,
+        "amount": "779542.5",
+        "supplier_ids": [
+          "B43672138"
+        ],
+        "supplier_names": [
+          "SAD ASSITENCIAL COMARQUES MERIDIONALS S.L"
+        ],
+        "contract_dates": [
+          "2022-11-08"
+        ]
+      }
+    ],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2022-06-22"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2026-02-20"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2026-02-23"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP C 06.2022.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/345239/dc6fe6bc189c0c15ccc926d048bea5fe"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "PPT C 06.2022.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/345240/11780f5dc083d1cc09fb6e4f79dcdb0b"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2026.zip",
+    "member": "PlataformasAgregadasSinMenores_20260224_040120.atom",
+    "ordinal": 453
+  }
+]

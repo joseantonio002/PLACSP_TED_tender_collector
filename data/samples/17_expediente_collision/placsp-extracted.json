@@ -1,0 +1,143 @@
+[
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16984545",
+    "updated": "2025-03-25T16:04:54.151+01:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/0f1a4e43-bbf7-480d-94eb-cb203d7141b6/300408447",
+    "uuid": "0f1a4e43-bbf7-480d-94eb-cb203d7141b6",
+    "publication_id": "300408447",
+    "expediente": "1/2025",
+    "title": "Es pretén l'arranjament i millora de vials i serveis al nucli antic d'Ars.",
+    "status": "PUB",
+    "buyer_name": "Entitat Municipal Descentralitzada d'Ars",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "100000012"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "87672.36",
+    "budget_gross": null,
+    "estimated_value": "105206.83",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "45233252",
+      "38421100"
+    ],
+    "execution_nuts": [
+      "ES513"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-04-15",
+    "deadline_time": "15:00:00",
+    "procedure_type": "9",
+    "lots": [],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-03-25"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "02-Plec de condicions adm.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301179013/AD4BFBEE6911FFB71C8902C8A5F940C9"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "03-Plec condicions tecniques.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301179017/55CC4ACA43588CCD897E05AE38C2A3E8"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250327_040053_1.atom",
+    "ordinal": 270
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16463724",
+    "updated": "2025-01-14T14:00:20.581+01:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/bb2996bd-86e9-4923-ae70-c2c97566d27a/300350467",
+    "uuid": "bb2996bd-86e9-4923-ae70-c2c97566d27a",
+    "publication_id": "300350467",
+    "expediente": "1/2025",
+    "title": "Servei de recollida i tractament dels residus de les instal·lacions de la bugaderia d’Interhospitalia2, A.I.E.",
+    "status": "PRE",
+    "buyer_name": "INTERHOSPITALIA 2 A.I.E.",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "100000081"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "68760",
+    "budget_gross": null,
+    "estimated_value": "110016",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "90511400",
+      "90511300"
+    ],
+    "execution_nuts": [
+      "ES511"
+    ],
+    "execution_names": [],
+    "deadline_date": null,
+    "deadline_time": null,
+    "procedure_type": "9",
+    "lots": [],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_PIN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-01-14"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250115_040032.atom",
+    "ordinal": 336
+  }
+]

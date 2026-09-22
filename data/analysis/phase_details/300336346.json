@@ -1,0 +1,322 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "PR-2025-7",
+  "idExpedient": "deed8b7e-fcb0-45db-bc95-1b47db67b496",
+  "dataPublicacioPlanificada": "2024-12-20T13:30:12.611Z",
+  "organ": {
+    "nom": "Departament de la Presidència",
+    "unitat": "Bústia de Contractació Presidència",
+    "direccioPostal": "Carrer Sant Honorat, 2",
+    "localitat": "Barcelona, Barcelona",
+    "codiPostal": "08002",
+    "nuts": "ES511",
+    "telefon": "934024600",
+    "email": "contractacio.presidencia@gencat.cat",
+    "personesContacte": [],
+    "centralCompres": false,
+    "observacions": {},
+    "horari": {},
+    "organContractacioId": 202037
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1008286,
+      "ca": "Expedient en avaluació",
+      "es": "Expediente en avaluación",
+      "en": "Under evaluation",
+      "oc": "En avaloracion"
+    },
+    "expedientId": "deed8b7e-fcb0-45db-bc95-1b47db67b496",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1008286,
+        "ca": "Expedient en avaluació",
+        "es": "Expediente en avaluación",
+        "en": "Under evaluation",
+        "oc": "En avaloracion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "PR-2025-7",
+      "denominacio": {
+        "ca": "Servei de recollida de dades de les minories religioses a Catalunya del Mapa Religiós de Catalunya. PR-2025-7"
+      },
+      "descripcio": {
+        "ca": "Servei de recollida de dades de les minories religioses a Catalunya del Mapa Religiós de Catalunya durant els anys 2025, 2026 i 2027."
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "unitatContractacio": 100000015,
+      "tipusContracte": {
+        "id": 393,
+        "ca": "Serveis",
+        "es": "Servicios",
+        "en": "Services",
+        "oc": "Servicis"
+      },
+      "procedimentAdjudicacio": {
+        "id": 401,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {}
+    },
+    "dadesPublicacio": {
+      "observacions": {},
+      "membresMesa": []
+    },
+    "dadesPublicacioLot": [
+      {
+        "publicacioExpedientId": 300336346,
+        "identitatEmpresa": [
+          {
+            "empresa": "FUNDACIÓ PERE TARRÉS",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "R5800395E",
+            "tipusEmpresa": {
+              "id": 749,
+              "ca": "No PIME",
+              "en": "No SME",
+              "oc": "Non PIME"
+            },
+            "informacioUte": []
+          },
+          {
+            "empresa": "SIGMADOS, S.L.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "B83733089",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "informacioUte": []
+          }
+        ],
+        "informesActesMesesContractacio": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [
+              {
+                "id": 300976934,
+                "titol": "7_Acta_Mesa_A_S.pdf",
+                "path": "nOrTUWmyfeRFpT3Re0t01-aZKI3QxNlJr8oeFVaWcFLnyBQaxe1StSWuUycjrOUFGLpLsQyR-w9xrQ-EYTGAveQDB2zJx2b3_n_s01Art_NhODKIonKnxLZCz1h2KidnIG9EXrVBNhjx6FG4ubsUy86WmelcMEBHRDSFr-CXTUSmgySlIgLL8XTUTQOMcnTIANuUGAoiZN0pWJu9mymSBQT8NE9Swaac2g-PSvieoq1SWesxlZh9HiOEgewZ5uxiDggHbsrAUUTRcwWROLGcihbhSmmI6_CuwHGTw-QEFT80-Y1_DBucOl66HYxunje2pp8Wv9Ue32NMY28KgEI5eA==",
+                "hash": "75DC393997AC349FD41CE8D77DC8608A",
+                "idioma": "ca",
+                "mida": 155437
+              },
+              {
+                "id": 300976935,
+                "titol": "7_Acta_Mesa_B_S.pdf",
+                "path": "NuMWxorUI68xOLJ5cyGc2XN1UCRgZUxOgdM0tO030wdHADL-ijGVHfVC0wJUIpMA3UH5btTpPlmD5UKWNClxMvqfssmWlQMc6jCRNuA-m7Z7E0lCQL8XJQb0-QS1nx97Bso1kkE6rgKn2bFWGZJ-oEKntEo-Sj1h05BkR14GWIPlhOKemSNs2yo0S78BxXa_wfWjkXE6dU2tYaSf4CdanmQj9Hy5nmKbhBllzgGgH4m8VL7KBWG_LPLlC0MRIA2XlSd7zPZrtfCzGvQXLfBCgt9QYeL2QKcTIVJfM2H6w1aAMk-dhuXj0AY5h3WbON6to-asnoHxmU8AxsfyJWTidg==",
+                "hash": "5025550430A7433C7AC7E3CFABF5C64B",
+                "idioma": "ca",
+                "mida": 298512
+              },
+              {
+                "id": 300976936,
+                "titol": "7_Acta_Mesa_ aprova_Inf_SB_s.pdf",
+                "path": "XZcwsRWKcT__z4lsXvvVUrzpoNAfyGKCiiuhUZzDqRdnO16FAwJLg0J2gTLPufhFBaRmXZzX0YDXav3oyGnJb3ikBwE1VjwkDSHCP1Ezxt2S1zOhYJ7ssUYXe024C0S5blaJjvRgV3oPFYe6Q0ecU9scgnGCzpq43prfddEe3OjSrilU5W7oyKiGe-IVONc_9smh8ugCQOtiLrGNJDQ8LE6WyboehM7sdPgjNLmVMPcGeiFw99o-3Bh4LH8EEUOlPwdMaI20RIT-i53g3Ol3mhHLvihn3xGmZGSFJ4Q1S4Y2maVlFfSf69a6g0GFdFgNhd5dLAwKA3hnMYkmlaApeA==",
+                "hash": "C0EB01107AB1D9370DACBFC7812764C2",
+                "idioma": "ca",
+                "mida": 302307
+              },
+              {
+                "id": 300976937,
+                "titol": "7_Acta_Mesa_C_S.pdf",
+                "path": "JSst_58LBkY0T0aUh1c_vJL9pJTVgMyYwyHWoC7GbXrP4cWKRYZD-Tgs4rA9FvM1NZ6r9dYsTBOEx7e-zcclsmKlfCwqD0kJpMYkHkdyKDlUZ6RWfFLQMGxOHUynw3ynV2eCALoWcvhtLcyGpDdyFgdV3Q-7JCgkPro8aZDSLHfXmWEb8G4-TFtlJeAl6U9-kFz95ABCh-e3G_mWa8Az0fzghe6gVvnVdXc149TsdcfS6fEqq5wCuNvdxht0DaUVU3R2rzb-DZLYZLvgIT8bYKhUCvbjJh3P_m0pUp_U5gP0Y36uCi65jaGojrgLiYviQRACPnouS8BUIXsRfIVYkw==",
+                "hash": "84AF6FD2DAC7F1E31094CEF0C97E61DD",
+                "idioma": "ca",
+                "mida": 1149849
+              },
+              {
+                "id": 300976940,
+                "titol": "7_acta_mesa_D_S.pdf",
+                "path": "hqJYKUolni6xf_vDANb0Yjx416k1j5PCKNVBg3DHOl2oMyWJCU5aHF8Bf8rgOiF-Ji5sEdeYlIdZ5u_Q0Da-BavMvyeEMACNZ4zK0s-Gz1aHSh2JgMkHPs236I5DvR_LknqPnkq6eG6MoONXh7NYND3fB4ncLguyiCaNjRRL-nx0k-4IJ5q9V8Tc95hJuu3HjV_NhUOqhiTa99lSghkrS6w0mgdhS9xAxUAWa02k4tne1kHfoiQOLa4cdeYEoDc17PacVbOT9FltE53vjL3HU-vYUjDIokVw8XAyVcs3Fbzog6jLsfeKWWjZ8bv87Vpr0wO6Cg9c0gZaeJlXFXbyEg==",
+                "hash": "B6543849B18AB416C191F44F3BB89B61",
+                "idioma": "ca",
+                "mida": 144382
+              },
+              {
+                "id": 300976948,
+                "titol": "7_Acta Mesa E_S.pdf",
+                "path": "L2UxFgWcXv4WrXnSspgPkM74IPK9Eg1bQS36q5KGzcXzNRiv-Zut8tQRqjn3XSasTHBqagS2v0ia6VA2LquqyriJxYhSYD3DdDaMQxn2xuKoOccIgnTvMYnfLpKyXM_51vNzflWREmJukrfHB9Fbz5xTticV01kjbaZy_HdN3aAlKeBxTz8cIFTBV-KILYu_1jz5tEQsWFQcP00m_buWUfTZMGdpjEnCNm59fb36AoOyv_tC1BPppPQIUzpLIS66SRumPRV8-5XEOlpE7dCHynfTyxSDliRDfim-oZVo0PNo6vsKv7gzAR1LcqQADx46-IFFUnbeE7rS_vmXK0KQ4Q==",
+                "hash": "3F380FAA9EBF7F97C143EA6CFE11E870",
+                "idioma": "ca",
+                "mida": 314435
+              }
+            ],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "informesOfertesPresumpcioAnormalitat": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "informesValoracio": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [
+              {
+                "id": 300976938,
+                "titol": "7_Inf_Val_SB_S.pdf",
+                "path": "sVE3ZLUi3r0EZrhHhx45dtzDB5Hrv0e9awbzHQaQVCFQE30T9zcpzKkdw315ljoeu3b7k11fGV3yP8MWu1gpPiquEmU_gBW3J28DMO37Y1OLWIoh6G5RT6YvWeir2KgoY2bC420G-0M4Y5Z1EjYLjrheqVgQ9QKXoGPWZQ9HmQ5KzgvgexW3FRJkiivWg-Yy1ESVQOsGu7jBoUQJSjOyA3XTI5M-T02qsc2mVNG2nzjMYPV6M_pbLP5faFiLZZAeEoZQc54C-iDX2E8KxJ-HPKibGzitJThRtTVuQH8jJhoBSAjStzN2_2uTne9mjcBq9RtORhylGueeCwtAfHQ0ow==",
+                "hash": "69D6203EE7BEA0A64438E85E55D5D94B",
+                "idioma": "ca",
+                "mida": 263232
+              },
+              {
+                "id": 300976952,
+                "titol": "7_Inf_CLA_S.pdf",
+                "path": "kRxw9QkpacbvzEg1zBjXqAmwEE5vkaxpMpy7XltdCQMUkRr5xqkbDq_spAZcEkzNjxtGyKqeLfakjA278u1H1TVCAepaGcoOQ2NYSfSJFjnuICRP7NIgAoLORcPqhszautf5WkZHc5G9o5mkBWix9aI5tIwDDUcTO_mfUhpbixosPWZgaYTikx8VqKal080DoQa2K01QegPpCInPgE5Qf09DZnYnjYkeIu9U3h-AKq8GY2FckOsrTMTV8LLhy-t7LGLTFmNC-RE1EPgRcmCOv8eOedLbLYkVLYJodXfKX4Rm_1ykzD2wprek2ySQ-YzEA7VwMsYzhMJrfTjy0iohgg==",
+                "hash": "209B778FF082E90515A9C9360745DEE6",
+                "idioma": "ca",
+                "mida": 202570
+              }
+            ],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "observacions": {},
+        "totalOfertesRebudes": 2
+      }
+    ],
+    "dadesExpedient": {
+      "organContractacioId": 202037,
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "deed8b7e-fcb0-45db-bc95-1b47db67b496",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "tipusOfertaElectronica": 413,
+      "denominacioExpedientReferencia": {}
+    },
+    "tipusEsmena": {
+      "id": 1008177,
+      "ca": "Afegir informació",
+      "en": "Add information",
+      "oc": "Ahíger informacion"
+    },
+    "motiuEsmena": {
+      "ca": "Acta Mesa D , Acta Mesa E i informe de classificació final."
+    }
+  },
+  "pathPdf": "UPt07LGoVQ0Kh1YfyRNtx0e077qFQa1VJfJAQwsaMa-LyVbdf71uhGYRWz-K04fjqlVVGZSSp1K_uFbfu2BZkYiIwFLtG-yxuJ4BiGpoIPytfEgg0cKA0eOXktKs1FaYz6Ie7_3Jy2SUYIZolCGjjnwqonNtiVkoWyM9bsd3HgfWbu3XTLdnPCXiBSHsgGQOsoGfWxQ9K3iUexXHk-UKt-bdDeQLC_zgPL9oCXTF0unBpJDwY3Ow64B245W4q8o9POXxofgbaehvScvZjWOdiI9v7Euh21TvQ4N57qWiF9cYiEVYMQvXSJI7FKapJ7M0mD6X771F66bl5ZaSvDb9eQ==",
+  "pathCertificacio": "MRDwuuKAbZ1XnoZSUPq-VFjL_mZTWPesANaymWofVxWxolLkt0V3I15Npo9qNnJWRBkxJVA96ASIOeHOgiLLOBrb5XLFYYWkFql0al2IaS1QcMuKN75aqpXxXaxIrOL3s9wdg6QJmWqcraEi0DluOcyuTi33RKKKiL9c5fQj-Mq2YYQj1xO-eWRPu-plcBcrrNy7YOuzfaR925B9rVUMv1C-kxqlOOYrBHJp26fc6Z6nFTCNRXwBeGjWU0g_klYwyJ7APLjuDGH8UXRD3V1drpxpPOPbp3y1wyre_FvzFNbLeN40-Pvw1FqXGrm3vHiNSPs8wOjfxzCCZEU4CPxizg==",
+  "pathJson": "N7xVGa0x4f5R4NM585Ns1xH8fqn4ednjiZYAKstsnArEBHFiQM7mcf8d4tWwf051GdbMuPB_N_63G61mCGA7Y5xLQgADEgBMpD6vJcPf6mKSaevIpff4U0ayHNVKrQT5PBIAnB9DPAVXl-rssceaGRnAvj_Ut5N-dNnSmYwYnp9-9wvxqoO9gRvuxcJ7csekKM7oUjbxC_uF-C9VtQh8c5tLQsFz-02-uCT4aGM1OSbZ_T02rx_g6_G4w50GzWFCW_6zAZP8LS9o5pjdchTzz6Hlqz-ynH8RpoYMs8xpiVvRMZo7hN8GOrrmw04J-mal1B7eh7sqSxS3Ub5AhZhr6Q==",
+  "dataPublicacioReal": "2024-12-20T13:32:06.865Z",
+  "dadesExpedient": {
+    "organContractacioId": 202037,
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "expedientId": "deed8b7e-fcb0-45db-bc95-1b47db67b496",
+    "dataFiPublicacioPerfil": null,
+    "dataFiGestio": null,
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "tenderingSpaceId": null,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 413,
+    "dataVisiblePortalAccesExclusiu": null,
+    "expedientIdReferencia": null,
+    "codiExpedientReferencia": null,
+    "denominacioExpedientReferencia": {
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "nomOrganContractacioReferencia": null
+  }
+}

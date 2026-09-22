@@ -1,0 +1,164 @@
+{
+  "versio": "1.0.0",
+  "idExpedient": "0a859be5-1ee8-4c70-97f5-5ac6b6677700",
+  "dataPublicacioPlanificada": "2026-07-14T11:49:14.165Z",
+  "organ": {
+    "nom": "Diputació de Girona",
+    "nif": "P1700000A",
+    "direccioPostal": "Pujada Sant Martí, 5     (Codi Nuts ES512)",
+    "localitat": "Altres/Diversos, No Consta",
+    "codiPostal": "99999",
+    "nuts": "OT",
+    "web": "www.ddgi.cat",
+    "telefon": "972185000",
+    "fax": "972210469",
+    "email": "contractacio@ddgi.cat",
+    "personesContacte": [],
+    "centralCompres": false,
+    "tipusPoderAdjudicador": 1500006,
+    "observacions": {
+      "ca": "\\r\\r \\r\\r"
+    },
+    "horari": {},
+    "organContractacioId": 14301168,
+    "activitatPrincipalOrgan": {
+      "id": 1051243,
+      "ca": "Serveis de caràcter general",
+      "es": "Servicios de carácter general"
+    }
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000037,
+      "ca": "Alerta futura",
+      "es": "Alerta futura",
+      "en": "Future alert",
+      "oc": "Alèrta futura"
+    },
+    "expedientId": "0a859be5-1ee8-4c70-97f5-5ac6b6677700",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000037,
+        "ca": "Alerta futura",
+        "es": "Alerta futura",
+        "en": "Future alert",
+        "oc": "Alèrta futura"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "denominacio": {
+        "ca": "2026/7731 Contracte del subministrament d’ordinadors portàtils, dockstations, motxilles, ratolins, teclats, auriculars i pantalles per a la Diputació de Girona"
+      },
+      "descripcio": {
+        "ca": "L’objecte del contracte és l’adquisició, per part de la Diputació de Girona, d’ordinadors portàtils i dockstation, maletes d’esquena (motxilles) per a ordinadors portàtils, ratolins i teclats, auriculars i pantalles."
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "tipusContracte": {
+        "id": 394,
+        "ca": "Subministraments ",
+        "es": "Suministros",
+        "en": "Supplies ",
+        "oc": "Subministraments "
+      },
+      "procedimentAdjudicacio": {
+        "id": 1000008,
+        "ca": "Obert simplificat abreujat",
+        "es": "Simplificado de tramitación sumária",
+        "en": "Open simplified abbreviated",
+        "oc": "Daurit simplificat abracat"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {},
+      "tipusSubministraments": {
+        "id": 1008431,
+        "ca": "Adquisició o arrendament d'equips i sistemes per tractament informació"
+      }
+    },
+    "dadesPublicacio": {
+      "observacions": {},
+      "documentsAddicionals": {
+        "ca": [
+          {
+            "id": 302433926,
+            "titol": "Decret inici_2026_7731_signat.pdf",
+            "path": "cDnc4yecTKll-q2nJm1yZZV2gcOyUUCgDHj_aC5_U8x4q8iA_jEbIsBSbJOAMkux8kP5KkfzXmTWn4oJeeZGSEPTXnztUlz7lzPqb4ITBg_wAVqaqWQsFRQCkzRtNYFZGs2LxXNtXoIavn3JZXNUkuE8uTaHO7kSBsyMq-9vgoTLBCICVLmVAyHaat9Ny8POWx9e0gPITOh0LvNaRhPPVvPytlpbAOzK7AzDo8aiUhuxr8JKrO1Gb-AmNqn_vf1-s56IUhfdWOp4-_Dxs1KMTYyMD1ngFGw1UKqOGnMAIqUVWsvh4nf2nHrDAQ4DkXPHqLGIp3YW_5Jcln9yWVOypA==",
+            "hash": "D7C76AE53185581CDAB1F9BCA8B11B4C",
+            "idioma": "ca",
+            "mida": 217990
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      }
+    },
+    "dadesPublicacioLot": [],
+    "dadesExpedient": {
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "0a859be5-1ee8-4c70-97f5-5ac6b6677700",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "denominacioExpedientReferencia": {},
+      "esReduit": false
+    },
+    "publicacionsOficials": [],
+    "motiuEsmena": {}
+  },
+  "pathPdf": "Ekwl4CebAjqq0LqCWegjeg9aBmpp9GkmDIyw1SGleXKnp1fxCFXN9aHPLpimhFNyDpdOJiOPl2zT16S2KVsnyHbeh0tzw3K5suOYaClVu_BX0LhMQpXlRPLgqDx7f-jKMfaUu5dvuX6ueQLXB85mXkQOjvKU3zJb40ORtgkbcKjPAX00og_24uFgRM_poW3hezunfn9v6W7jAs6Ld9BlrwAUCL8zPI43dc8W6kFRby93ci2SQjbLVo8j5bcPKPL_mLMJjugkJS8MWnkb8iSQuDGCyyPNeBBZ2DveQfRCau0Mm1aQRtgZtNV-6k_1V7QUeb-5YDTRas--YfXVDgIkww==",
+  "pathCertificacio": "WluVKPmzZVoOgMA5f2yesAufdcXQEqLX4RnE6FNbDBCiY-OeQvwCv5RNBWfksQkLs7sUrG-8HlKChc6TkfdwbljYHCSV4xrqlyJefqEMF-CbTTJ8A1tBWqtTHgv1qjhXE-RFrx1aTUMvp7oEx3M1nrGmm1uXfqgLwvsud20W1Um_ON6tTr0AUz7Iw8SsLfEUMJu17C42XQ-MUAwgQnrMcQon3OHGDnYrEzwDKcAYFzghTxMSYrBHxBqUPTsJZbfmmuA0H1l7_jPCrE6zeEWcc4OeZg86mEzrsQ96CiKs1aLLmkJA91AaYGjLvtlfw1cxOyxABY_VzFRxgDhZ9dbEpw==",
+  "pathJson": "Me2OwFkDkt6CCBSxeMlrslImS81eXKnDRCctvUwWtZ1PhSlofRw35m3-or3d1j7FPoFO8ZiJPq3RJ20np0FFxFxsJQDPsUlGNWct4hzdufu--FkgVMswKnHKjOl-9itcJBTAbDbvZWS-iXUyDywFgyqnxXTIDfhnEAP0O92ciTunhk8we7WoiiyTnbhRVIbeLRJq9SYsWkZYGEYbJgiqYYn-K28HAxv1YYxDk5URQecpy1fKkAXQt1gQmi-5LCmVwGxI5hjp6KSNxWYbcasWUEvmAf6gqERnQa-yknNLfSzlQ4lfoJwRvNV4aHA16uk_oQbX1ge2P0dXQNDAEodZAg==",
+  "dataPublicacioReal": "2026-07-14T11:50:07.387Z",
+  "dadesExpedient": {
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": "Català",
+      "es": "Catalan",
+      "en": "Catalan",
+      "oc": "Catalan"
+    },
+    "expedientId": "0a859be5-1ee8-4c70-97f5-5ac6b6677700",
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "esPublicacioAntiga": false,
+    "denominacioExpedientReferencia": {},
+    "esReduit": false
+  }
+}

@@ -1,0 +1,560 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "24001098",
+  "idExpedient": "d64c0289-9916-43f6-a457-b4d3f02a0add",
+  "dataPublicacioPlanificada": "2025-01-31T09:59:13.699Z",
+  "organ": {
+    "nom": "Institut de Cultura de Barcelona",
+    "nif": "P5890006I",
+    "direccioPostal": "La Rambla, 99",
+    "localitat": "Barcelona",
+    "web": "www.bcn.cat/barcelonacultura",
+    "telefon": "933161070",
+    "fax": "933161080",
+    "email": "serveis_juridicsICUB@bcn.cat",
+    "personesContacte": [
+      {}
+    ],
+    "observacions": {
+      "ca": "Les licitacions publicades abans de l'1 de juny de 2016 s'han de consultar en: \rhttps://www.bcn.cat/perfildecontractant\r"
+    },
+    "horari": {},
+    "organContractacioId": 16054009
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000043,
+      "ca": "Formalització",
+      "es": "Formalización",
+      "en": "Formalisation",
+      "oc": "Formalizacion"
+    },
+    "expedientId": "d64c0289-9916-43f6-a457-b4d3f02a0add",
+    "teLots": true,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000043,
+        "ca": "Formalització",
+        "es": "Formalización",
+        "en": "Formalisation",
+        "oc": "Formalizacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "24001098",
+      "denominacio": {
+        "ca": "Serveis de gestió, atenció al públic , manteniment, servei educatiu i mediació del Castell de Montjuïc per al període 2024-2026 mesures de contractació pública sostenible"
+      },
+      "descripcio": {
+        "ca": "Serveis de gestió, atenció al públic , manteniment, servei educatiu i mediació del Castell de Montjuïc per al període 2024-2026, amb mesures de contractació pública sostenible"
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "tipusContracte": {
+        "id": 393,
+        "ca": "Serveis",
+        "es": "Servicios",
+        "en": "Services",
+        "oc": "Servicis"
+      },
+      "procedimentAdjudicacio": {
+        "id": 401,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 11386,
+        "ca": "Altres",
+        "es": "Otros",
+        "en": "Others",
+        "oc": "D’auti"
+      },
+      "descripcioAltres": {
+        "ca": "https://licitacions.bcn.cat/"
+      },
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {}
+    },
+    "dadesPublicacio": {
+      "observacions": {},
+      "contractacioConjunta": false,
+      "justificacioProcedimentUtilitzat": {},
+      "contracteFinancatUe": false,
+      "valorEstimatContracte": 4772699.87
+    },
+    "dadesPublicacioLot": [
+      {
+        "numeroLot": "1",
+        "lotId": 0,
+        "descripcio": {
+          "ca": "Servei de gestió, atenció al públic i manteniment- del Castell de Montjuïc"
+        },
+        "pressupostLicitacio": 1879697.18,
+        "publicacioExpedientId": 300364611,
+        "titol": "Servei de gestió, atenció al públic i manteniment",
+        "codisCpv": [],
+        "cpvPrincipal": {
+          "codi": "92521000-9",
+          "ca": "Serveis de museus",
+          "es": "Servicios de museos",
+          "en": "Museum services",
+          "oc": "Servicis de musèus"
+        },
+        "cpvsSecundaris": [],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES511",
+          "ca": "Barcelona"
+        },
+        "dataAdjudicacio": "2024-12-18T17:41:00.000Z",
+        "dataFormalitzacio": "2025-01-31T07:44:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {},
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 40,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008363,
+                  "ca": "Característiques tècniques i funcionals"
+                },
+                "puntuacio": 20,
+                "descripcioCriteri": {}
+              },
+              {
+                "tipusCriteri": {
+                  "id": 1008367,
+                  "ca": "Organització",
+                  "en": "Organisation",
+                  "oc": "Organizacion"
+                },
+                "puntuacio": 20,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 35,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 35,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 25,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008368,
+                  "ca": "Qualificació del personal adscrit",
+                  "en": "Qualification of assigned personnel",
+                  "oc": "Qualificacion deth personau adscrit"
+                },
+                "puntuacio": 10,
+                "descripcioCriteri": {}
+              },
+              {
+                "tipusCriteri": {
+                  "id": 1008391,
+                  "ca": "Utilització energia renovable",
+                  "en": "Use of renewable energy",
+                  "oc": "Utilizacion energia renovabla"
+                },
+                "puntuacio": 10,
+                "descripcioCriteri": {}
+              },
+              {
+                "tipusCriteri": {
+                  "id": 1008361,
+                  "ca": "Altres criteris relacionats amb els costos",
+                  "en": "Other criteria related to costs",
+                  "oc": "D’auti critèris restacadi damb es còsti"
+                },
+                "puntuacio": 5,
+                "descripcioCriteri": {}
+              }
+            ]
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 5,
+        "ofertesRebudesEconomics": 3,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 5,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "MAGMACULTURA SL",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "B61949764",
+            "telefon": "934410837",
+            "email": "depconcursos@magmacultura.com",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "importAdjudicacioSenseIva": 1879697.18,
+            "importAdjudicacioAmbIva": 2274433.58,
+            "iva": 21,
+            "varisTipusIva": false,
+            "informacioUte": [],
+            "plurianualitats": [
+              {
+                "anyAdjudicacio": "2025"
+              },
+              {
+                "anyAdjudicacio": "2026"
+              },
+              {
+                "anyAdjudicacio": "2027"
+              }
+            ]
+          }
+        ],
+        "subcontractacio": true,
+        "subcontractacions": [],
+        "metodeCalcularValorEstimat": {},
+        "peuDeRecurs": {},
+        "adrecaEnllacMesInformacioRecurs": {},
+        "condicionsEconomiquesConcessio": [],
+        "publicacionsOficials": [],
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 301052017,
+              "titol": "006_24001098L001_Contr_Anonimitzat.pdf",
+              "path": "gwfyvyRvuMmyPBqaN8brwx7eF4NNoyyapxF2cQTAKvHXpZ7RRxklw_nAXrn5s1uQD5RfYv5Rfv_YGwCX5mrwojRXLPHOgEivRyXe_N5mFK4sbiuOQMHHCo27WiHQgbJ4d9ZrQelKVl4ppvVmflkfr2VT4nkYrje8RCdSq6gVrjEZhnDrRdDcyZJCVuzwQSYmDSSD83Nv8O_TcTJs9gdpjrj2FlMTmobhboVqRlD0p0BSSAg0G-HWEeTd2YMYOKND1rHH_lKKYnvGuKH3XV5K7jle41pFu73q7qiHpw71jhkXW2nzrq3Rk6lZasZH3BFOe-nuZtILBP3W9zZ07TANHQ==",
+              "hash": "67C6142E84BC9247274E1820CB9F844F",
+              "idioma": "ca",
+              "mida": 221101
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2025-01-31T23:00:00.000Z",
+        "fiTerminiExecucio": "2027-01-30T23:00:00.000Z",
+        "observacionsTermini": {
+          "ca": "La durada del contracte serà de 24 mesos comptadors a partir del dia 2 de desembre de 2024 o bé des de l’endemà de la seva formalització, si aquesta fos posterior."
+        },
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        }
+      },
+      {
+        "numeroLot": "2",
+        "lotId": 1,
+        "descripcio": {
+          "ca": "Servei educatiu i de mediació del Castell de Montjuïc"
+        },
+        "pressupostLicitacio": 395273.96,
+        "publicacioExpedientId": 300364611,
+        "titol": "Servei educatiu i de mediació",
+        "codisCpv": [],
+        "cpvPrincipal": {
+          "codi": "92521000-9",
+          "ca": "Serveis de museus",
+          "es": "Servicios de museos",
+          "en": "Museum services",
+          "oc": "Servicis de musèus"
+        },
+        "cpvsSecundaris": [],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES511",
+          "ca": "Barcelona"
+        },
+        "dataAdjudicacio": "2024-12-18T17:41:00.000Z",
+        "dataFormalitzacio": "2025-01-31T07:45:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {},
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 35,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 35,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 25,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008368,
+                  "ca": "Qualificació del personal adscrit",
+                  "en": "Qualification of assigned personnel",
+                  "oc": "Qualificacion deth personau adscrit"
+                },
+                "puntuacio": 10,
+                "descripcioCriteri": {}
+              },
+              {
+                "tipusCriteri": {
+                  "id": 1008426,
+                  "ca": "Altres clàusules diferents a les anteriors"
+                },
+                "puntuacio": 10,
+                "descripcioCriteri": {}
+              },
+              {
+                "tipusCriteri": {
+                  "id": 1008367,
+                  "ca": "Organització",
+                  "en": "Organisation",
+                  "oc": "Organizacion"
+                },
+                "puntuacio": 5,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 40,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008363,
+                  "ca": "Característiques tècniques i funcionals"
+                },
+                "puntuacio": 20,
+                "descripcioCriteri": {}
+              },
+              {
+                "tipusCriteri": {
+                  "id": 1008367,
+                  "ca": "Organització",
+                  "en": "Organisation",
+                  "oc": "Organizacion"
+                },
+                "puntuacio": 20,
+                "descripcioCriteri": {}
+              }
+            ]
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 5,
+        "ofertesRebudesEconomics": 3,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 5,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "MAGMACULTURA SL",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "B61949764",
+            "telefon": "934410837",
+            "email": "depconcursos@magmacultura.com",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "importAdjudicacioSenseIva": 395273.96,
+            "importAdjudicacioAmbIva": 478281.5,
+            "iva": 21,
+            "varisTipusIva": false,
+            "informacioUte": [],
+            "plurianualitats": [
+              {
+                "anyAdjudicacio": "2025"
+              },
+              {
+                "anyAdjudicacio": "2026"
+              },
+              {
+                "anyAdjudicacio": "2027"
+              }
+            ]
+          }
+        ],
+        "subcontractacio": true,
+        "subcontractacions": [],
+        "metodeCalcularValorEstimat": {},
+        "peuDeRecurs": {},
+        "adrecaEnllacMesInformacioRecurs": {},
+        "condicionsEconomiquesConcessio": [],
+        "publicacionsOficials": [],
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 301052049,
+              "titol": "006_24001098L002_Contr_Anonimitzat.pdf",
+              "path": "q1N0LNgU98I7rDFnzIJDtKFMfLo6Fzsm6xPRjAqxPrTXiznNVc-BR0s1m5MKMJrMr5je9--BN0wc64MBwKYT0D8N1c7pzrownpuuk5D753-CFd2mgAIbn9Xft-Ij6-PhCmtesgj7EMzd-58iXQcIQo9bhFDgvU70vzKHamsLTbOl__wst_DypxovQCDoheHxPNjsyt0u5nEko6l6Tnz_jqIfbV3q-POYi0vXpUmdcFUvqKIupfztMJVqiAaMjYHnfZKI_NaUfPzMjQjMSZ97Mcm1pjmMq9BcGPL11HT-trHuYY1b0QZib5BZytWeQuXwRy5nUwc-1oD_eKKMl6N3MA==",
+              "hash": "96DD93A3B67938C0083C9CE61ADB355F",
+              "idioma": "ca",
+              "mida": 225367
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2025-01-31T23:00:00.000Z",
+        "fiTerminiExecucio": "2027-01-30T23:00:00.000Z",
+        "observacionsTermini": {
+          "ca": "La durada del contracte serà de 24 mesos comptadors a partir del dia 2 de desembre de 2024 o bé des de l’endemà de la seva formalització, si aquesta fos posterior."
+        },
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        }
+      }
+    ],
+    "dadesExpedient": {
+      "organContractacioId": 16054009,
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "d64c0289-9916-43f6-a457-b4d3f02a0add",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "tipusOfertaElectronica": 11386,
+      "denominacioExpedientReferencia": {}
+    },
+    "motiuEsmena": {}
+  },
+  "pathPdf": "WXGZq2eoWkULxCQ1hA5aF16m6F1psr7gKrmhLl-A5gyGBQVvbP8mAqYtnQSdqXyUTHJ5aM5Pye5grw0Z3X8fHJFwig3Ub2jpAWeRgjoc4E5ZyhrUBFpzDRC0Jb4EEod8Xm8E27310iiKa5bwzBikt6JEAZwtYjP2I2HIebFrLS2rOJIozFcKCzIyK8rK4UFNNozAw5BlyZTKFf4uO2sFk_x78gRLcXbWEgzqBYjNNebH00tfndKwKQ0vkwrHge_7JQ-Fa3MgMCyUBJLHS5w09XF-nQ7zGljw31aQ6JnTafmLfWtJ9qu8uUphbU3-WG27WLnn6jcqa-naY0OcdjXSvw==",
+  "pathCertificacio": "IsD1Qr8SC36N9aYLDwHBUgNzYcAdSIYo0-Z-GaIBLc7tvTNN6-gpSImviK5wr2kYTqorSVRkuQlEeeKIDkTBTOTmJyAmwECP7Q4Sw6e0Ayrt7XPOZh6EVISKfU-Yhqv5v8X-YtWiTYuW8D1j0ZPZ3qB-vQSZf-PlI43cSkcp1GkoGHk7UXsbq3M0XzYotzwkfNeSBotzlWFxrN-fDjiK50S59DsfBPHa6lqCRP0qiS-9LHUIGIUe9jL5wMZqo_6S46vavXZ_S6tRF6yKlz_u5a2lYp_uitNtDBNsJou0O8MZhU7mYlkJpEmUYrrB8EvCrVdqKX4WYeTiqTBobBtnyA==",
+  "pathJson": "l1WOBs-N8_woMXao7bXHxQMSTRxsuu2S3dAt6WDzGoanReP5sUDlf8ojzN1eQzuK-rXHXQ5FJa57Tr0osSy_71oD7WF54SOS3fudVWHJaMwHXyoFMqH8wrnMVdH4c0qKg1Y1GaiejaAE09WrkOPZwUaC5El64olFXRicBOVkA21J2JDZWTruO0gj9HQXSClD4CUDpz_n9EqMuY-x68hxs2eFhRtEBZ2wCNcEaWI2KFnV9PD4A5bszU7ue-Nrh52f-xt3CYN1O6nfQVWpMlffqWlcOyIF8BdEytwEgsLlr1_On_NnlE7K-8NJr6RKL93CsvwyFouowuDigunVC7jD5w==",
+  "dataPublicacioReal": "2025-01-31T10:00:10.183Z",
+  "dadesExpedient": {
+    "organContractacioId": 16054009,
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "expedientId": "d64c0289-9916-43f6-a457-b4d3f02a0add",
+    "dataFiPublicacioPerfil": null,
+    "dataFiGestio": null,
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "tenderingSpaceId": null,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 11386,
+    "dataVisiblePortalAccesExclusiu": null,
+    "expedientIdReferencia": null,
+    "codiExpedientReferencia": null,
+    "denominacioExpedientReferencia": {
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "nomOrganContractacioReferencia": null
+  }
+}

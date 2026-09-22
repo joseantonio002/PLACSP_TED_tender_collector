@@ -1,0 +1,71 @@
+{
+  "successful_raw_files": 214,
+  "files_by_source": {
+    "documentation": 9,
+    "gencat": 199,
+    "placsp": 6
+  },
+  "size_bytes": 6237708795,
+  "missing_raw_files": [],
+  "bad_raw_hashes": [],
+  "sample_reference_errors": [],
+  "sample_counts": {
+    "placsp": 64,
+    "gencat": 62,
+    "gencat-execution": 2
+  },
+  "case_count": 20,
+  "primary_phase_reference_failures": 4,
+  "recovered_as_legacy_xml": 4,
+  "unrecovered_phase_references": 0,
+  "zip_chains": [
+    {
+      "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+      "pages": 630,
+      "reachable_from_base": 630,
+      "unreachable_pages": [],
+      "chain_end": "PlataformasAgregadasSinMenores_20241231_040035.atom",
+      "max_entries": 520,
+      "max_entries_plus_tombstones": 520
+    },
+    {
+      "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2026.zip",
+      "pages": 403,
+      "reachable_from_base": 403,
+      "unreachable_pages": [],
+      "chain_end": "PlataformasAgregadasSinMenores_20251231_040050.atom",
+      "max_entries": 500,
+      "max_entries_plus_tombstones": 500
+    },
+    {
+      "archive": "data/raw/placsp/native/licitacionesPerfilesContratanteCompleto3_2025.zip",
+      "pages": 1398,
+      "reachable_from_base": 1395,
+      "unreachable_pages": [
+        "licitacionesPerfilesContratanteCompleto3_20210930_202609.atom",
+        "licitacionesPerfilesContratanteCompleto3_20210930_202609_1.atom",
+        "licitacionesPerfilesContratanteCompleto3_20210930_202609_2.atom"
+      ],
+      "chain_end": "licitacionesPerfilesContratanteCompleto3_20241230_180046.atom",
+      "max_entries": 500,
+      "max_entries_plus_tombstones": 500
+    },
+    {
+      "archive": "data/raw/placsp/native/licitacionesPerfilesContratanteCompleto3_2026.zip",
+      "pages": 991,
+      "reachable_from_base": 988,
+      "unreachable_pages": [
+        "licitacionesPerfilesContratanteCompleto3_20210930_202609.atom",
+        "licitacionesPerfilesContratanteCompleto3_20210930_202609_1.atom",
+        "licitacionesPerfilesContratanteCompleto3_20210930_202609_2.atom"
+      ],
+      "chain_end": "licitacionesPerfilesContratanteCompleto3_20251229_190523.atom",
+      "max_entries": 500,
+      "max_entries_plus_tombstones": 500
+    }
+  ],
+  "request_failures_by_http_status": {
+    "400": 10,
+    "404": 30
+  }
+}

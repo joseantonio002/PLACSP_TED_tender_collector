@@ -1,0 +1,496 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "CCS12024000095",
+  "idExpedient": "b3f640c5-3c2c-4340-9e32-bdd894f89436",
+  "dataPublicacioPlanificada": "2025-01-07T09:10:44.406Z",
+  "organ": {
+    "nom": "Ajuntament d'Olot",
+    "nif": "P1712100E",
+    "direccioPostal": "PS. Bisbe Ramon Guillamet, 10",
+    "localitat": "Altres/Diversos, No Consta",
+    "codiPostal": "99999",
+    "nuts": "OT",
+    "web": "http://www.olot.cat",
+    "telefon": "972279100",
+    "fax": "972279108",
+    "email": "contractacio@olot.cat",
+    "personesContacte": [
+      {
+        "nom": "Contractacio",
+        "cognom": "AjuntamentOlot",
+        "telefon": "972279118",
+        "email": "contractacio@olot.cat"
+      }
+    ],
+    "centralCompres": false,
+    "observacions": {},
+    "horari": {},
+    "organContractacioId": 925838
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000040,
+      "ca": "Anunci de licitació",
+      "es": "Anuncio de licitación",
+      "en": "Tender announcement",
+      "oc": "Anóncia de licitacion"
+    },
+    "expedientId": "b3f640c5-3c2c-4340-9e32-bdd894f89436",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000040,
+        "ca": "Anunci de licitació",
+        "es": "Anuncio de licitación",
+        "en": "Tender announcement",
+        "oc": "Anóncia de licitacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "CCS12024000095",
+      "denominacio": {
+        "ca": "CONTRACTACIÓ ADMINISTRATIVA DEL SERVEI D'ACOLLIDA I ATENCIÓ AL PÚBLIC DEL TEATRE PRINCIPAL D'OLOT."
+      },
+      "descripcio": {
+        "ca": "Contractació dels serveis d'acollida i atenció al públic al Teatre Principal d'Olot, atès que no disposa de serveis interns per a l'execució del mateix."
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "tipusContracte": {
+        "id": 393,
+        "ca": "Serveis",
+        "es": "Servicios",
+        "en": "Services",
+        "oc": "Servicis"
+      },
+      "procedimentAdjudicacio": {
+        "id": 419,
+        "ca": "Obert simplificat",
+        "es": "Abierto simplificado",
+        "en": "Open simplified",
+        "oc": "Daurit simplificat"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {}
+    },
+    "dadesPublicacio": {
+      "pressupostLicitacio": 40300,
+      "observacions": {},
+      "contracteHarmonitzat": false,
+      "dataTerminiPresentacioOSolicitud": "2024-12-19T13:00:00.000Z",
+      "adrecaElectronicaPresentacioOfertes": {},
+      "preveuenModificacionsAlsPlecs": true,
+      "preveuenProrroguesAlsPlecs": true,
+      "informacioComplementariaProrroga": {
+        "ca": "Dues pròrrogues de 1 any cadascuna"
+      },
+      "informacioComplementariaModificacio": {
+        "ca": "El contracte només es pot modificar per raons d’interès públic, en els casos i en la forma que s’especifiquen en aquesta clàusula i de conformitat amb el que estableixen els articles 203 a 207 de la LCSP.\nModificacions previstes:\nEl contracte es podrà modificar fins a un 20 % pels següents motius:\n- En cas que resulti necessari arran de la programació de més actes dels calculats a priori.\nEn aquest cas, s’acordarà amb l’adjudicatari l’import de la modificació, que no podrà superar el 20% de l’import del contracte.\nModificacions no previstes:\nLa modificació del contracte no prevista en aquesta clàusula només podrà efectuar-se quan es compleixin els requisits i concorrin els supòsits previstos a l’article 205 de la LCSP, de conformitat amb el procediment regulat a l’article 191 de la LCSP i amb les particularitats previstes a l’article 207 de la LCSP.\nLes modificacions acordades per l’òrgan de contractació seran obligatòries per els contractistes en els termes que estableix l’article 206 de la LCSP, havent de formalitzar conforme al que disposa l’article 153 LCSP i publicar-se d’acord amb el que estableixen els articles 207 i 63 de la LCSP."
+      },
+      "valorEstimatContracte": 88660,
+      "iva": 21,
+      "varisTipusIva": false,
+      "pressupostBaseLicitacioAmbIva": 48763,
+      "acpAplicable": false,
+      "justificacioProcedimentUtilitzat": {},
+      "plecsDeClausulesAdministratives": {
+        "ca": [
+          {
+            "id": 300994575,
+            "titol": "PCAP CCS12024000095.pdf",
+            "path": "HU6fapemYZQnZTkflFo5IZyUzPmsdIO_XoJNXB32NdoiLcWwy5wJIyPZHQL8h4m20jtZOgBqkkR7nP0hP4kxRp92Bm343Z2MQENIhWs_eYlVNFyBFPwdXHBl6xPxcGijCu3YEniD-Spcr_1wpRA9UB2uBqtstDzC9M2EkY9M8vZsi42TLvVJd4o4Ly8Q7dsA9zvVlgA_kLT3j4FyJbDTVqbNWwIUQhrDQTcXy0DhIekW32IZ5LisaNw8Typ9E41anijdHZrTvvRVgvJoExm33n4QQ6BMpE6338pB4KEQEZO7f16gA689A0CmugyYvfYsSXcOmesaSI7FsOmYJenWPA==",
+            "hash": "E4C3ADE8C1610785DAC340F51F98460B",
+            "idioma": "ca",
+            "mida": 1058909
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "plecsDePrescripcionsTecniques": {
+        "ca": [
+          {
+            "id": 300994576,
+            "titol": "PPT CCS12024000095.pdf",
+            "path": "clbldBXCpvFWYNSsdiiwv7SVyFf58IWfYzNXiQiq_eN6BuD-2KMdLbIvH_ifbXk9xANkI_bwu6__Jw5plR_iBovb8BPmOg2SvbizjU68yYfQorxPMJrqE33q5i5rGYDBBse5AlPc3RgJsVdT1Gz5So6S_ZclCo9nHksRKyykUGZH6FnaRrJJYz_tGpQArmxD2Bb0vvcRt8lpkwaTh9G7_OEGjVNlweWi8LZZVy7fN3k_HV_crT_9HIFmc8MP9NkXgNSJSXe-7dGGnrlVFuxWInbihogMZqSk4yEG8UbwuBbPaX1WOczwlnwQzZZD-VbAnnxeqQbVm4wVS_CpwQjJSQ==",
+            "hash": "A770AD9219A8A969C30FFB2E37987270",
+            "idioma": "ca",
+            "mida": 487881
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "memoriaJustificativaContracte": {
+        "ca": [
+          {
+            "id": 300994574,
+            "titol": "MEMORIA CCS12024000095.pdf",
+            "path": "JfXj78nrPbjEdbIh5evA5y1UHXGEclaO3wCBJoQO_yLXd1SbNz8pYkoOaHUAHtFA9pReEim2_iNx0xoAa7oCPLH4zf4vgj8nXufg5ywv_e6NBaEQACl_EEnZIaLOY3QZ3Kyc2XVrzMFXU9aVfJe6oq5BghhJy0rcnUrOx1LNo3A0AkmHnrG_3XWgiXU9RA5fpJ3BlZ5C6nQPW85MZZqNNrt30iLAcUi7gR051XM7I1P-S_Sf3eWrFOKiBcXC3s1OuQY-9Kr3RsnbdBUClzZyGtTACKLBc7rwEGkH1R2MMasv0dPxmqOLQ5czhazDlaOap2wghqqp17r6-Ut53qbH7g==",
+            "hash": "9886B0203A202941270C41512164ED0B",
+            "idioma": "ca",
+            "mida": 469462
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "documentsAprovacio": {
+        "ca": [
+          {
+            "id": 300994573,
+            "titol": "CERTIFICAT CCS12024000095.pdf",
+            "path": "bzUQFJICyBaGMRR1rSy3kkXWOQub3kignchgFx0HHe5ztzy2quct9RLLMSG9y3BiW5wFczRIxX1VwBJu47REB6gW86ElJxqiAquBGCNn7ow8L-Br7Daqam3CpWzrOkVdsNALqsE2OK5ZWeO2-7KH9vHX25OeqsFOeJVHdmXYxDUIgTeEtAx1UqL_o1K0jhR3CpJDywmGYXUvV2I1yYPOvs85uGOryDXkRmUyw6FnM2Jo8-Es8QH4l1LaJO1IGzlCWsJNp9ELFo6vZAbxfpnuJTkaTosezJuEtEYY5MjXTGQT9yReHGovp41Hb_hf5V6aQA68qLi1Y_ml030tIteo7w==",
+            "hash": "EFB544B7E595C0637AFB93EFCFF54914",
+            "idioma": "ca",
+            "mida": 414674
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "altresDocuments": {
+        "ca": [
+          {
+            "id": 300994577,
+            "titol": "DECRET CCS12024000095.pdf",
+            "path": "AcMKwMfM-F0L4OfXMyR4P_bKhzcezrexWTCiVVnD08eGaXgJPUNgTvtS6y27IDkDFu824dBIB7vBj2aI3OSt-Sqg6YgmI5IdstD-bG-0-cCE_RVxuqqtiGY707GJMX-PwcXUkS3MuDTmz2LbQgAa7mJTk1gBjcYLrwhkTMWrWtdzEHvNozpPh6W_VSdo0DpMcGSM-JeixF_oTxtp4UqTI5dqBSlEIE6__6dwHO3zJwx5iFz3FspORQLbmTiJmb2RpmH-hqYQ69-OA5Pz1OyAllNRJ7gVXoHfhkwU-ll9dc29huxwqGZ2m8gQkA4w1ThOcKeRLqNGB-qV-9MnZdMMHQ==",
+            "hash": "22A530D13167D16F0FF3C83FCBB432E0",
+            "idioma": "ca",
+            "mida": 292302
+          },
+          {
+            "id": 300994579,
+            "titol": "ACTA CCS12024000095.pdf",
+            "path": "TAkCVSu2IMLDlx0qb3HJsFro_8thEs67bfT1NIju-OLgo_OU0KCYX3JyIcKAAYGq-BtE2KTrF2GldtwIFSmgUsLx6Hfzk_p-894luQu2mpVSQIBU8PmpeKZbkBmj9P1_fA5Ekepst2yw-WYUsiWndfV467Bm5Hgv1pMxgs8QG7HA3GfMoB2Svcwk9_4C7ZsUiWQT2NROgwNX23iDt-Cg-D5BCO5jcx8jmCxrdWWmwOVd6TETc4JrhCu_Fpsl_ppLb_CMSzXo8aRTZcTb_BXaQSGeJS58NUoGC668VgFR6wzHOClt8Y93e9RhKpAdoXz8lM-GHf_5UH1w93hOAqeEKQ==",
+            "hash": "FCE648F08B32CDFD4AE96E33EC03F1DE",
+            "idioma": "ca",
+            "mida": 440838
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "llenguesRedactarOfertes": {},
+      "justificacioNoExistenciaLots": {
+        "id": 1008190,
+        "ca": "Art.99.3 b) El fet que la realització independent de les diverses prestacions compreses en l’objecte el contracte en dificulti l’execució correcta des del punt de vista tècnic; o bé que el risc per a l’execució correcta del contracte procedeixi de la naturalesa del seu objecte, en implicar la necessitat de coordinar l’execució de les diferents prestacions, qüestió que es podria veure impossibilitada per la seva divisió en lots i l’execució per una pluralitat de contractistes diferents. Tots dos aspectes, si s’escau, s’han de justificar degudament en l’expedient",
+        "en": "Art. 99.3.b) The fact that the independent performance of the various services indicated as the purpose of the contract hinders their correct implementation from a technical point of view; or that the risk for the correct implementation of the contract comes from the nature of its purpose, since it involves the need to coordinate the implementation of the various services, an issue that could be made impossible by its division into lots and being undertaken by a plurality of different contractors. Both aspects, if applicable, must be duly justified in the file",
+        "oc": "Art.99.3 b) Er hèt qu'era realizacion independenta des diuèrses prestacions comprenudes en er objècte eth contracte ne dificulte era execucion corrècta dempús deth punt d'enguarda tecnic; o plan qu'eth risc entara execucion corrècta deth contracte provengue dera natura deth sòn objècte, en implicar eth besonh de coordinar era execucion des diferentes prestacions, ahèr que se poirie veir impossibilitada pera sua division en lòts e era execucion per ua pluralitat de contractistes diferenti. Toti dus aspèctes, se s’esquèr, les cau justificar degudaments en expedient"
+      },
+      "contracteRelacionatFinanciatFonsUnioEuropea": false,
+      "divisioEnLots": {
+        "id": 1008401,
+        "ca": "Sense lots"
+      },
+      "motiuContracteNoInformatLots": {},
+      "publicacionsOficials": [],
+      "contractacioConjunta": false,
+      "peuRecurs": {
+        "ca": "Contra la resolució transcrita, es podrà interposar potestativament recurs de reposició davant aquest mateix òrgan o ser impugnat directament davant la jurisdicció contenciosa administrativa. El termini per la interposició del recurs serà d’un mes pel de reposició i de dos mesos pel contenciós administratiu, a partir del dia següent al de la notificació d’aquesta resolució. El termini per resoldre el recurs de reposició és d’un mes. En cas de desestimació per silenci administratiu del recurs de reposició, el termini per impugnar davant la jurisdicció contenciosa administrativa és de sis mesos. Es podrà interposar també qualsevol altre recurs o procediment d’impugnació o reclamació previst en la legislació vigent.\n\n"
+      },
+      "adrecaPresentacioRecurs": {},
+      "elementsCondicionsOfertesIntegradores": {}
+    },
+    "dadesPublicacioLot": [
+      {
+        "ultimaObertura": {
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {
+            "ca": "A partir de la data de l'obertura del sobre anterior"
+          },
+          "mostrarDataObertura": false
+        },
+        "pressupostLicitacio": 40300,
+        "publicacioExpedientId": 300343988,
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 48763,
+        "varisTipusIva": false,
+        "valorEstimat": 88660,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES512",
+          "ca": "Olot"
+        },
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 2,
+          "mesos": 0,
+          "dies": 0,
+          "observacions": {
+            "ca": "2 anys a partir de l’endemà de la data de formalització del contracte."
+          }
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008183,
+              "ca": "Condicions especials tipus  Social",
+              "en": "Special social type conditions",
+              "oc": "Condicions especiaus tipe Sociau"
+            },
+            "descripcio": {
+              "ca": "D'acord amb l'article 202 de la LCSP, s'estableix la següent condició especial de tipus :\n- L’empresa contractista ha de dedicar o adscriure a l’execució del contracte els mitjans personals i materials mínims establerts en el Plec de Prescripcions tècniques particulars.\n- L’empresa contractista ha de mantenir durant la vigència del contracte, les condicions laborals de les persones ocupades en l’execució del contracte, fixades en el moment de presentar l’oferta, d’acord amb el conveni col·lectiu d’aplicació.\n- El personal que l’empresa adscrigui al contracte haurà de tenir el vist-i-plau de l’Ajuntament d’Olot i a més haurà de comptar amb el certificat negatiu del registre de delinqüents sexuals mentre duri el contracte. Aquesta condició té el caràcter d'obligació essencial del contracte i el seu incompliment podrà ser objecte de penalització molt greu o causa d'extinció contractual.\n\n"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {
+              "ca": "A partir de la data de l'obertura del sobre anterior"
+            },
+            "mostrarDataObertura": false
+          }
+        ],
+        "prorroguesPrevistes": true,
+        "informacioProrrogaComplementaria": {
+          "ca": "Dues pròrrogues de 1 any cadascuna"
+        },
+        "modificacioPrevista": true,
+        "informacioModificacioComplementaria": {
+          "ca": "El contracte només es pot modificar per raons d’interès públic, en els casos i en la forma que s’especifiquen en aquesta clàusula i de conformitat amb el que estableixen els articles 203 a 207 de la LCSP.\nModificacions previstes:\nEl contracte es podrà modificar fins a un 20 % pels següents motius:\n- En cas que resulti necessari arran de la programació de més actes dels calculats a priori.\nEn aquest cas, s’acordarà amb l’adjudicatari l’import de la modificació, que no podrà superar el 20% de l’import del contracte.\nModificacions no previstes:\nLa modificació del contracte no prevista en aquesta clàusula només podrà efectuar-se quan es compleixin els requisits i concorrin els supòsits previstos a l’article 205 de la LCSP, de conformitat amb el procediment regulat a l’article 191 de la LCSP i amb les particularitats previstes a l’article 207 de la LCSP.\nLes modificacions acordades per l’òrgan de contractació seran obligatòries per els contractistes en els termes que estableix l’article 206 de la LCSP, havent de formalitzar conforme al que disposa l’article 153 LCSP i publicar-se d’acord amb el que estableixen els articles 207 i 63 de la LCSP."
+        },
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "garantiaDefinitiva": true,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008242,
+              "ca": "Relació serveis o treballs efectuats de la mateixa naturalesa en el curs de com a màxim els últims tres anys",
+              "en": "List of services or work of the same nature carried out during the last three years at most",
+              "oc": "Relacion servicis o trabalhs efectuadi dera madeisha natura en cors de coma maximom es darrèri tres ans"
+            },
+            "valorMinimExigit": {
+              "ca": "L’import anual acumulat de l’any de major execució l’empresari i haurà de ser igual al pressupost base de licitació sense IVA: 88.660"
+            },
+            "mitjaAcreditacio": {
+              "id": 1008253,
+              "ca": "Certificats o declaracions de bona execució",
+              "en": "Certificates or declarations of good quality production",
+              "oc": "Certificats o declaracions de bona execucion"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008218,
+              "ca": "Volum anual de negocis",
+              "en": "Annual volume of business",
+              "oc": "Volum annau de negòcis"
+            },
+            "valorMinimExigit": {
+              "ca": "Volum anual de negocis, o bé volum anual de negocis en l’àmbit al qual es refereixi el contracte, referit al millor exercici dins dels tres últims disponibles en funció de les dates de constitució o d’inici d’activitats de l’empresari i haurà de ser igual al valor estimat del contracte: 88.660"
+            },
+            "mitjaAcreditacio": {
+              "id": 1008226,
+              "ca": "Comptes anuals",
+              "en": "Annual accounts",
+              "oc": "Compdes annaus"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "percentatgeGarantiaDefinitiva": 5,
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 50,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 50,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 25,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 25,
+                "descripcioCriteri": {
+                  "ca": "El servei requereix que l’empresa responsable de la seva prestació pugui oferir la major disponibilitat possible per a garantir el correcte desenvolupament dels projectes i una ràpida capacitat de resposta davant possibles emergències.\n- Capacitat de resposta 48 hores: 0 punts\n- Capacitat de resposta abans de 24 hores: 15 punts\n- Capacitat de resposta abans de 12 hores: 25 punts"
+                }
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 25,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 25,
+                "descripcioCriteri": {
+                  "ca": "a.1) Personal. Màxima puntuació  8 punts.  \na.2) Proposta de procediment. Màxima puntuació  8 punts  \na.3) Millores: Màxima puntuació  5 punts\na.4) Organigrama i perfil professional. Màxima puntuació 4 punts"
+                }
+              }
+            ]
+          }
+        ],
+        "codisCpv": [],
+        "cpvPrincipal": {
+          "codi": "79992000-4",
+          "ca": "Serveis de recepció",
+          "es": "Servicios de recepción",
+          "en": "Reception services",
+          "oc": "Servicis de recepcion"
+        },
+        "cpvsSecundaris": [],
+        "garantiaComplementaria": true,
+        "percentatgeGarantiaComplementaria": 5
+      }
+    ],
+    "dadesExpedient": {
+      "organContractacioId": 925838,
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "b3f640c5-3c2c-4340-9e32-bdd894f89436",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "tipusOfertaElectronica": 413,
+      "denominacioExpedientReferencia": {}
+    },
+    "tipusEsmena": {
+      "id": 1008172,
+      "ca": "Esmena",
+      "es": "enmienda",
+      "en": "Amendment",
+      "oc": "Esmenda"
+    },
+    "motiuEsmena": {
+      "ca": "Penjar DECRET I ACTA referent a tancament de l’expedient al perfil del contractant sense procedir a l’obertura dels sobres."
+    }
+  },
+  "pathPdf": "fE7y0wMTh3mmFy4n3gSPF2UJwbMQjpdXuvxfqBL5EBsrs941VwoHrm1pEHxbllEfGu4u-pwGfyuxfc180YtbV32iqz0fdu-IyfAHmjFa7XHQMzbFkfQYW_PcEWtQ-xBnBOzozhQReWfOOOx849fCZI8tVatAjggmVPAr9jUSMlAZyNMVs5p9CNhCdDPHv_QGjkp8Qi6qXW7ujBFZwf_PH0dlvKG-oqcdMTKAfVzMhEhPV-qvHGY-tbef6KLk_X2OHeCq5gAfexPgTa6o6pHen4rbXH1j7dhPFAwOB7Qd3qZMAOJ0_De71zXCB_7CCvKaQ_IZr_AwPcniQbiuJ3VLlw==",
+  "pathCertificacio": "fXvt3w2Ti7QycmyJj-p4xYFEcRp4IDSIl5hJ_7YzJ22tNP8aU77ky4mMWmxZvdfJmyZuScnLCymKFBPImdnuM0vPDNTyk87Xm_0KxvA3rDzCdnfr5jJZPKWPbnL57iSoSHR_g5_X6Nct5zoR5VN8Up8G8cYdmabnKNZKA0PmOsFNXc9eVwGTCOIhsCbLejNZul9J3ggn-aWDoTy_A55FRXvFjfIfObwzG6a7lb9SFfyFM-Ex2mKjAM60b-PrqRn9c4NlbTVdzw0MKcd3GE9GrxhV4fM-cnY7ix8eGbyiG02oAx2x9ROuqA7QIvsSRij6rH1G1Xi8XKzAlYx9ktcPpA==",
+  "pathJson": "B1-BOWbhsj3D0ibWU_4dYnzmtyp195V1A-mrp_h_XQ2dzn40DFKUMwIU8dkQlUFLz_pO9Jti0QiIewaOogQTb9WD8dk0eRLZdZObWqNlTm2hr9zlFaHuCDR9cnezQydqN12SB0cTcMQVtJGHddxFlWrrv6xlSDZwWJtdYF0yMG1_qnVNpou5B-5P3-O26k62YOc_MtHBhj8d9ZuC6sOmXbtcn6QjcNB_R9wdEZj_hdgtAOrl3tq-I4_G-TQO_OlmoWTO-4q7N7oMFaHZ_PIrJxeruhCOfy4FhqUbye_V4JGcLUAtf_v-C2kpbDL2kmNP_W2gqYi_pSuAMnvxoBlLKg==",
+  "dataPublicacioReal": "2025-01-07T09:12:05.769Z",
+  "dadesExpedient": {
+    "organContractacioId": 925838,
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "expedientId": "b3f640c5-3c2c-4340-9e32-bdd894f89436",
+    "dataFiPublicacioPerfil": null,
+    "dataFiGestio": null,
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "tenderingSpaceId": null,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 413,
+    "dataVisiblePortalAccesExclusiu": null,
+    "expedientIdReferencia": null,
+    "codiExpedientReferencia": null,
+    "denominacioExpedientReferencia": {
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "nomOrganContractacioReferencia": null
+  }
+}

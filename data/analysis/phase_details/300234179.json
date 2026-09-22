@@ -1,0 +1,817 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "24001098",
+  "idExpedient": "d64c0289-9916-43f6-a457-b4d3f02a0add",
+  "dataPublicacioPlanificada": "2024-08-30T16:05:36.958Z",
+  "organ": {
+    "nom": "Institut de Cultura de Barcelona",
+    "nif": "P5890006I",
+    "direccioPostal": "La Rambla, 99",
+    "localitat": "Barcelona",
+    "web": "www.bcn.cat/barcelonacultura",
+    "telefon": "933161070",
+    "fax": "933161080",
+    "email": "serveis_juridicsICUB@bcn.cat",
+    "personesContacte": [
+      {}
+    ],
+    "observacions": {
+      "ca": "Les licitacions publicades abans de l'1 de juny de 2016 s'han de consultar en: \rhttps://www.bcn.cat/perfildecontractant\r"
+    },
+    "horari": {},
+    "organContractacioId": 16054009
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000040,
+      "ca": "Anunci de licitació",
+      "es": "Anuncio de licitación",
+      "en": "Tender announcement",
+      "oc": "Anóncia de licitacion"
+    },
+    "expedientId": "d64c0289-9916-43f6-a457-b4d3f02a0add",
+    "teLots": true,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000040,
+        "ca": "Anunci de licitació",
+        "es": "Anuncio de licitación",
+        "en": "Tender announcement",
+        "oc": "Anóncia de licitacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "24001098",
+      "denominacio": {
+        "ca": "Serveis de gestió, atenció al públic , manteniment, servei educatiu i mediació del Castell de Montjuïc per al període 2024-2026 mesures de contractació pública sostenible"
+      },
+      "descripcio": {
+        "ca": "Serveis de gestió, atenció al públic , manteniment, servei educatiu i mediació del Castell de Montjuïc per al període 2024-2026, amb mesures de contractació pública sostenible"
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "tipusContracte": {
+        "id": 393,
+        "ca": "Serveis",
+        "es": "Servicios",
+        "en": "Services",
+        "oc": "Servicis"
+      },
+      "procedimentAdjudicacio": {
+        "id": 401,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 11386,
+        "ca": "Altres",
+        "es": "Otros",
+        "en": "Others",
+        "oc": "D’auti"
+      },
+      "descripcioAltres": {
+        "ca": "https://licitacions.bcn.cat/"
+      },
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {}
+    },
+    "dadesPublicacio": {
+      "pressupostLicitacio": 2274971.14,
+      "observacions": {},
+      "contracteHarmonitzat": true,
+      "dataTerminiPresentacioOSolicitud": "2024-09-30T21:59:59.000Z",
+      "adrecaElectronicaPresentacioOfertes": {
+        "ca": "https://licitacions.bcn.cat/"
+      },
+      "preveuenModificacionsAlsPlecs": true,
+      "preveuenProrroguesAlsPlecs": true,
+      "informacioComplementariaProrroga": {
+        "ca": "La durada del contracte serà de 24 mesos comptadors a partir del dia 2 de desembre de 2024\no bé des de l’endemà de la seva formalització, si aquesta fos posterior.\nLa durada del contracte es podrà prorrogar per per dos anys més per acord de l’òrgan de\ncontractació. La o les pròrrogues seran per períodes d’un màxim de 24 mesos. Atenent la previsió de l’article 29.2 LCSP, la pròrroga serà obligatòria per a l’empresa si l’avís de pròrroga es comunica com a mínim amb dos mesos d’anticipació a la data de finalització del contracte o de la pròrroga corresponent "
+      },
+      "informacioComplementariaModificacio": {
+        "ca": "Causes previstes de modificació:\n- L’Augment o reducció del volum de serveis objecte del contracte; 2,5%\n- L’increment o reducció del material inclòs als dos lots del contracte; 2,5%"
+      },
+      "valorEstimatContracte": 4772699.87,
+      "iva": 21,
+      "varisTipusIva": false,
+      "pressupostBaseLicitacioAmbIva": 2752715.08,
+      "acpAplicable": true,
+      "justificacioProcedimentUtilitzat": {},
+      "plecsDeClausulesAdministratives": {
+        "ca": [
+          {
+            "id": 300689539,
+            "titol": "PLEC DE CLÀUSULES ADMINISTRATIVES PARTICULARS.pdf",
+            "path": "IQ_w5P72hu10ex20kzLQmMoFAH3MW9PCp4BidCR1YYFD8S8NR5mJ_KqtIAOzUYtpJc4AgJSTlSnfx1EdSMJoeSobJqOS48wSU9GZUDVLkkM2YSsP5QuDngN3pdsWaDCiL_m_LJ2iB3kF9Brpi1YW5sf490daQn4swSMDslJugh2AKkDsa3meaBDPLI_ghjbL1vIZTVlJa4umdCazFrVnYkinHbNa_qtCgVhJiXAXkMITn8GzDZVXm52h5F3feNu97Vs7AU_RSDtAIH8BWFMZ7W8clWS5BrpbPFeRv-SX8S9jD8EBkiZJtTcscq1fAR139pdp4Hg-mcT2P8pn8I-JmA==",
+            "hash": "9134ED563DB32F4A46F6168B6D5D86AE",
+            "idioma": "ca",
+            "mida": 1702036
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "plecsDePrescripcionsTecniques": {
+        "ca": [
+          {
+            "id": 300689540,
+            "titol": "impr_Plec de prescripcions tècniques (1).pdf",
+            "path": "R4q0QG4XTEVtQUqPRV4ScWAwmWSPy5XlZr22v6FaKp3vRAwETrr5smdG1xUrx-qKv_c9AtLhxpq0q-rsHODwhekTfrGIn7KAG7IFvd7HaR4oj0UlVDQDbMkyJc9ryZMaZtUpj3IVdle0LEMjGoSMGJpiTQ2zxKXm4aRDvrZuqSRiQw1mdc--_bpcJHfuzAYMWfdp2b12GH3bg8aXe7NyRufN2lMf6rdlao0F2cs94_-Y-8CEclfHvWatjtzAToa04QrcZ3AlXJFwBoKP8i65wILKKV8aAbjcnVQqkWCjYjfaLgUpTFfFtPfvq4W0ATBzqdHvrlyv5OwOsTlVyvnNlw==",
+            "hash": "91D56BEAABA8DA04FC473D62D3F5DD67",
+            "idioma": "ca",
+            "mida": 778438
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "memoriaJustificativaContracte": {
+        "ca": [
+          {
+            "id": 300689541,
+            "titol": "impr_Informe de necessitat i idoneïtat (4).pdf",
+            "path": "mNrVDvex_rJ1ugbL9aGvXkYKZjCQJBoqNihdAYbloKGhjxSa7QXlXnajg7x9S5vRZyiR6ySRuBaFmgVbneYzxKIWhrxIxWw9rLztFnSpeZ-53CRJC-b13yUTx_SZcAsQkUd_oYZJN_IMviZpXPOd6FbN908RKPEJbsHdcnFxfP22an2TpFTgYooZL37uraGA2fQIGXlK6vcLwo2km0sbWTcsfvlWkyGqTWaysMp06r3D0YAJzdDM6SpVC9N0aGGjCh993wWGKJkOM2HhdBBow1LO7vxIWrbcT7TqycozSt6mmi8p9iJfE4hIA_dnkcTwQWbTuokLDlS7SrnB9bA_uw==",
+            "hash": "6522115B841836FB1AC182E89C307336",
+            "idioma": "ca",
+            "mida": 1417481
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "documentsAprovacio": {
+        "ca": [
+          {
+            "id": 300689542,
+            "titol": "impr_Resolució motivada d'aprovació de l'expedient (5).pdf",
+            "path": "oKbqv8EW3880hO_NxRwu-b_qVroHTun01R3247ZDEXJz88ZrlI62k7BVaCjYN4K0rzrLE_PpwasodKcb8Oe6eIA6LC59G6KTQajCogjGXdEsNefQNlIJpr1h0n0tM12fonUMLd3Mep4teDYWZhNT9UFwxYXcCpK5ftSH-yv2XffT_IGdVp1lP2nUeMQr5OhpNWvwa5-yh1YtNKZD8G2T0NHPzDzwumf3JUSshT1vTEQIBHTqYlQQ8o7dev05pn-X1UIbGAOGaxey0urwky1q1_E4obXC-1eFOS7MlLNHYuHIP__wu4YwqFgWSGUuOvT6oHbkD1prnAUjrRsHbHABmQ==",
+            "hash": "BEDDCA5A711C5FEAB9F611049CA94F9C",
+            "idioma": "ca",
+            "mida": 9595
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "altresDocuments": {
+        "ca": [
+          {
+            "id": 300689543,
+            "titol": "DECL. i QUADRE SUBROGACIÓ personal i 230327 DR_012_SIGNAT.pdf",
+            "path": "k2vLYyL3bPipE0XwrdEg4Q6gCvAAozfVXwnJILy2sjVH_tZwFlFXz7YytsEFBdT0BnFX72bEmIE-1HL2jLABjw9_53H_0SeS1OHWqZaz5hF5bWFh0oqRjBFbnajNa8h1EHXocX7cG9q2iMqHvXZnsaH_tDDSoG2QBh1uzleNWKe8fqsnY5wGulP5JTUjdTOqapedQESpcWRNSA9EKioP49V97M3Wd9rJid2mwRS1rMxjO76lT01N_GQXnNpFVMjSP_cdCXIiTUwVoRX6npKMjbYIB1SzL2Er8vyDxlijuEpyXBjzCo-J8cf2ZfeUxAzav23qOGVOI9_CKMVRpbf6aw==",
+            "hash": "3F62D18554FE89019D454FB10455EC3D",
+            "idioma": "ca",
+            "mida": 317600
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "llenguesRedactarOfertes": {},
+      "maximLotsLicitadorSePotAdjudicar": 1,
+      "contracteRelacionatFinanciatFonsUnioEuropea": false,
+      "numeroDeLots": 2,
+      "divisioEnLots": {
+        "id": 1008402,
+        "ca": "Amb lots"
+      },
+      "motiuContracteNoInformatLots": {},
+      "publicacionsOficials": [],
+      "contractacioConjunta": false,
+      "peuRecurs": {
+        "ca": "1 Són susceptibles de recurs especial en matèria de contractació, les actuacions previstes a l’article 44.1 LCSP. Aquest recurs té caràcter potestatiu, i s’interposarà davant el Tribunal Català de Contractes del Sector Públic. Alternativament, es podrà interposar recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, reguladora de la jurisdicció contenciosa administrativa.\nContra els actes susceptibles de recurs especial no procedeix la interposició de recursos administratius ordinaris \n2. Contra els actes que adopti l’òrgan de contractació en relació amb els efectes, compliment i extinció d’aquest contracte que no siguin susceptibles de recurs especial en matèria de contractació, procedirà la interposició del recurs administratiu ordinari que correspongui d’acord amb el que estableix la Llei 26/2010, del 3 d’agost, del règim jurídic i de procediment de les administracions públiques de Catalunya, i la legislació bàsica del procediment administratiu comú; o del recurs contenciós administratiu, de conformitat amb el que disposa la Llei 29/1998, de 13 de juliol, reguladora de la jurisdicció contenciosa administrativa."
+      },
+      "adrecaPresentacioRecurs": {},
+      "ofertaIntegradora": false,
+      "elementsCondicionsOfertesIntegradores": {}
+    },
+    "dadesPublicacioLot": [
+      {
+        "ultimaObertura": {
+          "dataObertura": "2024-10-01T07:00:00.000Z",
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {}
+        },
+        "numeroLot": "1",
+        "lotId": 0,
+        "descripcio": {
+          "ca": "Servei de gestió, atenció al públic i manteniment- del Castell de Montjuïc"
+        },
+        "pressupostLicitacio": 1879697.18,
+        "publicacioExpedientId": 300234179,
+        "titol": "Servei de gestió, atenció al públic i manteniment",
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 2274433.59,
+        "varisTipusIva": false,
+        "valorEstimat": 3943448.04,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES511",
+          "ca": "Barcelona"
+        },
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 2,
+          "mesos": 0,
+          "dies": 0,
+          "observacions": {
+            "ca": "La durada del contracte serà de 24 mesos comptadors a partir del dia 2 de desembre de 2024 o bé des de l’endemà de la seva formalització, si aquesta fos posterior."
+          }
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008183,
+              "ca": "Condicions especials tipus  Social",
+              "en": "Special social type conditions",
+              "oc": "Condicions especiaus tipe Sociau"
+            },
+            "descripcio": {
+              "ca": "El pagament directe del preu a les empreses subcontractades"
+            }
+          },
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008183,
+              "ca": "Condicions especials tipus  Social",
+              "en": "Special social type conditions",
+              "oc": "Condicions especiaus tipe Sociau"
+            },
+            "descripcio": {
+              "ca": "L’acreditació de pagament en termini a les empreses subcontractades"
+            }
+          },
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008183,
+              "ca": "Condicions especials tipus  Social",
+              "en": "Special social type conditions",
+              "oc": "Condicions especiaus tipe Sociau"
+            },
+            "descripcio": {
+              "ca": "Manteniment de les condicions laborals de les persones que executen el contracte durant tot el període contractual"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "dataObertura": "2024-10-01T07:00:00.000Z",
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {}
+          }
+        ],
+        "prorroguesPrevistes": true,
+        "informacioProrrogaComplementaria": {
+          "ca": "La durada del contracte serà de 24 mesos comptadors a partir del dia 2 de desembre de 2024 o bé des de l’endemà de la seva formalització, si aquesta fos posterior.\n"
+        },
+        "modificacioPrevista": true,
+        "informacioModificacioComplementaria": {
+          "ca": "Causes previstes de modificació:\n- L’Augment o reducció del volum de serveis objecte del contracte; 2,5%\n- L’increment o reducció del material inclòs als dos lots del contracte; 2,5%"
+        },
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "garantiaDefinitiva": true,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008242,
+              "ca": "Relació serveis o treballs efectuats de la mateixa naturalesa en el curs de com a màxim els últims tres anys",
+              "en": "List of services or work of the same nature carried out during the last three years at most",
+              "oc": "Relacion servicis o trabalhs efectuadi dera madeisha natura en cors de coma maximom es darrèri tres ans"
+            },
+            "valorMinimExigit": {
+              "ca": "900.000,00 euros"
+            },
+            "mitjaAcreditacio": {
+              "id": 1008253,
+              "ca": "Certificats o declaracions de bona execució",
+              "en": "Certificates or declarations of good quality production",
+              "oc": "Certificats o declaracions de bona execucion"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          },
+          {
+            "criteriSolvencia": {
+              "id": 1008245,
+              "ca": "Declaració sobre la plantilla mitjana anual  i del nombre de directius dels últims tres anys",
+              "en": "Statement on the average annual workforce and the number of managers for the last three years",
+              "oc": "Declaracion sus era plantilha mejana annau e deth nombre de directius des darrèri tres ans"
+            },
+            "valorMinimExigit": {
+              "ca": "10 persones"
+            },
+            "mitjaAcreditacio": {
+              "id": 1008249,
+              "ca": "Documentació justificativa plantilla mitjana anual",
+              "en": "Documentation indicating the annual average workforce",
+              "oc": "Documentacion justificativa plantilha mejana annau"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008218,
+              "ca": "Volum anual de negocis",
+              "en": "Annual volume of business",
+              "oc": "Volum annau de negòcis"
+            },
+            "valorMinimExigit": {
+              "ca": "1.000.000,00 euros"
+            },
+            "mitjaAcreditacio": {
+              "id": 1008226,
+              "ca": "Comptes anuals",
+              "en": "Annual accounts",
+              "oc": "Compdes annaus"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "percentatgeGarantiaDefinitiva": 5,
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 40,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008363,
+                  "ca": "Característiques tècniques i funcionals"
+                },
+                "puntuacio": 20,
+                "descripcioCriteri": {}
+              },
+              {
+                "tipusCriteri": {
+                  "id": 1008367,
+                  "ca": "Organització",
+                  "en": "Organisation",
+                  "oc": "Organizacion"
+                },
+                "puntuacio": 20,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 35,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 35,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 25,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008368,
+                  "ca": "Qualificació del personal adscrit",
+                  "en": "Qualification of assigned personnel",
+                  "oc": "Qualificacion deth personau adscrit"
+                },
+                "puntuacio": 10,
+                "descripcioCriteri": {}
+              },
+              {
+                "tipusCriteri": {
+                  "id": 1008391,
+                  "ca": "Utilització energia renovable",
+                  "en": "Use of renewable energy",
+                  "oc": "Utilizacion energia renovabla"
+                },
+                "puntuacio": 10,
+                "descripcioCriteri": {}
+              },
+              {
+                "tipusCriteri": {
+                  "id": 1008361,
+                  "ca": "Altres criteris relacionats amb els costos",
+                  "en": "Other criteria related to costs",
+                  "oc": "D’auti critèris restacadi damb es còsti"
+                },
+                "puntuacio": 5,
+                "descripcioCriteri": {}
+              }
+            ]
+          }
+        ],
+        "codisCpv": [],
+        "cpvPrincipal": {
+          "codi": "92521000-9",
+          "ca": "Serveis de museus",
+          "es": "Servicios de museos",
+          "en": "Museum services",
+          "oc": "Servicis de musèus"
+        },
+        "cpvsSecundaris": [],
+        "garantiaComplementaria": false,
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        }
+      },
+      {
+        "ultimaObertura": {
+          "dataObertura": "2024-10-01T07:00:00.000Z",
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {}
+        },
+        "numeroLot": "2",
+        "lotId": 1,
+        "descripcio": {
+          "ca": "Servei educatiu i de mediació del Castell de Montjuïc"
+        },
+        "pressupostLicitacio": 395273.96,
+        "publicacioExpedientId": 300234179,
+        "titol": "Servei educatiu i de mediació",
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 478281.49,
+        "varisTipusIva": false,
+        "valorEstimat": 829251.83,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES511",
+          "ca": "Barcelona"
+        },
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 2,
+          "mesos": 0,
+          "dies": 0,
+          "observacions": {
+            "ca": "La durada del contracte serà de 24 mesos comptadors a partir del dia 2 de desembre de 2024 o bé des de l’endemà de la seva formalització, si aquesta fos posterior."
+          }
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008183,
+              "ca": "Condicions especials tipus  Social",
+              "en": "Special social type conditions",
+              "oc": "Condicions especiaus tipe Sociau"
+            },
+            "descripcio": {
+              "ca": "El pagament directe del preu a les empreses subcontractades"
+            }
+          },
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008183,
+              "ca": "Condicions especials tipus  Social",
+              "en": "Special social type conditions",
+              "oc": "Condicions especiaus tipe Sociau"
+            },
+            "descripcio": {
+              "ca": "L’acreditació de pagament en termini a les empreses subcontractades"
+            }
+          },
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008183,
+              "ca": "Condicions especials tipus  Social",
+              "en": "Special social type conditions",
+              "oc": "Condicions especiaus tipe Sociau"
+            },
+            "descripcio": {
+              "ca": "Manteniment de les condicions laborals de les persones que executen el contracte durant tot el període contractual"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "dataObertura": "2024-10-01T07:00:00.000Z",
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {}
+          }
+        ],
+        "prorroguesPrevistes": true,
+        "informacioProrrogaComplementaria": {
+          "ca": "La durada del contracte serà de 24 mesos comptadors a partir del dia 2 de desembre de 2024 o bé des de l’endemà de la seva formalització, si aquesta fos posterior."
+        },
+        "modificacioPrevista": true,
+        "informacioModificacioComplementaria": {
+          "ca": "Causes previstes de modificació:\n- L’Augment o reducció del volum de serveis objecte del contracte; 2,5%\n- L’increment o reducció del material inclòs als dos lots del contracte; 2,5%"
+        },
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "garantiaDefinitiva": true,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008242,
+              "ca": "Relació serveis o treballs efectuats de la mateixa naturalesa en el curs de com a màxim els últims tres anys",
+              "en": "List of services or work of the same nature carried out during the last three years at most",
+              "oc": "Relacion servicis o trabalhs efectuadi dera madeisha natura en cors de coma maximom es darrèri tres ans"
+            },
+            "valorMinimExigit": {
+              "ca": "250.000,00 euros"
+            },
+            "mitjaAcreditacio": {
+              "id": 1008253,
+              "ca": "Certificats o declaracions de bona execució",
+              "en": "Certificates or declarations of good quality production",
+              "oc": "Certificats o declaracions de bona execucion"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          },
+          {
+            "criteriSolvencia": {
+              "id": 1008245,
+              "ca": "Declaració sobre la plantilla mitjana anual  i del nombre de directius dels últims tres anys",
+              "en": "Statement on the average annual workforce and the number of managers for the last three years",
+              "oc": "Declaracion sus era plantilha mejana annau e deth nombre de directius des darrèri tres ans"
+            },
+            "valorMinimExigit": {
+              "ca": "3 persones"
+            },
+            "mitjaAcreditacio": {
+              "id": 1008249,
+              "ca": "Documentació justificativa plantilla mitjana anual",
+              "en": "Documentation indicating the annual average workforce",
+              "oc": "Documentacion justificativa plantilha mejana annau"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008218,
+              "ca": "Volum anual de negocis",
+              "en": "Annual volume of business",
+              "oc": "Volum annau de negòcis"
+            },
+            "valorMinimExigit": {
+              "ca": "300.000,00 euros"
+            },
+            "mitjaAcreditacio": {
+              "id": 1008226,
+              "ca": "Comptes anuals",
+              "en": "Annual accounts",
+              "oc": "Compdes annaus"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "percentatgeGarantiaDefinitiva": 5,
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 35,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 35,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 25,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008368,
+                  "ca": "Qualificació del personal adscrit",
+                  "en": "Qualification of assigned personnel",
+                  "oc": "Qualificacion deth personau adscrit"
+                },
+                "puntuacio": 10,
+                "descripcioCriteri": {}
+              },
+              {
+                "tipusCriteri": {
+                  "id": 1008426,
+                  "ca": "Altres clàusules diferents a les anteriors"
+                },
+                "puntuacio": 10,
+                "descripcioCriteri": {}
+              },
+              {
+                "tipusCriteri": {
+                  "id": 1008367,
+                  "ca": "Organització",
+                  "en": "Organisation",
+                  "oc": "Organizacion"
+                },
+                "puntuacio": 5,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 40,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008363,
+                  "ca": "Característiques tècniques i funcionals"
+                },
+                "puntuacio": 20,
+                "descripcioCriteri": {}
+              },
+              {
+                "tipusCriteri": {
+                  "id": 1008367,
+                  "ca": "Organització",
+                  "en": "Organisation",
+                  "oc": "Organizacion"
+                },
+                "puntuacio": 20,
+                "descripcioCriteri": {}
+              }
+            ]
+          }
+        ],
+        "codisCpv": [],
+        "cpvPrincipal": {
+          "codi": "92521000-9",
+          "ca": "Serveis de museus",
+          "es": "Servicios de museos",
+          "en": "Museum services",
+          "oc": "Servicis de musèus"
+        },
+        "cpvsSecundaris": [],
+        "garantiaComplementaria": false,
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        }
+      }
+    ],
+    "dadesExpedient": {
+      "organContractacioId": 16054009,
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "d64c0289-9916-43f6-a457-b4d3f02a0add",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "denominacioExpedientReferencia": {}
+    },
+    "motiuEsmena": {}
+  },
+  "pathPdf": "efncgSf5jA4anMa3uVj_uqhRd6UeUM9oIEyT89AOWsX6yXcdgeuIIHRVWPS5D3angakscW_Z3yp5L9WOjBhQrt8NieQhQkZ-SnR8cdmZRVsWG8yLiELSk9_IIUymckFNSe6ryD11iJioWqOC917wyxAPw4ztuJ9iHOju6uCWgyTLwEq7IntwNJxPDMa-t5jNpktsbaqAqHKFioLQ3cpZzxkroEg_MYGGGyLjenfRk_obfOqfyXI-dW8niTIwVI0_iWlQ2_SelRkbLxTX-dqJqeQCXIGDgWtF2aHtPSP7IA_gG4NEGQth5IkxUNCWxEA_U5ldj2nLrJ8vujXcVpQFCQ==",
+  "pathCertificacio": "k0MR3CZ4SZiPsAfanlq4ly52GhwADjiJfi1wtXq2nCFfvc0JmBld4s4W0Pe9M-0EBhOK6YPDvDZJ6f0vDVGB7WEk8dmF4eBFhsCqKbrRglCL7zjsynATgw8aE3BKepjynW_wy4vHNMnZr2YztqsvbP8ooDHq9OYY3uQpk4yZ35OESj20YptVWMaV_FSS09j0K0Zs2x7JcebzvSbnrvWMyL6mfARgu54cjV6EBhth1Px_uaQ6Pm65Wxc1iJvNeqO1q2oUDMEmsVx73AH_Wqe5UFrGbKXjDMD7oYBSYVDS-GE1K8cWe15qRRFuW3epl4wyee3uvBdBGHItr0zObGz0aw==",
+  "pathJson": "Lh2sVfVyj4VDAghQjwtiEnpX_8EeyVvgARU_F_RLeWCSMjUnXVLpl5l01JhyA27UGNB6bEdzgXfNSYg6BK2_IDHAbstRMtzFHvyybh68EE3dCl2GiQV6Sfqrd0lx356v61mRIZGEIER8K3Suu5kXAKiNSN0u-NAUxKbTgxyFiYgF7KxUqpXsUs0gxs0B-DhKcLECoWu7LAxSezuBJjLbzEk_gcU5xOiTLW_ncSMhjF67Y0vPk0bQvU74wIp5NvcxrI6Dx51WvUP-fix90RmpYveG1P9yN3kPYuvkm0V8QfRCpQb3FTbe5Jhl9FGVQcaKB7vyDFS5ThGJoyeeic3Sug==",
+  "dataPublicacioReal": "2024-08-30T16:06:06.159Z",
+  "dadesExpedient": {
+    "organContractacioId": 16054009,
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "expedientId": "d64c0289-9916-43f6-a457-b4d3f02a0add",
+    "dataFiPublicacioPerfil": null,
+    "dataFiGestio": null,
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "tenderingSpaceId": null,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 11386,
+    "dataVisiblePortalAccesExclusiu": null,
+    "expedientIdReferencia": null,
+    "codiExpedientReferencia": null,
+    "denominacioExpedientReferencia": {
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "nomOrganContractacioReferencia": null
+  }
+}

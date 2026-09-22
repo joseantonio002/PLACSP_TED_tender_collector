@@ -1,0 +1,56 @@
+{
+  "case_id": "09_withdrawal_retains_award",
+  "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/10275923",
+  "tags": [
+    "cancelled",
+    "award",
+    "complementary_history"
+  ],
+  "fetch_historical_notices": true,
+  "placsp_observations": 1,
+  "gencat_rows": 1,
+  "evidence_references": [
+    {
+      "source": "placsp",
+      "file": "placsp-000.xml.fragment",
+      "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2026.zip",
+      "member": "PlataformasAgregadasSinMenores_20260217_040108_1.atom",
+      "entry_ordinal": 184,
+      "byte_start_in_member": 1671105,
+      "byte_end_in_member": 1679636,
+      "fragment_sha256": "9605b308f59a3bafd6c648a7a0ba59e30901f8d587202b39fcb6f01587e5d801",
+      "note": "Exact byte slice, namespace bindings inherited from parent feed; original complete XML is in archive member."
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/000000000.json",
+      "row_ordinal": 509,
+      "socrata_id": "row-r3sv~uwv9~sc39",
+      "id_intern": "ff3d3f75-b452-4e97-471f-854e61e9fd07"
+    }
+  ],
+  "phase_json": {
+    "102238048": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/102238048/Zli3DUoWTuVv0mkarZXBVDpDIgkdTw1yekT3HskO6MHssd2AuBakLtCqRR6UBAPbiyqqtxSH9acsDc52Z3r9IkrrdmYAzjeJab0cQxESgsnAV-lJ0IbnjRBYRXPvz0xsoAw1o9PWDTmLgujljPsprweXi9YKOQf9cCsgC1jRAQ0cm2U7texih0hrVLQZ-bxRCXMcGo8w__lMRSN5IneaEA4XqtIiIUea9_s-a8Yl1CiEWPbnUKRk9UdeUHfc6_KkzdSQtcfcKaIC1wIv7WIVeXzkLAKP87z-RCaWixaXpSgPqTW43S0QlRiCICIlPu_lYvQycCV2WvRXPYOsracb9Q==",
+      "field": "url_json_licitacio",
+      "source_row_id": "row-r3sv~uwv9~sc39",
+      "error": "404 Client Error:  for url: https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/102238048/Zli3DUoWTuVv0mkarZXBVDpDIgkdTw1yekT3HskO6MHssd2AuBakLtCqRR6UBAPbiyqqtxSH9acsDc52Z3r9IkrrdmYAzjeJab0cQxESgsnAV-lJ0IbnjRBYRXPvz0xsoAw1o9PWDTmLgujljPsprweXi9YKOQf9cCsgC1jRAQ0cm2U7texih0hrVLQZ-bxRCXMcGo8w__lMRSN5IneaEA4XqtIiIUea9_s-a8Yl1CiEWPbnUKRk9UdeUHfc6_KkzdSQtcfcKaIC1wIv7WIVeXzkLAKP87z-RCaWixaXpSgPqTW43S0QlRiCICIlPu_lYvQycCV2WvRXPYOsracb9Q==",
+      "raw_path": "data/raw/gencat/legacy_probes/102238048.bin",
+      "format": "xml",
+      "recovered_by": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/102238048"
+    },
+    "200114506": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/200114506/qiv6cspRbh9I-6TNGf-ERaL2OpOYfnLeqxX51vJu3tIQw3VlrKHOuOBbznhfg8Y3CK3tfNEuWJFCgIS2c1sEaNI9upZDhKj6BiS9cjoFy_J47x98Y0TKNhtkcaqemetjT3kXhYjXbQ_W5FCyln9UJOSG6_EHpPIdmADBxWfYe8FYDJSQwY3DYxUln5GNAWk73YaaLmuTgrj2Fa7hLCsogvI-c5xXPpOgqcV7NRTber5620P2fkgMi7uu9gRpocnEIweRtwahwPTYNucI_kq3r8UJYQX8K3m5Sc7nApfFK2ntyXHw9pPPMCshlJVOfRer2QWjsnq3YgI25z--nY-Fhw==",
+      "field": "url_json_adjudicacio",
+      "source_row_id": "row-r3sv~uwv9~sc39",
+      "raw_path": "data/raw/gencat/phases/200114506.json"
+    },
+    "300694438": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300694438/DigZ0sYsTiMwvAY662V8Z400IAD0rdSvlRuLGfhADm4y53JoRIEg42rKtrzf2z2AyNteVde5sRqGFzTK5gSLrXdaSHvZexdABlrMCzrZmRUTiZg3yyJNwlm0-EbQkRvdVhrZTcbaZK4-XDHAUebnVNifjPr-g-0fQ_8ftl1pUZCc96fNIeCzeZfq0rvWSp4RmCg4Vzvv2RSGuNTXER-6GnrO3Un87OEsE3pfvTSTaIKSEAU64tlKhAhPUZCVIJe3sp7WKAiSJPO0N1n7XlLiZ8T82WIuq0pHOPxO1M0bbLTny8HEOjw9qUcDIPX7wPht5JNVQ-7wGZI2SJmX6lMgSQ==",
+      "field": "url_json_anulacio",
+      "source_row_id": "row-r3sv~uwv9~sc39",
+      "raw_path": "data/raw/gencat/phases/300694438.json"
+    }
+  },
+  "folder": "data/samples/09_withdrawal_retains_award"
+}

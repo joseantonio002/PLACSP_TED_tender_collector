@@ -1,0 +1,82 @@
+{
+  "case_id": "01_amb_correction",
+  "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20283724",
+  "tags": [
+    "same_identity",
+    "correction",
+    "multilingual",
+    "historical_notice"
+  ],
+  "fetch_historical_notices": true,
+  "placsp_observations": 3,
+  "gencat_rows": 1,
+  "evidence_references": [
+    {
+      "source": "placsp",
+      "file": "placsp-000.xml.fragment",
+      "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2026.zip",
+      "member": "PlataformasAgregadasSinMenores_20260812_030033.atom",
+      "entry_ordinal": 451,
+      "byte_start_in_member": 5324381,
+      "byte_end_in_member": 5332091,
+      "fragment_sha256": "0673d0533cff55933a52e5161ba9412aab950c3c8ae24be2825991e12cfd00a7",
+      "note": "Exact byte slice, namespace bindings inherited from parent feed; original complete XML is in archive member."
+    },
+    {
+      "source": "placsp",
+      "file": "placsp-001.xml.fragment",
+      "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2026.zip",
+      "member": "PlataformasAgregadasSinMenores_20260920_030048_1.atom",
+      "entry_ordinal": 407,
+      "byte_start_in_member": 4690693,
+      "byte_end_in_member": 4697535,
+      "fragment_sha256": "24509081ddbfa9a5fe8ec7392427e3e1c2acdf471fbfcc0ff08852b06b2f73c3",
+      "note": "Exact byte slice, namespace bindings inherited from parent feed; original complete XML is in archive member."
+    },
+    {
+      "source": "placsp",
+      "file": "placsp-002.xml.fragment",
+      "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2026.zip",
+      "member": "PlataformasAgregadasSinMenores.atom",
+      "entry_ordinal": 25,
+      "byte_start_in_member": 241961,
+      "byte_end_in_member": 248797,
+      "fragment_sha256": "e66979d1ec776c98d0a3db22c88fd56526f2c8ae065cfd4bc7566e77b7ad255c",
+      "note": "Exact byte slice, namespace bindings inherited from parent feed; original complete XML is in archive member."
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/001030000.json",
+      "row_ordinal": 6271,
+      "socrata_id": "row-uvc4~ws2c-5q3s",
+      "id_intern": "4b131001-63ad-4eac-a80a-ab91c3a9f366"
+    }
+  ],
+  "phase_json": {
+    "300885987": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300885987/IQJl7UFLgi0SkOCLLjWx36PJPwTyEaQ_yg27b2-BPRCwtY4M6u6w9-oneGbJB-nEbqe7qs2Y68KoN86Y6YnwpcjK2pbgsvIeRnSiTfNwLFsTgJbd3yBcFfYbpCiyd94dKdyZzYD3MEtvdfTKhpY54vIC1ALpiRcPVslLFg8JEcJ6STIl5lz5Vyyv6W7c_RB0lZgqo5q-5d0GO4o17phO2EmmJYeuQpGND1kElRD1S0s1g584YdhgvgB9DKVQFueUKIJUtJC-6N2nbboA1Er764ELYRnFUBdaxfVNJxOFnuERit3g9ej7eK_6Q48EtQGhgYwShLONdclHrzYIOmkCyg==",
+      "field": "url_json_licitacio",
+      "source_row_id": "row-uvc4~ws2c-5q3s",
+      "raw_path": "data/raw/gencat/phases/300885987.json"
+    },
+    "300888482": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300888482/e2WCUKJS1VA9m1aqsAACANfHRXK8unZA3K6K6JGqaRBkYGh7WOM2o69vVCbYnqs07Z1dJS-yShAQNCx4d9TaO_Z4ZNlpUPCYtBxh5GUg0kBR0sx8Fz7bKCq_oQOfL11dE4gdC8fX_uMVmFf-t5ee96ZAQWKBOk8k_T1j5jQNZhxF7-UlW85nXQwwyfA6lr5bQ2zOPDMVHRBU2LJ55PiIESzF3xwCnpHWfzKjQdFSL6pSbXDlAXGv1mQ4l23Lpwds8Bmx0ZjU4A2W3QuzVnJ163e3_nw0E8BKSVFt33JvfQ0BJCSMe4_SLS5FgL3r7XCGo05jQ6SjCbQhfCB0ziK29w==",
+      "field": "url_json_avaluacio",
+      "source_row_id": "row-uvc4~ws2c-5q3s",
+      "raw_path": "data/raw/gencat/phases/300888482.json"
+    },
+    "300837018": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300837018",
+      "field": "historical_placsp_publication_link",
+      "source_placsp_updated": "2026-08-11T10:02:29.069+02:00",
+      "raw_path": "data/raw/gencat/phases/300837018.json"
+    },
+    "300885990": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300885990",
+      "field": "historical_placsp_publication_link",
+      "source_placsp_updated": "2026-09-17T22:00:04.660+02:00",
+      "raw_path": "data/raw/gencat/phases/300885990.json"
+    }
+  },
+  "folder": "data/samples/01_amb_correction"
+}

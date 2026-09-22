@@ -1,0 +1,874 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "11741_2026_32",
+  "idExpedient": "ae7fb403-e3f4-4d5d-a0fd-7fe85cb8345d",
+  "dataPublicacioPlanificada": "2026-08-27T21:30:00.000Z",
+  "organ": {
+    "nom": "Ajuntament de Puigverd d'Agramunt",
+    "unitat": "Ple de l'Ajuntament",
+    "nif": "P2522400G",
+    "personesContacte": [],
+    "centralCompres": false,
+    "tipusPoderAdjudicador": 1500006,
+    "organContractacioId": 15494733,
+    "activitatPrincipalOrgan": {
+      "id": 1051243,
+      "ca": "Serveis de caràcter general",
+      "es": "Servicios de carácter general"
+    }
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000040,
+      "ca": "Anunci de licitació",
+      "es": "Anuncio de licitación",
+      "en": "Tender announcement",
+      "oc": "Anóncia de licitacion"
+    },
+    "expedientId": "ae7fb403-e3f4-4d5d-a0fd-7fe85cb8345d",
+    "teLots": true,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000040,
+        "ca": "Anunci de licitació",
+        "es": "Anuncio de licitación",
+        "en": "Tender announcement",
+        "oc": "Anóncia de licitacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "11741_2026_32",
+      "denominacio": {
+        "ca": "Consolidació estructural i restauració del Molí del Senyor"
+      },
+      "descripcio": {
+        "ca": "Licitació conjunta dividida en tres lots diferenciats per a les actuacions sobre el Pont Medieval del Molí de Puigverd i el Molí del Siscar, sota el títol genèric \"Consolidació estructural i restauració del Molí del Senyor\"."
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "unitatContractacio": 100000133,
+      "tipusContracte": {
+        "id": 395,
+        "ca": "Obres",
+        "es": "Obras",
+        "en": "Work projects",
+        "oc": "Òbres"
+      },
+      "procedimentAdjudicacio": {
+        "id": 419,
+        "ca": "Obert simplificat",
+        "es": "Abierto simplificado",
+        "en": "Open simplified",
+        "oc": "Daurit simplificat"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "metodologiaBim": true
+    },
+    "dadesPublicacio": {
+      "pressupostLicitacio": 250143.67,
+      "observacions": {},
+      "contracteHarmonitzat": false,
+      "dataTerminiPresentacioOSolicitud": "2026-09-16T21:59:59.000Z",
+      "adrecaElectronicaPresentacioOfertes": {},
+      "preveuenModificacionsAlsPlecs": false,
+      "preveuenProrroguesAlsPlecs": false,
+      "informacioComplementariaProrroga": {},
+      "informacioComplementariaModificacio": {},
+      "valorEstimatContracte": 250143.67,
+      "iva": 21,
+      "varisTipusIva": false,
+      "pressupostBaseLicitacioAmbIva": 302673.84,
+      "acpAplicable": false,
+      "justificacioProcedimentUtilitzat": {},
+      "plecsDeClausulesAdministratives": {
+        "ca": [
+          {
+            "id": 302550717,
+            "titol": "11741_2026_32_Plec_ClausulesSG.pdf",
+            "path": "Mkl0dLvzYpq5_rTTsAJYURrX-aMhl0N6701qPxn46hzkz91rHygY5QICwWBUDtsbPWT1aScGXGF0HKcb99vhuJRSGTr5lXPOea6ZLEsSW86Cud-LbakPkF4HN0_l024m8KeqH82bzmjk7Pd5IdZxX308L_OXUwpvmEhMP9tRVWbgpt4RDnYEDSlgpFpFIrWxstsRq_w0v0h5s7bUfAeKgHkKiwRum0ZTUN72xGRq7igrlP14jPUfFlMd_dYDe_nbpnToR2-FB-XodgWw4SsdjceaqDgPBVq-ktMPR5gErw9uNEtYK4_oevJrqQvyeOGtE3GNjX5qDUvojualxcRzhw==",
+            "hash": "8428C906F186885E884044102DC55AA3",
+            "idioma": "ca",
+            "mida": 482638
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "plecsDePrescripcionsTecniques": {
+        "ca": [
+          {
+            "id": 302550712,
+            "titol": "PCT_3_LOTS.pdf",
+            "path": "T5SANAKldjc76UkDzjI0w99emWK61ndcczrvTnsJ3084xpX-UbGg56Aluc92kpsuG26ozS33MA6ycjE_0PajKEAYhi72O0EgND4PKKOy_H0vsQNsA4WcQeZUNslktsQBDlWFxFYPi4wBXDldItK404m1R2R2oV5MVe0NqR2VLYn9m38W_kKXLDETIGoLgWueYlQUfVtbr9rINnkbiCrcg2a4ixzyINj_YXNz57_ITmuQNoLs3x2op99pyl9JpCj6iqRJMcK47eishK9eB4Jat2C3zJ6xsiNsQCn2c2bInXp5tfPzBkQR1RF8YS2AUwWxTvAFZX7wGhP9pEwgsMrIXQ==",
+            "hash": "40239A373A0074E978AE1B98EF95A792",
+            "idioma": "ca",
+            "mida": 2894132
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "memoriaJustificativaContracte": {
+        "ca": [
+          {
+            "id": 302550716,
+            "titol": "11741_2026_32_memoriasg.pdf",
+            "path": "B0Iq6RxyDW-e6Uw4C-3sW_oxHRwPQ78e1QR7cWcl1m1AzlTOVAGMf7q_8iteP_DmD_VXsxH9NEHMQptkTmdmdrIaVb2tvhyqZxbAxWHkeGLxoDIXqORVXYenfqmH3Sye6zoG8Bsa9fXVhh0_QYghD_GDxqpu_qtyISO7W6-rFyt6SmdnxPKeuRvWG2eg7mlsWttItsUWhQgtSqyq-ftDYboiu_kZCjS99d9yISUiUn5Z42HQmhFpzI-33OBHx9PG8h12Tg3Hw1oFbO-MMj1Rfs3xrZBfj4sPO4Znjyu6cCyui_yn3g3oEoaB_GSPRoBCotZGHQRBk2_DCGzn8fK6iA==",
+            "hash": "45FDD8B7FAEA581748E874AA1813B56D",
+            "idioma": "ca",
+            "mida": 277520
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "documentsAprovacio": {
+        "ca": [
+          {
+            "id": 302550711,
+            "titol": "11741_2026_32_20260826_Certificat_Ple_PC.pdf",
+            "path": "o84C7xghb-JkZBR0iGJLY3YxfYfNvdY_Iqa2NwPZy1lSoMol7-red2nZxdT82wL0AA7OHs-M68L8OpO4b7BLDNFqy6skQL9i5S2_MyIKjgaEPU9AeOEFncxPvjmkxo-znhyxXmKpTShFuJ3ajutIb-EkYQ_L99r_kkh4GqsuAM0OsQctDmMh_ZWghXId4esUBfppwCJsFbfDO9VSXxrxaNUmbPZfWG7Xj0Xs1Ic0plQk4LFMnYkeNw8pdBxolqQaHpZEwW2zmAYVQNAnNwxnlreINtF5TCsvTLk0_5PAhPsF2r3DJMm8JVRQBty7ktNfa1n_d-gPwz4TYt9y5NdVSg==",
+            "hash": "5F72A1AEB921B8FD1A7B03741D48F8DA",
+            "idioma": "ca",
+            "mida": 582243
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "altresDocuments": {
+        "ca": [
+          {
+            "id": 302550713,
+            "titol": "PBE_PONT_MEDIEVALsignat_2026.pdf",
+            "path": "tEkwvCjoHX-Bd3XpaVOWLkdzZtZijY3znNiYy_KORhsnzC4DzOg0WCmuWTNvBJFD462mz13UBVHGuX0JmDVwihQuPYNAKyouupOiqWHBRG2Nl8rQbaG0MgvvtIBVIe1vqixnGya5J9IuxTU5txHvqLs-eVw32sVM61dcbz6mK9Q5vXz_cw0-2P0RiV-WIY6ltqgsmw8g-lmGtGKb5KD6kVrlJDcxVEsCh3A0A0MBtFMuC98fa8qig29T0oTUST6RzRRPxDCtydfqSkiU4d2POX0TkKJPbFP5Ctd5A8Mhkt9mmyhUSLeLdFlsLNO6gutiOJFcdXnCcD0yv8JD8IfKzw==",
+            "hash": "3B0F6EA3BAE2CB57D236E7FFC6492F08",
+            "idioma": "ca",
+            "mida": 40514758
+          },
+          {
+            "id": 302550714,
+            "titol": "PBE_REC_ESPAIS_DESGUAS_MOLIsign_2026.pdf",
+            "path": "ZPUM2PJ_pUKTwp2-UnbSagLUZl7qgNFRjr-6CaHpkou69_tIAREa7jUg_Z3XMlPDjj7-WKxdb3DxJTXlQTly3L9D-sJFCri766-nizQimWttjfTeQ8L5GXKEuwDH6E7a1a9W-Ep4FXvxllgMolS4L-btnJWHGxxePh5ZOCbVD_AWNuZox1idPnSsQkOxfZh8QXn_cPdG668WxwFbr6t0RSlMjALj060MS6Kj566UbGS5sCJB_XfxZdZHrCLXKv0fSmpcFzxZK4jUHEMU7Pel2Yn1BJfSlyO8oRzTTQJftVJ2Kb36l66wO-NPM2YIuj2DndXl4O3xIERbpNgxjb8pig==",
+            "hash": "84AE1DE9F0D14A271C0232AF465DC6B1",
+            "idioma": "ca",
+            "mida": 62000950
+          },
+          {
+            "id": 302550715,
+            "titol": "PBE_LLENÇOS_FAÇANES_sign_2026.pdf",
+            "path": "SGjXduSIpJXCTZKTtDOIDGaqFs5hsU_27EZbzftLKG1BV-v-o_YH6SpHHnbZ5XSqAnMHIMSq3fF9pPSCyuW6tuUu80Jm14lxhMPoFtLL2svziJcOrmsIykvR6O0sEPikeE7v5BQeFA92CoP7MrcUvGKhSqfiN6TTZloe9c1QL819aYVVSpxldZyhywWvkGDOJWz0Xm0mdr5lPsOOF0gsTcvrBT0uFxhmk8wl1XvFlPxhTm5lHhetSJ8sjP0xLeQw-ioVZOGZ0SLD0ukBA3gMWjG2qv7nvxuEDil5XoWTu2hpLXHTirA8kglBf0PvqzBUfr1_5WdDEWXQaRyDA-QsCA==",
+            "hash": "72F7ED587D8E3C5330E28F31B68CDBBD",
+            "idioma": "ca",
+            "mida": 27138342
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "seleccioLlenguesRedactarOfertes": {
+        "ca": true,
+        "es": true,
+        "en": true,
+        "oc": true
+      },
+      "acceptaFacturacioElectronica": true,
+      "contracteRelacionatFinanciatFonsUnioEuropea": false,
+      "numeroDeLots": 3,
+      "divisioEnLots": {
+        "id": 1008402,
+        "ca": "Amb lots"
+      },
+      "motiuContracteNoInformatLots": {},
+      "contractacioConjunta": false,
+      "peuRecurs": {
+        "ca": "Contra la Resolució que posa fi a la via administrativa, pot interposar alternativament recurs de reposició potestatiu davant l'Alcalde d'aquest Ajuntament, en el termini d'un mes, de conformitat amb els articles 123 i 124 de la Llei 39/2015, d'1 d'octubre, del Procediment Administratiu Comú de les Administracions Públiques i computant-se els terminis de conformitat amb allò que s'ha fixat en la Disposició addicional quinzena  de la Llei 9/2017, de 8 de novembre, de Contractes del Sector Públic, per la qual es traslladen a l'ordenament jurídic espanyol les Directives del Parlament Europeu i del Consell 2014/23/UE i 2014/24/UE, de 26 de febrer de 2014; o bé interposar directament recurs contenciós-administratiu, davant Jutjat Contenciós Administratiu de Lleida en el termini de dos mesos, a comptar des de la pràctica de la present notificació, de conformitat amb l'article 46 de la Llei 29/1998, de 13 de juliol, de la Jurisdicció Contenciós-Administrativa. Si s'optés per interposar el recurs de reposició potestatiu no podrà interposar recurs contenciós-administratiu fins que aquell sigui resolt expressament o s'hagi produït la seva desestimació per silenci. Tot això sense perjudici de què pugui interposar Vè. qualsevol altre recurs que pogués estimar més convenient al seu dret."
+      },
+      "adrecaPresentacioRecurs": {},
+      "ofertaIntegradora": false,
+      "elementsCondicionsOfertesIntegradores": {}
+    },
+    "dadesPublicacioLot": [
+      {
+        "ultimaObertura": {
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {
+            "ca": "A partir de la data de l'obertura del sobre anterior"
+          },
+          "mostrarDataObertura": false,
+          "sobre": {
+            "ca": "Sobre B",
+            "es": "Sobre B",
+            "en": "Sobre B",
+            "oc": "Sobre B"
+          }
+        },
+        "numeroLot": "1",
+        "lotId": 0,
+        "descripcio": {
+          "ca": "Consolidació estructural, restauració i recuperació del pont medieval del Molí de Puigverd d’Agramunt (BCIL) catalogat. Recuperació de la continuïtat viària principal del municipi"
+        },
+        "pressupostLicitacio": 46172.93,
+        "publicacioExpedientId": 300869210,
+        "titol": "Recuperació Pont Medieval",
+        "denominacioExpedientReferencia": {},
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 55869.25,
+        "varisTipusIva": false,
+        "valorEstimat": 46172.93,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "duradaTermini": {
+          "mesos": 3,
+          "iniciTermini": "2026-09-29T22:00:00.000Z",
+          "fiTermini": "2026-12-29T23:00:00.000Z",
+          "observacions": {}
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "es": "Otras condiciones de ejecución",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "ca": "Celeritat"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {
+              "ca": "A partir de la data de l'obertura del sobre anterior"
+            },
+            "mostrarDataObertura": false,
+            "sobre": {
+              "ca": "Sobre B",
+              "es": "Sobre B",
+              "en": "Sobre B",
+              "oc": "Sobre B"
+            }
+          }
+        ],
+        "prorroguesPrevistes": false,
+        "informacioProrrogaComplementaria": {},
+        "modificacioPrevista": false,
+        "informacioModificacioComplementaria": {},
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "garantiaDefinitiva": true,
+        "percentatgeGarantiaDefinitiva": 5,
+        "garantiaComplementaria": false,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008234,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "mitjaAcreditacio": {
+              "id": 1008251,
+              "ca": " Documentació acreditativa",
+              "en": " Supporting documentation",
+              "oc": " Documentacion acreditatiua"
+            },
+            "descripcioCriteriSolvencia": {
+              "ca": "Cap d'Obra Especialitzat: Titulació universitària oficial en Arquitectura o Arquitectura Tècnica. Es requereix un mínim de 3 anys d'experiència professional acreditada en la direcció d'obres de restauració de patrimoni històric-artístic protegit o catalogat.\n• Equip d'Arqueologia: Presència obligatòria d'un/a arqueòleg/a col·legiat/da en exercici de forma presencial i permanent per a les obres associades als Lots 1 i 2, a causa de l'execució de moviments de terres, rases i afecció a la llera medieval.\n• Oficial de picapedrer / Canter: Personal d'ofici artesanal especialitzat en pedra de forma obligatòria adscrit per als Lots 1 i 3 (treballs directes sobre el pont històric i els llenços de façanes exteriors).\n• Experiència específica de l'empresa licitadora: S'exigeix com a criteri de solvència tècnica addicional haver actuat amb caràcter de contractista principal i adjudicatari oficial d'obres en actuacions sobre elements i estructures hidràuliques directament lligades a molins fariners antics, amb un mínim de dues (2) actuacions finalitzades completament (amb el corresponent certificat de final d'obra signat de conformitat) dins el període estricte dels últims dos anys en curs.\n"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008223,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "mitjaAcreditacio": {
+              "id": 1008227,
+              "ca": "Declaració responsable del volum de negocis global de l’empresa",
+              "en": "Responsible statement of the company's overall business volume",
+              "oc": "Declaracion responsabla deth volum de negòcis globaus dera empresa"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [
+          {
+            "grupClassificacioEmpresarial": {
+              "id": 11358,
+              "ca": "Grup C) Edificacions",
+              "en": "Group C) Buildings",
+              "oc": "Grop C) Edificacions"
+            },
+            "subgrupClassificacioEmpresarial": {
+              "id": 11288,
+              "ca": "Subgrup 4. Tasques de paleta, arrebossaments i revestiments.",
+              "en": "Subgroup 4. Brickwork, plastering and coverings.",
+              "oc": "Subgrup 4. Prètzhèts de paredèr, arrebossaments e revestiments."
+            },
+            "categoriaClassificacioEmpresarial": {
+              "id": 11350,
+              "ca": "Categoria 1, si la seva quantia és inferior o igual a 150.000 euros.",
+              "en": "Category 1, if its amount is less than or equal to 150,000 euros.",
+              "oc": "Categoria 1, s’era sua quantia ei inferiora o parièra a 150.000 èuros."
+            }
+          },
+          {
+            "grupClassificacioEmpresarial": {
+              "id": 11366,
+              "ca": "Grup K) Especials",
+              "en": "Group K) Special",
+              "oc": "Grop K) Especiaus"
+            },
+            "subgrupClassificacioEmpresarial": {
+              "id": 11342,
+              "ca": "Subgrup 7. Restauració de béns immobles historicoartístics.",
+              "en": "Subgroup 7. Restoration of historical-artistic real estate.",
+              "oc": "Subgrup 7. Restauracion de bens immòbles istoricoartístics."
+            },
+            "categoriaClassificacioEmpresarial": {
+              "id": 11351,
+              "ca": "Categoria 2, si la seva quantia és superior a 150.000 euros i inferior o igual a 360.000 euros.",
+              "en": "Category 2, if its amount is more than 150,000 euros and less than or equal to 360,000 euros.",
+              "oc": "Categoria 2, s’era sua quantia ei superiora a 150.000 èuros e inferior o parièr a 360.000 èuros."
+            }
+          }
+        ],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "contracteNomesExecutaEnMarcDeProgrames": false,
+          "reservaPrestacioServeiAProfessio": false,
+          "contracteRestringitACentresEspecials": false,
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "teDiversosCriterisAdjudicacio": false,
+        "criterisAdjudicacio": [],
+        "cpvPrincipal": {
+          "codi": "45212350-4",
+          "ca": "Edificis d'interès històric o arquitectònic particular",
+          "es": "Edificios de interés histórico o arquitectónico",
+          "en": "Buildings of particular historical or architectural interest",
+          "oc": "Bastisses d'interès istoric o arquitectonic particular"
+        },
+        "cpvsSecundaris": [
+          {
+            "codi": "45233252-0",
+            "ca": "Treballs de pavimentació de carrers",
+            "es": "Trabajos de pavimentación de calles",
+            "en": "Surface work for streets",
+            "oc": "Trabalhs de pavimentació de carrèrs"
+          }
+        ],
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "prescripcionsTecniquesSocials": false,
+        "prescripcionsTecniquesAmbientals": false,
+        "clausulaLinguistica": false,
+        "clausulaEtica": true,
+        "llistatPrescripcionsTecniquesSocials": []
+      },
+      {
+        "ultimaObertura": {
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {
+            "ca": "A partir de la data de l'obertura del sobre anterior"
+          },
+          "mostrarDataObertura": false,
+          "sobre": {
+            "ca": "Sobre B",
+            "es": "Sobre B",
+            "en": "Sobre B",
+            "oc": "Sobre B"
+          }
+        },
+        "numeroLot": "2",
+        "lotId": 1,
+        "descripcio": {
+          "ca": "Recuperació i consolidació estructural dels espais dels desguassos generals interiors i exteriors del Molí del Siscar."
+        },
+        "pressupostLicitacio": 120190,
+        "publicacioExpedientId": 300869210,
+        "titol": "Recuperació desguassos",
+        "denominacioExpedientReferencia": {},
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 145429.9,
+        "varisTipusIva": false,
+        "valorEstimat": 120190,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "duradaTermini": {
+          "mesos": 3,
+          "iniciTermini": "2026-09-29T22:00:00.000Z",
+          "fiTermini": "2026-12-29T23:00:00.000Z",
+          "observacions": {}
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "es": "Otras condiciones de ejecución",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "ca": "Celeritat"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {
+              "ca": "A partir de la data de l'obertura del sobre anterior"
+            },
+            "mostrarDataObertura": false,
+            "sobre": {
+              "ca": "Sobre B",
+              "es": "Sobre B",
+              "en": "Sobre B",
+              "oc": "Sobre B"
+            }
+          }
+        ],
+        "prorroguesPrevistes": false,
+        "informacioProrrogaComplementaria": {},
+        "modificacioPrevista": false,
+        "informacioModificacioComplementaria": {},
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "garantiaDefinitiva": true,
+        "percentatgeGarantiaDefinitiva": 5,
+        "garantiaComplementaria": false,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008234,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "mitjaAcreditacio": {
+              "id": 1008251,
+              "ca": " Documentació acreditativa",
+              "en": " Supporting documentation",
+              "oc": " Documentacion acreditatiua"
+            },
+            "descripcioCriteriSolvencia": {
+              "ca": "Cap d'Obra Especialitzat: Titulació universitària oficial en Arquitectura o Arquitectura Tècnica. Es requereix un mínim de 3 anys d'experiència professional acreditada en la direcció d'obres de restauració de patrimoni històric-artístic protegit o catalogat.\n• Equip d'Arqueologia: Presència obligatòria d'un/a arqueòleg/a col·legiat/da en exercici de forma presencial i permanent per a les obres associades als Lots 1 i 2, a causa de l'execució de moviments de terres, rases i afecció a la llera medieval.\n• Oficial de picapedrer / Canter: Personal d'ofici artesanal especialitzat en pedra de forma obligatòria adscrit per als Lots 1 i 3 (treballs directes sobre el pont històric i els llenços de façanes exteriors).\n• Experiència específica de l'empresa licitadora: S'exigeix com a criteri de solvència tècnica addicional haver actuat amb caràcter de contractista principal i adjudicatari oficial d'obres en actuacions sobre elements i estructures hidràuliques directament lligades a molins fariners antics, amb un mínim de dues (2) actuacions finalitzades completament (amb el corresponent certificat de final d'obra signat de conformitat) dins el període estricte dels últims dos anys en curs.\n"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008223,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "mitjaAcreditacio": {
+              "id": 1008227,
+              "ca": "Declaració responsable del volum de negocis global de l’empresa",
+              "en": "Responsible statement of the company's overall business volume",
+              "oc": "Declaracion responsabla deth volum de negòcis globaus dera empresa"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [
+          {
+            "grupClassificacioEmpresarial": {
+              "id": 11358,
+              "ca": "Grup C) Edificacions",
+              "en": "Group C) Buildings",
+              "oc": "Grop C) Edificacions"
+            },
+            "subgrupClassificacioEmpresarial": {
+              "id": 11288,
+              "ca": "Subgrup 4. Tasques de paleta, arrebossaments i revestiments.",
+              "en": "Subgroup 4. Brickwork, plastering and coverings.",
+              "oc": "Subgrup 4. Prètzhèts de paredèr, arrebossaments e revestiments."
+            },
+            "categoriaClassificacioEmpresarial": {
+              "id": 11350,
+              "ca": "Categoria 1, si la seva quantia és inferior o igual a 150.000 euros.",
+              "en": "Category 1, if its amount is less than or equal to 150,000 euros.",
+              "oc": "Categoria 1, s’era sua quantia ei inferiora o parièra a 150.000 èuros."
+            }
+          },
+          {
+            "grupClassificacioEmpresarial": {
+              "id": 11366,
+              "ca": "Grup K) Especials",
+              "en": "Group K) Special",
+              "oc": "Grop K) Especiaus"
+            },
+            "subgrupClassificacioEmpresarial": {
+              "id": 11342,
+              "ca": "Subgrup 7. Restauració de béns immobles historicoartístics.",
+              "en": "Subgroup 7. Restoration of historical-artistic real estate.",
+              "oc": "Subgrup 7. Restauracion de bens immòbles istoricoartístics."
+            },
+            "categoriaClassificacioEmpresarial": {
+              "id": 11351,
+              "ca": "Categoria 2, si la seva quantia és superior a 150.000 euros i inferior o igual a 360.000 euros.",
+              "en": "Category 2, if its amount is more than 150,000 euros and less than or equal to 360,000 euros.",
+              "oc": "Categoria 2, s’era sua quantia ei superiora a 150.000 èuros e inferior o parièr a 360.000 èuros."
+            }
+          }
+        ],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "contracteNomesExecutaEnMarcDeProgrames": false,
+          "reservaPrestacioServeiAProfessio": false,
+          "contracteRestringitACentresEspecials": false,
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "teDiversosCriterisAdjudicacio": false,
+        "criterisAdjudicacio": [],
+        "cpvPrincipal": {
+          "codi": "45212350-4",
+          "ca": "Edificis d'interès històric o arquitectònic particular",
+          "es": "Edificios de interés histórico o arquitectónico",
+          "en": "Buildings of particular historical or architectural interest",
+          "oc": "Bastisses d'interès istoric o arquitectonic particular"
+        },
+        "cpvsSecundaris": [],
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "prescripcionsTecniquesSocials": false,
+        "prescripcionsTecniquesAmbientals": false,
+        "clausulaLinguistica": false,
+        "clausulaEtica": true,
+        "llistatPrescripcionsTecniquesSocials": []
+      },
+      {
+        "ultimaObertura": {
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {
+            "ca": "A partir de la data de l'obertura del sobre anterior"
+          },
+          "mostrarDataObertura": false,
+          "sobre": {
+            "ca": "Sobre B",
+            "es": "Sobre B",
+            "en": "Sobre B",
+            "oc": "Sobre B"
+          }
+        },
+        "numeroLot": "3",
+        "lotId": 2,
+        "descripcio": {
+          "ca": "Conservació, restauració i rehabilitació dels llenços de les façanes del Molí del Siscar."
+        },
+        "pressupostLicitacio": 83780.74,
+        "publicacioExpedientId": 300869210,
+        "titol": "Rehabilitació llenços façanes",
+        "denominacioExpedientReferencia": {},
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 101374.7,
+        "varisTipusIva": false,
+        "valorEstimat": 83780.74,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "duradaTermini": {
+          "mesos": 3,
+          "iniciTermini": "2026-09-29T22:00:00.000Z",
+          "fiTermini": "2026-12-29T23:00:00.000Z",
+          "observacions": {}
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "es": "Otras condiciones de ejecución",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "ca": "Celeritat"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {
+              "ca": "A partir de la data de l'obertura del sobre anterior"
+            },
+            "mostrarDataObertura": false,
+            "sobre": {
+              "ca": "Sobre B",
+              "es": "Sobre B",
+              "en": "Sobre B",
+              "oc": "Sobre B"
+            }
+          }
+        ],
+        "prorroguesPrevistes": false,
+        "informacioProrrogaComplementaria": {},
+        "modificacioPrevista": false,
+        "informacioModificacioComplementaria": {},
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "garantiaDefinitiva": true,
+        "percentatgeGarantiaDefinitiva": 5,
+        "garantiaComplementaria": false,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008234,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "mitjaAcreditacio": {
+              "id": 1008251,
+              "ca": " Documentació acreditativa",
+              "en": " Supporting documentation",
+              "oc": " Documentacion acreditatiua"
+            },
+            "descripcioCriteriSolvencia": {
+              "ca": "Cap d'Obra Especialitzat: Titulació universitària oficial en Arquitectura o Arquitectura Tècnica. Es requereix un mínim de 3 anys d'experiència professional acreditada en la direcció d'obres de restauració de patrimoni històric-artístic protegit o catalogat.\n• Equip d'Arqueologia: Presència obligatòria d'un/a arqueòleg/a col·legiat/da en exercici de forma presencial i permanent per a les obres associades als Lots 1 i 2, a causa de l'execució de moviments de terres, rases i afecció a la llera medieval.\n• Oficial de picapedrer / Canter: Personal d'ofici artesanal especialitzat en pedra de forma obligatòria adscrit per als Lots 1 i 3 (treballs directes sobre el pont històric i els llenços de façanes exteriors).\n• Experiència específica de l'empresa licitadora: S'exigeix com a criteri de solvència tècnica addicional haver actuat amb caràcter de contractista principal i adjudicatari oficial d'obres en actuacions sobre elements i estructures hidràuliques directament lligades a molins fariners antics, amb un mínim de dues (2) actuacions finalitzades completament (amb el corresponent certificat de final d'obra signat de conformitat) dins el període estricte dels últims dos anys en curs.\n"
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008223,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "mitjaAcreditacio": {
+              "id": 1008227,
+              "ca": "Declaració responsable del volum de negocis global de l’empresa",
+              "en": "Responsible statement of the company's overall business volume",
+              "oc": "Declaracion responsabla deth volum de negòcis globaus dera empresa"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [
+          {
+            "grupClassificacioEmpresarial": {
+              "id": 11358,
+              "ca": "Grup C) Edificacions",
+              "en": "Group C) Buildings",
+              "oc": "Grop C) Edificacions"
+            },
+            "subgrupClassificacioEmpresarial": {
+              "id": 11288,
+              "ca": "Subgrup 4. Tasques de paleta, arrebossaments i revestiments.",
+              "en": "Subgroup 4. Brickwork, plastering and coverings.",
+              "oc": "Subgrup 4. Prètzhèts de paredèr, arrebossaments e revestiments."
+            },
+            "categoriaClassificacioEmpresarial": {
+              "id": 11350,
+              "ca": "Categoria 1, si la seva quantia és inferior o igual a 150.000 euros.",
+              "en": "Category 1, if its amount is less than or equal to 150,000 euros.",
+              "oc": "Categoria 1, s’era sua quantia ei inferiora o parièra a 150.000 èuros."
+            }
+          },
+          {
+            "grupClassificacioEmpresarial": {
+              "id": 11366,
+              "ca": "Grup K) Especials",
+              "en": "Group K) Special",
+              "oc": "Grop K) Especiaus"
+            },
+            "subgrupClassificacioEmpresarial": {
+              "id": 11342,
+              "ca": "Subgrup 7. Restauració de béns immobles historicoartístics.",
+              "en": "Subgroup 7. Restoration of historical-artistic real estate.",
+              "oc": "Subgrup 7. Restauracion de bens immòbles istoricoartístics."
+            },
+            "categoriaClassificacioEmpresarial": {
+              "id": 11351,
+              "ca": "Categoria 2, si la seva quantia és superior a 150.000 euros i inferior o igual a 360.000 euros.",
+              "en": "Category 2, if its amount is more than 150,000 euros and less than or equal to 360,000 euros.",
+              "oc": "Categoria 2, s’era sua quantia ei superiora a 150.000 èuros e inferior o parièr a 360.000 èuros."
+            }
+          }
+        ],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "contracteNomesExecutaEnMarcDeProgrames": false,
+          "reservaPrestacioServeiAProfessio": false,
+          "contracteRestringitACentresEspecials": false,
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "teDiversosCriterisAdjudicacio": false,
+        "criterisAdjudicacio": [],
+        "cpvPrincipal": {
+          "codi": "45212350-4",
+          "ca": "Edificis d'interès històric o arquitectònic particular",
+          "es": "Edificios de interés histórico o arquitectónico",
+          "en": "Buildings of particular historical or architectural interest",
+          "oc": "Bastisses d'interès istoric o arquitectonic particular"
+        },
+        "cpvsSecundaris": [],
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "prescripcionsTecniquesSocials": false,
+        "prescripcionsTecniquesAmbientals": false,
+        "clausulaLinguistica": false,
+        "clausulaEtica": true,
+        "llistatPrescripcionsTecniquesSocials": []
+      }
+    ],
+    "dadesExpedient": {
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "ae7fb403-e3f4-4d5d-a0fd-7fe85cb8345d",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "esReduit": false
+    },
+    "publicacionsOficials": [],
+    "motiuEsmena": {}
+  },
+  "pathPdf": "Io9fREuXrzmcLmC8KLlHPyzF64sWj-seIqY6qLu3mzPsjC2qwT1plldB7h0f3_JSirlyq3bEDQe6xG-IDt2-DMDBWmhQRH2YfQUgm4mnfcaRsrSs9uolcclRJp8g6ZoRK4MjNMLzwDVawel4xFEqVOylwhbfjcZYGAvxSMkoQFYshEcHPAW2bGm73RQYhUX5O8HkwJfHsBFZ7gf_rWjiBqpgOSnddQRr33MtQgbl69QwCxLh90vqjJyq4j70lD38gBEodBFgSZbyPx3Bee2ZdlHJ6OTWjpKbNk4WO4xNlIf2UnDRoByDyAAX7n_HPM_4PiXbxeFpnWouWXo2bC_gIQ==",
+  "pathCertificacio": "haqGRIr8ltLPEOAnYGZoBfd7CuWL7v0u37pMYiCwmHyK5OafdyfjKjrDXomc9zW90dTRanZul2TTXO_k96Kb1asvb-L3eTLj_b0-UL_JCkh4zGhTtU0kNF1K31Kt7O5rW3Foh3bgJqFVE4tNSUkIAbeL4KmdMYpkeIUrmjUV6LgNQNBPl5giidE7Rzj8eDLrm0FUl3i3CUYw4awFAcuJruO2cHHuR-wQtjU5g-IgfMsHBITHYM-41wr-RakOnABQm79Wk0SyYFs7HLIYSKZUB8I_A4sm9ey5eu56YqoD6X8FJydrpaszg_yFTa-gA4DG_CVw-VYWv64vOPP-G45Zag==",
+  "pathJson": "P_djNDOTJmbogZC8rWhtebZC6kTJwNtpcsrxAtCbgJnvdUlh-jXd2FlzV5Y698lY23peOxQ5cGJBoQjtcW3KrWVvzRDbpiPPqsXRHKzWnseUiLT9IlJO9CIMVc4k2Yneaxl5XFVNIKw0xT7TdCFSPMDjye_o495xMSrkKyRkdigOuWJ7DevtczKpbSmKzAfeqv0RJMIBNEJlsdoHRUAUpIdTgAmC0RqaRwKrJqrkfXJzLhkEOh_FS7tcYjDgOylkSfKjZgu3N9HHAbdFRypSqrHPaFdxuICWmz8MeybzUdF5kHYWxpydTWZFtbSPRCifM5vFz460sFsyYlkRjxn1zw==",
+  "dataPublicacioReal": "2026-08-27T21:30:05.978Z",
+  "dadesExpedient": {
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": "Català",
+      "es": "Catalan",
+      "en": "Catalan",
+      "oc": "Catalan"
+    },
+    "expedientId": "ae7fb403-e3f4-4d5d-a0fd-7fe85cb8345d",
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 413,
+    "esReduit": false
+  }
+}

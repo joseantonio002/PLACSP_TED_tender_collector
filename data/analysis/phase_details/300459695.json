@@ -1,0 +1,873 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "URB/2022/164",
+  "idExpedient": "c1b2403b-678f-3402-108e-8eef61e026bc",
+  "dataPublicacioPlanificada": "2025-05-23T10:57:51.312Z",
+  "organ": {
+    "nom": "Ajuntament de Sabadell",
+    "nif": "P0818600I",
+    "direccioPostal": "Plaça Sant Roc, 1",
+    "localitat": "Barcelona, Sabadell",
+    "codiPostal": "08201",
+    "nuts": "ES511",
+    "web": "www.sabadell.cat",
+    "telefon": "937453100",
+    "email": "perfilcontractant@ajsabadell.cat",
+    "personesContacte": [
+      {
+        "nom": "Correu electrònic genèric. Per a informació de contractes concrets contacteu amb el servei gestor responsable del contracte mitjançant el correu electrònic i/o telèfon indicats a l'apartat A del quadre resum.",
+        "cognom": "-",
+        "email": "perfilcontractant@ajsabadell.cat"
+      }
+    ],
+    "centralCompres": false,
+    "tipusPoderAdjudicador": 1500006,
+    "observacions": {
+      "ca": "Podeu consultar les licitacions iniciades abans del dia 1 de febrer de 2018 a l'adreça https://seu.sabadell.cat/seuelectronica/p/contractacio_cat.asp. \\r\\r"
+    },
+    "horari": {
+      "ca": "Per consultes sobre expedients concrets adreceu-vos al telèfon o e-mail que consten a l'apartat A del quadre resum del contracte (Annex I Plec de clàusules administratives particulars).",
+      "es": "Para consultas sobre expedientes concretos hay que dirigirse al teléfono o e-mail que constan en el apartado A del cuadro  resumen del contrato (Annexo I del Pliego de cláusulas administrativas particulares)."
+    },
+    "organContractacioId": 28279948
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000042,
+      "ca": "Adjudicació",
+      "es": "Adjudicación",
+      "en": "Adjudication",
+      "oc": "Adjudicacion"
+    },
+    "expedientId": "c1b2403b-678f-3402-108e-8eef61e026bc",
+    "teLots": true,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000042,
+        "ca": "Adjudicació",
+        "es": "Adjudicación",
+        "en": "Adjudication",
+        "oc": "Adjudicacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "URB/2022/164",
+      "denominacio": {
+        "ca": "327,328,329,330/2022 Servei de coordinació de seguretat i salut en fase d'execució d'obres dels projectes d'adequació i actuacions en la infrastructura de diferents zones de Gran Via- Balcó del Ripoll."
+      },
+      "descripcio": {
+        "ca": "Servei de coordinació de Seguretat i Salut en fase d'execució dels projectes d'obres d'adequació i actuacions en la infraestructura de diferents zones de Gran Via ¿ Balcó Ripoll.\r\rAquests projectes d'obres són els següents:\r-Reforma de la cruïlla Gran Via ¿ Sant Maties ¿ Hospital Taulí (Referència obra: URB/2022/50). Previsió inici d'obres al desembre de 2022 i durada de 2 mesos.\r-Reforma del carrer de l'Alcalde Ribé (Referència obra: URB/2022/53). Previsió inici d'obres al desembre de 2022 i durada de 8 mesos.\r-Reforma de la Ronda d'Orient entre els carrers de Calassanç Duran i de Xaloc (Referència obra: URB/2022/54). Previsió inici d'obres al desembre de 2022 i durada de 5 mesos i 15 dies.\r-Reforma de la cruïlla Gran Via ¿ Quevedo i del pati de l'Artextil. Fase I (Referència obra: URB/2022/55). Previsió inici d'obres al desembre de 2022 i durada de 5 mesos.\r-Reforma del carrer d'Antoni Forrellad. Fase I (Referència obra: URB/2022/56). Previsió inici d'obres al desembre de 2022 i durada de 4 mesos i 20 dies.\r-Reforma del carrer de Calassanç Duran, entre els carrers d'Alguersuari Pascual i de Gorina i Pujol. Fase I (Referència obra: URB/2022/57). Previsió inici d'obres al desembre de 2022 i durada de 4 mesos i 15 dies.\r-Reforma dels carrers de l'Illa i de l'Estació de Sabadell. Fase I (Referència obra: URB/2022/58). Previsió inici d'obres al desembre de 2022 i durada de 4 mesos.\r-Reforma de les cruïlles de Gran Via amb els carrers de Sant Pau- Buxeda i de Sol-Sardà (Referència obra: URB/2022/59). Previsió inici d'obres al desembre de 2022 i durada de 3 mesos.\r-Reforma de la cruïlla Gran Via ¿ Rambla ¿ Avinguda de Barberà (Referència obra: URB/2022/62). Previsió inici d'obres al novembre de 2022 i durada de 3 mesos."
+      },
+      "observacions": {
+        "ca": "Per consultes o petició d'informació sobre el contracte adreceu-vos al telèfon i/o e-mail que consta a l'apartat A del quadre resum, annex I del Plec de clàusules administratives particulars, o bé al que figura a l'apartat 2 de l'Anunci de licitació del contracte (obtenció d'informació).\r\rLa presentació de proposicions es farà de forma electrònica mitjançant l'eina informàtica Pixelware, a l'enllaç següent: https://contractacio.ajsabadell.cat. Dins del termini establert es poden presentar proposicions durant les 24 hores del dia, tots els dies de l'any. Per a més informació consulteu l'apartat \"PRESENTACIÓ I OBERTURA DE PROPOSICIONS\" de l'Annex 1 Quadre resum de l'anunci de licitació.\r"
+      },
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "tipusContracte": {
+        "id": 393,
+        "ca": "Serveis",
+        "es": "Servicios",
+        "en": "Services",
+        "oc": "Servicis"
+      },
+      "procedimentAdjudicacio": {
+        "id": 1000008,
+        "ca": "Obert simplificat abreujat",
+        "es": "Simplificado de tramitación sumária",
+        "en": "Open simplified abbreviated",
+        "oc": "Daurit simplificat abracat"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 11386,
+        "ca": "Altres",
+        "es": "Otros",
+        "en": "Others",
+        "oc": "D’auti"
+      },
+      "descripcioAltres": {
+        "ca": "https://contractacio.ajsabadell.cat",
+        "es": "https://contractacio.ajsabadell.cat",
+        "en": "https://contractacio.ajsabadell.cat",
+        "oc": "https://contractacio.ajsabadell.cat"
+      },
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {}
+    },
+    "dadesPublicacio": {
+      "pressupostLicitacio": 22314.06,
+      "observacions": {
+        "ca": "Per consultes o petició d'informació sobre el contracte adreceu-vos al telèfon i/o e-mail que consta a l'apartat A del quadre resum, annex I del Plec de clàusules administratives particulars, o bé al que figura a l'apartat 2 de l'Anunci de licitació del contracte (obtenció d'informació).\r\rLa presentació de proposicions es farà de forma electrònica mitjançant l'eina informàtica Pixelware, a l'enllaç següent: https://contractacio.ajsabadell.cat. Dins del termini establert es poden presentar proposicions durant les 24 hores del dia, tots els dies de l'any. Per a més informació consulteu l'apartat \"PRESENTACIÓ I OBERTURA DE PROPOSICIONS\" de l'Annex 1 Quadre resum de l'anunci de licitació.\r"
+      },
+      "valorEstimatContracte": 22314.06,
+      "iva": 21,
+      "varisTipusIva": false,
+      "pressupostBaseLicitacioAmbIVA": 27000,
+      "contracteRelacionatFinanciatFonsUnioEuropea": true,
+      "tipusFinancament": {
+        "id": 1008344,
+        "ca": "MRR (Mecanisme de recuperació, transformació i resiliència)",
+        "en": "RRF (Recovery, Resilience Facility)",
+        "oc": "MRR (Mecanisme de recuperacion, transformacion e resiliéncia)"
+      }
+    },
+    "dadesPublicacioLot": [
+      {
+        "numeroLot": "1",
+        "lotId": 0,
+        "descripcio": {
+          "ca": "Reforma de la cruïlla Gran Via – Sant Maties – Hospital Taulí. Reforma de les cruïlles de Gran Via amb els carrers de Sant Pau- Buxeda i de Sol-Sardà. Reforma de la cruïlla Gran Via – Quevedo i del pati de l’Artextil. Fase I\n"
+        },
+        "pressupostLicitacio": 6198.35,
+        "publicacioExpedientId": 300459695,
+        "titol": "Gran Via – Sant Maties – Hospital Taulí",
+        "dataAdjudicacio": "2022-11-15T23:00:00.000Z",
+        "terminiFormalitzacioContracte": {
+          "ca": "D'acord amb el previst a l'article 153.3 LCSP es preveu formalitzar el contracte dins del termini de 15 dies hàbils següents al que es realitzi la notificació de l'adjudicació als licitadors i candidats."
+        },
+        "importAdjudicacio": 4070,
+        "ofertaAdjudicatariaIncursa": false,
+        "observacions": {},
+        "peuDeRecurs": {
+          "ca": "Es pot interposar potestativament recurs de reposició davant el l’òrgan de contractació en el termini d’un mes, o bé directament recurs contenciós administratiu davant el Jutjat Contenciós Administratiu de la província de Barcelona en el termini de dos mesos. No obstant això, es pot interposar qualsevol altre recurs que es consideri procedent."
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "empresesAdjudicataries": [
+          {
+            "denominacio": "TRESAT COORDINADORES DE SEGURIDAD, S.L.P.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "B62440110",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "informacioUte": []
+          }
+        ],
+        "resolucioAdjudicacio": {
+          "ca": [
+            {
+              "id": 301324515,
+              "titol": "Decret Adjudicació POSS serveis CSS obres GVR.pdf",
+              "path": "LEgV1rvgHRmCmp5Sey8GqIfesfjrjEmexEhnc7l6Z6oTrM0WznLAuDOr9M3NWw7tow0ie_2YDAUhERkj5TW2G7u33PPZjA-vglazAnTF9G71NY6A8JG0-NsXJr6ExSAv5g9J-KXt_49iM1zYJySf2u7dJXjvzTSjADAt73pjMNTb0QFne9LAF5bqYHwZJxaJMO_BR7HjlhGNCX0KhuIgrkrp2x1VT6DJQg2I3aC-hUIvbKzrToRY25ONxd3YnI9BSY7E_rx75D7aBw-vrwCvZkZchlSlFaD1-Novw9SS9RXFWhm6P2sVkXCudoMC4OXeCZQcSoTueSCW4jsaaPogtA==",
+              "hash": "76E42E386E4A98C3C96DBC4C1A741801",
+              "idioma": "ca",
+              "mida": 2341316
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [
+            {
+              "id": 301324517,
+              "titol": "Diligència menció finançament .pdf",
+              "path": "ZkoHFWTFhlraI3E_F64byzbxLM3lmaqeAJWqfUVB1ELPJYKwX_UUX9Y4G7bCQ8tCfkJHUhXz4LzzXXSPgiYXVfRS6VO50cQr_QLz0c12gGUT5A4Rl-a97Fx1evel_3Tlo7u2ioYrMy1vSc6nxqzg6uiBWz83pkwVwac8Px02QKaXxOIIZ9IWn1TxS18qE2GIwlZP8Yu-DkaXL1Wcia82sj-kDLRmEe6v5XRz-FAGNb5W9mfMVYCJANIUCxtxweEvBhcnjoYsTTO7EP1Igu4IER_MDuNe4Z7CeDtGmx0Z0Wtv-csGyNjg_kdeKydekI-sa3dptYuM1GQ9Eb31X7C9rA==",
+              "hash": "68597F2DFACAC518B2ED44A4D74B3F03",
+              "idioma": "ca",
+              "mida": 230522
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "importAdjudicacioIva": 4924.7,
+        "ivaAdjudicacio": 21,
+        "varisTipusIvaAdjudicacio": false,
+        "valorEstimatContracte": 6198.35,
+        "iva": 21,
+        "varisTipusIva": false,
+        "pressupostBaseLicitacioAmbIVA": 7500,
+        "cpvPrincipal": {
+          "codi": "71317200-5",
+          "ca": "Serveis de salut i seguretat",
+          "es": "Servicios de salud y seguridad",
+          "en": "Health and safety services",
+          "oc": "Servicis de salut e seguretat"
+        },
+        "cpvsSecundaris": [],
+        "llocExecucio": {
+          "codiNuts": "ES511",
+          "ca": "Sabadell"
+        },
+        "reservaSocial": false,
+        "duradaTermini": {
+          "esDurada": false,
+          "iniciTermini": "2022-11-15T23:00:00.000Z",
+          "fiTermini": "2023-11-29T23:00:00.000Z",
+          "observacions": {}
+        },
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 76,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 76,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 24,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 24,
+                "descripcioCriteri": {
+                  "ca": "Idoneïtat curricular"
+                }
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "totalOfertesRebudes": 13,
+        "plurianualitats": [
+          {
+            "anyAdjudicacio": "2022"
+          },
+          {
+            "anyAdjudicacio": "2023"
+          }
+        ],
+        "llistatPrescripcionsTecniquesSocials": [],
+        "descripcioLicitacio": {},
+        "subcontractacions": [],
+        "publicacionsOficials": []
+      },
+      {
+        "numeroLot": "2",
+        "lotId": 1,
+        "descripcio": {
+          "ca": "Reforma del carrer de l’Alcalde Ribé. Reforma del carrer d’Antoni Forrellad. Fase I"
+        },
+        "pressupostLicitacio": 6198.35,
+        "publicacioExpedientId": 300459695,
+        "titol": "Alcalde Ribé",
+        "dataAdjudicacio": "2022-11-15T23:00:00.000Z",
+        "terminiFormalitzacioContracte": {
+          "ca": "D'acord amb el previst a l'article 153.3 LCSP es preveu formalitzar el contracte dins del termini de 15 dies hàbils següents al que es realitzi la notificació de l'adjudicació als licitadors i candidats."
+        },
+        "importAdjudicacio": 4098.66,
+        "ofertaAdjudicatariaIncursa": false,
+        "observacions": {},
+        "peuDeRecurs": {
+          "ca": "Es pot interposar potestativament recurs de reposició davant el l’òrgan de contractació en el termini d’un mes, o bé directament recurs contenciós administratiu davant el Jutjat Contenciós Administratiu de la província de Barcelona en el termini de dos mesos. No obstant això, es pot interposar qualsevol altre recurs que es consideri procedent."
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "empresesAdjudicataries": [
+          {
+            "denominacio": "INGENIERÍA Y PREVENCIÓN DE RIESGOS, S.L.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "B81470841",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "informacioUte": []
+          }
+        ],
+        "resolucioAdjudicacio": {
+          "ca": [
+            {
+              "id": 301324527,
+              "titol": "Decret Adjudicació POSS serveis CSS obres GVR.pdf",
+              "path": "ehjnW3s1KsEDBoy-yZwhY-bNhCNceFwg7ggbYuXuZCHY_bB48A0gXQkQDw8ZoZ5yKEaFAV9xKbr07F1AzrmRtR0S_yBS4g66k0Lk0vq1282jx2JpagCCneQXN7x6mUdg8WWWv94DDkgUJfBfyheuDUgymzuJSLXG-ItSuh4AmZS0ENu17I2HrPQb96zW-YZLp9993P9uiwnL3ar7hbV0CaJDMpn3hwsGMtBuzS8SNvRwc9tVcgZb4qEomzOUnSRJTS-a-Rog1zdhp-HTgnslmV4Hi5QaIRnbTDK9iOrk7dU6qha18TOAT-xucgXS3vuBi4axrcVPPI-BcTJO84pzkA==",
+              "hash": "76E42E386E4A98C3C96DBC4C1A741801",
+              "idioma": "ca",
+              "mida": 2341316
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [
+            {
+              "id": 301324519,
+              "titol": "Diligència menció finançament .pdf",
+              "path": "gTZX19yNmEAEZ7sE6QX_DbOBBgvzG_j38SKtqSWuAinKjxZ4jYgXhKeieC3xBwbki4QzAqmrjp-hpg3u9V41w1_WO6Vss9xgky3vtKw0eRgOBJxQKCo7jCHNbtrLkVMyxVdKU0JD5cvFLFZ1QLR2jHDBNLAARacboyyxSOIS9RT-rpi_qV0QV0QAFWNB0U3ALO8Iw_NToeVoV4IZvtpfMPgpwBFN-U5qjRh5YclB9o5lNV9DKFdYTE3X4QxYJliXAop5F_2dKfUGgldsIvsZ1Hh2C7x5haZawXFyf64Y9cWT993kCovENNs6WZ2ukUfXGLi6RepyibfussKHtJcfmQ==",
+              "hash": "68597F2DFACAC518B2ED44A4D74B3F03",
+              "idioma": "ca",
+              "mida": 230522
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "importAdjudicacioIva": 4959.38,
+        "ivaAdjudicacio": 21,
+        "varisTipusIvaAdjudicacio": false,
+        "valorEstimatContracte": 6198.35,
+        "iva": 21,
+        "varisTipusIva": false,
+        "pressupostBaseLicitacioAmbIVA": 7500,
+        "cpvPrincipal": {
+          "codi": "71317200-5",
+          "ca": "Serveis de salut i seguretat",
+          "es": "Servicios de salud y seguridad",
+          "en": "Health and safety services",
+          "oc": "Servicis de salut e seguretat"
+        },
+        "cpvsSecundaris": [],
+        "llocExecucio": {
+          "codiNuts": "ES511",
+          "ca": "Sabadell"
+        },
+        "reservaSocial": false,
+        "duradaTermini": {
+          "esDurada": false,
+          "iniciTermini": "2022-11-15T23:00:00.000Z",
+          "fiTermini": "2023-11-29T23:00:00.000Z",
+          "observacions": {}
+        },
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 76,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 76,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 24,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 24,
+                "descripcioCriteri": {
+                  "ca": "Idoneïtat curricular"
+                }
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "totalOfertesRebudes": 13,
+        "plurianualitats": [
+          {
+            "anyAdjudicacio": "2022"
+          },
+          {
+            "anyAdjudicacio": "2023"
+          }
+        ],
+        "llistatPrescripcionsTecniquesSocials": [],
+        "descripcioLicitacio": {},
+        "subcontractacions": [],
+        "publicacionsOficials": []
+      },
+      {
+        "numeroLot": "3",
+        "lotId": 2,
+        "descripcio": {
+          "ca": "Reforma del carrer de Calassanç Duran, entre els carrers d’Alguersuari Pascual i de Gorina i Pujol. Fase I.Reforma de la Ronda d’Orient entre els carrers de Calassanç Duran i de Xaloc. Reforma dels carrers de l’Illa i de l’Estació de Sabadell. Fase I"
+        },
+        "pressupostLicitacio": 7438.02,
+        "publicacioExpedientId": 300459695,
+        "titol": "Calassanç Duran",
+        "dataAdjudicacio": "2022-11-15T23:00:00.000Z",
+        "terminiFormalitzacioContracte": {
+          "ca": "D'acord amb el previst a l'article 153.3 LCSP es preveu formalitzar el contracte dins del termini de 15 dies hàbils següents al que es realitzi la notificació de l'adjudicació als licitadors i candidats."
+        },
+        "importAdjudicacio": 4839,
+        "ofertaAdjudicatariaIncursa": false,
+        "observacions": {},
+        "peuDeRecurs": {
+          "ca": "Es pot interposar potestativament recurs de reposició davant el l’òrgan de contractació en el termini d’un mes, o bé directament recurs contenciós administratiu davant el Jutjat Contenciós Administratiu de la província de Barcelona en el termini de dos mesos. No obstant això, es pot interposar qualsevol altre recurs que es consideri procedent."
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "empresesAdjudicataries": [
+          {
+            "denominacio": "SONIA SOLE PUIG",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "*****814T",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "informacioUte": []
+          }
+        ],
+        "resolucioAdjudicacio": {
+          "ca": [
+            {
+              "id": 301324528,
+              "titol": "Decret Adjudicació POSS serveis CSS obres GVR.pdf",
+              "path": "X4-6qGarUN-5H7VdfyvzOEMVoBqtVCmzQXpJaL01Ua3YwLFRhidqegONpdHKlLXJIAI1hU2HicDjXJM4GPqDc1QxKlu5GkeMX8lkiJE5c79mnQmJOKtFrFKx1iM_jW4tklyI4ui4fPcvc7HbaUjeFWJNCSCzfYsPZhNfWC7i5i8sUUoTvCPPc-kShRccVIVbpbhjh8Re4MYVmUSXuRATvhvWfaiwJwZ9vUlaAXzuV4Bzl33wVN4N7wQcF6r4AfS83kRHyYABptd9o7CyM2ZNCP_hRCQqqv5tsKXs2C_X3pM32ELSRmnQxTbUHLNf6kYDyWKrnZmm_y07wd4EswMzDw==",
+              "hash": "76E42E386E4A98C3C96DBC4C1A741801",
+              "idioma": "ca",
+              "mida": 2341316
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [
+            {
+              "id": 301324520,
+              "titol": "Diligència menció finançament .pdf",
+              "path": "mxNNdsYFcFVjwOvQJQDTFxkJInoxnm80sIYVArV-3EfUqb4ADd9cHsy8c32me9xoO4r0LclngCaJggJ671oCWUb3W6Jn1a9fX3IxoxUD5gs4UXl_ULPO0YyKYv0ZOLoH4ux4erEpzhneYOV-0ZD6zQuN2GI2s6KgyI9EisHEoZxA1_hBN8tDx0BDxVaUAGV7iwgtVuQZrMRbyZtjmmc-ywDKJ8BICPc0_A7FrV00YMtL66dNYrgfNf6uSEKBexMrctHjhsyrAS7_0L6NJme_LdsYycA8mpKq7W3c1lbWp9ShOURx570Wa6A44PahvZlPLzzEBtwzv_lujUriMEo5Ow==",
+              "hash": "68597F2DFACAC518B2ED44A4D74B3F03",
+              "idioma": "ca",
+              "mida": 230522
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "importAdjudicacioIva": 5855.19,
+        "ivaAdjudicacio": 21,
+        "varisTipusIvaAdjudicacio": false,
+        "valorEstimatContracte": 7438.02,
+        "iva": 21,
+        "varisTipusIva": false,
+        "pressupostBaseLicitacioAmbIVA": 9000,
+        "cpvPrincipal": {
+          "codi": "71317200-5",
+          "ca": "Serveis de salut i seguretat",
+          "es": "Servicios de salud y seguridad",
+          "en": "Health and safety services",
+          "oc": "Servicis de salut e seguretat"
+        },
+        "cpvsSecundaris": [],
+        "llocExecucio": {
+          "codiNuts": "ES511",
+          "ca": "Sabadell"
+        },
+        "reservaSocial": false,
+        "duradaTermini": {
+          "esDurada": false,
+          "iniciTermini": "2022-11-15T23:00:00.000Z",
+          "fiTermini": "2023-11-29T23:00:00.000Z",
+          "observacions": {}
+        },
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 76,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 76,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 24,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 24,
+                "descripcioCriteri": {
+                  "ca": "Idoneïtat curricular"
+                }
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "totalOfertesRebudes": 13,
+        "plurianualitats": [
+          {
+            "anyAdjudicacio": "2022"
+          },
+          {
+            "anyAdjudicacio": "2023"
+          }
+        ],
+        "llistatPrescripcionsTecniquesSocials": [],
+        "descripcioLicitacio": {},
+        "subcontractacions": [],
+        "publicacionsOficials": []
+      },
+      {
+        "numeroLot": "4",
+        "lotId": 3,
+        "descripcio": {
+          "ca": "Reforma de la cruïlla Gran Via – Rambla – Avinguda de Barberà"
+        },
+        "pressupostLicitacio": 2479.34,
+        "publicacioExpedientId": 300459695,
+        "titol": "Gran Via – Rambla – Avinguda de Barberà",
+        "dataAdjudicacio": "2022-11-15T23:00:00.000Z",
+        "terminiFormalitzacioContracte": {
+          "ca": "D'acord amb el previst a l'article 153.3 LCSP es preveu formalitzar el contracte dins del termini de 15 dies hàbils següents al que es realitzi la notificació de l'adjudicació als licitadors i candidats."
+        },
+        "importAdjudicacio": 1401,
+        "ofertaAdjudicatariaIncursa": true,
+        "observacions": {},
+        "peuDeRecurs": {
+          "ca": "Es pot interposar potestativament recurs de reposició davant el l’òrgan de contractació en el termini d’un mes, o bé directament recurs contenciós administratiu davant el Jutjat Contenciós Administratiu de la província de Barcelona en el termini de dos mesos. No obstant això, es pot interposar qualsevol altre recurs que es consideri procedent."
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "empresesAdjudicataries": [
+          {
+            "denominacio": "TRESAT COORDINADORES DE SEGURIDAD, S.L.P.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "B62440110",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "informacioUte": []
+          }
+        ],
+        "resolucioAdjudicacio": {
+          "ca": [
+            {
+              "id": 301324529,
+              "titol": "Decret Adjudicació POSS serveis CSS obres GVR.pdf",
+              "path": "nUNGJw2xgoht2x8Fgaz6ubEltTjbBFFmsX5WE91763Vc-CjMtJLyJ3hpBHoD9zrsCRg4cOV68npPMN-QKXnNZIfgQ85xqO-yNE8rVoAm7VMbE5_jN58oJnXVeic1POUYWvQYXUmo9y3WdiLuh96ZH3YFdNp4k4LIoNzd2gaOEDJFMwdREGrKHPhfvU47yA9pLFSqp1PEqXWdDqd8Gss-GgcK0X8mi2kzS_JpfnsPH6iyhvi2c9lmRuFwwWnDEYWTv5iB7KbapWOVMMVhGWL5To0tnws0YjhIodSC9ejj5GaQXWXHxQAoj8Kr3qA-Ez9x1f1c5wG1-bQpoD-rhc328A==",
+              "hash": "76E42E386E4A98C3C96DBC4C1A741801",
+              "idioma": "ca",
+              "mida": 2341316
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [
+            {
+              "id": 301324521,
+              "titol": "Diligència menció finançament .pdf",
+              "path": "MfPXniHPCWq2iACyJyv6ZlE-8kavFt6k0H1V8ouWlYtl7pu_gReWn6sycc3JznxQTugaticOcHAl15wcDu7uw8uQIci9SmIAr-QtymUshEsd7lsRDacExiHyWrSbSnCkcLthlFh_L3gOHfytPPCfnl8aP1yeJ9U_hH-Mn1tRSCEpF4V1LTN7Z_o7YPoxCgONpCKR0rX8N5jng7zbWxBZ5-BgUSIfdyXSpLdGZ5AEyIWGpwNLVP7ryC61EiKV1k-To7neruXPnTuxirVrMsLFrAHVJsYuwjaf-OuLdgdxZIROxnYnotA9NT_pftCtCnQ6tfOTteAErDb8n-Ea5wKxIg==",
+              "hash": "68597F2DFACAC518B2ED44A4D74B3F03",
+              "idioma": "ca",
+              "mida": 230522
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "importAdjudicacioIva": 1695.21,
+        "ivaAdjudicacio": 21,
+        "varisTipusIvaAdjudicacio": false,
+        "valorEstimatContracte": 2479.34,
+        "iva": 21,
+        "varisTipusIva": false,
+        "pressupostBaseLicitacioAmbIVA": 3000,
+        "cpvPrincipal": {
+          "codi": "71317200-5",
+          "ca": "Serveis de salut i seguretat",
+          "es": "Servicios de salud y seguridad",
+          "en": "Health and safety services",
+          "oc": "Servicis de salut e seguretat"
+        },
+        "cpvsSecundaris": [],
+        "llocExecucio": {
+          "codiNuts": "ES511",
+          "ca": "Sabadell"
+        },
+        "reservaSocial": false,
+        "duradaTermini": {
+          "esDurada": false,
+          "iniciTermini": "2022-11-15T23:00:00.000Z",
+          "fiTermini": "2023-11-29T23:00:00.000Z",
+          "observacions": {}
+        },
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 76,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 76,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 24,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 24,
+                "descripcioCriteri": {
+                  "ca": "Idoneïtat curricular"
+                }
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "totalOfertesRebudes": 13,
+        "plurianualitats": [
+          {
+            "anyAdjudicacio": "2022"
+          },
+          {
+            "anyAdjudicacio": "2023"
+          }
+        ],
+        "llistatPrescripcionsTecniquesSocials": [],
+        "descripcioLicitacio": {},
+        "subcontractacions": [],
+        "publicacionsOficials": []
+      }
+    ],
+    "dadesExpedient": {
+      "organContractacioId": 28279948,
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "c1b2403b-678f-3402-108e-8eef61e026bc",
+      "dataFiPublicacioPerfil": "2028-09-22T22:00:00.000Z",
+      "dataFiGestio": "2029-01-03T23:00:00.000Z",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "tenderingSpaceId": 108485034,
+      "esPublicacioAntiga": true,
+      "tipusOfertaElectronica": 11386,
+      "denominacioExpedientReferencia": {}
+    },
+    "tipusEsmena": {
+      "id": 1008172,
+      "ca": "Esmena",
+      "es": "enmienda",
+      "en": "Amendment",
+      "oc": "Esmenda"
+    },
+    "motiuEsmena": {
+      "ca": "Mitjançant diligència s'informa de que el contracte està subvencionat amb càrrec als fons europeus del Pla de Recuperació, Transformació i Resiliència."
+    }
+  },
+  "pathPdf": "pEM2yIIa35OCZctmKwVyON9aoOs0Dn2x1B87-TxFFXmnXYQvAJEMSP8mqckUnG8Zl6cg5rktZ1WdyyrW-aoSvpBhGBdT0pQ6qKejZX74N8KmPkaVZUueK88QRQ0d_c1lJ3YCOBWYfuIDoli04SvlMGm-okeWep6Xy4h31lBRF78Xr9SydItyxiDo1YiGYZyFqUabT-CT-_Wx7kzJdMU3xokNH_RyglLKq2ts4ba_hKNrfyaO4QCrfznJKg9ZDb_5btKHDwVEyDM8xz4T0E7nwxSnAwkm6HRcxFgvPCJ5uN_fe2pOb2MZZxA6cx3SVcbLgp2pU9hJ0FUKfKImvjv5uA==",
+  "pathCertificacio": "HlkOLT374w934b-7CEk_F7bgRrYZ0CuLaPimwVCmAw4SGymOkUwyz8NMqTAPFK1Wgk8zEv2W6_wRB7izAbxrHs-kSK23vbiN0fGvctjlVG0t5jq0bxVk3WwQE1nECs48wyNd5mkxusxn7C3lVEiQe8qPfIGpwfM_2VBxHbuPJQ3Fq5XOTC_zE7Cdwglsvo2zcIQIKp4zy_kOeGsiApQe_iOGdC-iBpTCkEnm0J1g7VI2LNLVOIYCM6BH6E17_KdpgG_iD9r64Wj5RDS8qvymHwo74Sg6YqEqsNM6XuqopzexiJDz6fNRkFMmhZm-vHJpUlVFQjlSJ9ZhkK4Qnaf4JQ==",
+  "pathJson": "W3youac-ouo25MuYJsqZylK1fd1FLDolmsH86H8g9cQ-3m4UEWJR9tAnCJ6H6j2iVBd4TkrqlVr-uFFSn6C-7DAiyKAIFzqXhFwOhsm8WLviEf5BKKUOV3Awrjk8eBYgMgMAryTHBtzio5Ez_b7ocvbau_DfFXGlbYXDf0PzIsiGoFDHmN6HeewxuJuXvGG932L5uH0oTP0blV3pb-pTgY8xx-_7JixYGDiOBdAzAFn2mA8SRZI10XMDTpfwJiFq6uBIEQ-GSPPCaT4GiGK_hjgt8gTZNvn_2IVAeMGFlV0vzb94Qb6iBEL5MDw6ZF4ZBETMcx1iTvDTBwAlu0gciw==",
+  "dataPublicacioReal": "2025-05-23T10:58:11.682Z",
+  "dadesExpedient": {
+    "organContractacioId": 28279948,
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "expedientId": "c1b2403b-678f-3402-108e-8eef61e026bc",
+    "dataFiPublicacioPerfil": "2028-09-22T22:00:00.000Z",
+    "dataFiGestio": "2029-01-03T23:00:00.000Z",
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "tenderingSpaceId": 108485034,
+    "esPublicacioAntiga": true,
+    "tipusOfertaElectronica": 11386,
+    "dataVisiblePortalAccesExclusiu": null,
+    "expedientIdReferencia": null,
+    "codiExpedientReferencia": null,
+    "denominacioExpedientReferencia": {
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "nomOrganContractacioReferencia": null
+  }
+}

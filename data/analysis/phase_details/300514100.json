@@ -1,0 +1,452 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "288/2024",
+  "idExpedient": "5d96c294-93f0-4d38-8047-20f01b34d846",
+  "dataPublicacioPlanificada": "2025-07-16T06:52:16.006Z",
+  "organ": {
+    "nom": "Ajuntament de la Pobla de Segur",
+    "nif": "P2521300J",
+    "direccioPostal": "Av. Verdaguer, 35",
+    "localitat": "Altres/Diversos, No Consta",
+    "codiPostal": "99999",
+    "nuts": "OT",
+    "web": "www.lapobladesegur.cat",
+    "telefon": "973680038",
+    "fax": "973681107",
+    "email": "ajuntament@lapobladesegur.cat",
+    "personesContacte": [
+      {
+        "nom": "Lídia",
+        "cognom": "Carbonell Figuerola",
+        "carrec": "Secretària-interventora",
+        "telefon": "973680038",
+        "email": "secretaria@lapobladesegur.cat"
+      },
+      {
+        "nom": "Josep",
+        "cognom": "Torras Altisent",
+        "carrec": "Enginyer tècnic municipal",
+        "telefon": "973680038",
+        "email": "enginyeria@lapobladesegur.cat"
+      }
+    ],
+    "centralCompres": false,
+    "observacions": {},
+    "horari": {
+      "ca": "De dilluns a divendres, de 8:30 a 14:30 hores. "
+    },
+    "organContractacioId": 2867949
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1008286,
+      "ca": "Expedient en avaluació",
+      "es": "Expediente en avaluación",
+      "en": "Under evaluation",
+      "oc": "En avaloracion"
+    },
+    "expedientId": "5d96c294-93f0-4d38-8047-20f01b34d846",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1008286,
+        "ca": "Expedient en avaluació",
+        "es": "Expediente en avaluación",
+        "en": "Under evaluation",
+        "oc": "En avaloracion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "288/2024",
+      "denominacio": {
+        "ca": "Contracte Menor del subministrament i instal·lació d'un punt de recàrrega per bicicletes elèctriques i un punt per autocaravanes a la Pobla de Segur. Actuació 5 de l'Eix 2 del Pla de Sostenibilitat Turística (PSTD) finançat pel PRTR - Next Generation EU"
+      },
+      "descripcio": {
+        "ca": "Contracte Menor del subministrament i instal·lació d'un punt de recàrrega per bicicletes elèctriques i un punt de recàrrega semi-ràpid per autocaravanes a la Pobla de Segur. Actuació 5 de l'Eix 2 del Pla de Sostenibilitat Turística (PSTD) finançat pel Pla de Recuperació, Transformació i Resiliència (PRTR) - Next Generation EU"
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "tipusContracte": {
+        "id": 394,
+        "ca": "Subministraments ",
+        "es": "Suministros",
+        "en": "Supplies ",
+        "oc": "Subministraments "
+      },
+      "procedimentAdjudicacio": {
+        "id": 403,
+        "ca": "Contracte menor",
+        "es": "Contrato menor",
+        "en": "minor contract",
+        "oc": "Contracte mendre"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": true,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {},
+      "tipusSubministraments": {
+        "id": 1008432,
+        "ca": "Adquisició"
+      }
+    },
+    "dadesPublicacio": {
+      "observacions": {},
+      "membresMesa": []
+    },
+    "dadesPublicacioLot": [
+      {
+        "pressupostLicitacio": 13223.14,
+        "publicacioExpedientId": 300514100,
+        "identitatEmpresa": [
+          {
+            "empresa": "AXAL Power B.V.",
+            "tipusIdentificador": {
+              "id": 576,
+              "ca": "VIES",
+              "es": "VIES",
+              "en": "VIES",
+              "oc": "VIES"
+            },
+            "identificadorEmpresa": "*****0388*****",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "pais": {
+              "id": 159,
+              "ca": "Països Baixos",
+              "es": "Países Bajos",
+              "en": "Netherlands (Kingdom of the)"
+            },
+            "noOberta": false,
+            "tercerSector": {
+              "id": 1008406,
+              "ca": "No tercer sector"
+            },
+            "informacioUte": [],
+            "observacions": {}
+          },
+          {
+            "empresa": "MANTENIMIENTO SOLAR , S.L.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "B65262784",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona"
+            },
+            "municipi": {
+              "id": 1000948,
+              "ca": "Barcelona"
+            },
+            "noOberta": false,
+            "tercerSector": {
+              "id": 1008406,
+              "ca": "No tercer sector"
+            },
+            "informacioUte": [],
+            "observacions": {}
+          },
+          {
+            "empresa": "ELECTRISPOT SOLUTIONS S.L.U.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "B56993330",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 312,
+              "ca": "Girona",
+              "es": "Girona"
+            },
+            "municipi": {
+              "id": 1002719,
+              "ca": "Viladamat"
+            },
+            "noOberta": false,
+            "tercerSector": {
+              "id": 1008406,
+              "ca": "No tercer sector"
+            },
+            "informacioUte": [],
+            "observacions": {}
+          },
+          {
+            "empresa": "Etecnic Movilidad Electrica SL",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "B55667562",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 338,
+              "ca": "Tarragona",
+              "es": "Tarragona"
+            },
+            "municipi": {
+              "id": 1006526,
+              "ca": "Reus"
+            },
+            "noOberta": false,
+            "tercerSector": {
+              "id": 1008406,
+              "ca": "No tercer sector"
+            },
+            "informacioUte": [],
+            "observacions": {}
+          },
+          {
+            "empresa": "ALTERVAC, S.A.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "A63395719",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona"
+            },
+            "municipi": {
+              "id": 1001129,
+              "ca": "Sant Celoni"
+            },
+            "noOberta": false,
+            "tercerSector": {
+              "id": 1008406,
+              "ca": "No tercer sector"
+            },
+            "informacioUte": [],
+            "observacions": {}
+          },
+          {
+            "empresa": "Electra Homedes S.L.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "B25068214",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 320,
+              "ca": "Lleida",
+              "es": "Lleida"
+            },
+            "municipi": {
+              "id": 1003970,
+              "ca": "Lleida"
+            },
+            "noOberta": false,
+            "tercerSector": {
+              "id": 1008406,
+              "ca": "No tercer sector"
+            },
+            "informacioUte": [],
+            "observacions": {}
+          }
+        ],
+        "informesActesMesesContractacio": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "informesOfertesPresumpcioAnormalitat": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "informesValoracio": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [
+              {
+                "id": 301467859,
+                "titol": "Actuació 5_DECRET 2025-0256 [Órgan Contractació].pdf",
+                "path": "ETMRe_UkaxJAvFiJ0U9itymBcbGdqBCXYXWe6wzqlUiYqfB3dmCZhPdZysUF9M4zlnEmsCvs1xhGej2I4e5OdX0VOp2rr6InGCMOQnKfAWtoQrBkpz4VD8_IM7vkckgUmQpOR14AZ8T66gVybk70R80Zo3hokkJUzC5L-hqiAz4MWKy5Lz9CYxRTxY3wfZ9F_U7kW0H810Rsp-fcpQP4aCF6dhy-euOSg1O9MFbKz41pRpVxT9oUkMFvJp5QqjFxzGob8fIKbSNuWQTv10oXDXh3T-mkoqFlVFYVKANqLHEStbRMyOnUDY12q1kkYoKK5G9d23PuDR2lHnjSEwNk9g==",
+                "hash": "D6FC16E18B3E131C0FA080406C0E5465",
+                "idioma": "ca",
+                "mida": 713148
+              }
+            ],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "observacions": {},
+        "totalOfertesRebudes": 6
+      }
+    ],
+    "dadesExpedient": {
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "5d96c294-93f0-4d38-8047-20f01b34d846",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "tipusOfertaElectronica": 413,
+      "denominacioExpedientReferencia": {}
+    },
+    "publicacionsOficials": [],
+    "motiuEsmena": {}
+  },
+  "pathPdf": "qmfRxZdljRx7FhdKx1jarIOUGNdWelbAd1z5G1GwDaNXm_k3viVSd6uK4dfbpSGrbPtcKBIWRr6uIsVFe-0vTZtCzOd3lvffka3e90OVLJ74ykyz0NiKgHqXXFfLIP5nXtRPh_mctGm5B7HkiO4WJwHH2tPMsGECvvRFxZLfCXR2nkf9GGSm-XbfiZKd5qE2_KUe3UwLOx6WljItj0OJkbXHjGl3YXdljaljLRtXXLLUZJCLvL9mmFegJM2W3XgFms0hmI-c7S2tqC4bXqQZgLPOQO44_hPoKnUv4w7gew9wbKSxrE4ZCK26JhZZo6zt4QwHxGHTmlZMz3mK1SgUaA==",
+  "pathCertificacio": "cZaLKh3gIca1SQxmcLWSo9KimxuJCJCe3yZt1Sp8ALyGwmHozZJbCLGrfADHwCOZ6L3Y4Df09WZ5QI_UIM24bUa0j3UyTVVY6MZV3Bw4H19TvtXBJvK3fgAIvU9ewiEByt0IuwiIzKgms2uDcVezjF6FoNyjF0wl6WmvYe5EO2F1s5T0qEBYKUIEF8MDDngk4wL2mPRHknltmwOOwdA2VbOuiSiZ3H7Ak8jDDfxjHzf36lfZh5YU8QnBqu6OE19D5PDQYU4ssyhtsKzURMSp9roCcLn3YtjpxZJWMyQCC_soh9LEjOPhFsUTBgId6J4NHKoBGzeAw20zRTnD6yXyjQ==",
+  "pathJson": "XQIToTF-GkysNX9swS0XpHfURrAiuRx-o2JW3M74fAD3YZ5LvqDCipyR756uAJwx2zGsgE7idNLzULwQEZjvhIXJmVy2NXvLfoaQf-Ym801r7dqp6ZyjNpSZid121vyPJesz2I9RXAzjtquRA97Yh8tdqJKdZWJUkLpZUtiE8QLaNLOdtmrFoRtKRG8amvfNRFhth_C-aei7li5p61RzXC3WiLvlyFGwos-E4PhXNw9s99-6WEr_klXXxj8lMIMICR7TrBySUE4Ts4R_eFQCErGj4qTcp12oCgbgpdX7a1oc0yDVm1LHgTPYUkonwKdtEo7msoMcm1bN-o-ZLxMuVA==",
+  "dataPublicacioReal": "2025-07-16T07:11:58.313Z",
+  "dadesExpedient": {
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": "Català",
+      "es": "Catalan",
+      "en": "Catalan",
+      "oc": "Catalan"
+    },
+    "expedientId": "5d96c294-93f0-4d38-8047-20f01b34d846",
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 413,
+    "denominacioExpedientReferencia": {}
+  }
+}

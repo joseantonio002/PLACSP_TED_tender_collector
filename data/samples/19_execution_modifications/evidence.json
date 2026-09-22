@@ -1,0 +1,41 @@
+{
+  "case_id": "19_execution_modifications",
+  "gencat_buyer_exp": [
+    "9598270",
+    "4317110007-2021-0001388"
+  ],
+  "execution_buyer_exp": [
+    "9598270",
+    "4317110007-2021-0001388"
+  ],
+  "tags": [
+    "execution",
+    "contract_modification",
+    "same_publication_multiple_actions"
+  ],
+  "fetch_historical_notices": false,
+  "placsp_observations": 0,
+  "gencat_rows": 0,
+  "evidence_references": [
+    {
+      "source": "gencat-execution",
+      "page": "data/raw/gencat/8idu-wkjv/pages/000060000.json",
+      "row_ordinal": 6387,
+      "socrata_id": "row-immc-dqqp_ii59"
+    },
+    {
+      "source": "gencat-execution",
+      "page": "data/raw/gencat/8idu-wkjv/pages/000060000.json",
+      "row_ordinal": 6388,
+      "socrata_id": "row-5zxx.dwxh_8t7i"
+    }
+  ],
+  "phase_json": {
+    "300007312": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300007312",
+      "field": "execution.url_json",
+      "raw_path": "data/raw/gencat/phases/300007312.json"
+    }
+  },
+  "folder": "data/samples/19_execution_modifications"
+}

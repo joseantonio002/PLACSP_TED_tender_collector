@@ -1,0 +1,482 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "2024PT0235AC",
+  "idExpedient": "8d4ef683-64c8-43d5-a4a0-411f988509e1",
+  "dataPublicacioPlanificada": "2025-01-22T12:22:06.442Z",
+  "organ": {
+    "nom": "Barcelona de Serveis Municipals SA",
+    "nif": "A08765919",
+    "direccioPostal": "Carrer Calabria 66",
+    "localitat": "Barcelona",
+    "web": "https://www.bsmsa.cat/empresa/perfil-de-contractant",
+    "telefon": "938875020",
+    "fax": "934092366",
+    "email": "ajcc@bsmsa.cat",
+    "personesContacte": [
+      {
+        "nom": "Mercè ",
+        "cognom": "Piñol",
+        "carrec": "Arnal ",
+        "telefon": "938875020",
+        "email": "ajcc@bsmsa.cat"
+      }
+    ],
+    "observacions": {
+      "ca": "Les licitacions publicades abans de l'1 de juliol de 2016 s'han de consultar a https://www.bsmsa.cat/empresa/perfil-de-contractant"
+    },
+    "horari": {},
+    "organContractacioId": 15937877
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000040,
+      "ca": "Anunci de licitació",
+      "es": "Anuncio de licitación",
+      "en": "Tender announcement",
+      "oc": "Anóncia de licitacion"
+    },
+    "expedientId": "8d4ef683-64c8-43d5-a4a0-411f988509e1",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000040,
+        "ca": "Anunci de licitació",
+        "es": "Anuncio de licitación",
+        "en": "Tender announcement",
+        "oc": "Anóncia de licitacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "2024PT0235AC",
+      "denominacio": {
+        "ca": "2024PT0235AC - Concurs d’idees amb intervenció de jurat per al projecte de reforma i tematització dels espais d’operació de les atraccions, les casetes de fotografia i els tòtems d’accés a les atraccions, pantalles d’informació i caixers del Parc d’Atraccions Tibidabo, incloent la conceptualització de la idea, direcció artística, redacció del projecte executiu, direcció d’obra i coordinació de seguretat i salut"
+      },
+      "descripcio": {
+        "ca": "Concurs d’idees amb intervenció de jurat per al projecte de reforma i tematització dels espais d’operació de les atraccions, les casetes de fotografia i els tòtems d’accés a les atraccions, pantalles d’informació i caixers del Parc d’Atraccions Tibidabo, incloent la conceptualització de la idea, direcció artística, redacció del projecte executiu, direcció d’obra i coordinació de seguretat i salut"
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "tipusContracte": {
+        "id": 393,
+        "ca": "Serveis",
+        "es": "Servicios",
+        "en": "Services",
+        "oc": "Servicis"
+      },
+      "procedimentAdjudicacio": {
+        "id": 1000010,
+        "ca": "Concurs de projectes",
+        "es": "Concurso de proyectos",
+        "en": "Project competition",
+        "oc": "Concors de projèctes"
+      },
+      "tipusConcurs": {
+        "id": 1000020,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 11386,
+        "ca": "Altres",
+        "es": "Otros",
+        "en": "Others",
+        "oc": "D’auti"
+      },
+      "descripcioAltres": {
+        "ca": "Sobre electrònic PLYCA"
+      },
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {}
+    },
+    "dadesPublicacio": {
+      "pressupostLicitacio": 2000,
+      "observacions": {},
+      "contracteHarmonitzat": false,
+      "dataTerminiPresentacioOSolicitud": "2025-02-11T11:00:00.000Z",
+      "adrecaElectronicaPresentacioOfertes": {
+        "ca": "https://seucontractacio.bsmsa.cat/licitacion/busquedaAvanzConc.do"
+      },
+      "preveuenModificacionsAlsPlecs": false,
+      "preveuenProrroguesAlsPlecs": false,
+      "informacioComplementariaProrroga": {},
+      "informacioComplementariaModificacio": {},
+      "valorEstimatContracte": 55000,
+      "iva": 21,
+      "varisTipusIva": false,
+      "pressupostBaseLicitacioAmbIva": 2420,
+      "acpAplicable": false,
+      "justificacioProcedimentUtilitzat": {},
+      "plecsDeClausulesAdministratives": {
+        "ca": [
+          {
+            "id": 301029880,
+            "titol": "5. PCP.pdf",
+            "path": "anNalXndwg_2gnhTHl2Qv-NXUF7mV1gtUPz3voblULcPW_nHPz_OirfkUeZ85bDiWH1k9W2zH4LtTkCeVgBXeFhINGoWRFSzhPkISqmKhzfsyLgTsAwFqZn-DPRXW51xeGCHeIiumGic8gZdemtCfNK6DxVwVeTPaRGmSGaVkRpzAKOxDJVdAbtrldt6mAWnzxU1lk4qnQOKwESwgI59K_mxxd05wlrGJaOX-HzJDbJzYFlIf-ey_a3L5HGLzRb8qRvUAMbGwQbY7hlBbBH8gA7GNuoWFgoeMjhZixwAR-Xi7xj8INBtKvOCFXsMVzt2ZY83KtpjDjG8YjS866R7Cw==",
+            "hash": "04D278F221A24F0C3511285D1A3A1BB9",
+            "idioma": "ca",
+            "mida": 1507221
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "plecsDePrescripcionsTecniques": {
+        "ca": [
+          {
+            "id": 301029881,
+            "titol": "4. PPT.pdf",
+            "path": "lQb-MWVcREevT6taxXD1m4oCOwZS3KPGOG0gs0Mk4lp0jXw1oeHdJF2vwHILM2r-t4AkB-5zYWaFHDtstkPBvHoNy3f1nI_HjxomJ3431Ad8Ah1-yYhgyKEs2B6EgNkmeVMs0iYEfXx_N1WDEaS9ORa8QK5Hl6Op2d4z_Z_TKzqFyIVf1fnMldMHBBDtTrMdkHZd3SP2EyphuwUZPH7aBo-8LW7qy-NoWnVCRzB-15Ghk0F1kcB7nxZLZE_IX5uHDhh4WZkX_zjxuh0EwGcudjLbHEYkjtyhA8UPNU-wKuV9QZ3_Ajq5dG7eN1Dmky4m6e8_2ppTYygOCGSrD_kqXw==",
+            "hash": "3687619509B3F92729CF4E152377B8BF",
+            "idioma": "ca",
+            "mida": 1582885
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "memoriaJustificativaContracte": {
+        "ca": [
+          {
+            "id": 301029879,
+            "titol": "Memòria.pdf",
+            "path": "GtMLcbWRG-7SHrPnSSemkB1RTseeh3UVBi3gb95_UJTrHSvDCAQZ239gvj3DOQjLaDB_D2k8z2IPlTxAh0mg0oq8UMlkEUhOlUcDfYPiFvErToD4bvOTCP5OdfumpZD5vDwPyxtxkzGgJ7hQH6PIZQNQETTgqbcIHbRz5nTUCuHhEbB04L7FaYs_uAEWtEmhd3_FoD7rB7lj2kfkxrFBrZjoXZuNNsWZ3C3etXuXLtmqHGBC9JFjNexnFAW80pIo-qLhAl_DDIBmDFufF4I-A6zXLZFs_tbqkb6YomhzB87e4BC-jDS4hAyWylH-PcRK7LlVWLif4Iw_UfguodoL7Q==",
+            "hash": "E975FD83CE5AEEC62219EEE533389C92",
+            "idioma": "ca",
+            "mida": 247522
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "documentsAprovacio": {
+        "ca": [
+          {
+            "id": 301029878,
+            "titol": "Resolució d'inici.pdf",
+            "path": "aLLJicf6a0Cnf_8Ceb6UT3_9zpvhiXIGopI0VQghTtLT-IUZjES639rNccQWVtUuqJc7mvriJyyKZd6-PPHZ7nHamSYmxfKSmIS9CM-z1eHQCpG7z63HPNX80aczPTWRZWZjMmUdP3UYzs8aMZk2dNOFLiAxM_mr3doSvX21AFw4J9k1zYszObTER77CHr-6QrBM6OOhvcc8qGK6GjwtzaXiin-ByrqGG7zrGX6bfb8Qide1Go26RPqtTybs3MyZE0_Xu4ynHacj4qr19hzDwUXnCZn3RfQ_57vRDiZeREnxGxS5Aqxb6Q-F8nh2HUTCNd0FzrYBgI9QoiMFW6c_EA==",
+            "hash": "2CEAC0EC07A0850881CBAE00DC923BAF",
+            "idioma": "ca",
+            "mida": 753410
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "altresDocuments": {
+        "ca": [
+          {
+            "id": 301029876,
+            "titol": "NOTA INFORMATIVA SOBRE LA PRESENTACIÓ D'OFERTES.pdf",
+            "path": "pQmdaO1EqAvcfr_yo4_aKXd91t_c-MYtb2zNz7NZ85W05JMz65ElvIaGGRXro__jhUqfwNxAPWLWbsHIsEaaY3Af7cFpDj0j151UHZAMT9KEgsQzpPZZsPXZy-caSU5kTi0p6f5-_A4SHJVJOSt0njK5ivS4ORNfbNu3_-RZ0AiLgru9vUNb8LKuVIYAmswKevJ6RlkJEJJwgvtSFB6fNwLO1Hhl13gd_bF4WC37S8hiE_6qEtN24iSkpJr3l0b-fDUYN2eK6pRdsP-7a855G_vVzIZ5gsYkgDK-0CUTl2ZQWBvQ2sgj-sBdO8mwfJOOa3mgvajCn22sNMQto1UOqQ==",
+            "hash": "27CE73D3E13DC2282127BDD31B9F6A2D",
+            "idioma": "ca",
+            "mida": 640959
+          },
+          {
+            "id": 301029877,
+            "titol": "7. Contracte tipus.pdf",
+            "path": "fUBN5RUb5KMWAt-pCDPGPctmDFlDzgcMK5NMGoSIlmgVcNZYX_aUAw3SShOQvmO8z9Y2kHho2Jgq96g5x4GHuK-OkqyRTUF1rV2cuvomkwPmMswu3j6ypzduyz6fJx-f4g2FJ1_VVvANr2kwbynCVeldKXBXUV_5zOIC-RG4bVA64deIO1dPfXB4TbB8qn4m-E7U5TSqXYnlCqA7ae9MnSJaN8Fp9O-IiNWDx3elNSaMHfGb8h-VOJ0IWXzqzbTM4mstGLI-iE0M8-GhxtBkm0rS5Bi_rpgHRDHBtEjyID27O43k_lAKQZxqb7S3xcjzuIbYAvwGT9lxzS_EKz1UDw==",
+            "hash": "93E32C053E7CEF1144D2E6154CF9A74E",
+            "idioma": "ca",
+            "mida": 816955
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "llenguesRedactarOfertes": {},
+      "justificacioNoExistenciaLots": {
+        "id": 1008190,
+        "ca": "Art.99.3 b) El fet que la realització independent de les diverses prestacions compreses en l’objecte el contracte en dificulti l’execució correcta des del punt de vista tècnic; o bé que el risc per a l’execució correcta del contracte procedeixi de la naturalesa del seu objecte, en implicar la necessitat de coordinar l’execució de les diferents prestacions, qüestió que es podria veure impossibilitada per la seva divisió en lots i l’execució per una pluralitat de contractistes diferents. Tots dos aspectes, si s’escau, s’han de justificar degudament en l’expedient",
+        "en": "Art. 99.3.b) The fact that the independent performance of the various services indicated as the purpose of the contract hinders their correct implementation from a technical point of view; or that the risk for the correct implementation of the contract comes from the nature of its purpose, since it involves the need to coordinate the implementation of the various services, an issue that could be made impossible by its division into lots and being undertaken by a plurality of different contractors. Both aspects, if applicable, must be duly justified in the file",
+        "oc": "Art.99.3 b) Er hèt qu'era realizacion independenta des diuèrses prestacions comprenudes en er objècte eth contracte ne dificulte era execucion corrècta dempús deth punt d'enguarda tecnic; o plan qu'eth risc entara execucion corrècta deth contracte provengue dera natura deth sòn objècte, en implicar eth besonh de coordinar era execucion des diferentes prestacions, ahèr que se poirie veir impossibilitada pera sua division en lòts e era execucion per ua pluralitat de contractistes diferenti. Toti dus aspèctes, se s’esquèr, les cau justificar degudaments en expedient"
+      },
+      "contracteRelacionatFinanciatFonsUnioEuropea": false,
+      "divisioEnLots": {
+        "id": 1008401,
+        "ca": "Sense lots"
+      },
+      "motiuContracteNoInformatLots": {},
+      "publicacionsOficials": [],
+      "contractacioConjunta": false,
+      "peuRecurs": {
+        "ca": "Aquest acte no exhaureix la via administrativa. Contra aquest acte es pot interposar recurs d'alçada, davant l Ajuntament de Barcelona, en el termini d'un mes comptat a partir del dia següent al de la recepció d'aquesta notificació. Contra la desestimació tàcita del recurs d'alçada, que s'entendrà produïda un cop transcorregut el termini de tres mesos comptat des del dia següent al de la seva interposició sense que s'hagi dictat i notificat resolució expressa, es pot interposar recurs contenciós administratiu davant el Jutjat Contenciós Administratiu de Barcelona. No obstant, es pot interposar qualsevol altre recurs que es consideri convenient."
+      },
+      "adrecaPresentacioRecurs": {},
+      "elementsCondicionsOfertesIntegradores": {}
+    },
+    "dadesPublicacioLot": [
+      {
+        "ultimaObertura": {
+          "dataObertura": "2025-02-11T12:00:00.000Z",
+          "lloc": {
+            "ca": "L'obertura dels sobres es realitzarà a través de la plataforma electrònica de contractació pública PLYCA en sessió privada, atès que el sistema informàtic que suporta la plataforma PLYCA té un dispositiu que permet acreditar fefaentment el moment de l'obertura dels sobres i el secret de la informació que hi estigui inclosa, d’acord amb allò previst a la disposicions addicional dissetena de la Llei 9/2017, de 8 de novembre, de Contractes del Sector Públic.\n\nEn aplicació de l’article 157.4 de la Llei 9/2017, de 8 de novembre, de Contractes del Sector Públic que diu que “En todo caso, la apertura de la oferta económica se realizará en acto público, salvo cuando se prevea que en la licitación puedan emplearse medios Electrónicos”, els actes d’obertura es realitzaran en sessió privada, excepte que s’indiqui el contrari a través del corresponent avís al Perfil del contractant.\n\nAixí mateix, l’informem que, un cop realitzada l’obertura del sobre econòmic, posteriorment es publicarà l’acta d’obertura a l’anunci de la licitació concreta a la Plataforma de Serveis de Contractació Pública, on hi constarà tota la informació.\n\nNo obstant això, per tal de vetllar pel compliment de les garanties de transparència i publicitat exigibles en el marc de la contractació pública, l’informem que pot visualitzar tota la documentació relativa a la present licitació, això és, les actes de la Mesa de Contractació i els informes d’avaluació, així com altres consultes, a l’anunci de la licitació en qüestió a la Plataforma de Serveis de Contractació Pública.\n\nSota aquesta tessitura, ens plau comunicar-li que quan s’inclou un avís en el tauler d’avisos de la licitació concreta, la Plataforma de Serveis de Contractació Pública envia un correu electrònic a totes les persones subscrites a les novetats de la licitació avisant que s’ha publicat nova informació. En aquest sentit, li recomanem subscriure’s a la present licitació, a través de l’apartat “Subscripcions: Voleu que us informem de les novetats?”, situat al costat dret de l’anunci, per tal de poder estar al dia de totes les noves actualitzacions en relació a la licitació."
+          },
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {}
+        },
+        "pressupostLicitacio": 2000,
+        "publicacioExpedientId": 300357490,
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 2420,
+        "varisTipusIva": false,
+        "valorEstimat": 55000,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES511",
+          "ca": "Barcelona"
+        },
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 2,
+          "mesos": 0,
+          "dies": 0,
+          "observacions": {}
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "ca": "Veure PCAP"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "dataObertura": "2025-02-11T12:00:00.000Z",
+            "lloc": {
+              "ca": "L'obertura dels sobres es realitzarà a través de la plataforma electrònica de contractació pública PLYCA en sessió privada, atès que el sistema informàtic que suporta la plataforma PLYCA té un dispositiu que permet acreditar fefaentment el moment de l'obertura dels sobres i el secret de la informació que hi estigui inclosa, d’acord amb allò previst a la disposicions addicional dissetena de la Llei 9/2017, de 8 de novembre, de Contractes del Sector Públic.\n\nEn aplicació de l’article 157.4 de la Llei 9/2017, de 8 de novembre, de Contractes del Sector Públic que diu que “En todo caso, la apertura de la oferta económica se realizará en acto público, salvo cuando se prevea que en la licitación puedan emplearse medios Electrónicos”, els actes d’obertura es realitzaran en sessió privada, excepte que s’indiqui el contrari a través del corresponent avís al Perfil del contractant.\n\nAixí mateix, l’informem que, un cop realitzada l’obertura del sobre econòmic, posteriorment es publicarà l’acta d’obertura a l’anunci de la licitació concreta a la Plataforma de Serveis de Contractació Pública, on hi constarà tota la informació.\n\nNo obstant això, per tal de vetllar pel compliment de les garanties de transparència i publicitat exigibles en el marc de la contractació pública, l’informem que pot visualitzar tota la documentació relativa a la present licitació, això és, les actes de la Mesa de Contractació i els informes d’avaluació, així com altres consultes, a l’anunci de la licitació en qüestió a la Plataforma de Serveis de Contractació Pública.\n\nSota aquesta tessitura, ens plau comunicar-li que quan s’inclou un avís en el tauler d’avisos de la licitació concreta, la Plataforma de Serveis de Contractació Pública envia un correu electrònic a totes les persones subscrites a les novetats de la licitació avisant que s’ha publicat nova informació. En aquest sentit, li recomanem subscriure’s a la present licitació, a través de l’apartat “Subscripcions: Voleu que us informem de les novetats?”, situat al costat dret de l’anunci, per tal de poder estar al dia de totes les noves actualitzacions en relació a la licitació."
+            },
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {}
+          }
+        ],
+        "prorroguesPrevistes": false,
+        "informacioProrrogaComplementaria": {},
+        "modificacioPrevista": false,
+        "informacioModificacioComplementaria": {},
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "garantiaDefinitiva": true,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008242,
+              "ca": "Relació serveis o treballs efectuats de la mateixa naturalesa en el curs de com a màxim els últims tres anys",
+              "en": "List of services or work of the same nature carried out during the last three years at most",
+              "oc": "Relacion servicis o trabalhs efectuadi dera madeisha natura en cors de coma maximom es darrèri tres ans"
+            },
+            "valorMinimExigit": {
+              "ca": "Veure PCAP"
+            },
+            "mitjaAcreditacio": {
+              "id": 1008253,
+              "ca": "Certificats o declaracions de bona execució",
+              "en": "Certificates or declarations of good quality production",
+              "oc": "Certificats o declaracions de bona execucion"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008218,
+              "ca": "Volum anual de negocis",
+              "en": "Annual volume of business",
+              "oc": "Volum annau de negòcis"
+            },
+            "valorMinimExigit": {
+              "ca": "Veure PCAP"
+            },
+            "mitjaAcreditacio": {
+              "id": 1008226,
+              "ca": "Comptes anuals",
+              "en": "Annual accounts",
+              "oc": "Compdes annaus"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "decisioJuratVinculantPoderAdjudicador": true,
+        "descripcioPagamentsParticipants": {},
+        "contractesSubseguentsConcursAdjudicarGuanyador": true,
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "percentatgeGarantiaDefinitiva": 5,
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 100,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 100,
+                "descripcioCriteri": {
+                  "ca": "Veure PCAP"
+                }
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "codisCpv": [],
+        "cpvPrincipal": {
+          "codi": "79931000-9",
+          "ca": "Serveis de decoració d'interiors",
+          "es": "Servicios de decoración de interiores",
+          "en": "Interior decorating services",
+          "oc": "Servicis de decoracion d'interiors"
+        },
+        "cpvsSecundaris": [
+          {
+            "codi": "71220000-6",
+            "ca": "Serveis de disseny arquitectònic",
+            "es": "Servicios de diseño arquitectónico",
+            "en": "Architectural design services",
+            "oc": "Servicis de dessenh arquitectonic"
+          }
+        ],
+        "garantiaComplementaria": false
+      }
+    ],
+    "dadesExpedient": {
+      "organContractacioId": 15937877,
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "8d4ef683-64c8-43d5-a4a0-411f988509e1",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "tipusOfertaElectronica": 11386,
+      "denominacioExpedientReferencia": {}
+    },
+    "tipusEsmena": {
+      "id": 1008172,
+      "ca": "Esmena",
+      "es": "enmienda",
+      "en": "Amendment",
+      "oc": "Esmenda"
+    },
+    "motiuEsmena": {
+      "ca": "Ampliació de termini"
+    }
+  },
+  "pathPdf": "EMYdWxHAQZUtRp2vEKdwNiuHe5bkNTtfisRI__jSg1ZE2a72N-jJ-ozZInm-3yJPQ6eOfQdCvSIslY50aQfPbUaPjfRX-Y1q-qmnpuJ7R5A2qkRX_N9RK0xzE70q1i6qKQoXLLtcvG4-_cDFVOrBd01M8SUM-q_4X22hT1CuTFFPzoVVZlNvUSGGrJVkGXm_mRM8YfJuCzGsIKKg_xvD1lHkgNIty0O8QA9wcyc7xpUi7Yqn5z72ObBHncoqKnvM7-QWBE2Q7M9Z2R0yK9lH1HZPqL8PSSO1FUsnuPtYMfO4ltcuzVYncPP9Gjtc3Jzak7UdPKsRzyJaFrgLo_VTog==",
+  "pathCertificacio": "ALmZXHKFlhTUdzPmKqcTrCRXdbeqEGQFZ_TCnsxTwBpXV431A8HCXjBjRNj6DqV86zoSCIl2sz9raHz0D2koEl28WXCA0Izp11C_VLFlw_1-fNRk0jllJNytPq3iScyVq_AL2iuj-PGIRdMa6CUH6B5VlnZbiPNXY9wt9KxSiUTd4xLtAOSlJlyk2NPdsFOiRRd6inIrk2Ukke6vFx_6obyJQXCATPJU9UdTFxloPHBKmq-1_gd2F0ub6UyLUdjqhSZC1a8YokqGCHUROFmkjsye6dx7gj1FLRtBPzgeglmwqQRVtG6Oy7s-fEo6njm5oF0I10sC_HWUzPBnXyZHOA==",
+  "pathJson": "s0LWig7kiAXcgXfeiJBsmN3SLlzXNpnxuuSKVvYo75rDlNE56krSXvTqa3s0vAxfS2NDtXZi3XzjaljeJZOc68SXlgnwr9ouXyIDiTYDD4gZ3BwXiudhR_6zSleD0naB8MsJSCj4J52G4H9gDskZcAUuJXhsJkCiK5zgOGauPSMLX5khkEVOyTJQj4Ov4gztEb6W8UJq46Ui-WW5v7HwzGhoz8Ul6bMUdnVerdphYdAoQyyLYl-epJawRiJN5lKuXlDuMeaHRvMqG9OKE-0v1N0WrnHQrK6OPT9zu_IrsmoNpCc4lidVEKNo0NPFfaiT-lMJE24eU7hMBRTzyO3AVA==",
+  "dataPublicacioReal": "2025-01-22T12:24:05.793Z",
+  "dadesExpedient": {
+    "organContractacioId": 15937877,
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "expedientId": "8d4ef683-64c8-43d5-a4a0-411f988509e1",
+    "dataFiPublicacioPerfil": null,
+    "dataFiGestio": null,
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "tenderingSpaceId": null,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 11386,
+    "dataVisiblePortalAccesExclusiu": null,
+    "expedientIdReferencia": null,
+    "codiExpedientReferencia": null,
+    "denominacioExpedientReferencia": {
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "nomOrganContractacioReferencia": null
+  }
+}

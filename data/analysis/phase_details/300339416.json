@@ -1,0 +1,456 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "2024004-AM",
+  "idExpedient": "fff0ffe1-d07b-42af-ade9-dc8eb403a8b6",
+  "dataPublicacioPlanificada": "2025-01-01T08:00:00.000Z",
+  "organ": {
+    "nom": "Xarxa Local de Municipis Gironins (XALOC)",
+    "nif": "P1700053J",
+    "direccioPostal": "Avinguda Jaume I, 39",
+    "localitat": "Girona, No Consta",
+    "codiPostal": "17001",
+    "nuts": "ES512",
+    "web": "https://seu.xalocgirona.cat/seu-electronica-contractacio-publica",
+    "telefon": "972906010",
+    "email": "contractacioxaloc@xalocgirona.cat",
+    "personesContacte": [
+      {
+        "nom": "Josep",
+        "cognom": "Palomer Roca",
+        "carrec": "Tècnic de contractació",
+        "telefon": "972906010",
+        "email": "contractacioxaloc@xalocgirona.cat"
+      }
+    ],
+    "centralCompres": false,
+    "observacions": {},
+    "horari": {},
+    "organContractacioId": 2988807
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000046,
+      "ca": "Publicació agregada de contractes",
+      "en": "Combined list of publications of contracts",
+      "oc": "Publicacion agregada de contractes"
+    },
+    "expedientId": "fff0ffe1-d07b-42af-ade9-dc8eb403a8b6",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000046,
+        "ca": "Publicació agregada de contractes",
+        "en": "Combined list of publications of contracts",
+        "oc": "Publicacion agregada de contractes"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "2024004-AM",
+      "denominacio": {
+        "ca": "Contractes basats en AM, 4t trimestre de 2024"
+      },
+      "descripcio": {
+        "ca": "Publicació dels contractes basats en un Acord Marc durant el quart trimestre de 2024 (octubre-desembre)."
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "racionalitzacioContractacio": {
+        "id": 11196,
+        "ca": "Contracte basat en acord marc",
+        "es": "Contrato basado en acuerdo marco",
+        "en": "Contract based on framework agreement",
+        "oc": "Contracte basat en acòrd marc"
+      },
+      "publicacioAgregada": true,
+      "accesExclusiu": false,
+      "descripcioAltres": {},
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {}
+    },
+    "dadesPublicacio": {
+      "observacions": {},
+      "nombreInformats": 6,
+      "tipusPublicacioAgregada": 302,
+      "contractesAgregada": [
+        {
+          "tipusContracte": {
+            "id": 393,
+            "ca": "Serveis",
+            "es": "Servicios",
+            "en": "Services",
+            "oc": "Servicis"
+          },
+          "expedient": "2023/585",
+          "descripcio": {
+            "ca": "Aprovació de la pròrroga del contracte de la pòlissa d'assegurança de vida per al personal de XALOC corresponent a l'exercici 2025."
+          },
+          "nifAdjudicatari": "A28119220",
+          "nomAdjudicatari": "Seguros Catalana Occidente SA",
+          "paisAdjudicatari": {
+            "id": 65,
+            "ca": "Espanya",
+            "es": "España",
+            "en": "Spain"
+          },
+          "codiCpv": {
+            "codi": "66511000-5",
+            "ca": "Serveis d'assegurances de vida",
+            "es": "Servicios de seguros de vida",
+            "en": "Life insurance services",
+            "oc": "Servicis d'assegurances de vida"
+          },
+          "dataAdjudicacio": "2024-11-28T23:00:00.000Z",
+          "dataIniciExecucio": "2024-12-31T23:00:00.000Z",
+          "dataFiExecucio": "2025-12-30T23:00:00.000Z",
+          "importAdjudicacioSenseIva": 28957.25,
+          "importAdjudicacioAmbIva": 28957.25,
+          "llocExecucio": "Girona",
+          "vec": 132628.56,
+          "pressupostLicitacio": 28957.25,
+          "numEmpresesConvidades": 1,
+          "numEmpresesPresentades": 1,
+          "numOfertesRebudes": 1,
+          "numOfertesEmpresesEstrangeres": 0,
+          "numOfertesPime": 0,
+          "criterisAdjudicacio": "Criteri únic relacionat amb els costos",
+          "esPime": false,
+          "esUte": false,
+          "importPreveuSubcontractar": 0,
+          "afectatPerFonsEuropeu": false,
+          "organResponsableProcedimentsRecursos": "Presidència de la Diputació de Girona",
+          "expedientIdReferencia": "1efe0fb1-e5e6-4e3a-8cb6-fcc33215dad1",
+          "codiExpedientReferencia": "2022.06",
+          "denominacioExpedientReferencia": {
+            "ca": "Acord marc de serveis d'assegurances de vida i responsabilitat civil i patrimonial amb destinació als ens locals de Catalunya"
+          },
+          "nomOrganContractacioReferencia": "ASSOCIACIÓ CATALANA DE MUNICIPIS (ACM)"
+        },
+        {
+          "tipusContracte": {
+            "id": 393,
+            "ca": "Serveis",
+            "es": "Servicios",
+            "en": "Services",
+            "oc": "Servicis"
+          },
+          "expedient": "2023/800",
+          "descripcio": {
+            "ca": "Aprovació de la pròrroga del contracte de la pòlissa d'assegurança col·lectiva d'accidents per al personal de XALOC, exercici 2025."
+          },
+          "nifAdjudicatari": "W0072130H",
+          "nomAdjudicatari": "Zurich Insurance PLC, Sucursal en España",
+          "paisAdjudicatari": {
+            "id": 65,
+            "ca": "Espanya",
+            "es": "España",
+            "en": "Spain"
+          },
+          "codiCpv": {
+            "codi": "66512100-3",
+            "ca": "Serveis d'assegurances d'accidents",
+            "es": "Servicios de seguros de accidentes",
+            "en": "Accident insurance services",
+            "oc": "Servicis d'assegurances d'accidents"
+          },
+          "dataAdjudicacio": "2024-11-28T23:00:00.000Z",
+          "dataIniciExecucio": "2024-12-31T23:00:00.000Z",
+          "dataFiExecucio": "2025-12-30T23:00:00.000Z",
+          "importAdjudicacioSenseIva": 7096.06,
+          "importAdjudicacioAmbIva": 7096.06,
+          "llocExecucio": "Girona",
+          "vec": 34061.08,
+          "pressupostLicitacio": 7096.06,
+          "numEmpresesConvidades": 1,
+          "numEmpresesPresentades": 1,
+          "numOfertesRebudes": 1,
+          "numOfertesEmpresesEstrangeres": 0,
+          "numOfertesPime": 0,
+          "criterisAdjudicacio": "Criteri únic relacionat amb els costos",
+          "esPime": false,
+          "esUte": false,
+          "importPreveuSubcontractar": 0,
+          "afectatPerFonsEuropeu": false,
+          "organResponsableProcedimentsRecursos": "Presidència de la Diputació de Girona",
+          "expedientIdReferencia": "a9d6795d-4f3c-730d-d6cf-5bb1994f240d",
+          "codiExpedientReferencia": "2023.01",
+          "denominacioExpedientReferencia": {
+            "ca": "Acord marc de serveis d'assegurances amb destinació a les entitats locals de Catalunya "
+          },
+          "nomOrganContractacioReferencia": "Consorci Català pel Desenvolupament Local"
+        },
+        {
+          "tipusContracte": {
+            "id": 393,
+            "ca": "Serveis",
+            "es": "Servicios",
+            "en": "Services",
+            "oc": "Servicis"
+          },
+          "expedient": "2023/800",
+          "descripcio": {
+            "ca": "Aprovació de la pròrroga del contracte de la pòlissa d'assegurança de vehicles terrestres de XALOC corresponent a l'exercici 2025."
+          },
+          "nifAdjudicatari": "G08171407",
+          "nomAdjudicatari": "FIATC Mutua de Seguros y Reaseguros Sociedad Unipersonal",
+          "paisAdjudicatari": {
+            "id": 65,
+            "ca": "Espanya",
+            "es": "España",
+            "en": "Spain"
+          },
+          "codiCpv": {
+            "codi": "66514110-0",
+            "ca": "Serveis d'assegurances d'automòbils",
+            "es": "Servicios de seguros de automóviles",
+            "en": "Motor vehicle insurance services",
+            "oc": "Servicis d'assegurances d'automobiles"
+          },
+          "dataAdjudicacio": "2024-10-27T23:00:00.000Z",
+          "dataIniciExecucio": "2024-12-31T23:00:00.000Z",
+          "dataFiExecucio": "2025-12-30T23:00:00.000Z",
+          "importAdjudicacioSenseIva": 3149.79,
+          "importAdjudicacioAmbIva": 3149.79,
+          "llocExecucio": "Girona",
+          "vec": 13369.64,
+          "pressupostLicitacio": 3149.79,
+          "numEmpresesConvidades": 1,
+          "numEmpresesPresentades": 1,
+          "numOfertesRebudes": 1,
+          "numOfertesEmpresesEstrangeres": 0,
+          "numOfertesPime": 0,
+          "criterisAdjudicacio": "Criteri únic relacionat amb els costos",
+          "esPime": false,
+          "esUte": false,
+          "importPreveuSubcontractar": 0,
+          "afectatPerFonsEuropeu": false,
+          "organResponsableProcedimentsRecursos": "Presidència de la Diputació de Girona",
+          "expedientIdReferencia": "a9d6795d-4f3c-730d-d6cf-5bb1994f240d",
+          "codiExpedientReferencia": "2023.01",
+          "denominacioExpedientReferencia": {
+            "ca": "Acord marc de serveis d'assegurances amb destinació a les entitats locals de Catalunya "
+          },
+          "nomOrganContractacioReferencia": "Consorci Català pel Desenvolupament Local"
+        },
+        {
+          "tipusContracte": {
+            "id": 393,
+            "ca": "Serveis",
+            "es": "Servicios",
+            "en": "Services",
+            "oc": "Servicis"
+          },
+          "expedient": "2024/757",
+          "descripcio": {
+            "ca": "Aprovació de la contractació de la pòlissa de danys a edificis i instal·lacions de XALOC."
+          },
+          "nifAdjudicatari": "A28119220",
+          "nomAdjudicatari": "Occident GCO SAU de Seguros y Reaseguros",
+          "paisAdjudicatari": {
+            "id": 65,
+            "ca": "Espanya",
+            "es": "España",
+            "en": "Spain"
+          },
+          "codiCpv": {
+            "codi": "66515000-3",
+            "ca": "Serveis d'assegurances de danys o pèrdues",
+            "es": "Servicios de seguros de daños",
+            "en": "Damage or loss insurance services",
+            "oc": "Servicis d'assegurances de damatges o pèrtes"
+          },
+          "dataAdjudicacio": "2024-12-18T23:00:00.000Z",
+          "dataIniciExecucio": "2024-12-31T23:00:00.000Z",
+          "dataFiExecucio": "2025-12-30T23:00:00.000Z",
+          "importAdjudicacioSenseIva": 3997.57,
+          "importAdjudicacioAmbIva": 3997.57,
+          "llocExecucio": "Girona",
+          "vec": 15990.28,
+          "pressupostLicitacio": 3997.57,
+          "numEmpresesConvidades": 1,
+          "numEmpresesPresentades": 1,
+          "numOfertesRebudes": 1,
+          "numOfertesEmpresesEstrangeres": 0,
+          "numOfertesPime": 0,
+          "criterisAdjudicacio": "Criteri únic relacionat amb els costos",
+          "esPime": false,
+          "esUte": false,
+          "importPreveuSubcontractar": 0,
+          "afectatPerFonsEuropeu": false,
+          "organResponsableProcedimentsRecursos": "Presidència de la Diputació de Girona",
+          "expedientIdReferencia": "98eb8a0e-472c-4b0c-bce0-b6c039237d90",
+          "codiExpedientReferencia": "2023.09",
+          "denominacioExpedientReferencia": {
+            "ca": "Acord marc de serveis d'assegurances de danys a edificis i instal·lacions amb destinació a les entitats locals de Catalunya"
+          },
+          "nomOrganContractacioReferencia": "Consorci Català pel Desenvolupament Local"
+        },
+        {
+          "tipusContracte": {
+            "id": 393,
+            "ca": "Serveis",
+            "es": "Servicios",
+            "en": "Services",
+            "oc": "Servicis"
+          },
+          "expedient": "2024/639",
+          "descripcio": {
+            "ca": "Contractació del Servei d'assessorament i mediació d'assegurances per a XALOC. "
+          },
+          "nifAdjudicatari": "B58265240",
+          "nomAdjudicatari": "Ferrer & Ojeda Asociados Correduría de Seguros SL",
+          "paisAdjudicatari": {
+            "id": 65,
+            "ca": "Espanya",
+            "es": "España",
+            "en": "Spain"
+          },
+          "codiCpv": {
+            "codi": "66518100-5",
+            "ca": "Serveis de corretatge d'assegurances",
+            "es": "Servicios de corretaje de seguros",
+            "en": "Insurance brokerage services",
+            "oc": "Servicis de corretatge d'assegurances"
+          },
+          "dataAdjudicacio": "2024-11-27T23:00:00.000Z",
+          "dataIniciExecucio": "2024-11-27T23:00:00.000Z",
+          "dataFiExecucio": "2026-12-30T23:00:00.000Z",
+          "importAdjudicacioSenseIva": 0,
+          "importAdjudicacioAmbIva": 0,
+          "llocExecucio": "Girona",
+          "vec": 0,
+          "pressupostLicitacio": 0,
+          "numEmpresesConvidades": 1,
+          "numEmpresesPresentades": 1,
+          "numOfertesRebudes": 1,
+          "numOfertesEmpresesEstrangeres": 0,
+          "numOfertesPime": 0,
+          "criterisAdjudicacio": "Criteri únic relacionat amb els costos",
+          "esPime": false,
+          "esUte": false,
+          "importPreveuSubcontractar": 0,
+          "afectatPerFonsEuropeu": false,
+          "organResponsableProcedimentsRecursos": "Presidència de la Diputació de Girona",
+          "expedientIdReferencia": "561c0af9-e1eb-4ad2-8ce4-6b357bb087ed",
+          "codiExpedientReferencia": "2023.02",
+          "denominacioExpedientReferencia": {
+            "ca": "Acord marc de serveis d'assessorament i de mediació d'assegurances amb destinació a les entitats locals de Catalunya"
+          },
+          "nomOrganContractacioReferencia": "ASSOCIACIÓ CATALANA DE MUNICIPIS (ACM)"
+        },
+        {
+          "tipusContracte": {
+            "id": 394,
+            "ca": "Subministraments ",
+            "es": "Suministros",
+            "en": "Supplies ",
+            "oc": "Subministraments "
+          },
+          "expedient": "2024/363",
+          "descripcio": {
+            "ca": "Contractació de subministrament d'energia, baixa tensió menys de 15 kW, per a XALOC."
+          },
+          "nifAdjudicatari": "A61893871",
+          "nomAdjudicatari": "Factor Energia SA",
+          "paisAdjudicatari": {
+            "id": 65,
+            "ca": "Espanya",
+            "es": "España",
+            "en": "Spain"
+          },
+          "codiCpv": {
+            "codi": "31154000-0",
+            "ca": "Subministraments ininterrompibles d'energia",
+            "es": "Suministros ininterrumpidos de energía",
+            "en": "Uninterruptible power supplies",
+            "oc": "Subministraments ininterrompibles d'energia"
+          },
+          "dataAdjudicacio": "2024-11-28T23:00:00.000Z",
+          "dataIniciExecucio": "2024-12-31T23:00:00.000Z",
+          "dataFiExecucio": "2025-12-30T23:00:00.000Z",
+          "importAdjudicacioSenseIva": 5044.16,
+          "importAdjudicacioAmbIva": 6103.43,
+          "llocExecucio": "Girona",
+          "vec": 18158.97,
+          "pressupostLicitacio": 5044.16,
+          "numEmpresesConvidades": 1,
+          "numEmpresesPresentades": 1,
+          "numOfertesRebudes": 1,
+          "numOfertesEmpresesEstrangeres": 0,
+          "numOfertesPime": 0,
+          "criterisAdjudicacio": "Criteri únic relacionat amb els costos",
+          "esPime": false,
+          "esUte": false,
+          "importPreveuSubcontractar": 0,
+          "afectatPerFonsEuropeu": false,
+          "organResponsableProcedimentsRecursos": "Presidència de la Diputació de Girona",
+          "expedientIdReferencia": "4176efa1-9be9-4e15-90d8-934f92fa0e0c",
+          "codiExpedientReferencia": "2023.04.A02",
+          "denominacioExpedientReferencia": {
+            "ca": "Acord marc de subministrament d’energia elèctrica amb destinació a les entitats locals de Catalunya (exp. 2023.04.A02)"
+          },
+          "nomOrganContractacioReferencia": "Consorci Català pel Desenvolupament Local"
+        }
+      ]
+    },
+    "dadesPublicacioLot": [],
+    "dadesExpedient": {
+      "organContractacioId": 2988807,
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "fff0ffe1-d07b-42af-ade9-dc8eb403a8b6",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "denominacioExpedientReferencia": {}
+    },
+    "motiuEsmena": {}
+  },
+  "pathPdf": "OV1hmgGk_qjYaJNuRNTCSwfZ-94cSvpmSvH6ohXyAkbw6z4sNV8nSK4fcEsfg-Utj5kBsaj-lAnFlLrd2JHhwvWF8MdkKSYAR8T2tgGV7RZ7N96R2e48hSG4PwCkM5_kt_rc0ZQPOf3HXSZfN2jTttl13cW0pJgtKyJiQWcnbUGqqbtX-LIaztI4qqbDOSnbw4QjH2dkcoao0Jrw1TiFESIYBgXRoZIEdtDQmq9QjPvwZpx5BjfZCG3ntY3He1VbCVogk3xSDnOif23O2JVlCHIDjAj8xOa5KOhulMWKzKr_T73sXLm0ULmd9xXHhlbg-Z3sqDAqKPkhB3aMosPK2w==",
+  "pathCertificacio": "ttqkj9A95C_nWMgOh5NDCknIZgW1vRdLwTcvAo-XbXBXjGsDIHH_FhSAC4-3ws4tBA0wV06J4_oMtWA2kynoAyi7oG7PoMJGNbzQecJo7rWfkFUO9hr6j0GChWUMfp6_vABkW5O2r5UN5i2wDF0VKae_RF_kPZKtUyPtFI6P1-sgvAL0F-4t_ByazLvjEOEkqaS31AncG4FbPppYsVagFUP_Bi0fcbywBWXyqRK0GsjV_9vbg-SfuEXmOH0-X4lDYL4jw2LA6OrIUrkNP-SdtTF_3u3NL0NZDTjojPtVHRAn4qlkwWWNYDxJjHuU3EpWMcEAOyRu3vvVw_mejZPdYw==",
+  "pathJson": "kc7tFep1YGC-Fn0S7F6IFXG8DrNbmX9QzNX61__hHHNEJ1RkxfdIaAc6txUkxCr1tp79FQ6GE7cJyulbs7vYbXH8udCFq_lBaZYVYANW03g3BhLp4nBW5aUgkDMQZvLPuat1oSFPEu5SFuz55M89oiZG_Cp0CgqtA50NORUsfxhL7Xe-s9NJ6SOpCJuCvAT1PxSVZq2hRXYNXwskPFTDm42Rx2IJh0KyJ2-yILBfsEb19NLuqgFL4sNZgpNxwQ3BYnWtR0CLpDMdvnlo8waRlAfaMv0M4-EhmCHOydLGU2bhWwpMK9GH0nmJlL4JF_FXQ-39waJMoEv1kk2AYGdDyw==",
+  "dataPublicacioReal": "2025-01-01T08:00:05.758Z",
+  "dadesExpedient": {
+    "organContractacioId": 2988807,
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "expedientId": "fff0ffe1-d07b-42af-ade9-dc8eb403a8b6",
+    "dataFiPublicacioPerfil": null,
+    "dataFiGestio": null,
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "tenderingSpaceId": null,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": null,
+    "dataVisiblePortalAccesExclusiu": null,
+    "expedientIdReferencia": null,
+    "codiExpedientReferencia": null,
+    "denominacioExpedientReferencia": {
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "nomOrganContractacioReferencia": null
+  }
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/12253314",
+    "updated": "2026-09-07T14:05:00.384+02:00",
+    "url": "https://contractaciopublica.cat/oc/detall-publicacio/36225576-7368-45a8-934c-4d79492c908e/300876258",
+    "uuid": "36225576-7368-45a8-934c-4d79492c908e",
+    "publication_id": "300876258",
+    "expediente": "1262-0001/2023",
+    "title": "Maquinaria propia entad manteniment de camins dera xarxa veinau e rurau d'Aran",
+    "status": "EV",
+    "buyer_name": "Conselh Generau d'Aran",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "31230076"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "165289.26",
+    "budget_gross": null,
+    "estimated_value": "165289.26",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "43200000"
+    ],
+    "execution_nuts": [
+      "ES513"
+    ],
+    "execution_names": [],
+    "deadline_date": "2023-03-09",
+    "deadline_time": "23:59:59",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Vehicle tractor",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Plataforma de transport",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Picadora trituradora",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Braç desbrossadora",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Lot 5 - excavadora",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2023-02-28"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "04. Maquinaria - Plec CAP 2.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/891754/309E37CD5EB0AFDCB446E05B2E291074"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "02. Maquinaria - PTP2.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/891756/4A3C497681F57AE0485A30251663F566"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2026.zip",
+    "member": "PlataformasAgregadasSinMenores_20260908_030050.atom",
+    "ordinal": 223
+  }
+]

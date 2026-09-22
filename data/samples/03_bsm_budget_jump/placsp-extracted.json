@@ -1,0 +1,536 @@
+[
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16475563",
+    "updated": "2025-01-15T13:53:40.121+01:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/8d4ef683-64c8-43d5-a4a0-411f988509e1/300351793",
+    "uuid": "8d4ef683-64c8-43d5-a4a0-411f988509e1",
+    "publication_id": "300351793",
+    "expediente": "2024PT0235AC",
+    "title": "Concurs d’idees amb intervenció de jurat per al projecte de reforma i tematització dels espais d’operació de les atraccions, les casetes de fotografia i els tòtems d’accés a les atraccions, pantalles d’informació i caixers del Parc d’Atraccions Tibidabo, incloent la conceptualització de la idea, direcció artística, redacció del projecte executiu, direcció d’obra i coordinació de seguretat i salut",
+    "status": "PUB",
+    "buyer_name": "Barcelona de Serveis Municipals SA",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "15937877"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "2000",
+    "budget_gross": null,
+    "estimated_value": "55000",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "79931000",
+      "71220000"
+    ],
+    "execution_nuts": [
+      "ES511"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-01-31",
+    "deadline_time": "12:00:00",
+    "procedure_type": "8",
+    "lots": [],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-01-15"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "5. PCP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301013758/04D278F221A24F0C3511285D1A3A1BB9"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "4. PPT.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301013759/3687619509B3F92729CF4E152377B8BF"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250116_040032_1.atom",
+    "ordinal": 3
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16475563",
+    "updated": "2025-01-22T14:06:12.490+01:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/8d4ef683-64c8-43d5-a4a0-411f988509e1/300357490",
+    "uuid": "8d4ef683-64c8-43d5-a4a0-411f988509e1",
+    "publication_id": "300357490",
+    "expediente": "2024PT0235AC",
+    "title": "Concurs d’idees amb intervenció de jurat per al projecte de reforma i tematització dels espais d’operació de les atraccions, les casetes de fotografia i els tòtems d’accés a les atraccions, pantalles d’informació i caixers del Parc d’Atraccions Tibidabo, incloent la conceptualització de la idea, direcció artística, redacció del projecte executiu, direcció d’obra i coordinació de seguretat i salut",
+    "status": "PUB",
+    "buyer_name": "Barcelona de Serveis Municipals SA",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "15937877"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "2000",
+    "budget_gross": null,
+    "estimated_value": "55000",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "79931000",
+      "71220000"
+    ],
+    "execution_nuts": [
+      "ES511"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-02-11",
+    "deadline_time": "12:00:00",
+    "procedure_type": "8",
+    "lots": [],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-01-15"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "5. PCP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301029880/04D278F221A24F0C3511285D1A3A1BB9"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "4. PPT.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301029881/3687619509B3F92729CF4E152377B8BF"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250123_040020_1.atom",
+    "ordinal": 233
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16475563",
+    "updated": "2025-02-11T10:03:38.780+01:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/8d4ef683-64c8-43d5-a4a0-411f988509e1/300372364",
+    "uuid": "8d4ef683-64c8-43d5-a4a0-411f988509e1",
+    "publication_id": "300372364",
+    "expediente": "2024PT0235AC",
+    "title": "Concurs d’idees amb intervenció de jurat per al projecte de reforma i tematització dels espais d’operació de les atraccions, les casetes de fotografia i els tòtems d’accés a les atraccions, pantalles d’informació i caixers del Parc d’Atraccions Tibidabo, incloent la conceptualització de la idea, direcció artística, redacció del projecte executiu, direcció d’obra i coordinació de seguretat i salut",
+    "status": "PUB",
+    "buyer_name": "Barcelona de Serveis Municipals SA",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "15937877"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "2000",
+    "budget_gross": null,
+    "estimated_value": "55000",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "79931000",
+      "71220000"
+    ],
+    "execution_nuts": [
+      "ES511"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-02-18",
+    "deadline_time": "12:00:00",
+    "procedure_type": "8",
+    "lots": [],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-01-15"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "5. PCP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301074999/04D278F221A24F0C3511285D1A3A1BB9"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "4. PPT.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301075000/3687619509B3F92729CF4E152377B8BF"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250218_110136_10.atom",
+    "ordinal": 407
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16475563",
+    "updated": "2025-07-29T14:06:22.233+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/8d4ef683-64c8-43d5-a4a0-411f988509e1/300526940",
+    "uuid": "8d4ef683-64c8-43d5-a4a0-411f988509e1",
+    "publication_id": "300526940",
+    "expediente": "2024PT0235AC",
+    "title": "Concurs d’idees amb intervenció de jurat per al projecte de reforma i tematització dels espais d’operació de les atraccions, les casetes de fotografia i els tòtems d’accés a les atraccions, pantalles d’informació i caixers del Parc d’Atraccions Tibidabo, incloent la conceptualització de la idea, direcció artística, redacció del projecte executiu, direcció d’obra i coordinació de seguretat i salut",
+    "status": "EV",
+    "buyer_name": "Barcelona de Serveis Municipals SA",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "15937877"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "2000",
+    "budget_gross": null,
+    "estimated_value": "55000",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "79931000",
+      "71220000"
+    ],
+    "execution_nuts": [
+      "ES511"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-02-18",
+    "deadline_time": "12:00:00",
+    "procedure_type": "8",
+    "lots": [],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-01-15"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "5. PCP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301074999/04D278F221A24F0C3511285D1A3A1BB9"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "4. PPT.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301075000/3687619509B3F92729CF4E152377B8BF"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250730_040056_1.atom",
+    "ordinal": 63
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16475563",
+    "updated": "2025-07-30T16:08:32.863+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/8d4ef683-64c8-43d5-a4a0-411f988509e1/300528619",
+    "uuid": "8d4ef683-64c8-43d5-a4a0-411f988509e1",
+    "publication_id": "300528619",
+    "expediente": "2024PT0235AC",
+    "title": "Concurs d’idees amb intervenció de jurat per al projecte de reforma i tematització dels espais d’operació de les atraccions, les casetes de fotografia i els tòtems d’accés a les atraccions, pantalles d’informació i caixers del Parc d’Atraccions Tibidabo, incloent la conceptualització de la idea, direcció artística, redacció del projecte executiu, direcció d’obra i coordinació de seguretat i salut",
+    "status": "ADJ",
+    "buyer_name": "Barcelona de Serveis Municipals SA",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "15937877"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "53000",
+    "budget_gross": null,
+    "estimated_value": "55000",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "71220000",
+      "79931000"
+    ],
+    "execution_nuts": [
+      "ES511"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-02-18",
+    "deadline_time": "12:00:00",
+    "procedure_type": "8",
+    "lots": [],
+    "awards": [
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": null,
+        "amount": "53000",
+        "supplier_ids": [
+          "B67138784"
+        ],
+        "supplier_names": [
+          "MYCOTOO EUROPE SL"
+        ],
+        "contract_dates": []
+      }
+    ],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-01-15"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-07-30"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "5. PCP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301509579/04D278F221A24F0C3511285D1A3A1BB9"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "4. PPT.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301509580/3687619509B3F92729CF4E152377B8BF"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250801_040127_2.atom",
+    "ordinal": 389
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16475563",
+    "updated": "2025-08-20T14:03:35.038+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/8d4ef683-64c8-43d5-a4a0-411f988509e1/300542681",
+    "uuid": "8d4ef683-64c8-43d5-a4a0-411f988509e1",
+    "publication_id": "300542681",
+    "expediente": "2024PT0235AC",
+    "title": "Concurs d’idees amb intervenció de jurat per al projecte de reforma i tematització dels espais d’operació de les atraccions, les casetes de fotografia i els tòtems d’accés a les atraccions, pantalles d’informació i caixers del Parc d’Atraccions Tibidabo, incloent la conceptualització de la idea, direcció artística, redacció del projecte executiu, direcció d’obra i coordinació de seguretat i salut",
+    "status": "RES",
+    "buyer_name": "Barcelona de Serveis Municipals SA",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "15937877"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "53000",
+    "budget_gross": null,
+    "estimated_value": "55000",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "79931000",
+      "71220000"
+    ],
+    "execution_nuts": [
+      "ES511"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-02-18",
+    "deadline_time": "12:00:00",
+    "procedure_type": "8",
+    "lots": [],
+    "awards": [
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": null,
+        "amount": "53000",
+        "supplier_ids": [
+          "B67138784"
+        ],
+        "supplier_names": [
+          "MYCOTOO EUROPE SL"
+        ],
+        "contract_dates": [
+          "2025-08-18"
+        ]
+      }
+    ],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-01-15"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-07-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-08-20"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "5. PCP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301509579/04D278F221A24F0C3511285D1A3A1BB9"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "4. PPT.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301509580/3687619509B3F92729CF4E152377B8BF"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250821_040115.atom",
+    "ordinal": 22
+  }
+]

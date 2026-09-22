@@ -1,0 +1,453 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "4390180001-2024-0010219",
+  "idExpedient": "b2c3a9ca-cf43-476d-bcac-838f671cd6ea",
+  "dataPublicacioPlanificada": "2025-02-11T07:42:10.992Z",
+  "organ": {
+    "nom": "Ajuntament de Deltebre",
+    "unitat": "Contractació",
+    "nif": "P4318100G",
+    "personesContacte": [],
+    "organContractacioId": 8911869
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000040,
+      "ca": "Anunci de licitació",
+      "es": "Anuncio de licitación",
+      "en": "Tender announcement",
+      "oc": "Anóncia de licitacion"
+    },
+    "expedientId": "b2c3a9ca-cf43-476d-bcac-838f671cd6ea",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000040,
+        "ca": "Anunci de licitació",
+        "es": "Anuncio de licitación",
+        "en": "Tender announcement",
+        "oc": "Anóncia de licitacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "4390180001-2024-0010219",
+      "denominacio": {
+        "ca": "Camió bolquet i grua"
+      },
+      "descripcio": {
+        "ca": "Contractació administrativa anticipada d'adquisició, mitjançant operació d'arrendament financer (lising financer), de vahicle camió amb bolquet i grua per als serveis d'imatge de poble de l'Ajuntament de Deltebre."
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "unitatContractacio": 8938502,
+      "tipusContracte": {
+        "id": 394,
+        "ca": "Subministraments ",
+        "es": "Suministros",
+        "en": "Supplies ",
+        "oc": "Subministraments "
+      },
+      "procedimentAdjudicacio": {
+        "id": 401,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {},
+      "metodologiaBim": false
+    },
+    "dadesPublicacio": {
+      "pressupostLicitacio": 162565.2,
+      "observacions": {},
+      "contracteHarmonitzat": false,
+      "dataTerminiPresentacioOSolicitud": "2025-02-26T13:00:00.000Z",
+      "adrecaElectronicaPresentacioOfertes": {},
+      "preveuenModificacionsAlsPlecs": false,
+      "preveuenProrroguesAlsPlecs": false,
+      "informacioComplementariaProrroga": {},
+      "informacioComplementariaModificacio": {},
+      "valorEstimatContracte": 177465.2,
+      "iva": 21,
+      "varisTipusIva": false,
+      "pressupostBaseLicitacioAmbIva": 196703.89,
+      "acpAplicable": false,
+      "justificacioProcedimentUtilitzat": {},
+      "plecsDeClausulesAdministratives": {
+        "ca": [
+          {
+            "id": 301074751,
+            "titol": "PCAP.pdf",
+            "path": "n_B3B2-lNblhdrXqlhkfwvELxJS5LArjX5ueyiQWZl0OTMSkZK_L5478KLEbnP1KBmeE-G06QCIJfwgL-2iycU_SGEr8_1kMHtxBkCce0ZlEga0saEi8t-FSRirPLI5R7fwzNrCQxKx7AzW31-sXEGZ0yKDv8xYUx4fuhEa3msZa-xmgHZnRQ6XUu6qSXSJqsQVsaypg0ZDsUIOn3T0ipy7feElKLWkpl_97BFuynF4mIMf0fo_NP_HBYzeiLatB9tYdVKiTClCmIZr54H4BSku9pj9LCAkMazVu-nOH7EWOFIS5v93SJF6Xebmjng68yaZLYxGmnEFFu_1C1lSvZw==",
+            "hash": "3D629197170B1A27B0447A05185BFC73",
+            "idioma": "ca",
+            "mida": 468011
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "plecsDePrescripcionsTecniques": {
+        "ca": [
+          {
+            "id": 301074752,
+            "titol": "PCTP.pdf",
+            "path": "ZPmkBVjFQYby8dxSps567z5LN9elfv5q4BoWOHES2utU07PVVU38h1ngjyv5STP3CqkEQWoefDlOgiPNKpfnCLJdK1DRxtvORh9pTXLJvp9GvAD5tURk7tmGeHbR7VTWOvGAy_TvikN29gO786k5pwsA91BQlNG90UIy2iVW5AjCfo2w1VPtdcBasv0yf8k1R7JbLph1O_70SkKbVA4m7l0sst8u4EXGxr1itlfpKWmJClZ_gQPvtMpRXEYCZvUL04Yhx7q9gvg-momY0Tb3h0TICYcLVoWvOgTNz8OZsPcWSogHEaK41TIcpq0z-3el6NXRPy9SVowXZHyy2oWkjA==",
+            "hash": "B25765EF4B9608134985324DE72351C7",
+            "idioma": "ca",
+            "mida": 375148
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "memoriaJustificativaContracte": {
+        "ca": [
+          {
+            "id": 301074750,
+            "titol": "INFORME DE NECESSITATS.pdf",
+            "path": "hbfX8dh1T_4H8te6kpNjLh4-MZKIg1i_SgYwloJbQeWxHTeBqQOyyv_QnXqUv0V2G61iA10a7qpef7_7bsT0BefIQEN1chKED3PjzBivslM0VWkolo4-MyF9_qdiKAx6Bmu2caSM80VOhKDsOlkLebdVkfBrd7ODyTOdSGAO3Cbl6xT9Rd6yTWf8E83tlp8-15flUMJJeLS_lYjHuOjRwVnH1dY3SCTZPK9ewPBDFcE8d0tqNwrtSYQOEQkapZP-h202UZ3QbFQV0JC83FnKRq1HqidYqm2J_stpeQS5IywGgDV482d6bBUNSeJsrAh8Jb-GuqdZNTWzuFO5Nipe2w==",
+            "hash": "FCEBDED120AC246B5F8A61498A7FF13E",
+            "idioma": "ca",
+            "mida": 186224
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "documentsAprovacio": {
+        "ca": [
+          {
+            "id": 301074749,
+            "titol": "ACORD LICITACIÓ.pdf",
+            "path": "oii14CrOnbeN_HUON9VpJWTh5GCezi31D9hjAPmAN2-TF7VV3TzKOJcrGPoLV_edWszmiQMR0XIVWAF-24v1TjsrTZwg9YkA3G2ycl6yJ03m3EtPvrHzoCSpQxM1vwr3NuqiR1BzH91Y6XjM5YRM6a1ftDG6tdmFM4u7rADxWmMmrlzq5ST1rlEvpxn3QELm7HNxbTiiDiI6Z1d89MCPSZGD59UgQTs8vAubUmSoBN5GoYaFVtjhavnnJWRPjD0f60QYnJN89zaHz5kyKCABZm8-rBr-ekbO9BD6si50BV3ptiB7YLNCNwDi1U0kWEcF3BWHHrghPbGzW_O8fte4iw==",
+            "hash": "6ADF1B5364B58592F154420413744639",
+            "idioma": "ca",
+            "mida": 90972
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "altresDocuments": {
+        "ca": [],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "llenguesRedactarOfertes": {},
+      "justificacioNoExistenciaLots": {
+        "id": 1008190,
+        "ca": "Art.99.3 b) El fet que la realització independent de les diverses prestacions compreses en l’objecte el contracte en dificulti l’execució correcta des del punt de vista tècnic; o bé que el risc per a l’execució correcta del contracte procedeixi de la naturalesa del seu objecte, en implicar la necessitat de coordinar l’execució de les diferents prestacions, qüestió que es podria veure impossibilitada per la seva divisió en lots i l’execució per una pluralitat de contractistes diferents. Tots dos aspectes, si s’escau, s’han de justificar degudament en l’expedient",
+        "en": "Art. 99.3.b) The fact that the independent performance of the various services indicated as the purpose of the contract hinders their correct implementation from a technical point of view; or that the risk for the correct implementation of the contract comes from the nature of its purpose, since it involves the need to coordinate the implementation of the various services, an issue that could be made impossible by its division into lots and being undertaken by a plurality of different contractors. Both aspects, if applicable, must be duly justified in the file",
+        "oc": "Art.99.3 b) Er hèt qu'era realizacion independenta des diuèrses prestacions comprenudes en er objècte eth contracte ne dificulte era execucion corrècta dempús deth punt d'enguarda tecnic; o plan qu'eth risc entara execucion corrècta deth contracte provengue dera natura deth sòn objècte, en implicar eth besonh de coordinar era execucion des diferentes prestacions, ahèr que se poirie veir impossibilitada pera sua division en lòts e era execucion per ua pluralitat de contractistes diferenti. Toti dus aspèctes, se s’esquèr, les cau justificar degudaments en expedient"
+      },
+      "utilitzenComandesElectroniques": true,
+      "acceptaFacturacioElectronica": true,
+      "utilitzaPagamentElectronic": true,
+      "contracteRelacionatFinanciatFonsUnioEuropea": false,
+      "divisioEnLots": {
+        "id": 1008401,
+        "ca": "Sense lots"
+      },
+      "motiuContracteNoInformatLots": {},
+      "publicacionsOficials": [],
+      "contractacioConjunta": false,
+      "peuRecurs": {
+        "ca": "Les resolucions i actes establerts a l’art. 112.1 de la Llei 39/2015 d’1 d’octubre, de procediment administratiu comú de les administracions públiques, quan no posin fi a la via administrativa, pondran ser recorreguts en alçada davant l’òrgan de contractació, en el termini d’un mes.\nLes resolucions i actes que posen fi a la via administrativa podran ser recorregudes potestativament en reposició davant l’òrgan de contractació, en el termini d’un mes, o ser impugnats directament mitjançant recurs contenciós administratiu davant del Jutjats del contenciós administratiu de Tarragona."
+      },
+      "adrecaPresentacioRecurs": {},
+      "elementsCondicionsOfertesIntegradores": {}
+    },
+    "dadesPublicacioLot": [
+      {
+        "ultimaObertura": {
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {
+            "ca": "A partir de la data de l'obertura del sobre anterior"
+          },
+          "mostrarDataObertura": false
+        },
+        "pressupostLicitacio": 162565.2,
+        "publicacioExpedientId": 300372256,
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 196703.89,
+        "varisTipusIva": false,
+        "valorEstimat": 177465.2,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES514",
+          "ca": "Deltebre"
+        },
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 5,
+          "observacions": {}
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "ca": "VEURE PLECS"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {
+              "ca": "A partir de la data de l'obertura del sobre anterior"
+            },
+            "mostrarDataObertura": false
+          }
+        ],
+        "prorroguesPrevistes": false,
+        "informacioProrrogaComplementaria": {},
+        "modificacioPrevista": false,
+        "informacioModificacioComplementaria": {},
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "garantiaDefinitiva": true,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008238,
+              "ca": "Control de qualitat",
+              "en": "Quality control",
+              "oc": "Contraròtle de qualitat"
+            },
+            "valorMinimExigit": {
+              "ca": "VEURE PLECS"
+            },
+            "mitjaAcreditacio": {
+              "id": 1008251,
+              "ca": " Documentació acreditativa",
+              "en": " Supporting documentation",
+              "oc": " Documentacion acreditatiua"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008218,
+              "ca": "Volum anual de negocis",
+              "en": "Annual volume of business",
+              "oc": "Volum annau de negòcis"
+            },
+            "valorMinimExigit": {
+              "ca": "VEURE PLECS"
+            },
+            "mitjaAcreditacio": {
+              "id": 1008226,
+              "ca": "Comptes anuals",
+              "en": "Annual accounts",
+              "oc": "Compdes annaus"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "percentatgeGarantiaDefinitiva": 5,
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 80,
+            "observacions": {
+              "ca": "VEURE PLECS"
+            },
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 80,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 20,
+            "observacions": {
+              "ca": "VEURE PLECS"
+            },
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 20,
+                "descripcioCriteri": {
+                  "ca": "VEURE PLECS"
+                }
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {
+              "ca": "VEURE PLECS"
+            },
+            "desglossament": []
+          }
+        ],
+        "codisCpv": [],
+        "cpvPrincipal": {
+          "codi": "34142000-4",
+          "ca": "Camions grua i camions de trabuc",
+          "es": "Camiones grúa y camiones volquete",
+          "en": "Crane and dumper trucks",
+          "oc": "Camions grua e camions de trabuc"
+        },
+        "cpvsSecundaris": [],
+        "garantiaComplementaria": false,
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "clausulaLinguistica": false,
+        "clausulaEtica": true
+      }
+    ],
+    "dadesExpedient": {
+      "organContractacioId": 8911869,
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "b2c3a9ca-cf43-476d-bcac-838f671cd6ea",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "tipusOfertaElectronica": 413,
+      "denominacioExpedientReferencia": {}
+    },
+    "tipusEsmena": {
+      "id": 1008172,
+      "ca": "Esmena",
+      "es": "enmienda",
+      "en": "Amendment",
+      "oc": "Esmenda"
+    },
+    "motiuEsmena": {
+      "ca": "Ampliació termini"
+    }
+  },
+  "pathPdf": "GEbZWGMaVQ8cy6YHLJNzC3NlUg4Ig7cwYdkNPmSJPWbrGRDGbvJPkdPjUu_ERyTBq0tuBxbv3SiAGj0eTC5dxrtU6rrA4wAl0Uk3G4cYQ_H4wArHkece3lam2W--VUB9fggJay_e-pKW_iqzzHwtLFgw62OsxP2OFeGX7iG8FLH0nRY5h6BKDw6M0lhUI4OUnjN4d56w7Qx-ep-W2kDOTw1hZNC-ALv1iaazI1LsVtHYJS7rg8VRXOH_BpjNSu8sNmzOdb7Y7It5SbqCR3Gbj3uUzp0vu9KIn8NiVGbXBwH8VrdvxB3dBlFf3zeFOrHbN6qzKR4lJxuokd2_soQ6LA==",
+  "pathCertificacio": "CRv5bPXLdKqEA0obAuAccJFcpaTW0C0eu8IGgffueYzPBi-3p-ZfUXkI9Vvu5yVhOqhfhCGoYS5dqZHgIcoyHVQSQmi3wGn5s4aXt_JcRC40EznEnq8DHqvq_8XCOpeR69gzyT1SwlfDdKg90GXJFDQU8i9bXdcfRlYs_ZDEKUfTQ0if4rTpYhxCZiTmdl0FLM27uwwoROvJFzPPZIIFy2kUbJfSftlEnH2rUJTZ3s81NBzTMRl2LaUsP4q4vpQGOl5zwhHc3uQuruJ_MGdGJUvbBMnr4flu2SCs7dvgCSo0vaq7ja3dJE6044zQrFZxG436__Xx0P8uc97uqGsS2w==",
+  "pathJson": "nRPxaPuGZo48xZbSxQ8vmUQV1ZPr3alvImr4Zu1nFD9J-P0DpCkqbIhgUjHuy9kj45v8afDhH3vuwbqytRuOQ8l212G-mNMyiXBBf5OLN6dFOB0fLsXZl4ijYE7QmTYo7PXVKpfcbOBFaFt_DqifoLdWctE4LfvgiXkAoMeDkicChXG3VUlqFIo_m4aEUrTbVhiq4_x7D38lVP5ZyfxF4kM8LtNHWLOTv_NHExY6LwwYnnjV35ETfZvlSXo7JjF2vq7eKng1tWqyooMCidFM3gWKkbqw2QOHJ7Bl68IsPChxmLUHID1efJdVvBy24Qf3wYIMxMFbZVDInpYDjGHqaA==",
+  "dataPublicacioReal": "2025-02-11T07:44:06.893Z",
+  "dadesExpedient": {
+    "organContractacioId": 8911869,
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "expedientId": "b2c3a9ca-cf43-476d-bcac-838f671cd6ea",
+    "dataFiPublicacioPerfil": null,
+    "dataFiGestio": null,
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "tenderingSpaceId": null,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 413,
+    "dataVisiblePortalAccesExclusiu": null,
+    "expedientIdReferencia": null,
+    "codiExpedientReferencia": null,
+    "denominacioExpedientReferencia": {
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "nomOrganContractacioReferencia": null
+  }
+}

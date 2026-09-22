@@ -1,0 +1,1631 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "1262-0001/2023",
+  "idExpedient": "36225576-7368-45a8-934c-4d79492c908e",
+  "dataPublicacioPlanificada": "2023-02-28T09:00:00.000Z",
+  "organ": {
+    "nom": "Conselh Generau d'Aran",
+    "direccioPostal": "Plaça d'Aran, 1-2",
+    "localitat": "Vielha e Mijaran",
+    "web": "http://www.conselharan.org/",
+    "telefon": "973641801",
+    "fax": "973641769",
+    "email": "contractacion@aran.org",
+    "personesContacte": [
+      {
+        "nom": "David",
+        "cognom": "Montalà i Palau",
+        "carrec": "secretari general",
+        "telefon": "973641801",
+        "email": "contractacion@aran.org"
+      }
+    ],
+    "observacions": {},
+    "horari": {
+      "ca": "De deluns a diuendres de 8.30 a 14.00"
+    },
+    "organContractacioId": 31230076
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000040,
+      "ca": "Anunci de licitació",
+      "es": "Anuncio de licitación",
+      "en": "Tender announcement",
+      "oc": "Anóncia de licitacion"
+    },
+    "expedientId": "36225576-7368-45a8-934c-4d79492c908e",
+    "teLots": true,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000040,
+        "ca": "Anunci de licitació",
+        "es": "Anuncio de licitación",
+        "en": "Tender announcement",
+        "oc": "Anóncia de licitacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "1262-0001/2023",
+      "denominacio": {
+        "oc": "MAQUINARIA ENTAD MANTENIMENT DE CAMINS"
+      },
+      "descripcio": {
+        "oc": "Maquinaria propia entad manteniment de camins dera xarxa veinau e rurau d'Aran"
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinari",
+        "es": "Ordinario",
+        "en": "Ordinary",
+        "oc": "Ordinari"
+      },
+      "tipusContracte": {
+        "id": 394,
+        "ca": "Subministraments ",
+        "es": "Suministros",
+        "en": "Supplies ",
+        "oc": "Subministraments "
+      },
+      "procedimentAdjudicacio": {
+        "id": 401,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false
+    },
+    "dadesPublicacio": {
+      "pressupostLicitacio": 165289.26,
+      "observacions": {},
+      "contracteHarmonitzat": false,
+      "dataTerminiPresentacioOSolicitud": "2023-03-09T22:59:59.000Z",
+      "adrecaElectronicaPresentacioOfertes": {},
+      "preveuenModificacionsAlsPlecs": false,
+      "preveuenProrroguesAlsPlecs": false,
+      "informacioComplementariaProrroga": {},
+      "informacioComplementariaModificacio": {},
+      "valorEstimatContracte": 165289.26,
+      "iva": 21,
+      "varisTipusIva": false,
+      "pressupostBaseLicitacioAmbIva": 200000,
+      "acpAplicable": false,
+      "justificacioProcedimentUtilitzat": {},
+      "plecsDeClausulesAdministratives": {
+        "ca": [],
+        "es": [],
+        "en": [],
+        "oc": [
+          {
+            "id": 891754,
+            "titol": "04. Maquinaria - Plec CAP 2.pdf",
+            "path": "Ffh1RXhyNdDtNEH9w3KIP7_IkdT2Z361O6U2IVNZb6RC73yQVeJ8DBA0XL39pzE84Ws1EqCwIs853qS11n2hGSCz4pz-xSXPGd81XxQj_LhPA1MgqMKebNeRjPwXfYmOIt6qK0Nj7W4a1WvgqsOljNKcn-8GWYNv_3HUP5hjA24SDV4aPWY2HjywhIisAsuupopb1snVwAW4SQZR3Q5fuQPGJ4OJszVS60CWNnNBIL1vk2RpYLsmXikcWrP-azxWYPUHoXJ1a0HKpfSf0GdSfnyfBnwO-8Z4Vdi23cgyfFfTSugbLWRjpS5ZaOlIgkNTI6Atips8lclnvCmQepSW9A==",
+            "hash": "309E37CD5EB0AFDCB446E05B2E291074",
+            "idioma": "oc",
+            "mida": 689721
+          }
+        ]
+      },
+      "plecsDePrescripcionsTecniques": {
+        "ca": [],
+        "es": [],
+        "en": [],
+        "oc": [
+          {
+            "id": 891756,
+            "titol": "02. Maquinaria - PTP  2.pdf",
+            "path": "bWQylAdPAUtYRuafW10LoEp1MkXQff2T6ZPlI273UnA-ZF8YzWtHlWxP3GKgm0vJ-qEfV3Mq72KG2os_mK6smLQsZ9OSM1-WX-WNCDiDaAAbiEFM2Vyq8ZVf1hG6yGWTaZZLw7hCy6yxSJDkedcusVMXimVhBMx4a_0LVgpMxkj5nD-uGbBz2VIONuTrU41UW9LhK64TBHPSnBBW3YBx067Xk8bkIncndeDLdN8HvoMvdaRyW4D56vDOzyEv_Yu1HqWfAL-aRuFEeMXLGgyx7pZadxELqYieL5T8UsSKbA2hg_bhYNkhHE-ISx6C8JXHHpl67FZARC-R6a27AACycA==",
+            "hash": "4A3C497681F57AE0485A30251663F566",
+            "idioma": "oc",
+            "mida": 517404
+          }
+        ]
+      },
+      "memoriaJustificativaContracte": {
+        "ca": [],
+        "es": [],
+        "en": [],
+        "oc": [
+          {
+            "id": 891757,
+            "titol": "01. Maquinaria - Prepausa deth Suministrament.pdf",
+            "path": "lsq2-vucQhBglKmAcMvBms7tNpaeORGopyEOXCSasGxSsJlVnu1zmhmlubO7j4HjymI7VCKgMcfJCjK102dTjJLqKuuhRRLP6cBTjtOFjEPLJcM5fxz4Qx_sqVeu5tAMY0_QSSEdRmWE5dHbSN59d8KVNwlzHDmURcpUIzv6lJkLvM2fnxGbH0XFYmrqBoeXRoUbe8ey2C9QgavGG5QqnxOu24-tnHTHFZOZ62996IV5VsPmr5luhcF2y2c2lFTF-eQP89LFdTKOYhoa_nFR4KN1irWrbYhu31gPnFxyTA5PF3hz9EpzRceo2nkKEdA8MCnxrSiAC3k0irZaNZ0A6Q==",
+            "hash": "BA45C3C6ECDF7CA7DD570A472567F536",
+            "idioma": "oc",
+            "mida": 53357
+          }
+        ]
+      },
+      "documentsAprovacio": {
+        "ca": [],
+        "es": [],
+        "en": [],
+        "oc": [
+          {
+            "id": 891758,
+            "titol": "08. Maquinaria - Acord aprobacion expedient.pdf",
+            "path": "eZ006-YaqB5V_dUFrpFAPwdPNY_Jz04jSzgcKGNkt3RUhVKoy9ychbgUCGBanPxdayHC1jl-5KbG4p9zqYtRjG0tqrIcwmVNs6c8McgtiJkSXRpkJuN2gF7SuxZlnvA6a29Uc6NfZTNVA5P7Jku84bc-VRZXRR3qINy2WS0y-7BZ20fEmk9X0NhRTWhhRip57w4MzzEr3Rd27Gi9OzkFC1E-WvsRRG0c2ibnC5f0bf_Q5tDmo9XJM_2KRAolOi-NtdqaHM2wjhP4A2GlNO1j7VKZFbftideBzMtTy-vInurQvUfJO4LTRiBAMP9lpb1CbBqY298sg5_9yoSfD86Eww==",
+            "hash": "D955BC80C7E3FDEC97B514C81AE6B77F",
+            "idioma": "oc",
+            "mida": 108369
+          }
+        ]
+      },
+      "altresDocuments": {
+        "ca": [],
+        "es": [],
+        "en": [],
+        "oc": [
+          {
+            "id": 891760,
+            "titol": "09. Maquinaria - Edicte licitacion signat 2.pdf",
+            "path": "fQQ-IZZYGcdstnZYEfgUXFRII0v1QeSUCRS9ntcqpP29N28hJaCPZ_p9vzV6G2mqwhj6DNmPY2Y_uSbEQVRJ_qNsK36g7BNcLNYcto0a-RIZvCvdS6eS2U1ab4eWgFZpqVuSeaqOEmcFiLiYAGY4pj536ZicuMbVe9Rq6VmpCtGI83KLi8eOHf1XSqj8fYZkbNk1Hpl0_l2xZcd_xuZCnzPvgDmtXvverfnI_GS-jGfAPKw4220bSDc8Q95vUQZtpKhPq8UW2ogmgziEosQ-HpaRYnLtiYBSPbYGPs7mxx-_oGF3E_nvOXKLBQisoyng9fdaNkPIrUhA9R2vEHE8Iw==",
+            "hash": "C4A29797C0EF24D1BA700540F27603F0",
+            "idioma": "oc",
+            "mida": 99571
+          },
+          {
+            "id": 891761,
+            "titol": "Annexi editables.docx",
+            "path": "t-_Xij6jKZZgaOVRmlorgmkkgvxpyjC8fRCpjBgubYwhib2vrPEZADILdIN8rV2RBbEdJLPFCM8xNbU4aeOtDAsPaeucvcGOzo1rDMBStvdYYfkWBP6OBa3eAXTztdoBcmqSDrGgfmkCmO8Tu_qE3gntEhrYmCSVgcRHbPa27mD71GFEn2Lo4iGD5zSwbjsOdJPTExrAI2lbJ-AMTsmBNflXm2rYJa9iEHNEKKRd_dDIdmbGx3mZ_tanmfeO6bjgpqLk8XU1TP-6OUVGUpm-pn5jo088Luy6_oJZZjFQw98wco1CyvGvPATEtW08COXQDuPl2lajGuAQ8GvIeAxEDg==",
+            "hash": "6070569E7A8246F860A0D38BBB35829A",
+            "idioma": "oc",
+            "mida": 119171
+          },
+          {
+            "id": 891762,
+            "titol": "deuc xml.txt",
+            "path": "MNyncb9m1lE5aL1ZFYA7RiGRq2YKEPIkY7gtRFHaylHLb4a_2_y13TygWTkxDgsRFtrbxoZ_aY7XGzSYWlBNv3wYu6TAfoZzE3wqco-lodOIBMD0I3Edq4ligaBnQNtjo4ZiC_-uLLC8RSyzHqWMN3GLTplUM0m-BrK6nMCUetNrqS4UBpAMgzo_DOY7zXqmtGefXrJsXpBi62uJ7wcymKui5B1sSHLEoNW3kCwtHK9bys-KZ4TyxQM93eR2yZYkCtK-ikmaa8Rw67OWLFVinUeZ164KhtsKzFtOAQK6x0l4q1pzg1Da1NXgxFYvCK8_ihU2xjz0HKsde_pdt5_D-g==",
+            "hash": "B8F3FD094AFC0D26AC5562A83423F734",
+            "idioma": "oc",
+            "mida": 153690
+          },
+          {
+            "id": 891763,
+            "titol": "Annex 2.docx",
+            "path": "JxmHYc7Aes6Sa2iin7knzyJ8XA5rcxdDv3cSNJLl0zZjcYPb4-azNQcJr_ro-_IKIzcSIOUnCSu4E4yRCUWHnAvh9ApqTP-iIJevRd1cAD1bUUmCqEXOI99UTZp6rPnljMkVRYoC_wh7shC-0geZCb5q7zBBrWSIVvMjzMnqSO8SIocRv-jvVRfhr0USPHaKnW3nHu-2XIm7PrTzvPfogx0B6wG_GlU90iD3cOOOpVRO3VU6Bf6mrByl62_PCY8eyCWHHJIzp6Ct9ovJ0cW_KLn8ycIZbNAUUsr7qdGoswxK5hzK4gX8XvNim3jdaKd0TxBgLLVW7VFUG4bNrK2CNg==",
+            "hash": "F05C05EF8F9B5A4F9CE3D30351694802",
+            "idioma": "oc",
+            "mida": 15639
+          }
+        ]
+      },
+      "llenguesRedactarOfertes": {},
+      "maximLotsLicitadorPotPresentar": 5,
+      "maximLotsLicitadorSePotAdjudicar": 5,
+      "acceptaFacturacioElectronica": true,
+      "contracteRelacionatFinanciatFonsUnioEuropea": false,
+      "numeroDeLots": 5,
+      "divisioEnLots": {
+        "id": 1008402,
+        "ca": "Amb lots"
+      },
+      "motiuContracteNoInformatLots": {},
+      "publicacionsOficials": [],
+      "contractacioConjunta": false,
+      "peuRecurs": {
+        "oc": "Contra els actes de tràmit qualificats de la mesa de contractació, que no esgoten la via administrativa, es pot interposar recurs d’alçada davant del Sindic d’Aran\nContra els actes administratius i els actes de tràmit qualificats de l’òrgan de contractació es pot interposar potestativament recurs especial en matèria contractació o bé recurs contenciós administratiu."
+      },
+      "adrecaPresentacioRecurs": {},
+      "ofertaIntegradora": false,
+      "elementsCondicionsOfertesIntegradores": {}
+    },
+    "dadesPublicacioLot": [
+      {
+        "ultimaObertura": {
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {}
+        },
+        "numeroLot": "1",
+        "lotId": 0,
+        "descripcio": {
+          "oc": "VEHICLE TRACTOR"
+        },
+        "pressupostLicitacio": 94214.88,
+        "publicacioExpedientId": 200000971,
+        "titol": "VEHICLE TRACTOR",
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 114000,
+        "varisTipusIva": false,
+        "valorEstimat": 94214.88,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {
+          "oc": "no "
+        },
+        "llocExecucio": {
+          "codiNuts": "ES513",
+          "ca": "Vielha e Mijaran"
+        },
+        "duradaTermini": {
+          "esDurada": true,
+          "mesos": 3,
+          "observacions": {}
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "oc": "ENTREGA"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {}
+          },
+          {
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {}
+          }
+        ],
+        "prorroguesPrevistes": false,
+        "informacioProrrogaComplementaria": {},
+        "modificacioPrevista": false,
+        "informacioModificacioComplementaria": {},
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "garantiaDefinitiva": true,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008235,
+              "ca": "Relació subministraments principals efectuats de la mateixa naturalesa en el curs de com a màxim els últims tres anys",
+              "en": "List of the main supplies of the same nature provided during the last three years at most",
+              "oc": "Relacion subministraments principaus efectuadi dera madeisha natura en cors de coma maximom es darrèri tres ans"
+            },
+            "valorMinimExigit": {
+              "oc": "65000"
+            },
+            "mitjaAcreditacio": {
+              "id": 1008253,
+              "ca": "Certificats o declaracions de bona execució",
+              "en": "Certificates or declarations of good quality production",
+              "oc": "Certificats o declaracions de bona execucion"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          },
+          {
+            "criteriSolvencia": {
+              "id": 1008236,
+              "ca": "Personal tècnic i/o unitats tècniques",
+              "en": "Technical staff and/or technical units",
+              "oc": "Personau tecnic e/o unitats tecniques"
+            },
+            "valorMinimExigit": {},
+            "mitjaAcreditacio": {
+              "id": 1008247,
+              "ca": " Declaració responsable",
+              "en": " Responsible statement",
+              "oc": " Declaracion responsabla"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          },
+          {
+            "criteriSolvencia": {
+              "id": 1008238,
+              "ca": "Control de qualitat",
+              "en": "Quality control",
+              "oc": "Contraròtle de qualitat"
+            },
+            "valorMinimExigit": {},
+            "mitjaAcreditacio": {
+              "id": 1008259,
+              "ca": "Certificats oficials de control de qualitat",
+              "en": "Official quality control certificates",
+              "oc": "Certificats oficiaus de contraròtle de qualitat"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008218,
+              "ca": "Volum anual de negocis",
+              "en": "Annual volume of business",
+              "oc": "Volum annau de negòcis"
+            },
+            "valorMinimExigit": {
+              "oc": "135000"
+            },
+            "mitjaAcreditacio": {
+              "id": 1008226,
+              "ca": "Comptes anuals",
+              "en": "Annual accounts",
+              "oc": "Compdes annaus"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "contracteNomesExecutaEnMarcDeProgrames": false,
+          "reservaPrestacioServeiAProfessio": false,
+          "contracteRestringitACentresEspecials": false,
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "percentatgeGarantiaDefinitiva": 5,
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "tipusCriteri": {
+              "id": 1008359,
+              "ca": "Preu",
+              "en": "Price",
+              "oc": "Prètz"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 55
+          },
+          {
+            "index": 1,
+            "tipusCriteri": {
+              "id": 1008370,
+              "ca": "Serveis postvenda i assistència tècnica",
+              "en": "After-sales services and technical assistance",
+              "oc": "Servicis postvenda e assisténcia tecnica"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 20
+          },
+          {
+            "index": 2,
+            "tipusCriteri": {
+              "id": 1008363,
+              "ca": "Característiques tècniques y funcionals",
+              "en": "Technical and functional characteristics",
+              "oc": "Caracteristiques tecniques e foncionaus"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 10
+          },
+          {
+            "index": 3,
+            "tipusCriteri": {
+              "id": 1008370,
+              "ca": "Serveis postvenda i assistència tècnica",
+              "en": "After-sales services and technical assistance",
+              "oc": "Servicis postvenda e assisténcia tecnica"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 5
+          },
+          {
+            "index": 4,
+            "tipusCriteri": {
+              "id": 1008370,
+              "ca": "Serveis postvenda i assistència tècnica",
+              "en": "After-sales services and technical assistance",
+              "oc": "Servicis postvenda e assisténcia tecnica"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 5
+          },
+          {
+            "index": 5,
+            "tipusCriteri": {
+              "id": 1008366,
+              "ca": "Comercialització",
+              "en": "Commercialisation",
+              "oc": "Comercializacion"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 5
+          }
+        ],
+        "codisCpv": [
+          {
+            "codi": "43200000-5",
+            "ca": "Maquinària per al moviment de terres i d'excavació i les seves peces",
+            "es": "Maquinaria para el movimiento de tierras y la excavación, y sus partes",
+            "en": "Earthmoving and excavating machinery, and associated parts",
+            "oc": "Maquinària entath movement de tèrres e de catacion e es sues pèces"
+          }
+        ],
+        "garantiaComplementaria": false
+      },
+      {
+        "ultimaObertura": {
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {}
+        },
+        "numeroLot": "2",
+        "lotId": 1,
+        "descripcio": {
+          "oc": "PLATAFORMA DE TRANSPORT"
+        },
+        "pressupostLicitacio": 11570.25,
+        "publicacioExpedientId": 200000971,
+        "titol": "PLATAFORMA DE TRANSPORT",
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 14000,
+        "varisTipusIva": false,
+        "valorEstimat": 11570.25,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES513",
+          "ca": "Vielha e Mijaran"
+        },
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 0,
+          "mesos": 3,
+          "dies": 0,
+          "observacions": {}
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "oc": "ENTREGA"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {}
+          },
+          {
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {}
+          }
+        ],
+        "prorroguesPrevistes": false,
+        "informacioProrrogaComplementaria": {},
+        "modificacioPrevista": false,
+        "informacioModificacioComplementaria": {},
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "garantiaDefinitiva": true,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008235,
+              "ca": "Relació subministraments principals efectuats de la mateixa naturalesa en el curs de com a màxim els últims tres anys",
+              "en": "List of the main supplies of the same nature provided during the last three years at most",
+              "oc": "Relacion subministraments principaus efectuadi dera madeisha natura en cors de coma maximom es darrèri tres ans"
+            },
+            "valorMinimExigit": {
+              "oc": "8000"
+            },
+            "mitjaAcreditacio": {
+              "id": 1008253,
+              "ca": "Certificats o declaracions de bona execució",
+              "en": "Certificates or declarations of good quality production",
+              "oc": "Certificats o declaracions de bona execucion"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          },
+          {
+            "criteriSolvencia": {
+              "id": 1008236,
+              "ca": "Personal tècnic i/o unitats tècniques",
+              "en": "Technical staff and/or technical units",
+              "oc": "Personau tecnic e/o unitats tecniques"
+            },
+            "valorMinimExigit": {},
+            "mitjaAcreditacio": {
+              "id": 1008247,
+              "ca": " Declaració responsable",
+              "en": " Responsible statement",
+              "oc": " Declaracion responsabla"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          },
+          {
+            "criteriSolvencia": {
+              "id": 1008238,
+              "ca": "Control de qualitat",
+              "en": "Quality control",
+              "oc": "Contraròtle de qualitat"
+            },
+            "valorMinimExigit": {},
+            "mitjaAcreditacio": {
+              "id": 1008259,
+              "ca": "Certificats oficials de control de qualitat",
+              "en": "Official quality control certificates",
+              "oc": "Certificats oficiaus de contraròtle de qualitat"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008218,
+              "ca": "Volum anual de negocis",
+              "en": "Annual volume of business",
+              "oc": "Volum annau de negòcis"
+            },
+            "valorMinimExigit": {
+              "oc": "17000"
+            },
+            "mitjaAcreditacio": {
+              "id": 1008226,
+              "ca": "Comptes anuals",
+              "en": "Annual accounts",
+              "oc": "Compdes annaus"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "contracteNomesExecutaEnMarcDeProgrames": false,
+          "reservaPrestacioServeiAProfessio": false,
+          "contracteRestringitACentresEspecials": false,
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "percentatgeGarantiaDefinitiva": 5,
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "tipusCriteri": {
+              "id": 1008359,
+              "ca": "Preu",
+              "en": "Price",
+              "oc": "Prètz"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 55
+          },
+          {
+            "index": 1,
+            "tipusCriteri": {
+              "id": 1008370,
+              "ca": "Serveis postvenda i assistència tècnica",
+              "en": "After-sales services and technical assistance",
+              "oc": "Servicis postvenda e assisténcia tecnica"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 20
+          },
+          {
+            "index": 2,
+            "tipusCriteri": {
+              "id": 1008363,
+              "ca": "Característiques tècniques y funcionals",
+              "en": "Technical and functional characteristics",
+              "oc": "Caracteristiques tecniques e foncionaus"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 10
+          },
+          {
+            "index": 3,
+            "tipusCriteri": {
+              "id": 1008370,
+              "ca": "Serveis postvenda i assistència tècnica",
+              "en": "After-sales services and technical assistance",
+              "oc": "Servicis postvenda e assisténcia tecnica"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 5
+          },
+          {
+            "index": 4,
+            "tipusCriteri": {
+              "id": 1008370,
+              "ca": "Serveis postvenda i assistència tècnica",
+              "en": "After-sales services and technical assistance",
+              "oc": "Servicis postvenda e assisténcia tecnica"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 5
+          },
+          {
+            "index": 5,
+            "tipusCriteri": {
+              "id": 1008366,
+              "ca": "Comercialització",
+              "en": "Commercialisation",
+              "oc": "Comercializacion"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 5
+          }
+        ],
+        "codisCpv": [
+          {
+            "codi": "43200000-5",
+            "ca": "Maquinària per al moviment de terres i d'excavació i les seves peces",
+            "es": "Maquinaria para el movimiento de tierras y la excavación, y sus partes",
+            "en": "Earthmoving and excavating machinery, and associated parts",
+            "oc": "Maquinària entath movement de tèrres e de catacion e es sues pèces"
+          }
+        ],
+        "garantiaComplementaria": false
+      },
+      {
+        "ultimaObertura": {
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {}
+        },
+        "numeroLot": "3",
+        "lotId": 2,
+        "descripcio": {
+          "oc": "PICADORA TRITURADORA"
+        },
+        "pressupostLicitacio": 11735.54,
+        "publicacioExpedientId": 200000971,
+        "titol": "PICADORA TRITURADORA",
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 14200,
+        "varisTipusIva": false,
+        "valorEstimat": 11735.54,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES513",
+          "ca": "Vielha e Mijaran"
+        },
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 0,
+          "mesos": 3,
+          "dies": 0,
+          "observacions": {}
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "oc": "ENTREGA"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {}
+          },
+          {
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {}
+          }
+        ],
+        "prorroguesPrevistes": false,
+        "informacioProrrogaComplementaria": {},
+        "modificacioPrevista": false,
+        "informacioModificacioComplementaria": {},
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "garantiaDefinitiva": true,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008235,
+              "ca": "Relació subministraments principals efectuats de la mateixa naturalesa en el curs de com a màxim els últims tres anys",
+              "en": "List of the main supplies of the same nature provided during the last three years at most",
+              "oc": "Relacion subministraments principaus efectuadi dera madeisha natura en cors de coma maximom es darrèri tres ans"
+            },
+            "valorMinimExigit": {
+              "oc": "8000"
+            },
+            "mitjaAcreditacio": {
+              "id": 1008253,
+              "ca": "Certificats o declaracions de bona execució",
+              "en": "Certificates or declarations of good quality production",
+              "oc": "Certificats o declaracions de bona execucion"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          },
+          {
+            "criteriSolvencia": {
+              "id": 1008236,
+              "ca": "Personal tècnic i/o unitats tècniques",
+              "en": "Technical staff and/or technical units",
+              "oc": "Personau tecnic e/o unitats tecniques"
+            },
+            "valorMinimExigit": {},
+            "mitjaAcreditacio": {
+              "id": 1008247,
+              "ca": " Declaració responsable",
+              "en": " Responsible statement",
+              "oc": " Declaracion responsabla"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          },
+          {
+            "criteriSolvencia": {
+              "id": 1008240,
+              "ca": "Certificats de qualitat",
+              "en": "Quality certificates",
+              "oc": "Certificats de qualitat"
+            },
+            "valorMinimExigit": {},
+            "mitjaAcreditacio": {
+              "id": 1008259,
+              "ca": "Certificats oficials de control de qualitat",
+              "en": "Official quality control certificates",
+              "oc": "Certificats oficiaus de contraròtle de qualitat"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008218,
+              "ca": "Volum anual de negocis",
+              "en": "Annual volume of business",
+              "oc": "Volum annau de negòcis"
+            },
+            "valorMinimExigit": {
+              "oc": "17000"
+            },
+            "mitjaAcreditacio": {
+              "id": 1008226,
+              "ca": "Comptes anuals",
+              "en": "Annual accounts",
+              "oc": "Compdes annaus"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "contracteNomesExecutaEnMarcDeProgrames": false,
+          "reservaPrestacioServeiAProfessio": false,
+          "contracteRestringitACentresEspecials": false,
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "percentatgeGarantiaDefinitiva": 5,
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "tipusCriteri": {
+              "id": 1008359,
+              "ca": "Preu",
+              "en": "Price",
+              "oc": "Prètz"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 55
+          },
+          {
+            "index": 1,
+            "tipusCriteri": {
+              "id": 1008370,
+              "ca": "Serveis postvenda i assistència tècnica",
+              "en": "After-sales services and technical assistance",
+              "oc": "Servicis postvenda e assisténcia tecnica"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 20
+          },
+          {
+            "index": 2,
+            "tipusCriteri": {
+              "id": 1008363,
+              "ca": "Característiques tècniques y funcionals",
+              "en": "Technical and functional characteristics",
+              "oc": "Caracteristiques tecniques e foncionaus"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 10
+          },
+          {
+            "index": 3,
+            "tipusCriteri": {
+              "id": 1008370,
+              "ca": "Serveis postvenda i assistència tècnica",
+              "en": "After-sales services and technical assistance",
+              "oc": "Servicis postvenda e assisténcia tecnica"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 5
+          },
+          {
+            "index": 4,
+            "tipusCriteri": {
+              "id": 1008370,
+              "ca": "Serveis postvenda i assistència tècnica",
+              "en": "After-sales services and technical assistance",
+              "oc": "Servicis postvenda e assisténcia tecnica"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 5
+          },
+          {
+            "index": 5,
+            "tipusCriteri": {
+              "id": 1008366,
+              "ca": "Comercialització",
+              "en": "Commercialisation",
+              "oc": "Comercializacion"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 5
+          }
+        ],
+        "codisCpv": [
+          {
+            "codi": "43200000-5",
+            "ca": "Maquinària per al moviment de terres i d'excavació i les seves peces",
+            "es": "Maquinaria para el movimiento de tierras y la excavación, y sus partes",
+            "en": "Earthmoving and excavating machinery, and associated parts",
+            "oc": "Maquinària entath movement de tèrres e de catacion e es sues pèces"
+          }
+        ],
+        "garantiaComplementaria": false
+      },
+      {
+        "ultimaObertura": {
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {}
+        },
+        "numeroLot": "4",
+        "lotId": 3,
+        "descripcio": {
+          "oc": "BRAÇ DESBROSSADORA"
+        },
+        "pressupostLicitacio": 19834.7,
+        "publicacioExpedientId": 200000971,
+        "titol": "BRAÇ DESBROSSADORA",
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 23999.99,
+        "varisTipusIva": false,
+        "valorEstimat": 19834.7,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES513",
+          "ca": "Vielha e Mijaran"
+        },
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 0,
+          "mesos": 3,
+          "dies": 0,
+          "observacions": {}
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "oc": "ENTREGA"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {}
+          },
+          {
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {}
+          }
+        ],
+        "prorroguesPrevistes": false,
+        "informacioProrrogaComplementaria": {},
+        "modificacioPrevista": false,
+        "informacioModificacioComplementaria": {},
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "garantiaDefinitiva": true,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008235,
+              "ca": "Relació subministraments principals efectuats de la mateixa naturalesa en el curs de com a màxim els últims tres anys",
+              "en": "List of the main supplies of the same nature provided during the last three years at most",
+              "oc": "Relacion subministraments principaus efectuadi dera madeisha natura en cors de coma maximom es darrèri tres ans"
+            },
+            "valorMinimExigit": {
+              "oc": "13000"
+            },
+            "mitjaAcreditacio": {
+              "id": 1008253,
+              "ca": "Certificats o declaracions de bona execució",
+              "en": "Certificates or declarations of good quality production",
+              "oc": "Certificats o declaracions de bona execucion"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          },
+          {
+            "criteriSolvencia": {
+              "id": 1008236,
+              "ca": "Personal tècnic i/o unitats tècniques",
+              "en": "Technical staff and/or technical units",
+              "oc": "Personau tecnic e/o unitats tecniques"
+            },
+            "valorMinimExigit": {},
+            "mitjaAcreditacio": {
+              "id": 1008247,
+              "ca": " Declaració responsable",
+              "en": " Responsible statement",
+              "oc": " Declaracion responsabla"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          },
+          {
+            "criteriSolvencia": {
+              "id": 1008238,
+              "ca": "Control de qualitat",
+              "en": "Quality control",
+              "oc": "Contraròtle de qualitat"
+            },
+            "valorMinimExigit": {},
+            "mitjaAcreditacio": {
+              "id": 1008259,
+              "ca": "Certificats oficials de control de qualitat",
+              "en": "Official quality control certificates",
+              "oc": "Certificats oficiaus de contraròtle de qualitat"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008218,
+              "ca": "Volum anual de negocis",
+              "en": "Annual volume of business",
+              "oc": "Volum annau de negòcis"
+            },
+            "valorMinimExigit": {
+              "oc": "28000"
+            },
+            "mitjaAcreditacio": {
+              "id": 1008226,
+              "ca": "Comptes anuals",
+              "en": "Annual accounts",
+              "oc": "Compdes annaus"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "contracteNomesExecutaEnMarcDeProgrames": false,
+          "reservaPrestacioServeiAProfessio": false,
+          "contracteRestringitACentresEspecials": false,
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "percentatgeGarantiaDefinitiva": 5,
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "tipusCriteri": {
+              "id": 1008359,
+              "ca": "Preu",
+              "en": "Price",
+              "oc": "Prètz"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 55
+          },
+          {
+            "index": 1,
+            "tipusCriteri": {
+              "id": 1008370,
+              "ca": "Serveis postvenda i assistència tècnica",
+              "en": "After-sales services and technical assistance",
+              "oc": "Servicis postvenda e assisténcia tecnica"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 20
+          },
+          {
+            "index": 2,
+            "tipusCriteri": {
+              "id": 1008363,
+              "ca": "Característiques tècniques y funcionals",
+              "en": "Technical and functional characteristics",
+              "oc": "Caracteristiques tecniques e foncionaus"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 10
+          },
+          {
+            "index": 3,
+            "tipusCriteri": {
+              "id": 1008370,
+              "ca": "Serveis postvenda i assistència tècnica",
+              "en": "After-sales services and technical assistance",
+              "oc": "Servicis postvenda e assisténcia tecnica"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 5
+          },
+          {
+            "index": 4,
+            "tipusCriteri": {
+              "id": 1008370,
+              "ca": "Serveis postvenda i assistència tècnica",
+              "en": "After-sales services and technical assistance",
+              "oc": "Servicis postvenda e assisténcia tecnica"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 5
+          },
+          {
+            "index": 5,
+            "tipusCriteri": {
+              "id": 1008366,
+              "ca": "Comercialització",
+              "en": "Commercialisation",
+              "oc": "Comercializacion"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 5
+          }
+        ],
+        "codisCpv": [
+          {
+            "codi": "43200000-5",
+            "ca": "Maquinària per al moviment de terres i d'excavació i les seves peces",
+            "es": "Maquinaria para el movimiento de tierras y la excavación, y sus partes",
+            "en": "Earthmoving and excavating machinery, and associated parts",
+            "oc": "Maquinària entath movement de tèrres e de catacion e es sues pèces"
+          }
+        ],
+        "garantiaComplementaria": false
+      },
+      {
+        "ultimaObertura": {
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {}
+        },
+        "numeroLot": "5",
+        "lotId": 4,
+        "descripcio": {
+          "oc": "EXCAVADORA COMPACTA AMB CADENES"
+        },
+        "pressupostLicitacio": 27933.89,
+        "publicacioExpedientId": 200000971,
+        "titol": "EXCAVADORA COMPACTA AMB CADENES",
+        "iva": 21,
+        "pressupostBaseLicitacioAmbIva": 33800.01,
+        "varisTipusIva": false,
+        "valorEstimat": 27933.89,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES513",
+          "ca": "Vielha e Mijaran"
+        },
+        "duradaTermini": {
+          "esDurada": true,
+          "anys": 0,
+          "mesos": 3,
+          "dies": 0,
+          "observacions": {}
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008192,
+              "ca": "Altres condicions d'execució",
+              "en": "Other conditions of execution",
+              "oc": "D’autes condicions d'execucion"
+            },
+            "descripcio": {
+              "oc": "ENTREGA"
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {}
+          },
+          {
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {}
+          }
+        ],
+        "prorroguesPrevistes": false,
+        "informacioProrrogaComplementaria": {},
+        "modificacioPrevista": false,
+        "informacioModificacioComplementaria": {},
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "garantiaDefinitiva": true,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008235,
+              "ca": "Relació subministraments principals efectuats de la mateixa naturalesa en el curs de com a màxim els últims tres anys",
+              "en": "List of the main supplies of the same nature provided during the last three years at most",
+              "oc": "Relacion subministraments principaus efectuadi dera madeisha natura en cors de coma maximom es darrèri tres ans"
+            },
+            "valorMinimExigit": {
+              "oc": "19000"
+            },
+            "mitjaAcreditacio": {
+              "id": 1008253,
+              "ca": "Certificats o declaracions de bona execució",
+              "en": "Certificates or declarations of good quality production",
+              "oc": "Certificats o declaracions de bona execucion"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          },
+          {
+            "criteriSolvencia": {
+              "id": 1008236,
+              "ca": "Personal tècnic i/o unitats tècniques",
+              "en": "Technical staff and/or technical units",
+              "oc": "Personau tecnic e/o unitats tecniques"
+            },
+            "valorMinimExigit": {},
+            "mitjaAcreditacio": {
+              "id": 1008247,
+              "ca": " Declaració responsable",
+              "en": " Responsible statement",
+              "oc": " Declaracion responsabla"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          },
+          {
+            "criteriSolvencia": {
+              "id": 1008240,
+              "ca": "Certificats de qualitat",
+              "en": "Quality certificates",
+              "oc": "Certificats de qualitat"
+            },
+            "valorMinimExigit": {},
+            "mitjaAcreditacio": {
+              "id": 1008259,
+              "ca": "Certificats oficials de control de qualitat",
+              "en": "Official quality control certificates",
+              "oc": "Certificats oficiaus de contraròtle de qualitat"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008218,
+              "ca": "Volum anual de negocis",
+              "en": "Annual volume of business",
+              "oc": "Volum annau de negòcis"
+            },
+            "valorMinimExigit": {
+              "oc": "41000"
+            },
+            "mitjaAcreditacio": {
+              "id": 1008226,
+              "ca": "Comptes anuals",
+              "en": "Annual accounts",
+              "oc": "Compdes annaus"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "contracteNomesExecutaEnMarcDeProgrames": false,
+          "reservaPrestacioServeiAProfessio": false,
+          "contracteRestringitACentresEspecials": false,
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "percentatgeGarantiaDefinitiva": 5,
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "tipusCriteri": {
+              "id": 1008359,
+              "ca": "Preu",
+              "en": "Price",
+              "oc": "Prètz"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 55
+          },
+          {
+            "index": 1,
+            "tipusCriteri": {
+              "id": 1008370,
+              "ca": "Serveis postvenda i assistència tècnica",
+              "en": "After-sales services and technical assistance",
+              "oc": "Servicis postvenda e assisténcia tecnica"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 20
+          },
+          {
+            "index": 2,
+            "tipusCriteri": {
+              "id": 1008363,
+              "ca": "Característiques tècniques y funcionals",
+              "en": "Technical and functional characteristics",
+              "oc": "Caracteristiques tecniques e foncionaus"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 10
+          },
+          {
+            "index": 3,
+            "tipusCriteri": {
+              "id": 1008370,
+              "ca": "Serveis postvenda i assistència tècnica",
+              "en": "After-sales services and technical assistance",
+              "oc": "Servicis postvenda e assisténcia tecnica"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 5
+          },
+          {
+            "index": 4,
+            "tipusCriteri": {
+              "id": 1008370,
+              "ca": "Serveis postvenda i assistència tècnica",
+              "en": "After-sales services and technical assistance",
+              "oc": "Servicis postvenda e assisténcia tecnica"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 5
+          },
+          {
+            "index": 5,
+            "tipusCriteri": {
+              "id": 1008366,
+              "ca": "Comercialització",
+              "en": "Commercialisation",
+              "oc": "Comercializacion"
+            },
+            "descripcioCriteri": {},
+            "tipusAvaluacio": {
+              "id": 1008394,
+              "ca": "objectiu - aplicació de fórmula",
+              "en": "objective- formula application",
+              "oc": "Objectiu - aplicacion de formula"
+            },
+            "ponderacio": 5
+          }
+        ],
+        "codisCpv": [
+          {
+            "codi": "43200000-5",
+            "ca": "Maquinària per al moviment de terres i d'excavació i les seves peces",
+            "es": "Maquinaria para el movimiento de tierras y la excavación, y sus partes",
+            "en": "Earthmoving and excavating machinery, and associated parts",
+            "oc": "Maquinària entath movement de tèrres e de catacion e es sues pèces"
+          }
+        ],
+        "garantiaComplementaria": false
+      }
+    ],
+    "dadesExpedient": {
+      "organContractacioId": 31230076,
+      "idiomaPerDefecte": {
+        "id": 1000034,
+        "ca": "Aranès",
+        "es": "Aranés",
+        "en": "Aranese",
+        "oc": "Aranés"
+      },
+      "expedientId": "36225576-7368-45a8-934c-4d79492c908e",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false
+    },
+    "motiuEsmena": {}
+  },
+  "pathPdf": "Z_4fFUXJcY5Jju5xAcWmgDcMA9JLnRUr8t2LMqAuyBO3HScAn_T97Mx_N1jzwwofIrWUSwZIjasuLsHYi5v3-JcewP5xNsTgX3dp9zRGbTbsfgi6xmbLgTaIuNEJpNiRMMRTYKPPrtNCL6XDXL9sNaFo84FHEDihooEnS5TIwOdDIrbVd3pE_E8c8rUFLcoEFVjUQP0VQuMPQhbHz1YGq5z1scsnp2X2mTzOlNFsjCKfUkil3pnuPoHnUWCAuna2wgTFBtUIXJsSvn3xF2iba8nLVC7EeLNA-P-ISNolJ7G59pyAE8M7bIX8jP7PgB932gHFYPT5nkQh5I6MrD3b7g==",
+  "pathCertificacio": "CVFny4fywWK7NRJxcoaYUqJp3gsCiozS0DuH4N7FXMchHn3yXGtu8DBah5A6t3vmuy7iX-JhCjxI771faruv58TBn5iGs6zPxeCyvZZka7ULj1udjCwrOAj77Jb7UF9_xusrCeYe5cxwR_FGixvVd9JC01GgOhhvsoCejeyLbZ14lIlB0LTNnaSx5kNwPzPG7kJXNy6-2JwCMcF7190Vjlj9aqJFbNRTMqN5vWp5c2cxBZcBrGoQuXKOsEFr7eBGg5csu-I-HQGoXyyl59j8VqX14Y9xBvBIpbIUaI7xlYiEaHLI8qLVGHrJI3xKMPwe_Cz70UK-C48ISEGGx8J0Cw==",
+  "pathJson": "G8zv9dT9Biek4RwyOmVT2qen2NIi4L06yQFuZD2KCUwzByKCLxdoZuGhrcnPb1E77W8DMNTWZ3-e9trM9UiYio9hKU_uMirZLw_c1uOC4YBhJ1ppAvvX0nQ_MOITcDpRJgUPYB09aFdiUpABhOQd8_xyolgJc8QefzDUQwX6xAGWQWwISMFTsz7TsiWmQbxoJZIa2vahCetVc9pKimDSn6DmJY-IbpEomD1XQOMrqG4POd4BOFDDJizTtwpb4HTx50JoMxk3ns5mWFWkW9Cky9JFiyOyzc9XzxdhwMqA8SjEISrCWvKkqCD3ToDZgKZLyjeIfEo7zCa5yPm_yUSdsg==",
+  "dataPublicacioReal": "2023-02-28T09:01:06.139Z",
+  "dadesExpedient": {
+    "organContractacioId": 31230076,
+    "idiomaPerDefecte": {
+      "id": 1000034,
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "expedientId": "36225576-7368-45a8-934c-4d79492c908e",
+    "dataFiPublicacioPerfil": null,
+    "dataFiGestio": null,
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "tenderingSpaceId": null,
+    "esPublicacioAntiga": null,
+    "tipusOfertaElectronica": 413,
+    "dataVisiblePortalAccesExclusiu": null
+  }
+}

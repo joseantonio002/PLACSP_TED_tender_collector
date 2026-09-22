@@ -1,0 +1,838 @@
+[
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16129960",
+    "updated": "2025-01-09T19:46:23.907+01:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/b2c3a9ca-cf43-476d-bcac-838f671cd6ea/300346798",
+    "uuid": "b2c3a9ca-cf43-476d-bcac-838f671cd6ea",
+    "publication_id": "300346798",
+    "expediente": "4390180001-2024-0010219",
+    "title": "Contractació administrativa anticipada d'adquisició, mitjançant operació d'arrendament financer (lising financer), de vahicle camió amb bolquet i grua per als serveis d'imatge de poble de l'Ajuntament de Deltebre.",
+    "status": "PUB",
+    "buyer_name": "Ajuntament de Deltebre",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "8911869"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "162565.2",
+    "budget_gross": null,
+    "estimated_value": "177465.2",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "34142000"
+    ],
+    "execution_nuts": [
+      "ES514"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-01-24",
+    "deadline_time": "14:00:00",
+    "procedure_type": "1",
+    "lots": [],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-11-22"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301001420/3D629197170B1A27B0447A05185BFC73"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "PCTP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301001421/B25765EF4B9608134985324DE72351C7"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250110_040015_4.atom",
+    "ordinal": 34
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16129960",
+    "updated": "2025-01-24T16:03:06.605+01:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/b2c3a9ca-cf43-476d-bcac-838f671cd6ea/300359803",
+    "uuid": "b2c3a9ca-cf43-476d-bcac-838f671cd6ea",
+    "publication_id": "300359803",
+    "expediente": "4390180001-2024-0010219",
+    "title": "Contractació administrativa anticipada d'adquisició, mitjançant operació d'arrendament financer (lising financer), de vahicle camió amb bolquet i grua per als serveis d'imatge de poble de l'Ajuntament de Deltebre.",
+    "status": "PUB",
+    "buyer_name": "Ajuntament de Deltebre",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "8911869"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "162565.2",
+    "budget_gross": null,
+    "estimated_value": "177465.2",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "34142000"
+    ],
+    "execution_nuts": [
+      "ES514"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-02-10",
+    "deadline_time": "14:00:00",
+    "procedure_type": "1",
+    "lots": [],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-11-22"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301036886/3D629197170B1A27B0447A05185BFC73"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "PCTP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301036887/B25765EF4B9608134985324DE72351C7"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250128_040028_3.atom",
+    "ordinal": 305
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16129960",
+    "updated": "2025-02-11T10:00:37.560+01:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/b2c3a9ca-cf43-476d-bcac-838f671cd6ea/300372256",
+    "uuid": "b2c3a9ca-cf43-476d-bcac-838f671cd6ea",
+    "publication_id": "300372256",
+    "expediente": "4390180001-2024-0010219",
+    "title": "Contractació administrativa anticipada d'adquisició, mitjançant operació d'arrendament financer (lising financer), de vahicle camió amb bolquet i grua per als serveis d'imatge de poble de l'Ajuntament de Deltebre.",
+    "status": "PUB",
+    "buyer_name": "Ajuntament de Deltebre",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "8911869"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "162565.2",
+    "budget_gross": null,
+    "estimated_value": "177465.2",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "34142000"
+    ],
+    "execution_nuts": [
+      "ES514"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-02-26",
+    "deadline_time": "14:00:00",
+    "procedure_type": "1",
+    "lots": [],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-11-22"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301074751/3D629197170B1A27B0447A05185BFC73"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "PCTP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301074752/B25765EF4B9608134985324DE72351C7"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250218_110136_10.atom",
+    "ordinal": 455
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16129960",
+    "updated": "2025-02-27T14:01:55.890+01:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/b2c3a9ca-cf43-476d-bcac-838f671cd6ea/300386926",
+    "uuid": "b2c3a9ca-cf43-476d-bcac-838f671cd6ea",
+    "publication_id": "300386926",
+    "expediente": "4390180001-2024-0010219",
+    "title": "Contractació administrativa anticipada d'adquisició, mitjançant operació d'arrendament financer (lising financer), de vahicle camió amb bolquet i grua per als serveis d'imatge de poble de l'Ajuntament de Deltebre.",
+    "status": "PUB",
+    "buyer_name": "Ajuntament de Deltebre",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "8911869"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "162565.2",
+    "budget_gross": null,
+    "estimated_value": "177465.2",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "34142000"
+    ],
+    "execution_nuts": [
+      "ES514"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-03-14",
+    "deadline_time": "14:00:00",
+    "procedure_type": "1",
+    "lots": [],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-11-22"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301116453/3D629197170B1A27B0447A05185BFC73"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "PCTP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301116454/B25765EF4B9608134985324DE72351C7"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250228_040059.atom",
+    "ordinal": 236
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16129960",
+    "updated": "2025-03-21T12:09:09.910+01:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/b2c3a9ca-cf43-476d-bcac-838f671cd6ea/300405766",
+    "uuid": "b2c3a9ca-cf43-476d-bcac-838f671cd6ea",
+    "publication_id": "300405766",
+    "expediente": "4390180001-2024-0010219",
+    "title": "Contractació administrativa anticipada d'adquisició, mitjançant operació d'arrendament financer (lising financer), de vahicle camió amb bolquet i grua per als serveis d'imatge de poble de l'Ajuntament de Deltebre.",
+    "status": "PUB",
+    "buyer_name": "Ajuntament de Deltebre",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "8911869"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "162565.2",
+    "budget_gross": null,
+    "estimated_value": "177465.2",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "34142000"
+    ],
+    "execution_nuts": [
+      "ES514"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-04-07",
+    "deadline_time": "14:00:00",
+    "procedure_type": "1",
+    "lots": [],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-11-22"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301170599/3D629197170B1A27B0447A05185BFC73"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "PCTP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301170600/B25765EF4B9608134985324DE72351C7"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250322_040057.atom",
+    "ordinal": 305
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16129960",
+    "updated": "2025-05-05T10:05:10.087+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/b2c3a9ca-cf43-476d-bcac-838f671cd6ea/300438451",
+    "uuid": "b2c3a9ca-cf43-476d-bcac-838f671cd6ea",
+    "publication_id": "300438451",
+    "expediente": "4390180001-2024-0010219",
+    "title": "Contractació administrativa anticipada d''adquisició, mitjançant operació d''arrendament financer (lising financer), de vahicle camió amb bolquet i grua per als serveis d''imatge de poble de l''Ajuntament de Deltebre.",
+    "status": "PUB",
+    "buyer_name": "Ajuntament de Deltebre",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "8911869"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "177465.2",
+    "budget_gross": null,
+    "estimated_value": "177465.2",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "34142000"
+    ],
+    "execution_nuts": [
+      "ES514"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-20",
+    "deadline_time": "14:00:00",
+    "procedure_type": "1",
+    "lots": [],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-11-22"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301267091/3D629197170B1A27B0447A05185BFC73"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "PCTP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301267092/B25765EF4B9608134985324DE72351C7"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250506_040053_1.atom",
+    "ordinal": 445
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16129960",
+    "updated": "2025-05-06T16:04:42.635+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/b2c3a9ca-cf43-476d-bcac-838f671cd6ea/300440739",
+    "uuid": "b2c3a9ca-cf43-476d-bcac-838f671cd6ea",
+    "publication_id": "300440739",
+    "expediente": "4390180001-2024-0010219",
+    "title": "Contractació administrativa anticipada d''adquisició, mitjançant operació d''arrendament financer (lising financer), de vahicle camió amb bolquet i grua per als serveis d''imatge de poble de l''Ajuntament de Deltebre.",
+    "status": "PUB",
+    "buyer_name": "Ajuntament de Deltebre",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "8911869"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "177465.2",
+    "budget_gross": null,
+    "estimated_value": "177465.2",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "34142000"
+    ],
+    "execution_nuts": [
+      "ES514"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-21",
+    "deadline_time": "14:00:00",
+    "procedure_type": "1",
+    "lots": [],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-11-22"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP_RENTING camió BOLQUET I GRUA.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301274057/F8D6FCE9A34D74363FA65BA027EE4CB3"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "PCTP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301274045/B25765EF4B9608134985324DE72351C7"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250507_040113.atom",
+    "ordinal": 76
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16129960",
+    "updated": "2025-05-22T12:07:20.578+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/b2c3a9ca-cf43-476d-bcac-838f671cd6ea/300458081",
+    "uuid": "b2c3a9ca-cf43-476d-bcac-838f671cd6ea",
+    "publication_id": "300458081",
+    "expediente": "4390180001-2024-0010219",
+    "title": "Contractació administrativa anticipada d''adquisició, mitjançant operació d''arrendament financer (lising financer), de vahicle camió amb bolquet i grua per als serveis d''imatge de poble de l''Ajuntament de Deltebre.",
+    "status": "EV",
+    "buyer_name": "Ajuntament de Deltebre",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "8911869"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "177465.2",
+    "budget_gross": null,
+    "estimated_value": "177465.2",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "34142000"
+    ],
+    "execution_nuts": [
+      "ES514"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-21",
+    "deadline_time": "14:00:00",
+    "procedure_type": "1",
+    "lots": [],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-11-22"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP_RENTING camió BOLQUET I GRUA.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301274057/F8D6FCE9A34D74363FA65BA027EE4CB3"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "PCTP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301274045/B25765EF4B9608134985324DE72351C7"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250523_040118.atom",
+    "ordinal": 375
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16129960",
+    "updated": "2025-07-24T10:04:04.866+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/b2c3a9ca-cf43-476d-bcac-838f671cd6ea/300522269",
+    "uuid": "b2c3a9ca-cf43-476d-bcac-838f671cd6ea",
+    "publication_id": "300522269",
+    "expediente": "4390180001-2024-0010219",
+    "title": "Contractació administrativa anticipada d'adquisició, mitjançant operació d'arrendament financer (lising financer), de vahicle camió amb bolquet i grua per als serveis d'imatge de poble de l'Ajuntament de Deltebre.",
+    "status": "ADJ",
+    "buyer_name": "Ajuntament de Deltebre",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "8911869"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "177465.2",
+    "budget_gross": null,
+    "estimated_value": "177465.2",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "34142000"
+    ],
+    "execution_nuts": [
+      "ES514"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-21",
+    "deadline_time": "14:00:00",
+    "procedure_type": "1",
+    "lots": [],
+    "awards": [
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": null,
+        "amount": "167760",
+        "supplier_ids": [
+          "B22229652"
+        ],
+        "supplier_names": [
+          "OCATRUCK SL"
+        ],
+        "contract_dates": []
+      }
+    ],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-11-22"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-07-24"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP_RENTING camió BOLQUET I GRUA.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301274057/F8D6FCE9A34D74363FA65BA027EE4CB3"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "PCTP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301274045/B25765EF4B9608134985324DE72351C7"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250725_040051_1.atom",
+    "ordinal": 14
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16129960",
+    "updated": "2025-08-18T12:02:57.252+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/b2c3a9ca-cf43-476d-bcac-838f671cd6ea/300541478",
+    "uuid": "b2c3a9ca-cf43-476d-bcac-838f671cd6ea",
+    "publication_id": "300541478",
+    "expediente": "4390180001-2024-0010219",
+    "title": "Contractació administrativa anticipada d'adquisició, mitjançant operació d'arrendament financer (lising financer), de vahicle camió amb bolquet i grua per als serveis d'imatge de poble de l'Ajuntament de Deltebre.",
+    "status": "RES",
+    "buyer_name": "Ajuntament de Deltebre",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "8911869"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "177465.2",
+    "budget_gross": null,
+    "estimated_value": "177465.2",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "34142000"
+    ],
+    "execution_nuts": [
+      "ES514"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-21",
+    "deadline_time": "14:00:00",
+    "procedure_type": "1",
+    "lots": [],
+    "awards": [
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": null,
+        "amount": "167760",
+        "supplier_ids": [
+          "B22229652"
+        ],
+        "supplier_names": [
+          "OCATRUCK SL"
+        ],
+        "contract_dates": [
+          "2025-08-08"
+        ]
+      }
+    ],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-11-22"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-07-24"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-08-18"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP_RENTING camió BOLQUET I GRUA.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301274057/F8D6FCE9A34D74363FA65BA027EE4CB3"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "PCTP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301274045/B25765EF4B9608134985324DE72351C7"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250819_040113.atom",
+    "ordinal": 74
+  }
+]

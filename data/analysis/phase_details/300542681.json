@@ -1,0 +1,311 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "2024PT0235AC",
+  "idExpedient": "8d4ef683-64c8-43d5-a4a0-411f988509e1",
+  "dataPublicacioPlanificada": "2025-08-20T10:16:42.540Z",
+  "organ": {
+    "nom": "Barcelona de Serveis Municipals SA",
+    "nif": "A08765919",
+    "direccioPostal": "Carrer Calabria 66",
+    "localitat": "Barcelona",
+    "web": "https://www.bsmsa.cat/empresa/perfil-de-contractant",
+    "telefon": "938875020",
+    "fax": "934092366",
+    "email": "ajcc@bsmsa.cat",
+    "personesContacte": [
+      {
+        "nom": "Mercè ",
+        "cognom": "Piñol",
+        "carrec": "Arnal ",
+        "telefon": "938875020",
+        "email": "ajcc@bsmsa.cat"
+      }
+    ],
+    "observacions": {
+      "ca": "Les licitacions publicades abans de l'1 de juliol de 2016 s'han de consultar a https://www.bsmsa.cat/empresa/perfil-de-contractant"
+    },
+    "horari": {},
+    "organContractacioId": 15937877
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000043,
+      "ca": "Formalització",
+      "es": "Formalización",
+      "en": "Formalisation",
+      "oc": "Formalizacion"
+    },
+    "expedientId": "8d4ef683-64c8-43d5-a4a0-411f988509e1",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000043,
+        "ca": "Formalització",
+        "es": "Formalización",
+        "en": "Formalisation",
+        "oc": "Formalizacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "2024PT0235AC",
+      "denominacio": {
+        "ca": "2024PT0235AC - Concurs d’idees amb intervenció de jurat per al projecte de reforma i tematització dels espais d’operació de les atraccions, les casetes de fotografia i els tòtems d’accés a les atraccions, pantalles d’informació i caixers del Parc d’Atraccions Tibidabo, incloent la conceptualització de la idea, direcció artística, redacció del projecte executiu, direcció d’obra i coordinació de seguretat i salut"
+      },
+      "descripcio": {
+        "ca": "Concurs d’idees amb intervenció de jurat per al projecte de reforma i tematització dels espais d’operació de les atraccions, les casetes de fotografia i els tòtems d’accés a les atraccions, pantalles d’informació i caixers del Parc d’Atraccions Tibidabo, incloent la conceptualització de la idea, direcció artística, redacció del projecte executiu, direcció d’obra i coordinació de seguretat i salut"
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "tipusContracte": {
+        "id": 393,
+        "ca": "Serveis",
+        "es": "Servicios",
+        "en": "Services",
+        "oc": "Servicis"
+      },
+      "procedimentAdjudicacio": {
+        "id": 1000010,
+        "ca": "Concurs de projectes",
+        "es": "Concurso de proyectos",
+        "en": "Project competition",
+        "oc": "Concors de projèctes"
+      },
+      "tipusConcurs": {
+        "id": 1000020,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 11386,
+        "ca": "Altres",
+        "es": "Otros",
+        "en": "Others",
+        "oc": "D’auti"
+      },
+      "descripcioAltres": {
+        "ca": "Sobre electrònic PLYCA"
+      },
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {}
+    },
+    "dadesPublicacio": {
+      "observacions": {},
+      "contractacioConjunta": false,
+      "justificacioProcedimentUtilitzat": {},
+      "contracteFinancatUe": false,
+      "valorEstimatContracte": 55000
+    },
+    "dadesPublicacioLot": [
+      {
+        "pressupostLicitacio": 53000,
+        "publicacioExpedientId": 300542681,
+        "cpvPrincipal": {
+          "codi": "79931000-9",
+          "ca": "Serveis de decoració d'interiors",
+          "es": "Servicios de decoración de interiores",
+          "en": "Interior decorating services",
+          "oc": "Servicis de decoracion d'interiors"
+        },
+        "cpvsSecundaris": [
+          {
+            "codi": "71220000-6",
+            "ca": "Serveis de disseny arquitectònic",
+            "es": "Servicios de diseño arquitectónico",
+            "en": "Architectural design services",
+            "oc": "Servicis de dessenh arquitectonic"
+          }
+        ],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES511",
+          "ca": "Barcelona"
+        },
+        "dataAdjudicacio": "2025-07-21T22:00:00.000Z",
+        "dataFormalitzacio": "2025-08-17T22:00:00.000Z",
+        "descripcioLicitacio": {},
+        "decisioJurat": "2025-07-21T22:00:00.000Z",
+        "altraInformacio": {},
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 100,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 100,
+                "descripcioCriteri": {
+                  "ca": "Veure PCAP"
+                },
+                "identificador": "685570044547109"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 2,
+        "ofertesRebudesEconomics": 2,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 2,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "MYCOTOO EUROPE SL",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "B67138784",
+            "telefon": "655055860",
+            "email": "hello@mycotoo.com",
+            "tipusEmpresa": {
+              "id": 749,
+              "ca": "No PIME",
+              "en": "No SME",
+              "oc": "Non PIME"
+            },
+            "importAdjudicacioSenseIva": 53000,
+            "importAdjudicacioAmbIva": 64130,
+            "iva": 21,
+            "varisTipusIva": false,
+            "informacioUte": [],
+            "plurianualitats": [
+              {
+                "anyAdjudicacio": "2025"
+              },
+              {
+                "anyAdjudicacio": "2026"
+              },
+              {
+                "anyAdjudicacio": "2027"
+              }
+            ]
+          }
+        ],
+        "subcontractacio": false,
+        "subcontractacions": [],
+        "metodeUtilitzatCalculValorEstimat": {},
+        "peuDeRecurs": {},
+        "adrecaEnllacMesInformacioRecurs": {},
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 301551955,
+              "titol": "42.1 Contracte cen.pdf",
+              "path": "qs9ZvlqhdBc12L3hTKTqTr1gR7uE5TDC-qfCQpGJ4RlctZwdJ_uySmr2NOnnTdOWnSm22Q1-RzkW3m2hsHtpwyR4SOGVb7SM2uyOYy2cv1m6gyAYl6NY5faGlEU-QVzZ1xepB6xMzx-maw39oZ9GVY5_yyFO-7Cn9weSzBdZcbKFzlyH1VWA42kN6j4Fjgm4Qbkn_YddT0BooI8AHt-E-Oetf1aQ0V6T0xSR4foXwpU3kvOYts4eMZ932otybLzArZe-nvIBj9xPgk--ZBOyFCSM_0tou2oMA67dzSRABCifGlYznM7LvS7Pnxkli0nGr5L5nEj5uB-_2XCVNDpdKw==",
+              "hash": "47E575F70E248DFBD97C5D82B3680595",
+              "idioma": "ca",
+              "mida": 2627889
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2025-08-18T22:00:00.000Z",
+        "fiTerminiExecucio": "2027-08-17T22:00:00.000Z",
+        "observacionsTermini": {
+          "ca": "- Generar la redacció del projecte executiu: 6 mesos, que desplegarà els seus efectes a partir de la formalització del contracte\n- Direcció artística, direcció d'obra i coordinació de seguretat i salut: 18 mesos, que desplegarà els seus efectes a partir de la signatura de l'acta de comprovació de replanteig en el procediment d'obres, en cadascuna de les fases d'obra"
+        },
+        "canonExplotacio": {}
+      }
+    ],
+    "dadesExpedient": {
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "8d4ef683-64c8-43d5-a4a0-411f988509e1",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": true,
+      "esPublicacioAntiga": false,
+      "tipusOfertaElectronica": 11386,
+      "denominacioExpedientReferencia": {}
+    },
+    "publicacionsOficials": [],
+    "motiuEsmena": {}
+  },
+  "pathPdf": "Wv630ut_XFBqSXCQ_clEa3OA25wd22wEyP2oAr6P-6UiLeLgo7G2TL4GCC3FUIihglVEO0OqNuvjUsIBkJyVEdlBYyDx4KqtOBPOWHcmMxxjYr8PvX-DDMTdoN4XWig5xlNBkq4jVCa034se0Y_G_YIq-jRy234yWBe5iZ7PemsnuBvf-XNx7oi7kQnOVIv1i4AWUO4KqKRgltCKKTM09a4BuQdu4gcZj2SZgllpYMMP2N5RGJXtwdt1v0WfHjBLbpUfsXgcos_d3LBGcllmz52Z35na-xQWSIxa7uiE8AIdvk5GVZBPNVK-uSafxZfqPLy2sZAtluZ6R1VfgKAhBg==",
+  "pathCertificacio": "PdjBMi8nGNxk0zKSi_1xULgvvGO3T5YinpA4cdC324iypjfZ57b9IrKaxs4pgsphJF-oKBISSwQbx0hhTDxFKWkjUFK5ejMaeQKTp0JybDHx9W4Wp6O0JYwvWTPSS1dNT4TF5Qmcju5CpF96I8cqSQXhvMTEUCaVEHuU_DGWixNONHM9MCyZupaPO4GfVYZkGDzN488b7xT6HboV-Shf-RTDy8TEDg45USIEAw8jHQZtqIhHyzdkrOfVRSuRvHmHjZT6FKe2BxZzv1rwqyNzCSk3Wzw1xl3INfTmvtRUQbaRBUwt6phivJCt6WkXfZl4gopOGAUS_n410icGHiiL_g==",
+  "pathJson": "QkSXDLfDQrV9J4KwRbUz7CszXtBJBe6jNqaPA7v3qVJ0m02C16R3i5YJ6Q2Hh0owx9dFuT7Zm-D8Y3ics8OuZDJmU-vMs-ytXEo1EbNLLSVYi5CIYJjps6ZXWZDYGMZjMR-w2OTa8ZdUIJPGHyv8fo6rHERu4axnyVOiqb4haLqo6O2QdAweSZhanODKGcxF_VTk4d72yz7ZD1P05USPpMqDMh9rqEQ63fz3-vXkSy_cmSePT84ZENxA5nrV2DZPg0WZm2lt81Z3jHnJgzJ9lx0ZCRAsabyWeZoWA_E_bQMj05eAJlacAozdixxJKy1v4ihZ0MEMVLtgAj1BSVggxA==",
+  "dataPublicacioReal": "2025-08-20T10:18:06.006Z",
+  "dadesExpedient": {
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": "Català",
+      "es": "Catalan",
+      "en": "Catalan",
+      "oc": "Catalan"
+    },
+    "expedientId": "8d4ef683-64c8-43d5-a4a0-411f988509e1",
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": true,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 11386,
+    "denominacioExpedientReferencia": {}
+  }
+}

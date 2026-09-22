@@ -1,0 +1,2918 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "ME. MEC-25L02",
+  "idExpedient": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+  "dataPublicacioPlanificada": "2026-05-08T11:48:08.148Z",
+  "organ": {
+    "nom": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "unitat": "Infraestructures.cat",
+    "nif": "A59377135",
+    "direccioPostal": "Carrer dels Vergós, 36-42",
+    "localitat": "Barcelona, Barcelona",
+    "codiPostal": "08017",
+    "nuts": "ES511",
+    "telefon": "934444444",
+    "email": "licitacio@infraestructures.cat",
+    "personesContacte": [],
+    "centralCompres": false,
+    "tipusPoderAdjudicador": 1500007,
+    "observacions": {},
+    "horari": {},
+    "organContractacioId": 203633,
+    "activitatPrincipalOrgan": {
+      "id": 1051240,
+      "ca": "Infraestructures",
+      "es": "Infraestructuras"
+    }
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000043,
+      "ca": "Formalització",
+      "es": "Formalización",
+      "en": "Formalisation",
+      "oc": "Formalizacion"
+    },
+    "expedientId": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "teLots": true,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000043,
+        "ca": "Formalització",
+        "es": "Formalización",
+        "en": "Formalisation",
+        "oc": "Formalizacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "ME. MEC-25L02",
+      "denominacio": {
+        "ca": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+        "es": "Contrato de servicios de conservación y mantenimiento y gestión energética y mejora ambiental de varios equipamientos de uso público adscritos al Departamento de Justicia y Calidad Democrática. Clave: ME. MEC-25L02"
+      },
+      "descripcio": {
+        "ca": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+        "es": "Contrato de servicios de conservación y mantenimiento y gestión energética y mejora ambiental de varios equipamientos de uso público adscritos al Departamento de Justicia y Calidad Democrática. Clave: ME. MEC-25L02"
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "unitatContractacio": 23311099,
+      "tipusContracte": {
+        "id": 393,
+        "ca": "Serveis",
+        "es": "Servicios",
+        "en": "Services",
+        "oc": "Servicis"
+      },
+      "procedimentAdjudicacio": {
+        "id": 401,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {},
+      "metodologiaBim": false
+    },
+    "dadesPublicacio": {
+      "observacions": {},
+      "contractacioConjunta": false,
+      "justificacioProcedimentUtilitzat": {},
+      "contracteFinancatUe": false,
+      "valorEstimatContracte": 83579468.07
+    },
+    "dadesPublicacioLot": [
+      {
+        "numeroLot": "1",
+        "lotId": 0,
+        "descripcio": {
+          "ca": "Edificis judicials Barcelona",
+          "es": "Edificis judicials Barcelona"
+        },
+        "pressupostLicitacio": 2292542.12,
+        "publicacioExpedientId": 300768299,
+        "titol": "Edificis judicials Barcelona",
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "dataAdjudicacio": "2025-10-15T15:00:00.000Z",
+        "dataFormalitzacio": "2025-11-23T23:00:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {},
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473018166"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473020670"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0.0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 18,
+        "ofertesRebudesEconomics": 5,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 18,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "GESTIÓN INTEGRAL DE INSTALACIONES S.L",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "B60650801",
+            "telefon": "934541500",
+            "email": "geinstal@geinstal.com",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 748,
+                "ca": "PIME",
+                "en": "SME",
+                "oc": "PIME"
+              },
+              {
+                "id": 1008411,
+                "ca": "No informat"
+              }
+            ],
+            "importAdjudicacioSenseIva": 2011802.23,
+            "importAdjudicacioAmbIva": 2434280.7,
+            "iva": 21,
+            "varisTipusIva": false,
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1001132,
+              "ca": "Sant Cugat del Vallès"
+            },
+            "informacioUte": [],
+            "plurianualitats": [
+              {
+                "anyAdjudicacio": "2025",
+                "importAdjudicacio": 502950.55
+              },
+              {
+                "anyAdjudicacio": "2026",
+                "importAdjudicacio": 502950.55
+              },
+              {
+                "anyAdjudicacio": "2027",
+                "importAdjudicacio": 502950.55
+              },
+              {
+                "anyAdjudicacio": "2028",
+                "importAdjudicacio": 502950.55
+              }
+            ],
+            "codiPostal": "08174"
+          }
+        ],
+        "subcontractacio": false,
+        "subcontractacions": [],
+        "metodeUtilitzatCalculValorEstimat": {},
+        "peuDeRecurs": {
+          "ca": "Contra aquest acord es pot interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n\nAquest recurs té caràcter potestatiu, és gratuït per als recurrents i es pot interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, regulador a de la jurisdicció contenciosa administrativa.\n",
+          "es": "Contra este acuerdo se puede interponer recurso especial en materia de contratación, de conformidad con lo que establece el artículo 44 y siguientes de la LCSP y el Decreto 221/2013, de 3 de septiembre, por el que se regula el Tribunal Catalán de Contratos del Sector Público y se aprueba su organización y funcionamiento.\n\nEste recurso tiene carácter potestativo, es gratuito para los recurrentes y puede interponerse ante el Tribunal Catalán de Contratos del Sector Público, previa o alternativamente, a la interposición del recurso contencioso administrativo, de conformidad con la Ley 29/1998, de 13 de julio, regulador a de la jurisdicción contencioso-administrativa."
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 302236483,
+              "titol": "CN1072143.pdf",
+              "path": "ARKNWkvzORpZuT3vNl_TSPQqVg0eYGv_99Rwh4ATMWQtchZz-1s2iaN41eGRFowQaTv_9PVdt7u_2OCiyQWI8amT5xAPXOrDXkGJQ-ddkgsRHhi84wCUKAd7JZrJJvLjI0zAxVcVuQhfseQ0OI_86CH0Xd_q--N0n-j5apZQenQWybARgqqIniuaDH57gBJQwEFZYTO3msnYUVJOHcUwkYj1Qi2S6hVu7VYZHDpFFP0qLcznR0ZhDkiEKlEru0nhBH4juEnGp_emcz7C9krPQcqrS19G_sj8agI32I6NGmakEMx4TD6W9ojymLtbhbVvhZbz3Fe1QhlJidYeU_hMZA==",
+              "hash": "73FD18DD2DA1EC425EEDC42E5671E178",
+              "idioma": "ca",
+              "mida": 416240
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2025-11-23T23:00:00.000Z",
+        "fiTerminiExecucio": "2028-06-29T22:00:00.000Z",
+        "observacionsTermini": {},
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "paisOrigenProducte": {
+          "id": 65,
+          "ca": "Espanya",
+          "es": "España",
+          "en": "Spain"
+        },
+        "estudisDictamens": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "canonExplotacio": {}
+      },
+      {
+        "numeroLot": "2",
+        "lotId": 1,
+        "descripcio": {
+          "ca": "Edificis judicials Barcelona Províncies Nord",
+          "es": "Edificis judicials Barcelona Províncies Nord"
+        },
+        "pressupostLicitacio": 4557472.52,
+        "publicacioExpedientId": 300768299,
+        "titol": "Edificis judicials Barcelona Províncies Nord",
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "dataAdjudicacio": "2025-10-15T15:00:00.000Z",
+        "dataFormalitzacio": "2025-11-26T23:00:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {},
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473038819"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473039370"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0.0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 18,
+        "ofertesRebudesEconomics": 5,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 18,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "Elecnor",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A79486833",
+            "telefon": "934139200",
+            "email": "ofertas.teleco.nordeste@elecnor.com",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 749,
+                "ca": "No PIME",
+                "en": "No SME",
+                "oc": "Non PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the previous options",
+                "oc": "Cap des anteriores"
+              }
+            ],
+            "importAdjudicacioSenseIva": 3845214.1,
+            "importAdjudicacioAmbIva": 4652709.06,
+            "iva": 21,
+            "varisTipusIva": false,
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1001002,
+              "ca": "Cornellà de Llobregat"
+            },
+            "informacioUte": [],
+            "plurianualitats": [
+              {
+                "anyAdjudicacio": "2025",
+                "importAdjudicacio": 961303.52
+              },
+              {
+                "anyAdjudicacio": "2026",
+                "importAdjudicacio": 961303.52
+              },
+              {
+                "anyAdjudicacio": "2027",
+                "importAdjudicacio": 961303.52
+              },
+              {
+                "anyAdjudicacio": "2028",
+                "importAdjudicacio": 961303.52
+              }
+            ],
+            "codiPostal": "28028"
+          }
+        ],
+        "subcontractacio": false,
+        "subcontractacions": [],
+        "metodeUtilitzatCalculValorEstimat": {},
+        "peuDeRecurs": {
+          "ca": "Contra aquest acord es pot interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n\nAquest recurs té caràcter potestatiu, és gratuït per als recurrents i es pot interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, regulador a de la jurisdicció contenciosa administrativa.\n",
+          "es": "Contra este acuerdo se puede interponer recurso especial en materia de contratación, de conformidad con lo que establece el artículo 44 y siguientes de la LCSP y el Decreto 221/2013, de 3 de septiembre, por el que se regula el Tribunal Catalán de Contratos del Sector Público y se aprueba su organización y funcionamiento.\n\nEste recurso tiene carácter potestativo, es gratuito para los recurrentes y puede interponerse ante el Tribunal Catalán de Contratos del Sector Público, previa o alternativamente, a la interposición del recurso contencioso administrativo, de conformidad con la Ley 29/1998, de 13 de julio, regulador a de la jurisdicción contencioso-administrativa."
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 302236606,
+              "titol": "CN1072144.pdf",
+              "path": "ibBxXHjvm4XSIk5te_JEvQ99Rop_b2D5jlKXc7gWfExtZ0XcWNe_f55I--pck1lMOQfbS8XzTmW-jKjd5wsHjA0HDDfS3sxedHotVpsQPMoVKA6koe6hl39ZSiKIMulkIIvjwKlTn4W0sgB2Bj2uMceNqwMLxzjqCQwI-NZBXRCJ6DWyXLT86sJ_xN-fBmd8DhWSx38FKJEx8T3j2zNF2f4lbkuhRLwf1Yf5vOBLUF80soB74bAkIFSyksJaMjlxXw6V9RPzhkgy9gHbnRjJBVCxM7FhTQd8nYlvNRJqvOnmFi55FDQ2zzDgtyK0bBZ7TBSBNf1Aa4qiXadgqv41gQ==",
+              "hash": "827019D626A366C1F6C71EC2C0E19C56",
+              "idioma": "ca",
+              "mida": 416600
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2025-11-30T23:00:00.000Z",
+        "fiTerminiExecucio": "2028-06-29T22:00:00.000Z",
+        "observacionsTermini": {},
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "paisOrigenProducte": {
+          "id": 65,
+          "ca": "Espanya",
+          "es": "España",
+          "en": "Spain"
+        },
+        "estudisDictamens": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "canonExplotacio": {}
+      },
+      {
+        "numeroLot": "4",
+        "lotId": 2,
+        "descripcio": {
+          "ca": "Edificis judicials Tarragona i Terres de l’Ebre",
+          "es": "Edificis judicials Tarragona i Terres de l’Ebre"
+        },
+        "pressupostLicitacio": 3430093.93,
+        "publicacioExpedientId": 300768299,
+        "titol": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "dataAdjudicacio": "2025-10-15T15:00:00.000Z",
+        "dataFormalitzacio": "2025-11-19T23:00:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {},
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473043128"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473043598"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0.0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 18,
+        "ofertesRebudesEconomics": 5,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 18,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "COMSA Service Facility Management, S.A.U.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A60470127",
+            "telefon": "934809150",
+            "email": "luisalvarez@comsa.com",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 749,
+                "ca": "No PIME",
+                "en": "No SME",
+                "oc": "Non PIME"
+              },
+              {
+                "id": 1008410,
+                "ca": "Altres"
+              }
+            ],
+            "importAdjudicacioSenseIva": 2915028.09,
+            "importAdjudicacioAmbIva": 3527183.99,
+            "iva": 21,
+            "varisTipusIva": false,
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1001002,
+              "ca": "Cornellà de Llobregat"
+            },
+            "informacioUte": [],
+            "plurianualitats": [
+              {
+                "anyAdjudicacio": "2025",
+                "importAdjudicacio": 728757.02
+              },
+              {
+                "anyAdjudicacio": "2026",
+                "importAdjudicacio": 728757.02
+              },
+              {
+                "anyAdjudicacio": "2027",
+                "importAdjudicacio": 728757.02
+              },
+              {
+                "anyAdjudicacio": "2028",
+                "importAdjudicacio": 728757.02
+              }
+            ],
+            "codiPostal": "08940"
+          }
+        ],
+        "subcontractacio": false,
+        "subcontractacions": [],
+        "metodeUtilitzatCalculValorEstimat": {},
+        "peuDeRecurs": {
+          "ca": "Contra aquest acord es pot interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n\nAquest recurs té caràcter potestatiu, és gratuït per als recurrents i es pot interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, regulador a de la jurisdicció contenciosa administrativa.\n",
+          "es": "Contra este acuerdo se puede interponer recurso especial en materia de contratación, de conformidad con lo que establece el artículo 44 y siguientes de la LCSP y el Decreto 221/2013, de 3 de septiembre, por el que se regula el Tribunal Catalán de Contratos del Sector Público y se aprueba su organización y funcionamiento.\n\nEste recurso tiene carácter potestativo, es gratuito para los recurrentes y puede interponerse ante el Tribunal Catalán de Contratos del Sector Público, previa o alternativamente, a la interposición del recurso contencioso administrativo, de conformidad con la Ley 29/1998, de 13 de julio, regulador a de la jurisdicción contencioso-administrativa."
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 302237042,
+              "titol": "CN1072145.pdf",
+              "path": "dQZ0iQK83OHimUbFm6WyimXqVnSbPfBBJ97MKHf6UYfkFPPLvTHGc71wi9hmWXdlgG8xEeXy-YPTCblluBOo0jAa8bwcbf35va8OrfyIisC6rJp9PdMP6pbAO59OE8g1qVfn8PV6xq7dfPB7H-UImFajY81zcjnIYC3DczX2hZJ0DHPQrJq0SgIaPSS5nA3wNh-cNrZG2pmznWuG8vXi2asayaeOaTskKSOcfKZ_xx_uQQo_Sn0xXx3VOQZ1FxwELVjCubNEpOPylzaiNLcrzuD-swVn7lxrS8ocdrKNKuIxe8iPAze0zxvBv6ydfJsQ4UcfwBChJpWQDoYmoTYOwg==",
+              "hash": "76A374BE767977874CF612DAAF2DCB1D",
+              "idioma": "ca",
+              "mida": 416704
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2025-11-30T23:00:00.000Z",
+        "fiTerminiExecucio": "2028-06-29T22:00:00.000Z",
+        "observacionsTermini": {},
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "paisOrigenProducte": {
+          "id": 65,
+          "ca": "Espanya",
+          "es": "España",
+          "en": "Spain"
+        },
+        "estudisDictamens": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "canonExplotacio": {}
+      },
+      {
+        "numeroLot": "3",
+        "lotId": 3,
+        "descripcio": {
+          "ca": "Edificis judicials Barcelona Províncies Sud",
+          "es": "Edificis judicials Barcelona Províncies Sud"
+        },
+        "pressupostLicitacio": 2563959.76,
+        "publicacioExpedientId": 300768299,
+        "titol": "Edificis judicials Barcelona Províncies Sud",
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "dataAdjudicacio": "2026-03-22T23:00:00.000Z",
+        "dataFormalitzacio": "2026-04-27T22:00:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {},
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473047334"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473047790"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0.0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 18,
+        "ofertesRebudesEconomics": 5,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 18,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "Elecnor Servicios y Proyectos, SAU",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A79486833",
+            "telefon": "934139200",
+            "email": "ofertas.teleco.nordeste@elecnor.com",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 749,
+                "ca": "No PIME",
+                "en": "No SME",
+                "oc": "Non PIME"
+              },
+              {
+                "id": 1008410,
+                "ca": "Altres"
+              }
+            ],
+            "importAdjudicacioSenseIva": 2199111.88,
+            "importAdjudicacioAmbIva": 2660925.37,
+            "iva": 21,
+            "varisTipusIva": false,
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 323,
+              "ca": "Madrid",
+              "es": "Madrid"
+            },
+            "municipi": {
+              "id": 1004416,
+              "ca": "Madrid"
+            },
+            "informacioUte": [],
+            "plurianualitats": [
+              {
+                "anyAdjudicacio": "2026",
+                "importAdjudicacio": 549777.97
+              },
+              {
+                "anyAdjudicacio": "2027",
+                "importAdjudicacio": 549777.97
+              },
+              {
+                "anyAdjudicacio": "2028",
+                "importAdjudicacio": 549777.97
+              },
+              {
+                "anyAdjudicacio": "2029",
+                "importAdjudicacio": 549777.97
+              }
+            ],
+            "codiPostal": "28028"
+          }
+        ],
+        "subcontractacio": false,
+        "subcontractacions": [],
+        "metodeUtilitzatCalculValorEstimat": {},
+        "peuDeRecurs": {
+          "ca": "Els actes que es dictin en el present procediment de licitació podran interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n \nAquest recurs té caràcter potestatiu, és gratuït per als recurrents, es podrà interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, reguladora de la jurisdicció contenciosa administrativa.",
+          "es": "Los actos que se dicten en el presente procedimiento de licitación podrán interponer recurso especial en materia de contratación, de conformidad con lo que establece el artículo 44 y siguientes de la LCSP y el Decreto 221/2013, de 3 de septiembre, por el que se regula el Tribunal Catalán de Contratos del Sector Público y se aprueba su organización y funcionamiento.\n\nEste recurso tiene carácter potestativo, es gratuito para los recurrentes, podrá interponerse ante el Tribunal Catalán de Contratos del Sector Público, previa o alternativamente, a la interposición del recurso contencioso administrativo, de conformidad con la Ley 29/1998, de 13 de julio, reguladora de la jurisdicción contencioso-administrativa."
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 302236943,
+              "titol": "CN1072846.pdf",
+              "path": "uFnWIKWh6bYYh4v1nI_t7vzFlboGcd8puslYBUJm6XnR9dSZHjppZKdhFDbukCLALRk1KWabJNOgneQ-3rTZfwScuJrBRG5wSE9LuKGAC9FrYm61sL0DFNTK3iftHXQZm376LJtOEQvUgEc2PnXFiP9iwtRFnFXe80cNVG0TqiZhIjuHb7zeQLvzPApXO2y4cTZPIzoLuEFBx9YaGQygafVnsELR9aQBNYFa_kG15rGgizRTrH1p8z6qzB8LK2c84SH3H7ME7Eo8fcbHVgw9g0tbJ1qoDzqrIT5pJEFf_DDzv-e_zlVt-3sjtzj9hxo6tLk7Yb5YssrwqFENnzX3Gg==",
+              "hash": "306C7F48415C000AD4A73568696281FC",
+              "idioma": "ca",
+              "mida": 401136
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2026-04-22T22:00:00.000Z",
+        "fiTerminiExecucio": "2029-08-21T22:00:00.000Z",
+        "observacionsTermini": {
+          "ca": "El termini quedarà definitivament fixat un cop formalitzat el contracte, finalitzant, en tot cas, el 30 de juny de 2028.",
+          "es": "El plazo quedará definitivamente fijado una vez formalizado el contrato, finalizando, en todo caso, el 30 de junio de 2028."
+        },
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "paisOrigenProducte": {
+          "id": 65,
+          "ca": "Espanya",
+          "es": "España",
+          "en": "Spain"
+        },
+        "estudisDictamens": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "canonExplotacio": {}
+      },
+      {
+        "numeroLot": "5",
+        "lotId": 4,
+        "descripcio": {
+          "ca": "Edificis judicials Lleida",
+          "es": "Edificis judicials Lleida"
+        },
+        "pressupostLicitacio": 2241527.31,
+        "publicacioExpedientId": 300768299,
+        "titol": "Edificis judicials Lleida",
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "dataAdjudicacio": "2025-10-20T16:30:00.000Z",
+        "dataFormalitzacio": "2025-11-26T23:00:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {},
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473050771"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473051201"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0.0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 18,
+        "ofertesRebudesEconomics": 5,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 18,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "MH INDUSTRIAS, S.L.U",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "B64570567",
+            "telefon": "935809080",
+            "email": "info@mhindustrias.com",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 748,
+                "ca": "PIME",
+                "en": "SME",
+                "oc": "PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the previous options",
+                "oc": "Cap des anteriores"
+              }
+            ],
+            "importAdjudicacioSenseIva": 1952457.57,
+            "importAdjudicacioAmbIva": 2362473.66,
+            "iva": 21,
+            "varisTipusIva": false,
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1001193,
+              "ca": "Cerdanyola del Vallès"
+            },
+            "informacioUte": [],
+            "plurianualitats": [
+              {
+                "anyAdjudicacio": "2025",
+                "importAdjudicacio": 488114.39
+              },
+              {
+                "anyAdjudicacio": "2026",
+                "importAdjudicacio": 488114.39
+              },
+              {
+                "anyAdjudicacio": "2027",
+                "importAdjudicacio": 488114.39
+              },
+              {
+                "anyAdjudicacio": "2028",
+                "importAdjudicacio": 488114.39
+              }
+            ],
+            "codiPostal": "08290"
+          }
+        ],
+        "subcontractacio": false,
+        "subcontractacions": [],
+        "metodeUtilitzatCalculValorEstimat": {},
+        "peuDeRecurs": {
+          "ca": "Contra aquest acord es pot interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n\nAquest recurs té caràcter potestatiu, és gratuït per als recurrents i es pot interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, regulador a de la jurisdicció contenciosa administrativa.",
+          "es": "Contra este acuerdo se puede interponer recurso especial en materia de contratación, de conformidad con lo que establece el artículo 44 y siguientes de la LCSP y el Decreto 221/2013, de 3 de septiembre, por el que se regula el Tribunal Catalán de Contratos del Sector Público y se aprueba su organización y funcionamiento.\n\nEste recurso tiene carácter potestativo, es gratuito para los recurrentes y puede interponerse ante el Tribunal Catalán de Contratos del Sector Público, previa o alternativamente, a la interposición del recurso contencioso administrativo, de conformidad con la Ley 29/1998, de 13 de julio, regulador a de la jurisdicción contencioso-administrativa."
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 302237121,
+              "titol": "CN1072164.pdf",
+              "path": "SDC9YoSj7riVlAQVvJOosCVtnGEzjpzRDrIk1mtxvsN8VfaesCDlQTYrOan-gczkwf5DAKnEF26NHa3S1vPN9i3Sca2b2wnqaZhkjIVAjSIj1qKESKkmwTVJluWjVDirbUDQHN6My8k5pwFkgyhHa2wZ6v6fuNTION2NvJsoQ2qdDXWDphym7olHQMpXdFBrR4UNZBeTp4vlMemTjdrfpt93IqnFgeVz-fud9VSCD-EWGAJPeVkbRlNOFMFtk48FQJUNmgtwWI2kCLvhaPfPTB68nMvu9sPHxWi7k0ZIV7QvFqpeqOh3PSxWdnKmwMgekuPXdMtzqektatSfs6AxpQ==",
+              "hash": "FBBB72A56C17281225484BB700211F29",
+              "idioma": "ca",
+              "mida": 416293
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2025-11-30T23:00:00.000Z",
+        "fiTerminiExecucio": "2028-06-29T22:00:00.000Z",
+        "observacionsTermini": {},
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "paisOrigenProducte": {
+          "id": 65,
+          "ca": "Espanya",
+          "es": "España",
+          "en": "Spain"
+        },
+        "estudisDictamens": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "canonExplotacio": {}
+      },
+      {
+        "numeroLot": "6",
+        "lotId": 5,
+        "descripcio": {
+          "ca": "Edificis judicials Girona",
+          "es": "Edificis judicials Girona"
+        },
+        "pressupostLicitacio": 3091271.76,
+        "publicacioExpedientId": 300768299,
+        "titol": "Edificis judicials Girona",
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "dataAdjudicacio": "2025-10-15T16:00:00.000Z",
+        "dataFormalitzacio": "2025-11-23T23:00:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {},
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473054307"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473054732"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0.0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 18,
+        "ofertesRebudesEconomics": 5,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 18,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "OHL SERVICIOS INGESAN, S.A.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A27178789",
+            "telefon": "932246548",
+            "email": "antonio.marin@ingesan.es",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 749,
+                "ca": "No PIME",
+                "en": "No SME",
+                "oc": "Non PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the previous options",
+                "oc": "Cap des anteriores"
+              }
+            ],
+            "importAdjudicacioSenseIva": 2573810.83,
+            "importAdjudicacioAmbIva": 3114311.1,
+            "iva": 21,
+            "varisTipusIva": false,
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1001002,
+              "ca": "Cornellà de Llobregat"
+            },
+            "informacioUte": [],
+            "plurianualitats": [
+              {
+                "anyAdjudicacio": "2025",
+                "importAdjudicacio": 643452.7
+              },
+              {
+                "anyAdjudicacio": "2026",
+                "importAdjudicacio": 643452.7
+              },
+              {
+                "anyAdjudicacio": "2027",
+                "importAdjudicacio": 643452.7
+              },
+              {
+                "anyAdjudicacio": "2028",
+                "importAdjudicacio": 643452.7
+              }
+            ],
+            "codiPostal": "08005"
+          }
+        ],
+        "subcontractacio": false,
+        "subcontractacions": [],
+        "metodeUtilitzatCalculValorEstimat": {},
+        "peuDeRecurs": {
+          "ca": "Contra aquest acord es pot interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n\nAquest recurs té caràcter potestatiu, és gratuït per als recurrents i es pot interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, regulador a de la jurisdicció contenciosa administrativa.\n",
+          "es": "Contra este acuerdo se puede interponer recurso especial en materia de contratación, de conformidad con lo que establece el artículo 44 y siguientes de la LCSP y el Decreto 221/2013, de 3 de septiembre, por el que se regula el Tribunal Catalán de Contratos del Sector Público y se aprueba su organización y funcionamiento.\n\nEste recurso tiene carácter potestativo, es gratuito para los recurrentes y puede interponerse ante el Tribunal Catalán de Contratos del Sector Público, previa o alternativamente, a la interposición del recurso contencioso administrativo, de conformidad con la Ley 29/1998, de 13 de julio, regulador a de la jurisdicción contencioso-administrativa."
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 302237153,
+              "titol": "CN1072146.pdf",
+              "path": "cqe5XvJOnh-tN68EBFnBlMSXWVhOEN9WfOxNvQMa-OTCZ9CUUFMMA5D10nL9hxPQmjgIqIK7XLMIEZQzOUALywuhMoz95goua7b4wbCQv2fZcIAzcMH_1pKIDx3MjT_fgXhRHKiQtEV0qor0fBCW_kRvUlC9NeqVDTgqQXkiLCWSmvVa4zeg-2fCroPbEnZyQWSCV8PjX16qEWj0Mcx43hZt4UQiIiLXe_ZQ0EJtPDgqh39jGxUVMy0a-oW6zA8aDIxtAJG4GT7Q4V9o7lDc_C0KR3nImixOCDx1tsPRlui97DAgIuMmpaRU55Fj-lo57ytkQ8y7O5nHiWtFkGqFCw==",
+              "hash": "55A6B41E7DA1487B1B48C5E8E5BC05F0",
+              "idioma": "ca",
+              "mida": 436664
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2025-11-30T23:00:00.000Z",
+        "fiTerminiExecucio": "2028-06-29T22:00:00.000Z",
+        "observacionsTermini": {},
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "paisOrigenProducte": {
+          "id": 65,
+          "ca": "Espanya",
+          "es": "España",
+          "en": "Spain"
+        },
+        "estudisDictamens": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "canonExplotacio": {}
+      },
+      {
+        "numeroLot": "7",
+        "lotId": 6,
+        "descripcio": {
+          "ca": "Centres penitenciaris i Centres educatius juvenils Barcelona ",
+          "es": "Centres penitenciaris i Centres educatius juvenils"
+        },
+        "pressupostLicitacio": 3754547.63,
+        "publicacioExpedientId": 300768299,
+        "titol": "Centres penitenciaris i Centres educatius juvenils",
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "dataAdjudicacio": "2026-03-22T23:00:00.000Z",
+        "dataFormalitzacio": "2026-04-27T22:00:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {},
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473058204"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473058621"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0.0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 18,
+        "ofertesRebudesEconomics": 5,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 18,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "Serveis Integrals de Manteniment RUBATEC, S.A.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A60744216",
+            "telefon": "932259460",
+            "email": "pfrontera@rubatec.cat",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 749,
+                "ca": "No PIME",
+                "en": "No SME",
+                "oc": "Non PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the previous options",
+                "oc": "Cap des anteriores"
+              }
+            ],
+            "importAdjudicacioSenseIva": 3423168.37,
+            "importAdjudicacioAmbIva": 4142033.73,
+            "iva": 21,
+            "varisTipusIva": false,
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1000948,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "informacioUte": [],
+            "plurianualitats": [
+              {
+                "anyAdjudicacio": "2026",
+                "importAdjudicacio": 1141056.12
+              },
+              {
+                "anyAdjudicacio": "2027",
+                "importAdjudicacio": 1141056.12
+              },
+              {
+                "anyAdjudicacio": "2028",
+                "importAdjudicacio": 1141056.12
+              }
+            ],
+            "codiPostal": "08005"
+          }
+        ],
+        "subcontractacio": false,
+        "subcontractacions": [],
+        "metodeUtilitzatCalculValorEstimat": {},
+        "peuDeRecurs": {
+          "ca": "Els actes que es dictin en el present procediment de licitació podran interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n \nAquest recurs té caràcter potestatiu, és gratuït per als recurrents, es podrà interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, reguladora de la jurisdicció contenciosa administrativa.",
+          "es": "Los actos que se dicten en el presente procedimiento de licitación podrán interponer recurso especial en materia de contratación, de conformidad con lo que establece el artículo 44 y siguientes de la LCSP y el Decreto 221/2013, de 3 de septiembre, por el que se regula el Tribunal Catalán de Contratos del Sector Público y se aprueba su organización y funcionamiento.\n\nEste recurso tiene carácter potestativo, es gratuito para los recurrentes, podrá interponerse ante el Tribunal Catalán de Contratos del Sector Público, previa o alternativamente, a la interposición del recurso contencioso administrativo, de conformidad con la Ley 29/1998, de 13 de julio, reguladora de la jurisdicción contencioso-administrativa."
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 302237364,
+              "titol": "CN1072848.pdf",
+              "path": "mvdrbg2G8corfWrX14GgNGgc4mozV4NTxe9x1_Eejl7slmvzY4rSum_fgK1cXJ_qFbwNAIhNGC7uhb-i9bpnafkU057taNulnl3tL1hYlPe6q8ze_-Wi3L-tc9uGvRxu1R7Mwi-0jyDWZ17RxCjHHSCUT7IOl-Oo8tk1ObIPIpKBWEAupEO7dkmtQgm4LAWer1yftqeBTNpCywQvMdITOZIJHD4DZAkmvQ7Mqu9UCuoVGNqxw5_NdZpK4vYWMRbSmMqyTdWWp0PwW-v3KQK95DyjTlX1d82tMRT1Cg3ydIwN7vc6wi9XSK22GDFMG90o3YrsFXPoeVv0bzvthXU1Og==",
+              "hash": "2702E062ED79682A93F7DD75FAF662FF",
+              "idioma": "ca",
+              "mida": 419199
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2026-04-22T22:00:00.000Z",
+        "fiTerminiExecucio": "2028-08-21T22:00:00.000Z",
+        "observacionsTermini": {
+          "ca": "El termini quedarà definitivament fixat un cop formalitzat el contracte, finalitzant, en tot cas, el 30 de juny de 2028.",
+          "es": "El plazo quedará definitivamente fijado una vez formalizado el contrato, finalizando, en todo caso, el 30 de junio de 2028."
+        },
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "paisOrigenProducte": {
+          "id": 65,
+          "ca": "Espanya",
+          "es": "España",
+          "en": "Spain"
+        },
+        "estudisDictamens": true,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "canonExplotacio": {}
+      },
+      {
+        "numeroLot": "8",
+        "lotId": 7,
+        "descripcio": {
+          "ca": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+          "es": "Centres penitenciaris i Centres educatius juvenils"
+        },
+        "pressupostLicitacio": 5535717.94,
+        "publicacioExpedientId": 300768299,
+        "titol": "Centres penitenciaris i Centres educatius juvenils",
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "dataAdjudicacio": "2025-10-15T15:00:00.000Z",
+        "dataFormalitzacio": "2025-11-23T23:00:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {},
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473061670"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473062087"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0.0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 18,
+        "ofertesRebudesEconomics": 5,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 18,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "Eulen, S.A.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A28517308",
+            "telefon": "933050455",
+            "email": "cobrosclientes@eulen.com",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 749,
+                "ca": "No PIME",
+                "en": "No SME",
+                "oc": "Non PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the previous options",
+                "oc": "Cap des anteriores"
+              }
+            ],
+            "importAdjudicacioSenseIva": 4845595.77,
+            "importAdjudicacioAmbIva": 5863170.88,
+            "iva": 21,
+            "varisTipusIva": false,
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1000948,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "informacioUte": [],
+            "plurianualitats": [
+              {
+                "anyAdjudicacio": "2025",
+                "importAdjudicacio": 1211398.94
+              },
+              {
+                "anyAdjudicacio": "2026",
+                "importAdjudicacio": 1211398.94
+              },
+              {
+                "anyAdjudicacio": "2027",
+                "importAdjudicacio": 1211398.94
+              },
+              {
+                "anyAdjudicacio": "2028",
+                "importAdjudicacio": 1211398.94
+              }
+            ],
+            "codiPostal": "08038"
+          }
+        ],
+        "subcontractacio": false,
+        "subcontractacions": [],
+        "metodeUtilitzatCalculValorEstimat": {},
+        "peuDeRecurs": {
+          "ca": "Contra aquest acord es pot interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n\nAquest recurs té caràcter potestatiu, és gratuït per als recurrents i es pot interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, regulador a de la jurisdicció contenciosa administrativa.\n",
+          "es": "Contra este acuerdo se puede interponer recurso especial en materia de contratación, de conformidad con lo que establece el artículo 44 y siguientes de la LCSP y el Decreto 221/2013, de 3 de septiembre, por el que se regula el Tribunal Catalán de Contratos del Sector Público y se aprueba su organización y funcionamiento.\n\nEste recurso tiene carácter potestativo, es gratuito para los recurrentes y puede interponerse ante el Tribunal Catalán de Contratos del Sector Público, previa o alternativamente, a la interposición del recurso contencioso administrativo, de conformidad con la Ley 29/1998, de 13 de julio, regulador a de la jurisdicción contencioso-administrativa."
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 302237394,
+              "titol": "CN1072147.pdf",
+              "path": "hFzMUwKMSxvUyTPLwKwrPMvJwh2MBwGoG7YjzZeROpR9T5oF630m78cdUU1SjflNRpqcW_L_X04JWtYeUQRA7fV4nvBpQml6gEuNR4Ut4iQMhpdOtSb9N2yL05OHjtMF-FYxT6Drulfh-Rj6tU2rxeA4GZRxAGYnU6KATQKjSthxw3Y0huntHZJOIS9wr1HnGPmREQSPYlrLqUBX8ZNHW80COLfJZSAiVZPsxG1VKAXzU3kGEhqsB6lHKrFGebiGrO-ZQ_pNHhzZvgwQz2Lycom0gxqXXqBsdtHQmjiK3O8GoF1LGPnCGuGDLvjBIZvn4r2NBuG-Pfz4vVjwJillCQ==",
+              "hash": "6B8B4DFB1DFEAA0184CCB228413A02C9",
+              "idioma": "ca",
+              "mida": 417402
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2025-11-30T23:00:00.000Z",
+        "fiTerminiExecucio": "2028-06-29T22:00:00.000Z",
+        "observacionsTermini": {},
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "paisOrigenProducte": {
+          "id": 65,
+          "ca": "Espanya",
+          "es": "España",
+          "en": "Spain"
+        },
+        "estudisDictamens": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "canonExplotacio": {}
+      },
+      {
+        "numeroLot": "9",
+        "lotId": 8,
+        "descripcio": {
+          "ca": "Centre penitenciari Brians 1",
+          "es": "Centre penitenciari Brians 1"
+        },
+        "pressupostLicitacio": 3916206.83,
+        "publicacioExpedientId": 300768299,
+        "titol": "Centre penitenciari Brians 1",
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "dataAdjudicacio": "2025-10-15T15:00:00.000Z",
+        "dataFormalitzacio": "2025-11-23T23:00:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {},
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473064981"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473065414"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0.0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 18,
+        "ofertesRebudesEconomics": 5,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 18,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "URBIA INTERMEDIACIÓN INGENIERIA Y SERVICIOS, S.A.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A07077969",
+            "telefon": "971294608",
+            "email": "estudios@urbiaservices.com",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 748,
+                "ca": "PIME",
+                "en": "SME",
+                "oc": "PIME"
+              },
+              {
+                "id": 1008410,
+                "ca": "Altres"
+              }
+            ],
+            "importAdjudicacioSenseIva": 3521574.16,
+            "importAdjudicacioAmbIva": 4261104.73,
+            "iva": 21,
+            "varisTipusIva": false,
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 1600861,
+              "ca": "Mallorca",
+              "es": "Mallorca"
+            },
+            "municipi": {
+              "id": 1001086,
+              "ca": "Palma"
+            },
+            "informacioUte": [],
+            "plurianualitats": [
+              {
+                "anyAdjudicacio": "2025",
+                "importAdjudicacio": 880393.54
+              },
+              {
+                "anyAdjudicacio": "2026",
+                "importAdjudicacio": 880393.54
+              },
+              {
+                "anyAdjudicacio": "2027",
+                "importAdjudicacio": 880393.54
+              },
+              {
+                "anyAdjudicacio": "2028",
+                "importAdjudicacio": 880393.54
+              }
+            ],
+            "codiPostal": "07011"
+          }
+        ],
+        "subcontractacio": false,
+        "subcontractacions": [],
+        "metodeUtilitzatCalculValorEstimat": {},
+        "peuDeRecurs": {
+          "ca": "Contra aquest acord es pot interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n\nAquest recurs té caràcter potestatiu, és gratuït per als recurrents i es pot interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, regulador a de la jurisdicció contenciosa administrativa.\n",
+          "es": "Contra este acuerdo se puede interponer recurso especial en materia de contratación, de conformidad con lo que establece el artículo 44 y siguientes de la LCSP y el Decreto 221/2013, de 3 de septiembre, por el que se regula el Tribunal Catalán de Contratos del Sector Público y se aprueba su organización y funcionamiento.\n\nEste recurso tiene carácter potestativo, es gratuito para los recurrentes y puede interponerse ante el Tribunal Catalán de Contratos del Sector Público, previa o alternativamente, a la interposición del recurso contencioso administrativo, de conformidad con la Ley 29/1998, de 13 de julio, regulador a de la jurisdicción contencioso-administrativa."
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 302237428,
+              "titol": "CN1072148.pdf",
+              "path": "qzTKpQWViwe_ONE4XiX8TZXG4kVnczH09MRxjxSbhe9IqpsvSYMYvRw3y_rFuU3YA_u35I7uynooxq8-YR62ahVvbwuLU6DcZ4ZV4uXO9h1AmAp4WcUpgsRaw5PoS9dxeFEGJ_KcX_5ATGfGTZhSEHHJ4KLAGO9FZQj9EDf4qIiEZ46kT5qDNeJCCofLvjLrqnRZhWBOc7VskzdcERo9KA3wIYXXsQ3Fj5P3Apu0AbmtHq26Wchn37Z343HxUOadBjd3crJd1UNRTvZHlHQBf4hyE9rvCJpD2tbToU8MZUh50WLZgf-3R70JQOxqdVlnehG8g55QeUYya9KU8YF2ww==",
+              "hash": "75BCE533141261C36747065E2141A496",
+              "idioma": "ca",
+              "mida": 417276
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2025-11-30T23:00:00.000Z",
+        "fiTerminiExecucio": "2028-06-29T22:00:00.000Z",
+        "observacionsTermini": {},
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "paisOrigenProducte": {
+          "id": 65,
+          "ca": "Espanya",
+          "es": "España",
+          "en": "Spain"
+        },
+        "estudisDictamens": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "canonExplotacio": {}
+      },
+      {
+        "numeroLot": "10",
+        "lotId": 9,
+        "descripcio": {
+          "ca": "Centre penitenciari Brians 2",
+          "es": "Centre penitenciari Brians 2"
+        },
+        "pressupostLicitacio": 4899681.06,
+        "publicacioExpedientId": 300768299,
+        "titol": "Centre penitenciari Brians 2",
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "dataAdjudicacio": "2025-10-15T15:00:00.000Z",
+        "dataFormalitzacio": "2025-11-23T23:00:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {},
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473068924"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473069401"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0.0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 18,
+        "ofertesRebudesEconomics": 5,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 18,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "URBIA INTERMEDIACIÓN INGENIERIA Y SERVICIOS, S.A.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A07077969",
+            "telefon": "971294608",
+            "email": "estudios@urbiaservices.com",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 748,
+                "ca": "PIME",
+                "en": "SME",
+                "oc": "PIME"
+              },
+              {
+                "id": 1008410,
+                "ca": "Altres"
+              }
+            ],
+            "importAdjudicacioSenseIva": 4481305.18,
+            "importAdjudicacioAmbIva": 5422379.26,
+            "iva": 21,
+            "varisTipusIva": false,
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 1600861,
+              "ca": "Mallorca",
+              "es": "Mallorca"
+            },
+            "municipi": {
+              "id": 1001086,
+              "ca": "Palma"
+            },
+            "informacioUte": [],
+            "plurianualitats": [
+              {
+                "anyAdjudicacio": "2025",
+                "importAdjudicacio": 1120326.29
+              },
+              {
+                "anyAdjudicacio": "2026",
+                "importAdjudicacio": 1120326.29
+              },
+              {
+                "anyAdjudicacio": "2027",
+                "importAdjudicacio": 1120326.29
+              },
+              {
+                "anyAdjudicacio": "2028",
+                "importAdjudicacio": 1120326.29
+              }
+            ],
+            "codiPostal": "07011"
+          }
+        ],
+        "subcontractacio": false,
+        "subcontractacions": [],
+        "metodeUtilitzatCalculValorEstimat": {},
+        "peuDeRecurs": {
+          "ca": "Contra aquest acord es pot interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n\nAquest recurs té caràcter potestatiu, és gratuït per als recurrents i es pot interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, regulador a de la jurisdicció contenciosa administrativa.\n",
+          "es": "Contra este acuerdo se puede interponer recurso especial en materia de contratación, de conformidad con lo que establece el artículo 44 y siguientes de la LCSP y el Decreto 221/2013, de 3 de septiembre, por el que se regula el Tribunal Catalán de Contratos del Sector Público y se aprueba su organización y funcionamiento.\n\nEste recurso tiene carácter potestativo, es gratuito para los recurrentes y puede interponerse ante el Tribunal Catalán de Contratos del Sector Público, previa o alternativamente, a la interposición del recurso contencioso administrativo, de conformidad con la Ley 29/1998, de 13 de julio, regulador a de la jurisdicción contencioso-administrativa."
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 302237505,
+              "titol": "CN1072149.pdf",
+              "path": "TBThFUHDUbqPbYOWEYVjPZ2CFWx5xS2Bd1sD4l7OmczNuBBCDfrv3AQ7O4JPMAsYUTKE31nUqh8ICRqyJYHfUKO8fmuJuuKLrV7jjKu_OsfRqR3cEC7_etm_hmyGOB-iKqJCVVeTs4BoYzJ3veESHKvfA0P1drZ5Vc96-lZ4KVeMu4hJyoUyTuNeTXDKFSDlrtdzh5hIyJq5da_V7HWvrct2rbx5oTm0CHkJmxtV669OuA9S2saSAfs5LcV4GjF_WR6APTBnEKW4PdFzSAaDnQlON4nZgp4j5be_gdbKwB5MEJ1qYlRZu8sgraMvesRzlCHQUyR4XhsG4cV0XeMBgQ==",
+              "hash": "9D3BDE522ADEEBFE1838F7A924FAFF5E",
+              "idioma": "ca",
+              "mida": 417073
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2025-11-30T23:00:00.000Z",
+        "fiTerminiExecucio": "2028-06-29T22:00:00.000Z",
+        "observacionsTermini": {},
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "paisOrigenProducte": {
+          "id": 65,
+          "ca": "Espanya",
+          "es": "España",
+          "en": "Spain"
+        },
+        "estudisDictamens": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "canonExplotacio": {}
+      },
+      {
+        "numeroLot": "11",
+        "lotId": 10,
+        "descripcio": {
+          "ca": "Centres penitenciaris i Centres educatius juvenils Lleida",
+          "es": "Centres penitenciaris i Centres educatius juvenils"
+        },
+        "pressupostLicitacio": 2540887.71,
+        "publicacioExpedientId": 300768299,
+        "titol": "Centres penitenciaris i Centres educatius juvenils",
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "dataAdjudicacio": "2025-10-20T16:30:00.000Z",
+        "dataFormalitzacio": "2025-11-26T23:00:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {},
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473072328"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473072747"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0.0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 18,
+        "ofertesRebudesEconomics": 5,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 18,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "MH INDUSTRIAS, S.L.U",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "B64570567",
+            "telefon": "935809080",
+            "email": "info@mhindustrias.com",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 748,
+                "ca": "PIME",
+                "en": "SME",
+                "oc": "PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the previous options",
+                "oc": "Cap des anteriores"
+              }
+            ],
+            "importAdjudicacioSenseIva": 2242926.62,
+            "importAdjudicacioAmbIva": 2713941.21,
+            "iva": 21,
+            "varisTipusIva": false,
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1001193,
+              "ca": "Cerdanyola del Vallès"
+            },
+            "informacioUte": [],
+            "plurianualitats": [
+              {
+                "anyAdjudicacio": "2025",
+                "importAdjudicacio": 560731.65
+              },
+              {
+                "anyAdjudicacio": "2026",
+                "importAdjudicacio": 560731.65
+              },
+              {
+                "anyAdjudicacio": "2027",
+                "importAdjudicacio": 560731.65
+              },
+              {
+                "anyAdjudicacio": "2028",
+                "importAdjudicacio": 560731.65
+              }
+            ],
+            "codiPostal": "08290"
+          }
+        ],
+        "subcontractacio": false,
+        "subcontractacions": [],
+        "metodeUtilitzatCalculValorEstimat": {},
+        "peuDeRecurs": {
+          "ca": "Contra aquest acord es pot interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n\nAquest recurs té caràcter potestatiu, és gratuït per als recurrents i es pot interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, regulador a de la jurisdicció contenciosa administrativa.",
+          "es": "Contra este acuerdo se puede interponer recurso especial en materia de contratación, de conformidad con lo que establece el artículo 44 y siguientes de la LCSP y el Decreto 221/2013, de 3 de septiembre, por el que se regula el Tribunal Catalán de Contratos del Sector Público y se aprueba su organización y funcionamiento.\n\nEste recurso tiene carácter potestativo, es gratuito para los recurrentes y puede interponerse ante el Tribunal Catalán de Contratos del Sector Público, previa o alternativamente, a la interposición del recurso contencioso administrativo, de conformidad con la Ley 29/1998, de 13 de julio, regulador a de la jurisdicción contencioso-administrativa."
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 302237553,
+              "titol": "CN1072165.pdf",
+              "path": "EtbKi4MD9OjDSFoHC1SQEOioSN23DBSSswXk_d06U9QC31fKaDOX2DMuu4DEaXGFJBWdmJotU7yCABhgHrBq2cMymtWfmJ2wBoTahWUdQ-ZbQ9iXjPxW6NGMoGOMfHHcQ0vpQdkkyJ01YSV2QOLSc8OcG9KvNsI_Kt_sos8mTZgOobeRIQ0SPAWPZXfNLwCeiIdfFaygNE4o_nFcFQCFxs0VHpLAkoocPFEWhGchUuug9MnS8DrBV6CV5hIT7glrqKXa1xbvzZVSPM3gaTTuvFDExLAS-VWy38wDSC32F_H7xFjoS8UM6R7QG0RYUHwwZqgdZFKsc5DwPaYzJz9vbw==",
+              "hash": "33E529B5BD583D0748B808D0C4FBE0F4",
+              "idioma": "ca",
+              "mida": 436391
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2025-11-30T23:00:00.000Z",
+        "fiTerminiExecucio": "2028-06-29T22:00:00.000Z",
+        "observacionsTermini": {},
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "paisOrigenProducte": {
+          "id": 65,
+          "ca": "Espanya",
+          "es": "España",
+          "en": "Spain"
+        },
+        "estudisDictamens": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "canonExplotacio": {}
+      },
+      {
+        "numeroLot": "12",
+        "lotId": 11,
+        "descripcio": {
+          "ca": "Centres penitenciaris i Centres educatius juvenils Girona",
+          "es": "Centres penitenciaris i Centres educatius juvenils"
+        },
+        "pressupostLicitacio": 1263127.87,
+        "publicacioExpedientId": 300768299,
+        "titol": "Centres penitenciaris i Centres educatius juvenils",
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "dataAdjudicacio": "2025-10-15T15:00:00.000Z",
+        "dataFormalitzacio": "2025-11-18T23:00:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {},
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473075497"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473075998"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0.0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 18,
+        "ofertesRebudesEconomics": 5,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 18,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "SERVEO",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A80241789",
+            "telefon": "608885189",
+            "email": "dpiernas@serveo.com",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 749,
+                "ca": "No PIME",
+                "en": "No SME",
+                "oc": "Non PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the previous options",
+                "oc": "Cap des anteriores"
+              }
+            ],
+            "importAdjudicacioSenseIva": 1079762.76,
+            "importAdjudicacioAmbIva": 1306512.94,
+            "iva": 21,
+            "varisTipusIva": false,
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 323,
+              "ca": "Madrid",
+              "es": "Madrid"
+            },
+            "municipi": {
+              "id": 1004416,
+              "ca": "Madrid"
+            },
+            "informacioUte": [],
+            "plurianualitats": [
+              {
+                "anyAdjudicacio": "2025",
+                "importAdjudicacio": 269940.69
+              },
+              {
+                "anyAdjudicacio": "2026",
+                "importAdjudicacio": 269940.69
+              },
+              {
+                "anyAdjudicacio": "2027",
+                "importAdjudicacio": 269940.69
+              },
+              {
+                "anyAdjudicacio": "2028",
+                "importAdjudicacio": 269940.69
+              }
+            ],
+            "codiPostal": "28050"
+          }
+        ],
+        "subcontractacio": false,
+        "subcontractacions": [],
+        "metodeUtilitzatCalculValorEstimat": {},
+        "peuDeRecurs": {
+          "ca": "Contra aquest acord es pot interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n\nAquest recurs té caràcter potestatiu, és gratuït per als recurrents i es pot interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, regulador a de la jurisdicció contenciosa administrativa.\n",
+          "es": "Contra este acuerdo se puede interponer recurso especial en materia de contratación, de conformidad con lo que establece el artículo 44 y siguientes de la LCSP y el Decreto 221/2013, de 3 de septiembre, por el que se regula el Tribunal Catalán de Contratos del Sector Público y se aprueba su organización y funcionamiento.\n\nEste recurso tiene carácter potestativo, es gratuito para los recurrentes y puede interponerse ante el Tribunal Catalán de Contratos del Sector Público, previa o alternativamente, a la interposición del recurso contencioso administrativo, de conformidad con la Ley 29/1998, de 13 de julio, regulador a de la jurisdicción contencioso-administrativa."
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 302237605,
+              "titol": "CN1072150.pdf",
+              "path": "S69C_O_ACaOpOnOVtYl0U9yxvY6OyHIPPz1M2CxOiGrg22OSGk3PMTACEb7LkW5O_HRn83TqTbu4KbRM2vYy-wffMg0HAYVTL1QXJjMFlC7Cm0TZr4k2jKvDYuiomG16Sjin9bAULJfI9FCpgvzUtEsvaLlyo5xSKmicmv8gZTgFo9vImALN-xEApby3mm5zSvLPrLkcxZJkxnSBUilCZ7qO4DWGNENMJgdRuZlqc2FAOZusxEyh6NvcTL4Nqve70eTM-NaqunzQVf6hngB-2RmWSK4xMBYBLZAdJGquVZQKPHSNUXqQnv3m3iLazwXzrBTuN4UPAlGPDuYdumnbyw==",
+              "hash": "E421E81A6F2FA892BD3B7CEC538CA0F1",
+              "idioma": "ca",
+              "mida": 414643
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2025-11-30T23:00:00.000Z",
+        "fiTerminiExecucio": "2028-06-29T22:00:00.000Z",
+        "observacionsTermini": {},
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "paisOrigenProducte": {
+          "id": 65,
+          "ca": "Espanya",
+          "es": "España",
+          "en": "Spain"
+        },
+        "estudisDictamens": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "canonExplotacio": {}
+      },
+      {
+        "numeroLot": "13",
+        "lotId": 12,
+        "descripcio": {
+          "ca": "Centres penitenciaris Tarragona",
+          "es": "Centres penitenciaris Tarragona"
+        },
+        "pressupostLicitacio": 1042043.35,
+        "publicacioExpedientId": 300768299,
+        "titol": "Centres penitenciaris Tarragona",
+        "cpvPrincipal": {
+          "codi": "50700000-2",
+          "ca": "Serveis de reparació i manteniment d'instal·lacions d'edificis",
+          "es": "Servicios de reparación y mantenimiento de equipos de edificios",
+          "en": "Repair and maintenance services of building installations",
+          "oc": "Servicis d'apariament e mantenença d'installacions de bastisses"
+        },
+        "cpvsSecundaris": [],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "dataAdjudicacio": "2025-10-15T15:00:00.000Z",
+        "dataFormalitzacio": "2025-11-25T23:00:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {},
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 47.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 47.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473079227"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 53.0,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 53.0,
+                "descripcioCriteri": {},
+                "identificador": "666703473079655"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0.0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 18,
+        "ofertesRebudesEconomics": 5,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 18,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "COMSA Service Facility Management, S.A.U.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A60470127",
+            "telefon": "934809150",
+            "email": "luisalvarez@comsa.com",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 749,
+                "ca": "No PIME",
+                "en": "No SME",
+                "oc": "Non PIME"
+              },
+              {
+                "id": 1008410,
+                "ca": "Altres"
+              }
+            ],
+            "importAdjudicacioSenseIva": 894739.25,
+            "importAdjudicacioAmbIva": 1082634.49,
+            "iva": 21,
+            "varisTipusIva": false,
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1001002,
+              "ca": "Cornellà de Llobregat"
+            },
+            "informacioUte": [],
+            "plurianualitats": [
+              {
+                "anyAdjudicacio": "2025",
+                "importAdjudicacio": 223684.81
+              },
+              {
+                "anyAdjudicacio": "2026",
+                "importAdjudicacio": 223684.81
+              },
+              {
+                "anyAdjudicacio": "2027",
+                "importAdjudicacio": 223684.81
+              },
+              {
+                "anyAdjudicacio": "2028",
+                "importAdjudicacio": 223684.81
+              }
+            ],
+            "codiPostal": "08940"
+          }
+        ],
+        "subcontractacio": false,
+        "subcontractacions": [],
+        "metodeUtilitzatCalculValorEstimat": {},
+        "peuDeRecurs": {
+          "ca": "Contra aquest acord es pot interposar recurs especial en matèria de contractació, de conformitat amb allò que estableix l’article 44 i següents de la LCSP i el Decret 221/2013, de 3 de setembre, pel qual es regula el Tribunal Català de Contractes del Sector Públic i s’aprova la seva organització i el seu funcionament.\n\nAquest recurs té caràcter potestatiu, és gratuït per als recurrents i es pot interposar davant el Tribunal Català de Contractes del Sector Públic, prèviament o alternativament, a la interposició del recurs contenciós administratiu, de conformitat amb la Llei 29/1998, de 13 de juliol, regulador a de la jurisdicció contenciosa administrativa.\n",
+          "es": "Contra este acuerdo se puede interponer recurso especial en materia de contratación, de conformidad con lo que establece el artículo 44 y siguientes de la LCSP y el Decreto 221/2013, de 3 de septiembre, por el que se regula el Tribunal Catalán de Contratos del Sector Público y se aprueba su organización y funcionamiento.\n\nEste recurso tiene carácter potestativo, es gratuito para los recurrentes y puede interponerse ante el Tribunal Catalán de Contratos del Sector Público, previa o alternativamente, a la interposición del recurso contencioso administrativo, de conformidad con la Ley 29/1998, de 13 de julio, regulador a de la jurisdicción contencioso-administrativa."
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 302237623,
+              "titol": "CN1072151.pdf",
+              "path": "oibsBkzdj3RT_A56NdHGxoxmxlOl4wqc950hQlS32CHsh5MLU6Pv1RcOdvY8rB2xaAqoTh4-q-t7jUAMGG9VbyWK10D9BUCTVfKWpyx2KshJcUMTXGAAtVfsTCGEsCFQUByCdx7Yz-5cvyqoRarlnfySSR3PhgYHyA8hfRKN6kiG1L_1Ay-s9HSW9gWmPya9bNOIO6yLvBXWmtDUNI0Qjsj5iXamG0DbwGhKQIZzBOpYmij0odUAlG1mr9xQtLjD0Sap2Qg-hue1IVsR0hY9RRd_KIbKIBhHsLsn4LdiHAms9VdNUSPHkpvPv03lex4D8q94I5V9pjH5T8a-B8JrMA==",
+              "hash": "654679521CDB3C9F363BCD2D52E8C1DF",
+              "idioma": "ca",
+              "mida": 417050
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2025-11-30T23:00:00.000Z",
+        "fiTerminiExecucio": "2028-06-29T22:00:00.000Z",
+        "observacionsTermini": {},
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "paisOrigenProducte": {
+          "id": 65,
+          "ca": "Espanya",
+          "es": "España",
+          "en": "Spain"
+        },
+        "estudisDictamens": false,
+        "clausulaLinguistica": true,
+        "clausulaEtica": true,
+        "canonExplotacio": {}
+      }
+    ],
+    "dadesExpedient": {
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+      "lleiAssociada": "Llei 2017/2019",
+      "esPublicacioAntiga": false,
+      "tipusOfertaElectronica": 413,
+      "denominacioExpedientReferencia": {},
+      "esReduit": false
+    },
+    "publicacionsOficials": [
+      {
+        "tipus": {
+          "id": 35002,
+          "ca": "DOUE",
+          "en": "OJEU",
+          "oc": "DOUE"
+        },
+        "url": "https://ted.europa.eu/en/notice/-/detail/319717-2026",
+        "dataPublicacio": "2026-05-10T22:00:00.000Z",
+        "dataTramesaTED": "2026-05-08T12:43:08.000Z",
+        "procedureId": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+        "noticeId": "e4e6db32-1c97-43cf-bbfa-a1db787297fc"
+      }
+    ],
+    "motiuEsmena": {}
+  },
+  "pathPdf": "Gg3IPlOfNuTWDFPenrD5LYHSrKvMvGiMGWOt-iSHYQngYgOUzG1pRQ5GLrccvVlJLpofZvURTJsh2VVmrpElQTCc-Fp_I92Mu9riPmJ6y49Vggr8UZs3lsxd7yt5NaGHMHn2zKAHy1ZSBmwVodAbs3W_uiZ82Mh8N7ttuzJC5vWEe8azZUVv8cYZalZLJaVR83G9kykqCkybQaDlooyo_exMy0nIWiwCfabPS9P2w4mousYhpH2jND8_R3TYe1H-gYqBJI4TEUmuegfY3rCVjkGr9gQIdctzzvZ-ryomep1089cPmtm6KBi-ZJi9GUAfwXvyp0RPPIUssb63PKAUCA==",
+  "pathCertificacio": "nxd0ZeHFTfKiSyWDvza4Tda_4PQp9qIyApJ1DA6y4rVVk6145lc7VqhehXOMdIAFjuaSZqWxhtMMJa39tGHJv3O8h1-rH8GK8WvNERb3Kl2U-Qhi4tWkWoek_tJhDUfW7Vx79NbDluYtJfncfj7MkVmiDkb-Ic_tPDnZvR8vbv1Xw2uiYVbSQ12eMW3gekwUQLdT2Dhh5OfLc4UYo_wmPecvxHzfj-WnpQx7Rz4e9I7b8u01RtzI6pO4e331C97eV9hegJdWFX_mcAr_pScKtTEDh3emunS0MC3GWr_ekp2-cJlj5ZzcBxehT-lYdzt60OqUNrQel1Wkxk_l-38u_A==",
+  "pathJson": "TUZsOaILvCMh7ZbyaSJ1aHXxO11b6KnjsCEfFpouDlH4gPxHPiqwpmMfCr76ZapZnT2pkYN0jLLTp3y7ZNnCm8YMTDbp9Kl5s8wyPnsbOMvi3IVP3Vg3O3A9KM5VD-wP_UrgVBe_38XkyASjdBqSCB55iAj4uaXFWi6b7tJO1LSnPiUBFw8u3rSaHpmCVuZdQhlZWHxi3ys2XGS4yeHkdFOxJgfH_TgQGv8sC3Bk-G93CCgMEhndcaSdiBaI3V9mBEwfE3xqI2gPNxca1RJHUy2SiiUHt5lxMDYtIECGaiktJfe1SFJck_PR-Uuugc_Ig_AKZ_3-XCB1t_rsJAFRDA==",
+  "dataPublicacioReal": "2026-05-11T02:16:25.643Z",
+  "dadesExpedient": {
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": "Català",
+      "es": "Catalan",
+      "en": "Catalan",
+      "oc": "Catalan"
+    },
+    "expedientId": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "lleiAssociada": "Llei 2017/2019",
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 413,
+    "denominacioExpedientReferencia": {},
+    "esReduit": false
+  }
+}

@@ -1,0 +1,466 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "905451/26",
+  "idExpedient": "4b131001-63ad-4eac-a80a-ab91c3a9f366",
+  "dataPublicacioPlanificada": "2026-08-11T07:00:00.000Z",
+  "organ": {
+    "nom": "Àrea Metropolitana de Barcelona",
+    "nif": "P0800258F",
+    "direccioPostal": "Carrer 62 núm. 16-18 - Zona Franca",
+    "localitat": "Barcelona, Barcelona",
+    "codiPostal": "08040",
+    "nuts": "ES511",
+    "web": "https://www.amb.cat",
+    "telefon": "932235151",
+    "fax": "932235131",
+    "email": "contractacio@amb.cat",
+    "personesContacte": [
+      {
+        "nom": "Contractació",
+        "cognom": "ÀMB",
+        "carrec": "Cap de l'Oficina Resp. Unitat enllaç PSCP i Eines Digitals",
+        "telefon": "932235151",
+        "email": "contractacio@amb.cat"
+      }
+    ],
+    "centralCompres": false,
+    "tipusPoderAdjudicador": 1500006,
+    "observacions": {},
+    "horari": {
+      "ca": "Dilluns a divendres de 08:00 a 15:00 h."
+    },
+    "organContractacioId": 28027859,
+    "activitatPrincipalOrgan": {
+      "id": 1051243,
+      "ca": "Serveis de caràcter general",
+      "es": "Servicios de carácter general"
+    }
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000040,
+      "ca": "Anunci de licitació",
+      "es": "Anuncio de licitación",
+      "en": "Tender announcement",
+      "oc": "Anóncia de licitacion"
+    },
+    "expedientId": "4b131001-63ad-4eac-a80a-ab91c3a9f366",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000040,
+        "ca": "Anunci de licitació",
+        "es": "Anuncio de licitación",
+        "en": "Tender announcement",
+        "oc": "Anóncia de licitacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "905451/26",
+      "denominacio": {
+        "ca": "Servei de tractament de la fracció vegetal municipal procedent dels municipis de l’AMB",
+        "es": "Servicios de tratamiento de la fracción vegetal municipal procedente de los municipios del AMB"
+      },
+      "descripcio": {
+        "ca": "Servei de tractament de la fracció vegetal municipal procedent dels municipis de l’AMB",
+        "es": "Servicios de tratamiento de la fracción vegetal municipal procedente de los municipios del AMB"
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "tipusContracte": {
+        "id": 393,
+        "ca": "Serveis",
+        "es": "Servicios",
+        "en": "Services",
+        "oc": "Servicis"
+      },
+      "procedimentAdjudicacio": {
+        "id": 401,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {}
+    },
+    "dadesPublicacio": {
+      "pressupostLicitacio": 949509.1,
+      "observacions": {},
+      "contracteHarmonitzat": true,
+      "dataTerminiPresentacioOSolicitud": "2026-09-14T12:00:00.000Z",
+      "adrecaElectronicaPresentacioOfertes": {},
+      "preveuenModificacionsAlsPlecs": true,
+      "preveuenProrroguesAlsPlecs": true,
+      "informacioComplementariaProrroga": {
+        "ca": "Dues possibles pròrrogues d’un any cadascuna",
+        "es": "Dos posibles prórrogas de un año cada una. "
+      },
+      "informacioComplementariaModificacio": {
+        "ca": "La modificació podrà ser fins a un màxim del 10% del valor inicial del contracte durant la durada inicial d’aquest, i d’un màxim d’un 10% més durant el període de pròrroga, d’acord amb el que estableix l’article 204 de la LCSP.",
+        "es": "La modificación podrá ser hasta un máximo del 10% del valor inicial del contrato durante la duración inicial de este, y de un máximo de un 10% más durante el periodo de prórroga, de acuerdo con el que establece el artículo 204 de la LCSP."
+      },
+      "valorEstimatContracte": 2183870.93,
+      "iva": 10,
+      "varisTipusIva": false,
+      "pressupostBaseLicitacioAmbIva": 1044460.01,
+      "acpAplicable": true,
+      "justificacioProcedimentUtilitzat": {},
+      "plecsDeClausulesAdministratives": {
+        "ca": [
+          {
+            "id": 302448565,
+            "titol": "905451-26 Plec Administratiu.pdf",
+            "path": "cMnn6gcFczc3QEQrWhtrcyAsZqA6Y-TqIAhkHhdhiCE0s9RR1RH_1wHx43UrY9K54SGzcGBhKvgAHh6xXP62RxYwJ6TD_CAr6wqIwMGhfw0dKA7r5cLH2flRSjLM9-aWgWx7ARol4Wy1euOjt75JkY12gzBGXytFAunKZI5qJcwFkRX_o9NUM2sQSjlqLKQbYwFHsS5D5lXlUKVc5BWete0tnRvGzxSFnAMNQ4rqlwBmPeSPax7Gr4cYCAU8XtxolpG2xz9mgK8ZxjhuP36G6-u5cPdngmQTpUHj1flC4mWKU6iQPNXMHDRsdpBURq9NmUbyewIBO7EmC5f8_4BCHQ==",
+            "hash": "BAB2F1E0BDE82DCE3E975F7C2857BD1A",
+            "idioma": "ca",
+            "mida": 1418269
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "plecsDePrescripcionsTecniques": {
+        "ca": [
+          {
+            "id": 302448566,
+            "titol": "905451-26 Plec tècnic.pdf",
+            "path": "FBNsYpXbrrLZ2ZqEyj7uRHZmDa-qMN2l74DTKw0LfoVn294DksaNP-fT4r36aJCtQQpI-JvszWr3itjT6EGDdDl8cu0OtvXG8s8jAOGDm9rBequcchoh2vLsi5zvCSj4qQ-LPG4PUhpeSPq5ijiggt2lzEyflsCMMwS3pnuv3hQvNT1HKUJT0HIPciFsRKsCLc_7VnCxm6pSUWQoE931UAtzEijRYx58WeI29CH4z5aCeqvDmYLtFDVF-P-8Sv4Skon7kg-K7cwTopYxrawm7oZeZtlbmMgJqDFWM5BmFstXlDBGzqqMkQtUgKmV1rwqGG4vk3EbTZFvr6w3RymZPA==",
+            "hash": "FC93F5E7DFD68DA43B394AB9D5EF76BF",
+            "idioma": "ca",
+            "mida": 1207284
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "memoriaJustificativaContracte": {
+        "ca": [
+          {
+            "id": 302448567,
+            "titol": "905451-26 Memòria justificativa i informe de necessitat.pdf",
+            "path": "gqMeJEEvdttWjO3ywEN1BPeN6TKV2gq0S6MnoEuTBokwzJzOTJOl9YbhSo_J7B8lCZAuqLfQjfyr6FSz8c6WjOlZDJ8L_Ub9gGYZrXlHXtrhWD8Yvg5lml0aOeYVgZL6qoHRab5O7ewqdkr3YpAAvAkH0rTnBOwVS1M-GvsKFunQzwphwZ1iLroZVFPGmbqKuvWKJZW-fqHuS0FiLvvrUfwV9oYmLeM4yG4gdOLLFAAAog6YFalIMIR0Y3iwpUMzI1jB-fSW1Btdz8QAUQUzFNp1zGjmpqeiZZFKSrH0TU-pppTO7CbgX7Yho-iZ_KAEPnvMiPfGoEpPSG5lsQqkcw==",
+            "hash": "21FA98819F74861E64F720BA5AEBF4E4",
+            "idioma": "ca",
+            "mida": 903898
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "documentsAprovacio": {
+        "ca": [
+          {
+            "id": 302465020,
+            "titol": "905451-26 Acord licitació.pdf",
+            "path": "QfnaTMpt1LWF6EmiKDTFaKcsBcOa3Xc4sk68p6vG41VsfF2inlhlxMEAxEg7QLxw1_hZpR1QkLm1wYm1SFf-ZuS2iUugztqRB3764jImk6MY3xPIr0H7OEtYTJKNm4gkHYNj9Q0hxU2HeiNyvACVVruX5ZCD3vl05PxJhIXS0YU3kyj-7DA5nlAx8aHDjlKAQpHds1pjcUgqTTRMpzGajHeJLCwQY5XtKfZf1rr_lVr1bDPfVzpbEYYWZXESjpWUlThplACIsHZuf2Moc6P1rHtIi-h1VfmfaQOylW8RZCGU1wdUUnGjCv6pMzA_uhUjGen-CHyPYxxhLfvSTptqEA==",
+            "hash": "A6B8ACD51F1C7124A308216177D74033",
+            "idioma": "ca",
+            "mida": 360997
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "altresDocuments": {
+        "ca": [],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "seleccioLlenguesRedactarOfertes": {
+        "ca": true,
+        "es": true,
+        "en": false,
+        "oc": false
+      },
+      "justificacioNoExistenciaLots": {
+        "id": 1008190,
+        "ca": "Art.99.3 b) El fet que la realització independent de les diverses prestacions compreses en l’objecte el contracte en dificulti l’execució correcta des del punt de vista tècnic; o bé que el risc per a l’execució correcta del contracte procedeixi de la naturalesa del seu objecte, en implicar la necessitat de coordinar l’execució de les diferents prestacions, qüestió que es podria veure impossibilitada per la seva divisió en lots i l’execució per una pluralitat de contractistes diferents. Tots dos aspectes, si s’escau, s’han de justificar degudament en l’expedient",
+        "en": "Art. 99.3.b) The fact that the independent performance of the various services indicated as the purpose of the contract hinders their correct implementation from a technical point of view; or that the risk for the correct implementation of the contract comes from the nature of its purpose, since it involves the need to coordinate the implementation of the various services, an issue that could be made impossible by its division into lots and being undertaken by a plurality of different contractors. Both aspects, if applicable, must be duly justified in the file",
+        "oc": "Art.99.3 b) Er hèt qu'era realizacion independenta des diuèrses prestacions comprenudes en er objècte eth contracte ne dificulte era execucion corrècta dempús deth punt d'enguarda tecnic; o plan qu'eth risc entara execucion corrècta deth contracte provengue dera natura deth sòn objècte, en implicar eth besonh de coordinar era execucion des diferentes prestacions, ahèr que se poirie veir impossibilitada pera sua division en lòts e era execucion per ua pluralitat de contractistes diferenti. Toti dus aspèctes, se s’esquèr, les cau justificar degudaments en expedient"
+      },
+      "utilitzenComandesElectroniques": false,
+      "acceptaFacturacioElectronica": true,
+      "utilitzaPagamentElectronic": false,
+      "acceptaCatalegElectronic": false,
+      "contracteRelacionatFinanciatFonsUnioEuropea": false,
+      "divisioEnLots": {
+        "id": 1008401,
+        "ca": "Sense lots"
+      },
+      "motiuContracteNoInformatLots": {},
+      "contractacioConjunta": false,
+      "peuRecurs": {
+        "ca": "Contra l’anunci de licitació, els plecs i els documents contractuals que estableixen les condicions de la present contractació es podrà interposar potestativament el recurs especial en matèria de contractació previst i regulat a l’article 44 de la Llei 9/2017, de 8 de novembre, de contractes del sector públic per la que es transposen a l’ordenament jurídic espanyol les directives del Parlament Europeu i del Consell 2014/23/UE i 2014/24/UE, previ a la interposició del recurs contenciós administratiu, sense que sigui admissible interposar cap recurs administratiu ordinari. El recurs especial, si s’escau, s’ha d’interposar en un termini màxim de 15 dies hàbils comptadors a partir de l’endemà de la publicació al perfil de contractant.  \nSense necessitat d’interposar recurs especial en matèria de contractació, també es podrà interposar directament recurs contenciós-administratiu davant la Secció Contenciosa Administrativa del Tribunal d’Instància de Barcelona en el termini de 2 mesos comptats des de l’endemà de la publicació al perfil de contractant.\n",
+        "es": "Contra el anuncio de licitación, los pliegos y los documentos contractuales que establecen las condiciones de la presente contratación se podrá interponer potestativamente el recurso especial en materia de contratación previsto y regulado en el artículo 44 de la Ley 9/2017, de 8 de noviembre, de contratos del sector público por la que se trasponen al ordenamiento jurídico español las directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, previo a la interposición del recurso contencioso-administrativo, sin que sea admisible interponer ningún recurso administrativo ordinario. El recurso especial, si se tercia, se tiene que interponer en un plazo máximo de 15 días hábiles contadores a partir del día siguiente a la publicación al perfil de contratante. \nSin necesidad de interponer recurso especial en materia de contratación, también se podrá interponer directamente recurso contencioso-administrativo ante la Sección Contenciosa Administrativa del Tribunal de Instancia de Barcelona en el plazo de 2 meses contados desde el día siguiente a la publicación al perfil de contratante."
+      },
+      "adrecaPresentacioRecurs": {},
+      "elementsCondicionsOfertesIntegradores": {}
+    },
+    "dadesPublicacioLot": [
+      {
+        "ultimaObertura": {
+          "lloc": {},
+          "descripcio": {},
+          "personesAutoritzades": {},
+          "dataOberturaText": {
+            "ca": "A partir de la data de l'obertura del sobre anterior"
+          },
+          "mostrarDataObertura": false,
+          "sobre": {
+            "ca": "Sobre B",
+            "es": "Sobre B",
+            "en": "Sobre B",
+            "oc": "Sobre B"
+          }
+        },
+        "pressupostLicitacio": 949509.1,
+        "publicacioExpedientId": 300837018,
+        "denominacioExpedientReferencia": {},
+        "iva": 10,
+        "pressupostBaseLicitacioAmbIva": 1044460.01,
+        "varisTipusIva": false,
+        "valorEstimat": 2183870.93,
+        "canonExplotacio": {},
+        "calendariEstimatPerPublicacioAnuncisUlterior": {},
+        "llocExecucio": {
+          "codiNuts": "ES511",
+          "ca": "Barcelona",
+          "es": "Barcelona",
+          "en": "Barcelona",
+          "oc": "null"
+        },
+        "duradaTermini": {
+          "anys": 2,
+          "mesos": 0,
+          "dies": 0,
+          "observacions": {
+            "ca": "La durada del contracte serà de dos anys, amb dues possibles pròrrogues d’un any cadascuna, per tant, el contracte podrà tenir una durada màxima de quatre anys. \n\nL’inici del contracte serà el dia 1 de gener de 2027 o el dia següent a la seva formalització si aquesta data és posterior\n",
+            "es": "La duración del contrato será de dos años, con dos posibles prórrogas de un año cada una, por lo tanto, el contrato podrá tener una duración máxima de cuatro años. \nEl inicio del contrato será el día 1 de enero de 2027 o el día siguiente a su formalización si esta fecha es posterior"
+          }
+        },
+        "condicionsExecucio": [
+          {
+            "tipusCondicioExecucio": {
+              "id": 1008184,
+              "ca": "Condicions especials tipus Mediambiental",
+              "es": "Condiciones especiales tipo Medioambiental",
+              "en": "Special environmental conditions",
+              "oc": "Condicions especiaus tipe Mieiambientau"
+            },
+            "descripcio": {
+              "ca": "Com a mínim el 75% de les reunions previstes al punt 8 del plec de prescripcions tècniques es faran de manera telemàtica per evitar desplaçaments innecessaris i reduir emissions de CO2."
+            }
+          }
+        ],
+        "oberturaSobres": [
+          {
+            "lloc": {},
+            "descripcio": {},
+            "personesAutoritzades": {},
+            "dataOberturaText": {
+              "ca": "A partir de la data de l'obertura del sobre anterior"
+            },
+            "mostrarDataObertura": false,
+            "sobre": {
+              "ca": "Sobre B",
+              "es": "Sobre B",
+              "en": "Sobre B",
+              "oc": "Sobre B"
+            }
+          }
+        ],
+        "prorroguesPrevistes": true,
+        "informacioProrrogaComplementaria": {
+          "ca": "Dues possibles pròrrogues d’un any cadascuna",
+          "es": "Dos posibles prórrogas de un año cada una. "
+        },
+        "modificacioPrevista": true,
+        "informacioModificacioComplementaria": {
+          "ca": "La modificació podrà ser fins a un màxim del 10% del valor inicial del contracte durant la durada inicial d’aquest, i d’un màxim d’un 10% més durant el període de pròrroga, d’acord amb el que estableix l’article 204 de la LCSP.",
+          "es": "La modificación podrá ser hasta un máximo del 10% del valor inicial del contrato durante la duración inicial de este, y de un máximo de un 10% más durante el periodo de prórroga, de acuerdo con el que establece el artículo 204 de la LCSP."
+        },
+        "acceptaVariants": false,
+        "elementsVariants": {},
+        "garantiaProvisional": false,
+        "garantiaDefinitiva": true,
+        "percentatgeGarantiaDefinitiva": 5.0,
+        "garantiaComplementaria": false,
+        "reservaSocial": false,
+        "frequenciaContractesAdjudicar": {},
+        "justificacioAcordMarc": {},
+        "solvenciesTecniques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008242,
+              "ca": "Relació serveis o treballs efectuats de la mateixa naturalesa en el curs de com a màxim els últims tres anys",
+              "en": "List of services or work of the same nature carried out during the last three years at most",
+              "oc": "Relacion servicis o trabalhs efectuadi dera madeisha natura en cors de coma maximom es darrèri tres ans"
+            },
+            "valorMinimExigit": {
+              "ca": "47.475,46 euros "
+            },
+            "mitjaAcreditacio": {
+              "id": 1008253,
+              "ca": "Certificats o declaracions de bona execució",
+              "en": "Certificates or declarations of good quality production",
+              "oc": "Certificats o declaracions de bona execucion"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          },
+          {
+            "criteriSolvencia": {
+              "id": 1008234,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "valorMinimExigit": {},
+            "mitjaAcreditacio": {
+              "id": 1008252,
+              "ca": "Altres",
+              "en": "Others",
+              "oc": "D’auti"
+            },
+            "descripcioCriteriSolvencia": {
+              "ca": "Disposar de codi de Gestor de residus autoritzat per l’Agència de Residus de Catalunya (o Administració competent en el cas que la instal·lació de tractament estigui fora de Catalunya) per a gestionar fracció vegetal (codi CER: 200201), pel que fa a la instal·lació de tractament i/o el punt de descàrrega."
+            },
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "solvenciesEconomiques": [
+          {
+            "criteriSolvencia": {
+              "id": 1008218,
+              "ca": "Volum anual de negocis",
+              "en": "Annual volume of business",
+              "oc": "Volum annau de negòcis"
+            },
+            "valorMinimExigit": {
+              "ca": "474.754,55 euros"
+            },
+            "mitjaAcreditacio": {
+              "id": 1008226,
+              "ca": "Comptes anuals",
+              "en": "Annual accounts",
+              "oc": "Compdes annaus"
+            },
+            "descripcioCriteriSolvencia": {},
+            "descripcioMitjaAcreditacio": {}
+          }
+        ],
+        "classificacionsEmpresarials": [],
+        "criteriSeleccioNombreCandidats": {},
+        "nomParticipantsConsiderat": {},
+        "criterisSeleccioParticipants": {},
+        "descripcioPagamentsParticipants": {},
+        "condicionsParticipacio": {
+          "criterisRelatiusSituacioPersonalOperadorsEconomicsExecucio": {}
+        },
+        "teDiversosCriterisAdjudicacio": false,
+        "criterisAdjudicacio": [],
+        "cpvPrincipal": {
+          "codi": "90513000-6",
+          "ca": "Serveis de tractament i eliminació de deixalles i residus no perillosos",
+          "es": "Servicios de tratamiento y eliminación de desperdicios y residuos no peligrosos",
+          "en": "Non-hazardous refuse and waste treatment and disposal services",
+          "oc": "Servicis de tractament e eliminacion de dèishes e residus non perilhosi"
+        },
+        "cpvsSecundaris": [],
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": true,
+        "prescripcionsTecniquesSocials": false,
+        "prescripcionsTecniquesAmbientals": false,
+        "llistatPrescripcionsTecniquesSocials": [],
+        "valorTerminiVigenciaOferta": 2,
+        "tipusTerminiVigenciaOferta": 3
+      }
+    ],
+    "dadesExpedient": {
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "4b131001-63ad-4eac-a80a-ab91c3a9f366",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "esReduit": false
+    },
+    "publicacionsOficials": [
+      {
+        "tipus": {
+          "id": 35002,
+          "ca": "DOUE",
+          "en": "OJEU",
+          "oc": "DOUE"
+        },
+        "url": "https://ted.europa.eu/en/notice/-/detail/554552-2026",
+        "dataPublicacio": "2026-08-10T22:00:00.000Z",
+        "dataTramesaTED": "2026-07-29T18:03:11.000Z",
+        "procedureId": "4b131001-63ad-4eac-a80a-ab91c3a9f366",
+        "noticeId": "e8a79960-4792-4c08-951b-b20f2dbeed51"
+      }
+    ],
+    "motiuEsmena": {}
+  },
+  "pathPdf": "E3cQd3VT07bizRHFVoTfR8FjV5ZWAdqK977apUyrWG42xp73QRK2TCsrMpSr0fch4hkQ8E4qXY0supjYTo2xYTTaCbDLRJpbMbIQrx_7D9JKhWqMh6ifSqDA0XtTsoI1mt-NKTx9IhvwJNkGNPrtgT03p76ZdBObtHEgxCXz1W-vOyq9oamA0w73azVSxQcgYelppkRM82NF9o2VBFgfdUNKFqAaP6ALzo9cmkIwN_dlENRMI1uDbCwDqwKbNwRN6tY91m6g4sLR9QuMjHByyDO1Z614_OI0RD4uq6ODrP98gYMRb1lMNOpLFdAyo3Zh7BtB-AHc_ba6JWHkEqs35A==",
+  "pathCertificacio": "KWiKVwScLD90_MZ7yo_T--xcHK8VU-7i65sGHqQXxg90nIMdP1iwINwJ-VOl4LXUHVwJ35Es-DqhKZQE3chzKFhKm2QwNSDybUVwwGb7f3O9brbjB3si0-y0T2GW0CJ-ICeeMtoIVkSHI4xPgLSXXPIExgkh47sT0P1kw0UDn3KSqj2AmrE5ZKBL8atlfEDd0jYWv2T5EfMPKwAYg2lyjcLIk07YZ8m-qz9BuGEKa1SodnkUyM6cRs2vrMYhJHiiXfT7oggWqG1l-VAVgY7ZUoyPKVlWdsOhimP9cjFIspY2zE2AvbUYloBZWH7YcnVk6knSt5CHHgdSqYOvEJiyqw==",
+  "pathJson": "c5U_9jqFNy2d3_ZZWtdJ2TkQ15UAitrn9sN90KVx8WzsTcOra8vR98HEXecJk_bM2LL5VOEWQs404_CuecJMOpdy-m7lS17D26L3KxJjpHCsztOlCXWj-RZ6rwU9f-gyfElW1VyxvKxP4uDy6VfGEc-JDXyz5tOArhQbobTbQPdETl5WQc9h5FqRyhqiylYWQW9cq-DhgVvWYsHlLyjGKJYZ1uEwlUOfYEv3vy9uZbN6ALBofuoyX_6gNUQ7-9iRwBISoUlAg53rbUacp0jhTlbTOgrLMaZN7GZKXL29TA3z1zCbhy47_EBJiCM3A2HwTmX0BLYeT-eCaReLd20u_g==",
+  "dataPublicacioReal": "2026-08-11T07:02:05.662Z",
+  "dadesExpedient": {
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": "Català",
+      "es": "Catalan",
+      "en": "Catalan",
+      "oc": "Catalan"
+    },
+    "expedientId": "4b131001-63ad-4eac-a80a-ab91c3a9f366",
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 413,
+    "esReduit": false
+  }
+}

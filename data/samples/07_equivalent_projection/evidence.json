@@ -1,0 +1,72 @@
+{
+  "case_id": "07_equivalent_projection",
+  "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/10051590",
+  "tags": [
+    "exact_cross_source_match",
+    "award"
+  ],
+  "fetch_historical_notices": false,
+  "placsp_observations": 2,
+  "gencat_rows": 1,
+  "evidence_references": [
+    {
+      "source": "placsp",
+      "file": "placsp-000.xml.fragment",
+      "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2026.zip",
+      "member": "PlataformasAgregadasSinMenores_20260222_040058.atom",
+      "entry_ordinal": 118,
+      "byte_start_in_member": 1168722,
+      "byte_end_in_member": 1177648,
+      "fragment_sha256": "2899f5e3c6aa24e6d4a6d51e129148339e4bb19403e0e8b0dd9a8ac002826ee5",
+      "note": "Exact byte slice, namespace bindings inherited from parent feed; original complete XML is in archive member."
+    },
+    {
+      "source": "placsp",
+      "file": "placsp-001.xml.fragment",
+      "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2026.zip",
+      "member": "PlataformasAgregadasSinMenores_20260224_040120.atom",
+      "entry_ordinal": 453,
+      "byte_start_in_member": 4896231,
+      "byte_end_in_member": 4906084,
+      "fragment_sha256": "a0c58be1d89b471312005733343443b5e386d230c58efc68876aab4f53cd5e9a",
+      "note": "Exact byte slice, namespace bindings inherited from parent feed; original complete XML is in archive member."
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/000000000.json",
+      "row_ordinal": 370,
+      "socrata_id": "row-4qjs_4vm9~67tr",
+      "id_intern": "bfbd4dd8-cbab-4672-54e8-a0442a09c914"
+    }
+  ],
+  "phase_json": {
+    "103585423": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/103585423/ibSqwyw3nPCQ5KQ41DVLBTLBwho-4H_gjOhzBY177wgpruQruR5-4M1d4rGpVl1x-ltucZqm-vrqTclm83GZOHMlBWQTkM1KzVh1GuDZcnXhGsFZ5HMxGzvxm_RD7IsDAN_Fr0_ghjZh7-VaEVEG5TIxRtxSFDIYvL5j1Fr5AHm0CyEkIPxr5mfVYKJt6rbgWEvEneVquVe6E5XHrfLUyNJnEo45oWCwAZenCULU4GKIj3RdfEooszcRfGRM29Tog1MILGYkjGOlafIhWy3MqzbspXNbvUm23wEIAFIoDfONYFJK1RVLXbkF9fyW39Ciz2t6D9Jol31UNueZlm4xQg==",
+      "field": "url_json_licitacio",
+      "source_row_id": "row-4qjs_4vm9~67tr",
+      "error": "404 Client Error:  for url: https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/103585423/ibSqwyw3nPCQ5KQ41DVLBTLBwho-4H_gjOhzBY177wgpruQruR5-4M1d4rGpVl1x-ltucZqm-vrqTclm83GZOHMlBWQTkM1KzVh1GuDZcnXhGsFZ5HMxGzvxm_RD7IsDAN_Fr0_ghjZh7-VaEVEG5TIxRtxSFDIYvL5j1Fr5AHm0CyEkIPxr5mfVYKJt6rbgWEvEneVquVe6E5XHrfLUyNJnEo45oWCwAZenCULU4GKIj3RdfEooszcRfGRM29Tog1MILGYkjGOlafIhWy3MqzbspXNbvUm23wEIAFIoDfONYFJK1RVLXbkF9fyW39Ciz2t6D9Jol31UNueZlm4xQg==",
+      "raw_path": "data/raw/gencat/legacy_probes/103585423.bin",
+      "format": "xml",
+      "recovered_by": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/103585423"
+    },
+    "200153892": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/200153892/YbEBJQR-71CI6QNr0w-4W9eskGxOUUEzI9RDyR4B9XtDAERmQ66zsUVPR88FpTMXaZ2zkJnAXQZsxyP6mSgMOXdpSayRTfpXLF-qGJZ7xSaB8cCdta69cE2lRtIf6UTvJnOpngnbMRJCBKv3SOqOcKOACzCcHDk3ESuVm0y3Oanf5mgVABlpq3fawodt2tfZm2xAFH-bPhCYFU0DFNPaM16OoiwWmBU__8aLidkDAoMGGUAxrYT6TYNDbw_NEHDBFdDtt2eyDumVB526TMUNYxIh6dXELkDvOkFxgxUwQMskks3wABHi6JfTPiiflzvrh5xWJamJ0B6WG5pmT3hIEA==",
+      "field": "url_json_avaluacio",
+      "source_row_id": "row-4qjs_4vm9~67tr",
+      "raw_path": "data/raw/gencat/phases/200153892.json"
+    },
+    "300701001": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300701001/G9NQ7a9V2h65eVo9k7uWuba1MaiiLVI671bGV6oYLyuo8jD5RcNCSRzQQg2z1V01iV3cexuKBmO7Y-t1Uiy8l59rqppFymsV-GOYf0vy8YVBIY6toritgBDczYCUsoIVfCccGHZke_cx83DLXuwWP9oDMwZCLUx4EN-EX-peaxBZSMESLANTodDnuuhDqGXjrdFH0XaNZRYaYo_l2qZb2DI67adAgx4QsRYThQvzDD-p9-AnYKO316IG_ivWoB7E4HZ7j25FTYbfrk5O-BiviL6ZUu0lafBL8ZeiRIjOmZlajCuKIEta-S-ue-fakh4KzvNVXfhP_dzdXET38uQU7A==",
+      "field": "url_json_adjudicacio",
+      "source_row_id": "row-4qjs_4vm9~67tr",
+      "raw_path": "data/raw/gencat/phases/300701001.json"
+    },
+    "300701712": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300701712/gM17En__d5BnCgeTfZ3LJO-ZbGYOKf94NdwJTI7n_msIh3_NhhkxDsIIgqz9sxSMsZJ48pILooP6u1w9UkZudUvv_9ER6dhbscIqzspYU3coMGH9s8h9JJEyOeufVkuLN7wzG7SNAXEkDA4xKeVfWSQufO69EVGx2ni12vdSiNvQQkNnymPvXd7DbLWv_XP49j0-Y4wgaJG1Fxs8zUVxvQEz4QF_5ymFDAPv2T5jTeyw0yqGOo1Sb1hXGlz4ct_NL_tmOtkpUb07YESXj9NkqB4YJa8GhNb3A-Aot8lgNeR4AvlNOR-yJMg-8zMiFr77xv3UtL1yAYWpBL5gmLanTA==",
+      "field": "url_json_formalitzacio",
+      "source_row_id": "row-4qjs_4vm9~67tr",
+      "raw_path": "data/raw/gencat/phases/300701712.json"
+    }
+  },
+  "folder": "data/samples/07_equivalent_projection"
+}

@@ -1,0 +1,605 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "24001098",
+  "idExpedient": "d64c0289-9916-43f6-a457-b4d3f02a0add",
+  "dataPublicacioPlanificada": "2024-11-18T09:51:01.445Z",
+  "organ": {
+    "nom": "Institut de Cultura de Barcelona",
+    "nif": "P5890006I",
+    "direccioPostal": "La Rambla, 99",
+    "localitat": "Barcelona",
+    "web": "www.bcn.cat/barcelonacultura",
+    "telefon": "933161070",
+    "fax": "933161080",
+    "email": "serveis_juridicsICUB@bcn.cat",
+    "personesContacte": [
+      {}
+    ],
+    "observacions": {
+      "ca": "Les licitacions publicades abans de l'1 de juny de 2016 s'han de consultar en: \rhttps://www.bcn.cat/perfildecontractant\r"
+    },
+    "horari": {},
+    "organContractacioId": 16054009
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1008286,
+      "ca": "Expedient en avaluació",
+      "es": "Expediente en avaluación",
+      "en": "Under evaluation",
+      "oc": "En avaloracion"
+    },
+    "expedientId": "d64c0289-9916-43f6-a457-b4d3f02a0add",
+    "teLots": true,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1008286,
+        "ca": "Expedient en avaluació",
+        "es": "Expediente en avaluación",
+        "en": "Under evaluation",
+        "oc": "En avaloracion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "24001098",
+      "denominacio": {
+        "ca": "Serveis de gestió, atenció al públic , manteniment, servei educatiu i mediació del Castell de Montjuïc per al període 2024-2026 mesures de contractació pública sostenible"
+      },
+      "descripcio": {
+        "ca": "Serveis de gestió, atenció al públic , manteniment, servei educatiu i mediació del Castell de Montjuïc per al període 2024-2026, amb mesures de contractació pública sostenible"
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "tipusContracte": {
+        "id": 393,
+        "ca": "Serveis",
+        "es": "Servicios",
+        "en": "Services",
+        "oc": "Servicis"
+      },
+      "procedimentAdjudicacio": {
+        "id": 401,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 11386,
+        "ca": "Altres",
+        "es": "Otros",
+        "en": "Others",
+        "oc": "D’auti"
+      },
+      "descripcioAltres": {
+        "ca": "https://licitacions.bcn.cat/"
+      },
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {}
+    },
+    "dadesPublicacio": {
+      "observacions": {},
+      "membresMesa": []
+    },
+    "dadesPublicacioLot": [
+      {
+        "numeroLot": "1",
+        "lotId": 0,
+        "descripcio": {
+          "ca": "Servei de gestió, atenció al públic i manteniment- del Castell de Montjuïc"
+        },
+        "pressupostLicitacio": 1879697.18,
+        "publicacioExpedientId": 300302267,
+        "titol": "Servei de gestió, atenció al públic i manteniment",
+        "identitatEmpresa": [
+          {
+            "empresa": " EULEN, S.A.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "A28517308",
+            "tipusEmpresa": {
+              "id": 749,
+              "ca": "No PIME",
+              "en": "No SME",
+              "oc": "Non PIME"
+            },
+            "informacioUte": []
+          },
+          {
+            "empresa": "SALZILLO SERVICIOS INTEGRALES, S.L.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "B73589814",
+            "tipusEmpresa": {
+              "id": 749,
+              "ca": "No PIME",
+              "en": "No SME",
+              "oc": "Non PIME"
+            },
+            "informacioUte": []
+          },
+          {
+            "empresa": "Gestió Cultural Transversal, S.L.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "B64507809",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "informacioUte": []
+          },
+          {
+            "empresa": "MAGMACULTURA SL",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "B61949764",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "informacioUte": []
+          },
+          {
+            "empresa": "CALAIX DE CULTURA SL",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "B63033740",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "informacioUte": []
+          }
+        ],
+        "informesActesMesesContractacio": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [
+              {
+                "id": 300879323,
+                "titol": "006_24001098_ActaMesaA_DocAdm.pdf",
+                "path": "MiLVKS12Qe0loy5UglQtJrLMHPfEbegSC6yXGsWyn32olNNn3-YCLcsr3ErnfofpLj9XGHVn9zypwptiGzeN-RtkSX1SFi7ID1T4PHMUMv-Oxje_TWifh1DEjj7upIsYQrz4QxWIksXczJ6d59j1si2QaIVSkTDxPm4ue6zOdvkw1wgnTi-2-mNe_zA_OYv1Orh9xkWZD8sXrWAj0RFUQq2QicesKjBVabm08DKxT3OeCy5wl5V3fEw5ADxqvxjNzMkeDb0HAzFzjRujppxHQ07tHEKpeTivx4M-_ytpDoSC3vlAtviX_gL0b0_CthC6mf4N1dF-Ed5NTslpj7I70g==",
+                "hash": "A9A64242B8504F95012A7D21702CACD4",
+                "idioma": "ca",
+                "mida": 236781
+              },
+              {
+                "id": 300879322,
+                "titol": "006_24001098_ActaMesaB_CritSubj.pdf",
+                "path": "QHPuFPumHaWAAOr8p23XMPCqDvwXvLTRBOeYQvlYwVqIv5oMXmg2EPJWOLG_7rlG9EEGPvIN12lSnZcyT35Td59vTsKcRWAMRYyAYp5szXXCi-NssZmIb50Lck2-0ONuESF0Tep97VzHJhlIXqPRsiFThc8QOAevCUvEkM4RT1mR1LBuadp4_nCBEkKTtPOsD8VbESukPE1Byv0lpfRr4WX6MGdJFm1HK8yx5ZwHxrrFJgTeRFSRgETtWlJm8VNj00Nf2R8ErKGu6BBYHRpJFssHFLDSIawouPN4VlJ1D4Whc9rBc_BVk5288xDCe79totgvsBykdEUHDkXPE2NUMg==",
+                "hash": "C90CE6F3707145945B95E9D34B8B7A07",
+                "idioma": "ca",
+                "mida": 238466
+              },
+              {
+                "id": 300879321,
+                "titol": "006_24001098_ActaMesaC_CritAuto.pdf",
+                "path": "i0SbdoLLlBh05hclg7iUrk3gj7rXY3hQoZMJ40J1wYMoEy0hQK9VMZzWBZCd5QKf1bCv136lCg72bZffrx6875EkY2bPHQpRVudDUwJLoLPVagEoB_wE5ZnK0YGVyqB0zLkMiCT2T2s4q0nagLzU4QjGjNPO3xAVE2s2RoWBZv-RsZ3EFIcOgfgA7AdOouW5RRREKGG2RRy_TiZvUEex5uo3OzsyO8TZkeUYpW3kTXqko1ozyS5mB9sPSLARoUe4imtYAcJrA5KxuXx--LP-efIISK5sB0g8VTBsUGM24Nm5iyhoxNGYGop9xooXAe_FGDYm9c8yv6evAfu5fFaUiQ==",
+                "hash": "F905559B01FACA3907DF08104DC6E070",
+                "idioma": "ca",
+                "mida": 374997
+              },
+              {
+                "id": 300879320,
+                "titol": "006_24001098_ActaMesaClasOfta.pdf",
+                "path": "YUsduepyRvnNDnmKHbel6OwqQBPCpPWZYUQ_qorrLfPAPZ74oGE_UsrizrlcVwEhscEG_G4J0m_Sty1J93X74aiPPriqGr-2xe7uO10PvXqnjoHemtP7JNodbOSHsq7cVj7B0mO4INf0jRtgIieAR7B0lpq_Wt4bWKvWaEzeRpJno2iItakssxUIBZTrlmurLtDbcBOESwaMqaVNvWBo3H_E4ObPzP9h6YWbS2Z-nlMTgrWu75NHxW3ckD66X56G9tgAGeB7bOxZZXU8nWnYc3lSj_oMVDcYqtsF00mnaOWKrS6Ss27sPLmcFPoDHPLrv_Gmm9nqbOfimm9w2lSi0A==",
+                "hash": "664345F6925F4EBA9FAD5428DFCB250F",
+                "idioma": "ca",
+                "mida": 285755
+              }
+            ],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "informesOfertesPresumpcioAnormalitat": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [
+              {
+                "id": 300879332,
+                "titol": "006_24001098_InfTecBaixaTemLot1_Calaix.pdf",
+                "path": "D3plCGB8hpH_Z8Ayia_9GPGGt2tE3AulJ2jEkKnbVQNMZDv0bXO7fslxsH4_8ecbxl66t0BoFMxxRj_EIL07PwnKjqgMfi1TfLUcjnRR6g46ChB-agZvRMM3zcLzMta9kMMorJsj-8IzXN5Hs5raaqFMmEX0a6iVg-oYzPV7lGGu1xTQ64M4L83B1gedNPIlPmYOzx2ND_a_b8egyk3aCu5hqdavCdV0WuzdHrc3dy1IisYyUy9AMjd85hmLkYXrbPsrM2Yjp5DPh89C1VAzSC1COVHfGlKfEAvxtp7tzTaN77TqIMkP9lsmHvdy5bgGonuoGCtsHJKSB2xKcS02Fw==",
+                "hash": "CC4B8134546980C0CCDD991317429ED9",
+                "idioma": "ca",
+                "mida": 447941
+              },
+              {
+                "id": 300879334,
+                "titol": "006_24001098_InfTecBaixaTemLot1_Eulen.pdf",
+                "path": "S7f7e6h-asSKIAbISCK-YeJ6hCROrvVm1a63qHjdxbgXJXfSuGqMiDtDFwuPfCsRaz40zmdaeJWJBfW6JsSbZ2_66BCiGlz_fu4EWmXoyG4240tA0BHqSAvNuJojfySDg7hPqX7edOfDJ4COm44yau0AQ57Wwm5NoAXcwgDgKUcuJluuOjSXZwQ0eqMwiwONFMzPuM-m6XVsvIdrwWtvSksDwSB97OewaxxzrTA-u43qgG9iVIX9victGno6fTuy5MYWJNVALra536T4TfMDyksJJlctMrU2YTHXv8HOB6uKs3wiRrZxVGHLf4jX9PpFFnyJgAyKAl5J9Jxb6-KyIg==",
+                "hash": "CE04EDA0238977F1D255423505B96ECB",
+                "idioma": "ca",
+                "mida": 455951
+              }
+            ],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "informesValoracio": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [
+              {
+                "id": 300879353,
+                "titol": "006_24001098_InfTecCritSubjLot1.pdf",
+                "path": "AurccOL4ecb7r7KP4YqkS7SVQdX0bL09NnWa0nh_G5wmGDtj46NNHZaPV_fmHOxzR8X0xU5ahkoifpalFfDEQAEcmacrOkkX4ZDUOsgRfMs-8wN-D9O0IVcLYkygjOhwlG37w-EDPa6rHz59Zz-cQNls3BwMarlz0gZXV4KiuverZ1iLR4v8-gZ79gUEGaxJoFdkSWOHZ7HlFPAVnVT5P5GZGwTCTtrVdCwOnK0rSmCMnquINMm834DZ92gdrl2cqDGBglgDf7QOBFVAh7ZdrV9sQbZwceweg0jG6QmZad5nlRn9SUeFHwW3WGb0BpCVac-xQQ_uXcTybuQsBVxZ8w==",
+                "hash": "E0F59844685E1FE132D0C329FE3AAC80",
+                "idioma": "ca",
+                "mida": 3986725
+              },
+              {
+                "id": 300879358,
+                "titol": "006_24001098_InfTecValOftaLot1.pdf",
+                "path": "sdbud-xIhpt3Q67Riig5DenaTvbggah0ikyRVc5Th5mpUjnh-qQsBALGjaWBfFCZ-o5cxzaVGY0WDmm7R5ctQabH19TOVi-ycgusi4ZUyvwaVWglMB0jSRxESMDwqWJKKPzjNRMApokmzMdUm19IFgGOy-aXKsUiFZelyG2nNK-IeiOeBZteg42EryJxPqdl5WAZvTbJKkqtYA6j4GkghyxvnNzQ9SbWNFv_GBIy4MqtKjwi417kWuAbUjCkfoCDzM7lhBsZwuNCgPBrTqSRNsACxRWl-rTMGNInlEXWatU-PX48EppOkkclSPm5De2f2MT24ktzz7qLIfBAkIt4yw==",
+                "hash": "D8B4F5091338FD9AA5ABBEEC28EF7AF3",
+                "idioma": "ca",
+                "mida": 796247
+              },
+              {
+                "id": 300879356,
+                "titol": "006_24001098_InfTecPropAdjLot1.pdf",
+                "path": "pm9jR1C-E6NPeR5eGY_06Z_Va6qzE2DXcxvWFjAbSVHdHrHGnWehooCbtr0efHUPqYeb4WXOSuavZML13Woru2eA9Gn3YErmt-4S9yJlwgBshMXtrRcR7qcW1rDb23TCpwBI5d7HOx2cFUjjUSGZzag67etDw5G4c24RQ5ey9jvrhOuzV-Yv7OAAi7pwSC0Cmn0yoXgHWHyEghUUXHk_C4ADu1qwRhtsjYO0LnpY5H7MriirfAEvhNARn8sWmeaQMIVltTx_PBQbfOIlr9eMEqLg79vmrLrCiE3Z15-rFQ75HZ6ALmuotfw8DS5ZnzDJU2qvZd6AyX2_NIj7DqBOOg==",
+                "hash": "7F3B1820977131EA4D8CA4E2D29164C3",
+                "idioma": "ca",
+                "mida": 617567
+              }
+            ],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "observacions": {},
+        "totalOfertesRebudes": 5
+      },
+      {
+        "numeroLot": "2",
+        "lotId": 1,
+        "descripcio": {
+          "ca": "Servei educatiu i de mediació del Castell de Montjuïc"
+        },
+        "pressupostLicitacio": 395273.96,
+        "publicacioExpedientId": 300302267,
+        "titol": "Servei educatiu i de mediació",
+        "identitatEmpresa": [
+          {
+            "empresa": "LAVOLA 1981, SAU",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "A58635269",
+            "tipusEmpresa": {
+              "id": 749,
+              "ca": "No PIME",
+              "en": "No SME",
+              "oc": "Non PIME"
+            },
+            "informacioUte": []
+          },
+          {
+            "empresa": "SALZILLO SERVICIOS INTEGRALES, S.L.\t",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "B73589814",
+            "tipusEmpresa": {
+              "id": 749,
+              "ca": "No PIME",
+              "en": "No SME",
+              "oc": "Non PIME"
+            },
+            "informacioUte": []
+          },
+          {
+            "empresa": "Gestió Cultural Transversal, S.L.",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "B64507809",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "informacioUte": []
+          },
+          {
+            "empresa": "MAGMACULTURA SL",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "B61949764",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "informacioUte": []
+          },
+          {
+            "empresa": "CALAIX DE CULTURA SL",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "B63033740",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "informacioUte": []
+          }
+        ],
+        "informesActesMesesContractacio": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [
+              {
+                "id": 300879425,
+                "titol": "006_24001098_ActaMesaA_DocAdm.pdf",
+                "path": "Nbo5lAbuHbxXlMkOk5wftKV5Abtkn0D5BF-ENS96vooJMejeNX8FsfAo2mI1SbM-QSIsOaF9PjYipLeuQ-KKWkjqSgQYqHrUa2hnUPwNt_wMBNOXZ5nDNK-XZK1mzgNEzCMiJnrMF7o60MRjCH9-S2cyVLJ__9wuGDmXX-y04O3Kz0FYH2k2RuHrr0f2vqYkLdybeo-pHPw2TuQqgtprVAShqN1jhZk_Nz91V9A8vpdVTmjHi4SvnDjxfyeRpnJ8I0GkyCUSO_Vx-QV3Dm4QIQXCXNJZ3wJG_JjP1lwaLXBfp43-wvGQecaoXqqSbKA1mmsFX6FwK63ThYmRK6d7Zw==",
+                "hash": "A9A64242B8504F95012A7D21702CACD4",
+                "idioma": "ca",
+                "mida": 236781
+              },
+              {
+                "id": 300879424,
+                "titol": "006_24001098_ActaMesaB_CritSubj.pdf",
+                "path": "hw5llPgFemV0jHMn82FPP6bfySg_T2utHjJeFOsDDTGf-n5eIj7pEbXbJOaHPTPnwdrWHyNav3HYd81Z54suscacEFVuvBYdX5FrMDmb6HCYHKpKS_0ZNlF-v4X1LtynZF6HcDfnNRUy_E8f6O9PraR_KlQdeqGBQCRIjNCPJuJx13yaS_BHlEOanLrFM5b80FsINeyyOFWJ0UgPVJNpkZGbtOz_7plnVutYpso5Heu3WueCUX3WhtwqVrb9FCKiWVyoPqc-QaD6BC3w7KqO1GlPT4IEDx7_zCetazMdM5kkbthiTk4Eez-g0fpVy5etnbeFW6f5eFZLdUMw3Te8KQ==",
+                "hash": "C90CE6F3707145945B95E9D34B8B7A07",
+                "idioma": "ca",
+                "mida": 238466
+              },
+              {
+                "id": 300879423,
+                "titol": "006_24001098_ActaMesaC_CritAuto.pdf",
+                "path": "XuHLErqsh6RCDR0vFRUR_vV__GhTCpze3z4xTeOi1l-ygGb8L7sn3VEe117I-zTU3xYwu7dwvH7Gj0N72Mr2rQTxb0sTInhNbXhjM64_CNTBSih_MQ-LZFmxir_dHtrM9soPddQ-flb8vSa0W6gNeIC6f0vmP3fXLIYMykub4Xla-fbyYI3hHow54bfYf1wD_gegBuOsMdE0h3K1zi8Yvi_LrlvKY0sxzbdm7qS4x2poLBdNQV2OuHB6uyc6BaLR0_8knUEZTL6ajtzD7-IL9BAsKZH-Gjw2aouMzqxonwr8sK9hVNhg-vzSwG3IGyWU8gAZDJov8ys2ou5h8Jus7Q==",
+                "hash": "F905559B01FACA3907DF08104DC6E070",
+                "idioma": "ca",
+                "mida": 374997
+              },
+              {
+                "id": 300879422,
+                "titol": "006_24001098_ActaMesaClasOfta.pdf",
+                "path": "iW0_8Pw1jL1v-xOg9sxOMn_mZInlQ8ZgTla3OrNneBRWB1CxKVjiYj7xhS2FbVfPpkS-3-gZF5wJQVaBQ3NIYe6-J-pQqYEZoEVT_ZIv8Oi1Ti6U1px_Z2C_-9gPM5zOeMeGBu7voOhcRC9WpL-uBQMOLF2bemA5odTSqnlSGWSJ7FqSWhbj6anTPHUEGh30tSEqBwC0RFM9h6UdhlxcPUTyb1J6QTfQVASYglgDAOFSJHB2Qg68HQn1Yu-E19jozuwz5i94v3sZeHakNdLByFK6B9sT_GURiqw1TSmm-cboFgb_8rpi-0cI249VPHEZWa2VFcHZ5Klm6y4PKEOGzg==",
+                "hash": "664345F6925F4EBA9FAD5428DFCB250F",
+                "idioma": "ca",
+                "mida": 285755
+              }
+            ],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "informesOfertesPresumpcioAnormalitat": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [
+              {
+                "id": 300879428,
+                "titol": "006_24001098_InfTecBaixaTemLot2_Calaix.pdf",
+                "path": "S-L0ah2w1jT6Ug72FqeF9HEBMccyLn1nid0BJLcgeZK_ZGUwUsWwAD7OKliQJOkIgeuZ551vfjhpFPHqdb5xLvPXAWueRapsSg92Bm4N7LEXELh2EYR84O9ho025yE4KjBScozkOguNI9w288gZeOkT4tOFsek_T1b9Gux9YhMhweQ872b0aAwUbqynDucq4NOFO8GYZKEC9FIRRB7Be7M6zXCtg4vTSbJw8l3kINGsheQCR9qcGurQrlif2yc9g9Ns-hXVhGu7B6_yjmWKPx2tIVNFzFd2LILLLo2SgZUYyzUFQUiivboSEDYp2PubQLu9tiw1tQb_DCwjLth6URQ==",
+                "hash": "705B9464315F490A37B273163515AADF",
+                "idioma": "ca",
+                "mida": 446513
+              }
+            ],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "informesValoracio": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [
+              {
+                "id": 300879429,
+                "titol": "006_24001098_InfTecCritSubjLot2.pdf",
+                "path": "Sl2ExgF8-wowONOxhXST2Hgc9g1514-Sat5Y5O-BJVw14mj6Z-LZ6kU6Sk0QhUtEmt41mXRxZ48yJO6DWY5tjdTn0q04D_rMfr8JkffPsUd2KmGBNAKvrDuhQqkIFvOZCvNmxWE8MCBNNzfOzLGHx4kaZ5g3thGLVfFs_1feuSELyOOIh1lRO669pFqein4JNyfVnrUBYB9UC1n-WDlio_K6pk6BAotMhtEBCsvic9ZSB_c0Z6I2IMQpA2kGNfKDvyqZ3VT355Zlrx8fCXB5OcknxZ1fBxM2l-UCzfm3Drz__VPdBHks7ZdE6UgDjSJX6tTx5er8tt1kBrj4WzjgTg==",
+                "hash": "F63E2093EDF49AFABAD4208A349668F1",
+                "idioma": "ca",
+                "mida": 3950472
+              },
+              {
+                "id": 300879431,
+                "titol": "006_24001098_InfTecValOftaLot2.pdf",
+                "path": "hAl-QssG9Tgy2Ga8FnXftbnpB-dKVsLbEaQEgpyJCnN7zGDUshc6t-czoJE39uzySiGwXhUu7NW5Mb4SgwpkQaaJduPZsM-OUq9Om0fkQ6znWvB7yc0JgasEMHXyl4aUx1yjvyJCU1XFgRof79fpbXJPb1ZlgyL_9MGXGo06Hp4ibecWyetNt7mK34yhQ9HOKhrfc1DKpe_oFkP3PZxPnqtWXWxRlPpc4grR5dEZzG4PXTazz2IZu_emB7IX05JXFajEcpeWUDnqxFenOj5Fbeg4MEVcAFhjhd7biSe1wH8wEbkbL2MMaTszCJWxuXpDDYdIkhQCZjfIt-HQm_rIIQ==",
+                "hash": "0BF31746090094B95C85C92C9151E2D3",
+                "idioma": "ca",
+                "mida": 796331
+              },
+              {
+                "id": 300879430,
+                "titol": "006_24001098_InfTecPropAdjLot2.pdf",
+                "path": "tm_xY0D_yeodmKFaNykmXKWTluANuGLba4cuzIuIqPGvZ1MgGnLc0wrOfrgWv2Ob6AgpBr4xXIyj6LeLWRS7fcnldO5X3Oi80oQYUQMqFDHhjj160_otQ_T1jUJBSmza05B3LHWm2MBGIRjHxr31JRKmZJOM7QASn23k_h6njJ88fgHP6PIMNU_cApbRmQ5CQZzmFDs8-L66TuhaKdYvIbMu0ayNfeC0rgkixtca11htDidY19xFnegUU3WH3731Z-B2RK5OvmT68l7idLRTnYCZNLGbu6mscW8hQ3VDD3S7CMnY_FUkSX6KmKc6RGEaBiKh8nZUckmJjFeGWWX_RA==",
+                "hash": "106387B08CA390B351B32BFC34427060",
+                "idioma": "ca",
+                "mida": 617214
+              }
+            ],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "observacions": {},
+        "totalOfertesRebudes": 5
+      }
+    ],
+    "dadesExpedient": {
+      "organContractacioId": 16054009,
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "d64c0289-9916-43f6-a457-b4d3f02a0add",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "tipusOfertaElectronica": 11386,
+      "denominacioExpedientReferencia": {}
+    },
+    "motiuEsmena": {}
+  },
+  "pathPdf": "iKacgxoSt41dBnl1xVKnOiROG41t_6GZenNzEUIlEuWCIazi5a-nP7YNKGzbk4i9thHkn1wqo6NdP2PaoB8KBGRowHfZwJvHKx6Tw4YWtwkWpzz5BPvK-ABUMVvzqdI-KQEEy5YJ2Jmx9CP4owCdDqpdJ9dF9can1WjMGNRXYXJk4Z4PXnO0T2ZXljUlNm48bygmzgJbopRNRdiEjNjOlyOsl1Ee3yl__-hBwyCGDqdfA9hgfKQUAx1xL-Hbpif4DV9XiyHI3eYcoAocL4REviMm5i31ZphOT6RDdREpRiXdVNsLhEy4EjqvfszkHgVeyRWDdUXmoVPcDLm2_bbC2A==",
+  "pathCertificacio": "ItrGLLUmG_myBFbxlj2_nG2eRWqZXuHIOS38Mos6oQGBhiGxcypRveWSxZ2dTYvSNMp7RJJnRv1uf88YLmBwHop50DLTW7rsc6Tjd40NkyJTish0WC0SUaks3rMxZshlRzKCDL12WYc1NFsNAFnMaVwfc7-Z8FRNsz-ryzGpks37TcrN-AKmyifXc9RfqeXr3qZL-Ugb1DhaDijUYpus2dT1JjlrXmj8sKZgmgR4tqr4ohoRsTfW7Jmk-vgH2Ywntlefvjt3hFqw1TYLJO8a4T9Amy-bRkvZYsJs5zebhGQ6zA6IESGhNv4EGXmqCKGi4gIeIOo_t_qwrqNj03n0uA==",
+  "pathJson": "boXQCi4HdcmcRh-usBK1-42azYWgBPk0LvHq9NfzAPBUIubw2edXLXhq79cTQYXI_u8GQE5WBftJIE7dhgJzpFiIDI_cAMyk8Zc3AtGxTfPxSS84yVRC7Zbb1A0XLDF1U-SrYzdPZM6RqldT9_kse7PfYDF0JTfj1AUiNpItrpvenDsRUL4Suie-CI1dEpZzgy1DqckCMUrqxfwj1u042jiTSh-8TyKPuqITEbaX1dQbq9c1nR95okDdnybMbxwkkWsMF5d9vD8fztyFWkYb5ic6We0qEW3TNBUsyANa9wK83UXdX-f17P7Uo5hWRhihWTFTW_evm-N9ehERQa2noA==",
+  "dataPublicacioReal": "2024-11-18T09:52:06.954Z",
+  "dadesExpedient": {
+    "organContractacioId": 16054009,
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "expedientId": "d64c0289-9916-43f6-a457-b4d3f02a0add",
+    "dataFiPublicacioPerfil": null,
+    "dataFiGestio": null,
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "tenderingSpaceId": null,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 11386,
+    "dataVisiblePortalAccesExclusiu": null,
+    "expedientIdReferencia": null,
+    "codiExpedientReferencia": null,
+    "denominacioExpedientReferencia": {
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "nomOrganContractacioReferencia": null
+  }
+}

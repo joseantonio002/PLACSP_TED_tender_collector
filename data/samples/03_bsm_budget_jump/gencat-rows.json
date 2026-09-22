@@ -1,0 +1,66 @@
+[
+  {
+    "codi_ambit": "1500002",
+    "nom_ambit": "Entitats de l'administració local",
+    "codi_departament_ens": "15937468",
+    "nom_departament_ens": "Ajuntament de Barcelona",
+    "codi_organ": "15937877",
+    "nom_organ": "Barcelona de Serveis Municipals SA",
+    "codi_ine10": "0801935010",
+    "codi_dir3": "LA0007065",
+    "codi_expedient": "2024PT0235AC",
+    "tipus_contracte": "Serveis",
+    "procediment": "Concurs de projectes",
+    "fase_publicacio": "Formalització",
+    "denominacio": "2024PT0235AC - Concurs d’idees amb intervenció de jurat per al projecte de reforma i tematització dels espais d’operació de les atraccions, les casetes de fotografia i els tòtems d’accés a les atraccions, pantalles d’informació i caixers del Parc d’Atraccions Tibidabo, incloent la conceptualització de la idea, direcció artística, redacció del projecte executiu, direcció d’obra i coordinació de seguretat i salut",
+    "objecte_contracte": "Concurs d’idees amb intervenció de jurat per al projecte de reforma i tematització dels espais d’operació de les atraccions, les casetes de fotografia i els tòtems d’accés a les atraccions, pantalles d’informació i caixers del Parc d’Atraccions Tibidabo, incloent la conceptualització de la idea, direcció artística, redacció del projecte executiu, direcció d’obra i coordinació de seguretat i salut",
+    "valor_estimat_contracte": "55000.00",
+    "codi_nuts": "ES511",
+    "lloc_execucio": "Barcelona",
+    "durada_contracte": "19/08/2025 a 18/08/2027",
+    "termini_presentacio_ofertes": "2025-02-18T12:00:00.000",
+    "data_publicacio_anunci": "2025-07-30T14:04:00.000",
+    "data_publicacio_adjudicacio": "2025-07-30T14:28:00.000",
+    "data_publicacio_formalitzacio": "2025-08-20T12:18:00.000",
+    "codi_cpv": "79931000-9||71220000-6",
+    "tipus_identificacio": "542",
+    "identificacio_adjudicatari": "B67138784",
+    "denominacio_adjudicatari": "MYCOTOO EUROPE SL",
+    "import_adjudicacio_sense": "53000.00",
+    "import_adjudicacio_amb_iva": "64130.00",
+    "ofertes_rebudes": "2",
+    "resultat": "Formalització",
+    "enllac_publicacio": {
+      "url": "https://contractaciopublica.cat/ca/detall-publicacio/8d4ef683-64c8-43d5-a4a0-411f988509e1/300542681"
+    },
+    "es_agregada": "NO",
+    "data_adjudicacio_contracte": "2025-07-22T00:00:00.000",
+    "data_formalitzacio_contracte": "2025-08-18T00:00:00.000",
+    "tipus_tramitacio": "Ordinària",
+    "eina_presentacio_electronica": "Altres",
+    "altres_eines_licitacio": "Sobre electrònic PLYCA",
+    "pressupost_licitacio_sense": "53000.00",
+    "pressupost_licitacio_sense_1": "53000.00",
+    "pressupost_licitacio_amb": "64130.00",
+    "pressupost_licitacio_amb_1": "64130.00",
+    "valor_estimat_expedient": "55000.00",
+    "data_publicacio_avaluacio": "2025-07-29T13:30:00.000",
+    "tipus_empresa": "No PIME",
+    "url_json_licitacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300528565/IKNfjhHC0nkDAvFWoSLLqBZARPF4MXe-iMArekpxa7Uo1_iqK-5L8GZDX6StVgt8uUOkiXko8039sXrarTydDh6D4kgiPL10KQyYyLDdg3mrAzI68xqIuFzfDejPwnsztuxABM-1dAlX11VHv-ZhKbni7EtCShI7jyegxgGuMGRqHWt-DGwYztsJSCyWEYn46ArKzTqzuxs59at2N0gLqQdZYfTy26Akdt0DXrvVqRZzu6dAsPHwvuPWrl9CXRnlXQak9oEBP6hc23UWpSpuJ8Sf1DyYu3a6wskhlTWXCebcVrzQSSzQ9U6HX0m8rnOW4HxEOcjuYm5du49ZK0-zhA=="
+    },
+    "url_json_avaluacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300526940/dF8zgpasOoG1QHOjERHOLn_PKIyrshur1pdjqgnkhFrZ7shvGAIzUUNWUdQwC8poqc8GbE4tW9qz1mmjXxVwG1lpZJ3dxgObxdkJjasALdZZ3HPycVONJWC1vt5lSv0-vrExSghG2jAKdmR51Hg5atMk9V5mxZLUJkx2VWYhZJy1af44U9vgwNrPvskhIjE5YfPjJISuhLe7i1UaiBrAIP5eBGWkNn2lY4FPv-yXL_SUsmmHNPoLZUAsTpTGO6yNHQqMYE7lA-tH7Mj4Y3FrhvTzZg1AJIU5-0k7S_NmkZ8dItVjSLmDTdHJUV4ikrbiTYy7j9HcA-h9DBrIxAwhmQ=="
+    },
+    "url_json_adjudicacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300528619/PZWrgvq8sfepwZiM7HuYlAw_aD_6z5lCTLgeM3QQQwr8fxRDUQpL9vBrBbhq8gx7BN2H06qjFkIgdRcPKiIcoPZdWSjRNaRDJYo7LUQSOxFwCoDTj-9tv2hxirZRHC4D5QmJD2yyvxH-g-yFSPeBPJcTaeay3wBf6dNsVy2a5LQUtjUmLGaRRDqcynz6KptrY4yQVxc9HqelTY_biiQkj-NTFRVfs7EegVnJLuVbmEgvoDbtQop_wNPevAvrzKfGEGm6DGeN80wPqFbao_BLA8D5qwvO-h8QybmmkXRjTvly-N4zXKb2OhZYTcbKy3EpaGEQ3Wn1_A1fmoy7ATcggw=="
+    },
+    "url_json_formalitzacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300542681/QkSXDLfDQrV9J4KwRbUz7CszXtBJBe6jNqaPA7v3qVJ0m02C16R3i5YJ6Q2Hh0owx9dFuT7Zm-D8Y3ics8OuZDJmU-vMs-ytXEo1EbNLLSVYi5CIYJjps6ZXWZDYGMZjMR-w2OTa8ZdUIJPGHyv8fo6rHERu4axnyVOiqb4haLqo6O2QdAweSZhanODKGcxF_VTk4d72yz7ZD1P05USPpMqDMh9rqEQ63fz3-vXkSy_cmSePT84ZENxA5nrV2DZPg0WZm2lt81Z3jHnJgzJ9lx0ZCRAsabyWeZoWA_E_bQMj05eAJlacAozdixxJKy1v4ihZ0MEMVLtgAj1BSVggxA=="
+    },
+    "id_intern": "8d4ef683-64c8-43d5-a4a0-411f988509e1",
+    ":id": "row-rxn7_s4hg.6a3b",
+    ":created_at": "2026-07-13T13:26:08.273Z",
+    ":updated_at": "2026-07-13T13:26:08.273Z"
+  }
+]

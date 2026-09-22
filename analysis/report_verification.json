@@ -1,0 +1,14 @@
+{
+  "main_headings": [
+    "# 1. How PLACSP data works",
+    "# 2. How Generalitat de Catalunya data works",
+    "# 3. Differences between PLACSP and Generalitat schemas",
+    "# 4. Proposed common normalized schema",
+    "# 5. Possible reconciliation strategies",
+    "# 6. Hypothesis validation",
+    "# 7. Open questions / next experiments"
+  ],
+  "missing_local_links": [],
+  "snapshot_metric_assertions": "passed",
+  "note": "Numerical assertions pin the reported research snapshot, not future upstream datasets."
+}

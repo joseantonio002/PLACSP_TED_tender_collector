@@ -1,0 +1,344 @@
+[
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/15581446",
+    "updated": "2025-01-31T12:05:09.058+01:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/d64c0289-9916-43f6-a457-b4d3f02a0add/300364611",
+    "uuid": "d64c0289-9916-43f6-a457-b4d3f02a0add",
+    "publication_id": "300364611",
+    "expediente": "24001098",
+    "title": "Serveis de gestió, atenció al públic , manteniment, servei educatiu i mediació del Castell de Montjuïc per al període 2024-2026, amb mesures de contractació pública sostenible",
+    "status": "RES",
+    "buyer_name": "Institut de Cultura de Barcelona",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "16054009"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "2274971.14",
+    "budget_gross": null,
+    "estimated_value": "4772699.87",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "92521000"
+    ],
+    "execution_nuts": [
+      "ES511"
+    ],
+    "execution_names": [],
+    "deadline_date": "2024-09-30",
+    "deadline_time": "23:59:59",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Servei de gestió, atenció al públic i manteniment- del Castell de Montjuïc",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Servei educatiu i de mediació del Castell de Montjuïc",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "1",
+        "amount": "1879697.18",
+        "supplier_ids": [
+          "B61949764"
+        ],
+        "supplier_names": [
+          "MAGMACULTURA SL"
+        ],
+        "contract_dates": [
+          "2025-01-31"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "2",
+        "amount": "395273.96",
+        "supplier_ids": [
+          "B61949764"
+        ],
+        "supplier_names": [
+          "MAGMACULTURA SL"
+        ],
+        "contract_dates": [
+          "2025-01-31"
+        ]
+      }
+    ],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-08-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-12-19"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-12-19"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-01-31"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-01-31"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PLEC DE CLÀUSULES ADMINISTRATIVES PARTICULARS.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/300689539/9134ED563DB32F4A46F6168B6D5D86AE"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "impr_Plec de prescripcions tècniques (1).pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/300689540/91D56BEAABA8DA04FC473D62D3F5DD67"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250201_040016_2.atom",
+    "ordinal": 180
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/15581446",
+    "updated": "2025-07-28T14:04:20.784+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/d64c0289-9916-43f6-a457-b4d3f02a0add/300525566",
+    "uuid": "d64c0289-9916-43f6-a457-b4d3f02a0add",
+    "publication_id": "300525566",
+    "expediente": "006_24001098",
+    "title": "Serveis de gestió, atenció al públic , manteniment, servei educatiu i mediació del Castell de Montjuïc per al període 2024-2026, amb mesures de contractació pública sostenible",
+    "status": "RES",
+    "buyer_name": "Institut de Cultura de Barcelona",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "16054009"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "2274971.14",
+    "budget_gross": null,
+    "estimated_value": "4772699.87",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "92521000"
+    ],
+    "execution_nuts": [
+      "ES511"
+    ],
+    "execution_names": [],
+    "deadline_date": "2024-09-30",
+    "deadline_time": "23:59:59",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Servei de gestió, atenció al públic i manteniment- del Castell de Montjuïc",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Servei educatiu i de mediació del Castell de Montjuïc",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "1",
+        "amount": "1879697.18",
+        "supplier_ids": [
+          "B61949764"
+        ],
+        "supplier_names": [
+          "MAGMACULTURA SL"
+        ],
+        "contract_dates": [
+          "2025-01-31"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "2",
+        "amount": "395273.96",
+        "supplier_ids": [
+          "B61949764"
+        ],
+        "supplier_names": [
+          "MAGMACULTURA SL"
+        ],
+        "contract_dates": [
+          "2025-01-31"
+        ]
+      }
+    ],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-08-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-12-19"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-12-19"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-01-31",
+          "2025-07-25"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": "2025-07-25+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-01-31",
+          "2025-07-25"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PLEC DE CLÀUSULES ADMINISTRATIVES PARTICULARS.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/300689539/9134ED563DB32F4A46F6168B6D5D86AE"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "impr_Plec de prescripcions tècniques (1).pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/300689540/91D56BEAABA8DA04FC473D62D3F5DD67"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250729_040054.atom",
+    "ordinal": 139
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "codi_ambit": "1500002",
+    "nom_ambit": "Entitats de l'administració local",
+    "codi_organ": "10248462",
+    "nom_organ": "Consell Comarcal del Baix Camp",
+    "codi_ine10": "8100810007",
+    "codi_dir3": "L06094303",
+    "codi_expedient": "C 06/2022 Exp Actio núm 8100810007-2022-0000245",
+    "tipus_contracte": "Serveis",
+    "procediment": "Obert",
+    "fase_publicacio": "Formalització",
+    "denominacio": "Contractació dels serveis d'adjuda a domicili del Consell Comarcal del Baix Camp",
+    "objecte_contracte": "És objecte del present Plec la contractació de la gestió, en la modalitat de concessió, del servei d'ajuda a domicili (SAD). L'àmbit territorial de la prestació del servei públic de SAD es fa extensiu a tots els municipis de la comarca a excepció de Reus, Cambrils i Prades.",
+    "valor_estimat_contracte": "1631784.20",
+    "codi_nuts": "ES514",
+    "lloc_execucio": "Tarragona",
+    "durada_contracte": "09/11/2022 a 09/11/2024",
+    "termini_presentacio_ofertes": "2022-06-10T12:00:00.000",
+    "data_publicacio_anunci": "2022-06-22T11:30:00.000",
+    "data_publicacio_adjudicacio": "2026-02-20T14:34:00.000",
+    "data_publicacio_formalitzacio": "2026-02-23T11:58:00.000",
+    "codi_cpv": "85311000-2",
+    "tipus_identificacio": "542",
+    "identificacio_adjudicatari": "B43672138",
+    "denominacio_adjudicatari": "SAD ASSITENCIAL COMARQUES MERIDIONALS S.L",
+    "import_adjudicacio_sense": "779542.50",
+    "import_adjudicacio_amb_iva": "810724.20",
+    "ofertes_rebudes": "3",
+    "resultat": "Formalització",
+    "enllac_publicacio": {
+      "url": "https://contractaciopublica.cat/ca/detall-publicacio/bfbd4dd8-cbab-4672-54e8-a0442a09c914/300701712"
+    },
+    "es_agregada": "NO",
+    "data_adjudicacio_contracte": "2022-09-27T00:00:00.000",
+    "data_formalitzacio_contracte": "2022-11-08T00:00:00.000",
+    "tipus_tramitacio": "Ordinària",
+    "eina_presentacio_electronica": "Sobre digital",
+    "pressupost_licitacio_sense": "815892.10",
+    "pressupost_licitacio_sense_1": "815892.10",
+    "pressupost_licitacio_amb": "848527.78",
+    "pressupost_licitacio_amb_1": "848527.78",
+    "valor_estimat_expedient": "1631784.20",
+    "data_publicacio_avaluacio": "2026-02-20T14:04:00.000",
+    "tipus_empresa": "PIME",
+    "url_json_licitacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/103585423/ibSqwyw3nPCQ5KQ41DVLBTLBwho-4H_gjOhzBY177wgpruQruR5-4M1d4rGpVl1x-ltucZqm-vrqTclm83GZOHMlBWQTkM1KzVh1GuDZcnXhGsFZ5HMxGzvxm_RD7IsDAN_Fr0_ghjZh7-VaEVEG5TIxRtxSFDIYvL5j1Fr5AHm0CyEkIPxr5mfVYKJt6rbgWEvEneVquVe6E5XHrfLUyNJnEo45oWCwAZenCULU4GKIj3RdfEooszcRfGRM29Tog1MILGYkjGOlafIhWy3MqzbspXNbvUm23wEIAFIoDfONYFJK1RVLXbkF9fyW39Ciz2t6D9Jol31UNueZlm4xQg=="
+    },
+    "url_json_avaluacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/200153892/YbEBJQR-71CI6QNr0w-4W9eskGxOUUEzI9RDyR4B9XtDAERmQ66zsUVPR88FpTMXaZ2zkJnAXQZsxyP6mSgMOXdpSayRTfpXLF-qGJZ7xSaB8cCdta69cE2lRtIf6UTvJnOpngnbMRJCBKv3SOqOcKOACzCcHDk3ESuVm0y3Oanf5mgVABlpq3fawodt2tfZm2xAFH-bPhCYFU0DFNPaM16OoiwWmBU__8aLidkDAoMGGUAxrYT6TYNDbw_NEHDBFdDtt2eyDumVB526TMUNYxIh6dXELkDvOkFxgxUwQMskks3wABHi6JfTPiiflzvrh5xWJamJ0B6WG5pmT3hIEA=="
+    },
+    "url_json_adjudicacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300701001/G9NQ7a9V2h65eVo9k7uWuba1MaiiLVI671bGV6oYLyuo8jD5RcNCSRzQQg2z1V01iV3cexuKBmO7Y-t1Uiy8l59rqppFymsV-GOYf0vy8YVBIY6toritgBDczYCUsoIVfCccGHZke_cx83DLXuwWP9oDMwZCLUx4EN-EX-peaxBZSMESLANTodDnuuhDqGXjrdFH0XaNZRYaYo_l2qZb2DI67adAgx4QsRYThQvzDD-p9-AnYKO316IG_ivWoB7E4HZ7j25FTYbfrk5O-BiviL6ZUu0lafBL8ZeiRIjOmZlajCuKIEta-S-ue-fakh4KzvNVXfhP_dzdXET38uQU7A=="
+    },
+    "url_json_formalitzacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300701712/gM17En__d5BnCgeTfZ3LJO-ZbGYOKf94NdwJTI7n_msIh3_NhhkxDsIIgqz9sxSMsZJ48pILooP6u1w9UkZudUvv_9ER6dhbscIqzspYU3coMGH9s8h9JJEyOeufVkuLN7wzG7SNAXEkDA4xKeVfWSQufO69EVGx2ni12vdSiNvQQkNnymPvXd7DbLWv_XP49j0-Y4wgaJG1Fxs8zUVxvQEz4QF_5ymFDAPv2T5jTeyw0yqGOo1Sb1hXGlz4ct_NL_tmOtkpUb07YESXj9NkqB4YJa8GhNb3A-Aot8lgNeR4AvlNOR-yJMg-8zMiFr77xv3UtL1yAYWpBL5gmLanTA=="
+    },
+    "id_intern": "bfbd4dd8-cbab-4672-54e8-a0442a09c914",
+    ":id": "row-4qjs_4vm9~67tr",
+    ":created_at": "2026-07-13T13:26:08.273Z",
+    ":updated_at": "2026-07-13T13:26:08.273Z"
+  }
+]

@@ -1,0 +1,330 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "4390180001-2024-0010219",
+  "idExpedient": "b2c3a9ca-cf43-476d-bcac-838f671cd6ea",
+  "dataPublicacioPlanificada": "2025-08-18T08:57:14.869Z",
+  "organ": {
+    "nom": "Ajuntament de Deltebre",
+    "unitat": "Contractació",
+    "nif": "P4318100G",
+    "personesContacte": [],
+    "organContractacioId": 8911869
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000043,
+      "ca": "Formalització",
+      "es": "Formalización",
+      "en": "Formalisation",
+      "oc": "Formalizacion"
+    },
+    "expedientId": "b2c3a9ca-cf43-476d-bcac-838f671cd6ea",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000043,
+        "ca": "Formalització",
+        "es": "Formalización",
+        "en": "Formalisation",
+        "oc": "Formalizacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "4390180001-2024-0010219",
+      "denominacio": {
+        "ca": "Camió bolquet i grua"
+      },
+      "descripcio": {
+        "ca": "Contractació administrativa anticipada d'adquisició, mitjançant operació d'arrendament financer (lising financer), de vahicle camió amb bolquet i grua per als serveis d'imatge de poble de l'Ajuntament de Deltebre."
+      },
+      "observacions": {
+        "ca": "Es posa en coneixement dels interessats que, advertit error material en el pressupost base de licitació fixat en els plecs de clàusules administratives particulars, es procedeix a la seva rectificació, quedant el pressupost base de licitació establert en [nou import corregit] euros, IVA inclòs.\n \nAquesta correcció no afecta a l'objecte del contracte, a les condicions de solvència exigides, ni als criteris d'adjudicació, i es realitza en aplicació del que es preveu en l'article 124.2 de la Llei 9/2017, de Contractes del Sector Públic.\n \n\nAmb motiu de la correcció indicada, s'amplia el termini de presentació de proposicions, que finalitzarà el dia [nova data límit de presentació] a les [hora].\n \nLes ofertes hauran de presentar-se conforme al que s'estableix en els plecs rectificats, que estan disponibles en el Perfil de Contractant."
+      },
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "unitatContractacio": 8938502,
+      "tipusContracte": {
+        "id": 394,
+        "ca": "Subministraments ",
+        "es": "Suministros",
+        "en": "Supplies ",
+        "oc": "Subministraments "
+      },
+      "procedimentAdjudicacio": {
+        "id": 401,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {},
+      "metodologiaBim": false
+    },
+    "dadesPublicacio": {
+      "observacions": {},
+      "contractacioConjunta": false,
+      "justificacioProcedimentUtilitzat": {},
+      "contracteFinancatUe": false,
+      "valorEstimatContracte": 177465.2
+    },
+    "dadesPublicacioLot": [
+      {
+        "pressupostLicitacio": 177465.2,
+        "publicacioExpedientId": 300541478,
+        "cpvPrincipal": {
+          "codi": "34142000-4",
+          "ca": "Camions grua i camions de trabuc",
+          "es": "Camiones grúa y camiones volquete",
+          "en": "Crane and dumper trucks",
+          "oc": "Camions grua e camions de trabuc"
+        },
+        "cpvsSecundaris": [],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES514",
+          "ca": "Deltebre"
+        },
+        "dataAdjudicacio": "2025-07-22T22:00:00.000Z",
+        "dataFormalitzacio": "2025-08-07T22:00:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {},
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 80,
+            "observacions": {
+              "ca": "VEURE PLECS"
+            },
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 80,
+                "descripcioCriteri": {},
+                "identificador": "1552007719526517"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 20,
+            "observacions": {
+              "ca": "VEURE PLECS"
+            },
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 20,
+                "descripcioCriteri": {
+                  "ca": "VEURE PLECS"
+                },
+                "identificador": "1552007719527649"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 0,
+            "observacions": {
+              "ca": "VEURE PLECS"
+            },
+            "desglossament": []
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 2,
+        "ofertesRebudesEconomics": 2,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 2,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "OCATRUCK SL",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "B22229652",
+            "telefon": "634706898",
+            "email": "david.mesalles@agonalquiler.com",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "importAdjudicacioSenseIva": 167760,
+            "importAdjudicacioAmbIva": 202989.6,
+            "iva": 21,
+            "varisTipusIva": false,
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 317,
+              "ca": "Osca",
+              "es": "Huesca"
+            },
+            "municipi": {
+              "id": 1003410,
+              "ca": "Binéfar"
+            },
+            "tercerSector": {
+              "id": 1008410,
+              "ca": "Altres"
+            },
+            "informacioUte": [],
+            "plurianualitats": [
+              {
+                "anyAdjudicacio": "2025"
+              },
+              {
+                "anyAdjudicacio": "2026"
+              },
+              {
+                "anyAdjudicacio": "2027"
+              },
+              {
+                "anyAdjudicacio": "2028"
+              },
+              {
+                "anyAdjudicacio": "2029"
+              },
+              {
+                "anyAdjudicacio": "2030"
+              }
+            ]
+          }
+        ],
+        "subcontractacio": false,
+        "subcontractacions": [],
+        "metodeUtilitzatCalculValorEstimat": {},
+        "peuDeRecurs": {},
+        "adrecaEnllacMesInformacioRecurs": {},
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 301548562,
+              "titol": "Contracte signat.pdf",
+              "path": "seuaCZ2fbD_bPHBsMEza7uvqA6AXkXcVHqcuTTdTpTzP8ONBvjJ3tcDIO8baDsFeVFw9xurM0tjompKVAuc4EDEcSZpXf2rJ1KJwAk5EFcL9NL5xAFMcHcT8JNN9iTmsdRjk7C83cmElWnbN3UfbQpm36o4uHm8w_5sBQGI0c5_gwK-CJPSQA5WAkoegZhawi-6hNrwrftKFRVuYwyxsPzc_yVwobUtUPbZDzTf0p2JXUZL__gJ41Y1qVnbzV0NmhNs6ZKu6f_hLIsjeiwsjFNfWzBn3s0n-KIthVT6anmC0OeerY-BYXLMxtnr-5YvDvJFl0cRze22P66NRFDKumA==",
+              "hash": "91E5B77943C7A9A0D3CDE993145FC589",
+              "idioma": "ca",
+              "mida": 2190676
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2025-08-07T22:00:00.000Z",
+        "fiTerminiExecucio": "2030-08-07T22:00:00.000Z",
+        "observacionsTermini": {},
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "clausulaLinguistica": false,
+        "clausulaEtica": true,
+        "canonExplotacio": {}
+      }
+    ],
+    "dadesExpedient": {
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "b2c3a9ca-cf43-476d-bcac-838f671cd6ea",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "tipusOfertaElectronica": 413,
+      "denominacioExpedientReferencia": {}
+    },
+    "publicacionsOficials": [],
+    "motiuEsmena": {}
+  },
+  "pathPdf": "AQB2mHJ_3OSEp2y6mcHcP26-yKzERnagnl9nxrCL3CtpkPh7v64ilsYLjllXI62Y68GvEE4EeBDmVWGdq4ujO_8K20MTp1Z3rclYIdAwlJVQbw6QEpMJTeA1xsAg1X2VQF3dSDQFcEK0HvLTp_dTBdiay3meRNzZySV8luOKSsvzyM5J1ByFxYA67nxJBYuUZH3LxMSTJg1yEB9qsqk-3-TM8O-i6ar10jq9BrBMvu5zLvzUZycHHIRyZnCcNyiLTaK7uL8HK4xmuY6EcR4jaJ7HFtyXwZ-EcUETKuTCnOVxRcGIKFqWUL-i7EroCh50oVHmpybWRhQw7E1PxwR6eg==",
+  "pathCertificacio": "R-MxxiEhNjJSvf6i1aD0K3bDHghz3J4-5FAfyvm6e1gio1usV8HACeRCM81zcDYmSFuAbrKpMfZjs_lCIsMFL-wvUf1lf2QTvqGoozGugwwhI4-BS4mgAKOxiFIYlk_2Nfg9-QiQmCsIbDj2I0NzmQ8NcIWDRSBzDhsnw2p7tWwdfuwPIZsfsL6jezbQAYAqb1NFHyxSPYqZDgnOqtXq7PSCnx3pK88S4astxwrYz3Ylkqe7jcZ0BKJ7D2-3Eezc3HaFGf-ugXC3Q-e_Eodj_poOKsRJSIc9YBrRvJ4AJp7sSYuhpIXMteFM8afB4pT6OsNRzI1l4dtwooFnmxNZMA==",
+  "pathJson": "K9nI5X1BMjBM_0poBhIpltjtnIn8LjWkMvdt2rLZuzUg8QUuqLQP9ncJGLQFvuUKBrDvBV6D_hkclzOMW8uzelwo4PlbiVZStBq_XuRP-1yzZVYF9gXwYnb43-zaSHYK3kSQh88utf1z46HGUmhn9TJKQbhp1aKBOV3RLkAR0TRzwkLupCFKG0_4NT2dxPGpbKLlryyh3VOmO9ubNt8j3myQaXgaeSQJhkE_PW5lWSCLiMsMpi5nSk-umYfEHwVmB-IYGp7VNT42kiET2k_Gm3tCsqEwqxs9RIv0vjZ6Vt5-te6BnxR2zW9WM83KPXHq-0n86jTBzcBrEICOri6KdQ==",
+  "dataPublicacioReal": "2025-08-18T09:00:08.823Z",
+  "dadesExpedient": {
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": "Català",
+      "es": "Catalan",
+      "en": "Catalan",
+      "oc": "Catalan"
+    },
+    "expedientId": "b2c3a9ca-cf43-476d-bcac-838f671cd6ea",
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 413,
+    "denominacioExpedientReferencia": {}
+  }
+}

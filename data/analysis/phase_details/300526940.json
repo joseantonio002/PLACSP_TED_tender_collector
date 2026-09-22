@@ -1,0 +1,299 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "2024PT0235AC",
+  "idExpedient": "8d4ef683-64c8-43d5-a4a0-411f988509e1",
+  "dataPublicacioPlanificada": "2025-07-29T11:30:00.000Z",
+  "organ": {
+    "nom": "Barcelona de Serveis Municipals SA",
+    "nif": "A08765919",
+    "direccioPostal": "Carrer Calabria 66",
+    "localitat": "Barcelona",
+    "web": "https://www.bsmsa.cat/empresa/perfil-de-contractant",
+    "telefon": "938875020",
+    "fax": "934092366",
+    "email": "ajcc@bsmsa.cat",
+    "personesContacte": [
+      {
+        "nom": "Mercè ",
+        "cognom": "Piñol",
+        "carrec": "Arnal ",
+        "telefon": "938875020",
+        "email": "ajcc@bsmsa.cat"
+      }
+    ],
+    "observacions": {
+      "ca": "Les licitacions publicades abans de l'1 de juliol de 2016 s'han de consultar a https://www.bsmsa.cat/empresa/perfil-de-contractant"
+    },
+    "horari": {},
+    "organContractacioId": 15937877
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1008286,
+      "ca": "Expedient en avaluació",
+      "es": "Expediente en avaluación",
+      "en": "Under evaluation",
+      "oc": "En avaloracion"
+    },
+    "expedientId": "8d4ef683-64c8-43d5-a4a0-411f988509e1",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1008286,
+        "ca": "Expedient en avaluació",
+        "es": "Expediente en avaluación",
+        "en": "Under evaluation",
+        "oc": "En avaloracion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "2024PT0235AC",
+      "denominacio": {
+        "ca": "2024PT0235AC - Concurs d’idees amb intervenció de jurat per al projecte de reforma i tematització dels espais d’operació de les atraccions, les casetes de fotografia i els tòtems d’accés a les atraccions, pantalles d’informació i caixers del Parc d’Atraccions Tibidabo, incloent la conceptualització de la idea, direcció artística, redacció del projecte executiu, direcció d’obra i coordinació de seguretat i salut"
+      },
+      "descripcio": {
+        "ca": "Concurs d’idees amb intervenció de jurat per al projecte de reforma i tematització dels espais d’operació de les atraccions, les casetes de fotografia i els tòtems d’accés a les atraccions, pantalles d’informació i caixers del Parc d’Atraccions Tibidabo, incloent la conceptualització de la idea, direcció artística, redacció del projecte executiu, direcció d’obra i coordinació de seguretat i salut"
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "tipusContracte": {
+        "id": 393,
+        "ca": "Serveis",
+        "es": "Servicios",
+        "en": "Services",
+        "oc": "Servicis"
+      },
+      "procedimentAdjudicacio": {
+        "id": 1000010,
+        "ca": "Concurs de projectes",
+        "es": "Concurso de proyectos",
+        "en": "Project competition",
+        "oc": "Concors de projèctes"
+      },
+      "tipusConcurs": {
+        "id": 1000020,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 11386,
+        "ca": "Altres",
+        "es": "Otros",
+        "en": "Others",
+        "oc": "D’auti"
+      },
+      "descripcioAltres": {
+        "ca": "Sobre electrònic PLYCA"
+      },
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {}
+    },
+    "dadesPublicacio": {
+      "observacions": {},
+      "membresMesa": []
+    },
+    "dadesPublicacioLot": [
+      {
+        "pressupostLicitacio": 2000,
+        "publicacioExpedientId": 300526940,
+        "identitatEmpresa": [
+          {
+            "empresa": "MYCOTOO EUROPE SL (Lema: Elparcdatraccionsdelaciutat)",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "B67138784",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "noOberta": false,
+            "informacioUte": [],
+            "observacions": {}
+          },
+          {
+            "empresa": "IMMERSIVE PLANET DESIGN SL (Lema: Magiaidissenyalaltura)",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificadorEmpresa": "B66476870",
+            "tipusEmpresa": {
+              "id": 748,
+              "ca": "PIME",
+              "en": "SME",
+              "oc": "PIME"
+            },
+            "noOberta": false,
+            "informacioUte": [],
+            "observacions": {}
+          }
+        ],
+        "informesActesMesesContractacio": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [
+              {
+                "id": 301504902,
+                "titol": "34. Acta obertura S2_SG.pdf",
+                "path": "pwfDj9flpOTEiz_R__mWfuWt9cQSwtAb5F5xj_laXXfsv54k0Qc5bR81F8MHnlFSmE39gAsYOS85YfHOYkDLnpIRhdD-7OLo3PdzIKTqD61YUN2VCPR140kqRN-MP6pQk-OaHUt5QZczdCNuEhWoMiM_w3TAiOlBvj6GwqtD1c0WCBNN3aAKquONFc-r9Vw-Q72jp3V6REIgd7V9tZkkMWFUKEO19HJiBY50cR7vs1Yae6qwisaqP1I88tcPafa22Rb7eImjIUgoU4K4mCkhcdvHWKsIlrYEaGZ2g8kNoOYbFFCiZ5-bJtHI_SjMtznrN3MK-7_cROP-22wIIEBe4A==",
+                "hash": "327438E00AE6DD6190A6CA19DCD35418",
+                "idioma": "ca",
+                "mida": 338912
+              },
+              {
+                "id": 301504912,
+                "titol": "36. Acta obertura S3_SG.pdf",
+                "path": "T7N837LqwOO2khk-Syp9OqpjTGPnV2JZy3r6GrdFPpjDvNndYRE9UKQLFy_VUU3lLVdxjyHUnoxX4rhLamGxvheGsL-ZjyHUTWEgjzIPMMHfPKGKZoRUX9nMKZ22cJF2DWBgR5IwTkZfoifBm-vB2lKJQ92AYRtxDTNToDlXX0M9Op1VTgcykYrqGy7z-1SZq2GnQKGu7zZWSmTBF50cpDeTKT1T4ffapvGa4GkPMRF7vaBXyGZyKaNnqpquyMvJMPw9_a2QCYZvkvmA3jAkWS0QX9uOAjf1qf_y_wf-ECofrza4gB0q2t7Jn7MeyHX4auRhStzuD57gPUFIhH3xqQ==",
+                "hash": "F2BA9041165B55BD88F05A2AB1BCFE34",
+                "idioma": "ca",
+                "mida": 342485
+              },
+              {
+                "id": 301504915,
+                "titol": "37. Acta classificació_SG.pdf",
+                "path": "Bbuzsm7Pi_v77MlgoAugkpgkEPsHZko0n7v7nqMM6PFzPBAESOqtQrTAtfDQJLugcUwtSMioW8HHvc5e9yXgC1YslwpPtNG8mlmFCOxXLm_qWdPscKvTyHmMPlEYtseQnXSmJw_sdoW9u24OFkgWjG-5m15dkOis8CHnv91nsDW9E_Pldp-f45LDNZAY0edeTq7vq3OM7sRtWUmO6v7_yRWuUI-xFL_GZrGmOSSMM9Lv8Q5r3kgDuj0s_cUn7nGHstzb30HfLTQOPt6HaTFXL8oPXTzykVpxwnNthMIMhmFCdYA74Y9UZ-jJVd8ji3oCd7ypCC5XvRBC9I7CvtZshg==",
+                "hash": "CDB8AAEC0BA54717BA600DA2D7E595AF",
+                "idioma": "ca",
+                "mida": 394668
+              },
+              {
+                "id": 301504918,
+                "titol": "39. Acta adjudicació_2024PT0235AC SG.pdf",
+                "path": "idQq4aasnsX5MHXmwBndbKsxXUS2nM3s5BRaEVEbj8_eB0LIvnbED6x7ypQa3u_rH-VnkW10mP3sf0OL5Znmk_Dbe3zPmMM-Ahtob_bd6pkIyOP70FGswOLp-kx3kngCdRifSsN7ivtNrMe_BQ3kAs0-6QaXVdItl9aitOAclGSIFvFY_NnGBczdXbGRF3oF5KuKSIDwK_i4bh-JF5yZfAWNxrDfIBo7ZDZN4fJ71KtXjnISaXEgS8tUkesKRW3TGOgapyH_IIGWMEVg8gyt-frAYYJ5zuZiIf8eXX1mdi2MduuGu1HXFXlVWdaT97-dI3R5S4ZjQJw8aK3MmOQGkQ==",
+                "hash": "53F167D52AC7A6F8319DD63D61CB6C2F",
+                "idioma": "ca",
+                "mida": 550128
+              }
+            ],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "informesOfertesPresumpcioAnormalitat": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "informesValoracio": {
+          "tipusAnotacioFitxer": {
+            "id": 1000036,
+            "ca": "Fitxer",
+            "es": "Fichero",
+            "en": "File",
+            "oc": "Fichèr"
+          },
+          "anotacio": {},
+          "fitxers": {
+            "ca": [
+              {
+                "id": 301504930,
+                "titol": "30. Informe valoració S1.pdf",
+                "path": "Oo2RewimxOrHe2vnI-IkRkkedRkfXseFkGllXNghTQGhiE6mUzjTlwVqhR_kxllQpj-Ezx265TQ12RkM04LPuxBZJdNPLdAO-21OlW5a4judrmD8mfCGxD7Wo8_g4F7CCf0F2C0lPanE2IrB3qAzQcHJAvxYWU6GMg1ubn14RsTXx1k7dE_x_QnsokcfrBEoXG5uCpNQmUI90vFXSHR64gySXgXjYxCKwojaFU8v38YuwKxqwBCqcauumHWM-hCEFWmRDCC1TASw4Zi6cJf6fvz4FfeCXrYvLczz6wF2bPurTas764FykaJ-GemllEG-YKSO2OZyv7Myz3_1jjNhjA==",
+                "hash": "96E40915DBF3FF71B27DD5433270C839",
+                "idioma": "ca",
+                "mida": 298392
+              }
+            ],
+            "es": [],
+            "en": [],
+            "oc": []
+          }
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "observacions": {},
+        "totalOfertesRebudes": 2
+      }
+    ],
+    "dadesExpedient": {
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "8d4ef683-64c8-43d5-a4a0-411f988509e1",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": true,
+      "esPublicacioAntiga": false,
+      "tipusOfertaElectronica": 11386,
+      "denominacioExpedientReferencia": {}
+    },
+    "publicacionsOficials": [],
+    "motiuEsmena": {}
+  },
+  "pathPdf": "Cl8DdIDKPxiNfPFLTXnZfQYpB5AbanqEsM_4joSUD-BHj1lvlFlDhZLrAQqmtEQCdPpX1Jw-9ztQJyDMDkmIWT7XwjuN7YmOB90Z0qvG4ZCxJSRdZ9nWzWDpCeCjyhF2m2X9OfCr6O-B4Kh5Oe0ywDHENRF5yFsoCnYTGfaLExLDNuOln1pX1bbXoRbZykfPEkrBeQH8epf1HuXr98-MAR5zoBw4FfXPIwzvGmvzAZUemFB6c34wQsuLtw4pOIH9clQI-BPhzHDHMVUn8dCe5yAQBVjo5lhoz_Yzak7KP1trqKsqY-P2ankkGtdh6_Z9_7tfwyIrxWBqtjO0igRcDA==",
+  "pathCertificacio": "NJB1nohp7C7aaBvuDNN7zIv8XR9NJSC-1iVSgSSqhhxiKUlucNVoDSt75inY99CQODXIMMIMSaYLnZZg8i-XqxYIUx5BhCT0AMDqUtOD7gTr6GJxNaPpqoKgL-keRAG1wHOC18XkO2lvx7ITaDanlMaCGlA8l5Ehjfj4UTWgv33UdRYsEgpHeorPbRinb6owDq8tNwlvt9ID-S89mrE8KNtsUwflVabJvxQJawIMj1tkVZRQ9JEi-ZY1AU0f931xyLHN7b_R-D_EabkSf7az3Xmt5Iy2xcOhgse0GYK7s9gjkPhbK6ItEt3SffnjzA8fZCN4HSSjqK40wcGrrwWFpA==",
+  "pathJson": "dF8zgpasOoG1QHOjERHOLn_PKIyrshur1pdjqgnkhFrZ7shvGAIzUUNWUdQwC8poqc8GbE4tW9qz1mmjXxVwG1lpZJ3dxgObxdkJjasALdZZ3HPycVONJWC1vt5lSv0-vrExSghG2jAKdmR51Hg5atMk9V5mxZLUJkx2VWYhZJy1af44U9vgwNrPvskhIjE5YfPjJISuhLe7i1UaiBrAIP5eBGWkNn2lY4FPv-yXL_SUsmmHNPoLZUAsTpTGO6yNHQqMYE7lA-tH7Mj4Y3FrhvTzZg1AJIU5-0k7S_NmkZ8dItVjSLmDTdHJUV4ikrbiTYy7j9HcA-h9DBrIxAwhmQ==",
+  "dataPublicacioReal": "2025-07-29T11:30:11.115Z",
+  "dadesExpedient": {
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": "Català",
+      "es": "Catalan",
+      "en": "Catalan",
+      "oc": "Catalan"
+    },
+    "expedientId": "8d4ef683-64c8-43d5-a4a0-411f988509e1",
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": true,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 11386,
+    "denominacioExpedientReferencia": {}
+  }
+}

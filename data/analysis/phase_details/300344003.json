@@ -1,0 +1,194 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "CCS12024000095",
+  "idExpedient": "b3f640c5-3c2c-4340-9e32-bdd894f89436",
+  "dataPublicacioPlanificada": "2025-01-07T10:22:22.453Z",
+  "organ": {
+    "nom": "Ajuntament d'Olot",
+    "nif": "P1712100E",
+    "direccioPostal": "PS. Bisbe Ramon Guillamet, 10",
+    "localitat": "Altres/Diversos, No Consta",
+    "codiPostal": "99999",
+    "nuts": "OT",
+    "web": "http://www.olot.cat",
+    "telefon": "972279100",
+    "fax": "972279108",
+    "email": "contractacio@olot.cat",
+    "personesContacte": [
+      {
+        "nom": "Contractacio",
+        "cognom": "AjuntamentOlot",
+        "telefon": "972279118",
+        "email": "contractacio@olot.cat"
+      }
+    ],
+    "centralCompres": false,
+    "observacions": {},
+    "horari": {},
+    "organContractacioId": 925838
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000041,
+      "ca": "Anul·lació",
+      "es": "Anulación",
+      "en": "Cancellation",
+      "oc": "Anullacion"
+    },
+    "expedientId": "b3f640c5-3c2c-4340-9e32-bdd894f89436",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000041,
+        "ca": "Anul·lació",
+        "es": "Anulación",
+        "en": "Cancellation",
+        "oc": "Anullacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "CCS12024000095",
+      "denominacio": {
+        "ca": "CONTRACTACIÓ ADMINISTRATIVA DEL SERVEI D'ACOLLIDA I ATENCIÓ AL PÚBLIC DEL TEATRE PRINCIPAL D'OLOT."
+      },
+      "descripcio": {
+        "ca": "Contractació dels serveis d'acollida i atenció al públic al Teatre Principal d'Olot, atès que no disposa de serveis interns per a l'execució del mateix."
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "tipusContracte": {
+        "id": 393,
+        "ca": "Serveis",
+        "es": "Servicios",
+        "en": "Services",
+        "oc": "Servicis"
+      },
+      "procedimentAdjudicacio": {
+        "id": 419,
+        "ca": "Obert simplificat",
+        "es": "Abierto simplificado",
+        "en": "Open simplified",
+        "oc": "Daurit simplificat"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {}
+    },
+    "dadesPublicacio": {
+      "observacions": {}
+    },
+    "dadesPublicacioLot": [
+      {
+        "publicacioExpedientId": 300344003,
+        "observacions": {},
+        "tipusAnulacioDesert": {
+          "id": 1008413,
+          "ca": "Retroacció",
+          "es": "Retroacción",
+          "en": "Retroaction",
+          "oc": "Retroacció"
+        },
+        "documents": {
+          "ca": [
+            {
+              "id": 300994826,
+              "titol": "ACTA CCS12024000095.pdf",
+              "path": "AZvXDTb_GUfv4e1rLW_p0UQo1_NrLpF1dEIDjuH-OSkrFMwERNjKHYHDsbDFn94N276vXbFNHxZT1pdSQw8HtWZtAuFZZcNLR7MZjJt-5E46HFzeF1h-SUvFRy-34wW8AN80oo28YGEkiWVGO8eCtKezr7bIXr_Z4z8keE8Qxl3cX59ZBKDYfwHcLEUAdcFYnbkZXRy07_MNT--FSHC3L85hzQ7LBFAgxakueQdsx1GymF8TCk0wCICfF8ldfn-C24FHXtK40ZQdRUxH_xGkpvKG7XYl6j43iUBlbMc0CXMZYm8lZkq_N4L3MW2fLyObdhZrVzYZbIrAhGiIpfWUWQ==",
+              "hash": "8DA4430BEADFA5B6583AE40B272A3EAD",
+              "idioma": "ca",
+              "mida": 440838
+            },
+            {
+              "id": 300994827,
+              "titol": "DECRET CCS12024000095.pdf",
+              "path": "jkHbZUJfCHEddFUF3g0gs5TrRIoYQ32YITqhkjhOSaUzAB-ZG3u2KQtXzu-h89U6aX_Ls2Vs2KnOMuK8FxGi391ik_U0eiy3WTpNjPoz0Yeou6IQEKqyie521nzBD05JnThp-UF8glMbIeS7uOHEBlBzwr-muu_sub5SKbhBRFJC7FHXBd0_HF8KENyqptlgwk14EnvgxhhJ-GCXmujA8qTiKU0R5JgKdPTmyW7OQrQdbepcv0XGFEvOuy6Cy1WcC7WlMQgy8662SKETgKW5BPnysJy770iAcfNUhzEVhBcPxNZXW7UBcNBnAKLuuCEMtiYgtwpl_btah3pkVAtrMw==",
+              "hash": "9CB2102FF28876F4B3EF30E3B19C512F",
+              "idioma": "ca",
+              "mida": 292302
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        }
+      }
+    ],
+    "dadesExpedient": {
+      "organContractacioId": 925838,
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "b3f640c5-3c2c-4340-9e32-bdd894f89436",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "tipusOfertaElectronica": 413,
+      "denominacioExpedientReferencia": {}
+    },
+    "motiuEsmena": {}
+  },
+  "pathPdf": "gEUCEI2ws0JSLD5H43rjBTui0Eklo_56zfkcAIN_kDz1Bd_YDqEwgahy0UUXn4N6QPuOemZEHW97RttQXiHCMtIJTPh_iScMd8nvvuYKd0MkfjT5IP9ETLQl0-opWmdXk7-OD6qIoATmq8ulOwximBPB6aanr-JOMU6Yw24-7s-6RjMfYhl-K8l6xKQwx_kpW3vJyb1sOb-vxHx6FTBg5sJpE7AiWgXzjSdksVZplKapDQbl9aJeH-KI-O8WDV5yqI7YDMmaaXbo8s6sYd2YJoMeztGHWvczBDUXPsa2wQ5ZEXYKmk5DQuNsiYSS8z528izLyyqnEUPpZxK7B0QSXg==",
+  "pathCertificacio": "bCUjCmnE6sKQTnFRuE8Cn4TqBuMYliYU5I8YuNnlcvxeg26833VltEk_y8ucgM2DNALesFeKcN0R255tCZuoh7OKyhQ5pR6jGfR2uBPD65TLUVnpXPR8ntrVSQyYCFpVCwbErEJIBfqsv_fcAzwqgXK9Jml6ZZKydMYtJ1OaxNUqRvxWZvLtvOy74PsVFJogz2xXqZGe623sgE9kSCkgL637MJepNiPfwoYltEPtJMAAXrCDHloXX1rv6qCj4R12gxlSdBm7EmqiFTxo347DvHtvMm-MGQ-cUNa2bMMSHzzkvPVKL_DfnSXcBN9wUSMQBFLepyZ6kgAOa5KgizLJug==",
+  "pathJson": "WIBA2wPtRAebhLJF8FA3AMA_TSxywSniizajnFC3jAWLlqvrUJ3VRKAmcbNUM9Cm_gldI7YAIZnsLLij3VG5mw8zysEesMMf5K_bBUjhN-IlTyIAF3rICdUFSfTFyYI4lbNLwrXQUDOAdfpdGgYmZ9VXMuMAOc2UFCCJUf-zkrwo0S4RNbKBoVWiZZEliC9Z8wH-kkf-OAGin2mYIlhpbjD3VI30nIWK_r_hNDaIUUV0jDbN_rbzGBea2s_xOuEkI_lKxQ-fDWSK01apMulpTnebTw_i9E0nekVoerlOYym_kKJsD__E0CNksfJ6V0TXy1PttFkTe2wHH-uhGOsHPg==",
+  "dataPublicacioReal": "2025-01-07T10:24:05.708Z",
+  "dadesExpedient": {
+    "organContractacioId": 925838,
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "expedientId": "b3f640c5-3c2c-4340-9e32-bdd894f89436",
+    "dataFiPublicacioPerfil": null,
+    "dataFiGestio": null,
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "tenderingSpaceId": null,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 413,
+    "dataVisiblePortalAccesExclusiu": null,
+    "expedientIdReferencia": null,
+    "codiExpedientReferencia": null,
+    "denominacioExpedientReferencia": {
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "nomOrganContractacioReferencia": null
+  }
+}

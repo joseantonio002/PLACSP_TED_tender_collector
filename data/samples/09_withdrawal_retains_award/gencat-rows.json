@@ -1,0 +1,51 @@
+[
+  {
+    "codi_ambit": "1500002",
+    "nom_ambit": "Entitats de l'administració local",
+    "codi_organ": "30109100",
+    "nom_organ": "Ferrocarril Metropolità de Barcelona, SA",
+    "codi_ine10": "8200335046",
+    "codi_dir3": "A9999999",
+    "codi_expedient": "13794496",
+    "tipus_contracte": "Subministraments",
+    "procediment": "Obert",
+    "fase_publicacio": "Anul·lació",
+    "denominacio": "Subministrament 43680 paquets de tovalloletes eixugamans 31x23cm reciclades Codi TMB 5456",
+    "objecte_contracte": "Subministrament 43680 paquets de tovalloletes eixugamans 31x23cm reciclades Codi TMB 5456",
+    "valor_estimat_contracte": "91728.00",
+    "termini_presentacio_ofertes": "2022-06-17T09:00:00.000",
+    "data_publicacio_anunci": "2022-06-01T15:00:00.000",
+    "data_publicacio_adjudicacio": "2023-08-02T08:39:00.000",
+    "data_publicacio_anul": "2026-02-13T14:04:00.000",
+    "tipus_identificacio": "542",
+    "identificacio_adjudicatari": "A58846064",
+    "denominacio_adjudicatari": "Distribuidora Joan, S.A",
+    "import_adjudicacio_sense": "83996.64",
+    "import_adjudicacio_amb_iva": "101635.93",
+    "resultat": "Renúncia",
+    "enllac_publicacio": {
+      "url": "https://contractaciopublica.cat/ca/detall-publicacio/ff3d3f75-b452-4e97-471f-854e61e9fd07/300694438"
+    },
+    "es_agregada": "NO",
+    "data_adjudicacio_contracte": "2022-07-11T00:00:00.000",
+    "tipus_tramitacio": "Ordinària",
+    "eina_presentacio_electronica": "Sobre digital",
+    "pressupost_licitacio_sense": "91728.00",
+    "pressupost_licitacio_sense_1": "91728.00",
+    "valor_estimat_expedient": "91728.00",
+    "tipus_empresa": "PIME",
+    "url_json_licitacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/102238048/Zli3DUoWTuVv0mkarZXBVDpDIgkdTw1yekT3HskO6MHssd2AuBakLtCqRR6UBAPbiyqqtxSH9acsDc52Z3r9IkrrdmYAzjeJab0cQxESgsnAV-lJ0IbnjRBYRXPvz0xsoAw1o9PWDTmLgujljPsprweXi9YKOQf9cCsgC1jRAQ0cm2U7texih0hrVLQZ-bxRCXMcGo8w__lMRSN5IneaEA4XqtIiIUea9_s-a8Yl1CiEWPbnUKRk9UdeUHfc6_KkzdSQtcfcKaIC1wIv7WIVeXzkLAKP87z-RCaWixaXpSgPqTW43S0QlRiCICIlPu_lYvQycCV2WvRXPYOsracb9Q=="
+    },
+    "url_json_adjudicacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/200114506/qiv6cspRbh9I-6TNGf-ERaL2OpOYfnLeqxX51vJu3tIQw3VlrKHOuOBbznhfg8Y3CK3tfNEuWJFCgIS2c1sEaNI9upZDhKj6BiS9cjoFy_J47x98Y0TKNhtkcaqemetjT3kXhYjXbQ_W5FCyln9UJOSG6_EHpPIdmADBxWfYe8FYDJSQwY3DYxUln5GNAWk73YaaLmuTgrj2Fa7hLCsogvI-c5xXPpOgqcV7NRTber5620P2fkgMi7uu9gRpocnEIweRtwahwPTYNucI_kq3r8UJYQX8K3m5Sc7nApfFK2ntyXHw9pPPMCshlJVOfRer2QWjsnq3YgI25z--nY-Fhw=="
+    },
+    "url_json_anulacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300694438/DigZ0sYsTiMwvAY662V8Z400IAD0rdSvlRuLGfhADm4y53JoRIEg42rKtrzf2z2AyNteVde5sRqGFzTK5gSLrXdaSHvZexdABlrMCzrZmRUTiZg3yyJNwlm0-EbQkRvdVhrZTcbaZK4-XDHAUebnVNifjPr-g-0fQ_8ftl1pUZCc96fNIeCzeZfq0rvWSp4RmCg4Vzvv2RSGuNTXER-6GnrO3Un87OEsE3pfvTSTaIKSEAU64tlKhAhPUZCVIJe3sp7WKAiSJPO0N1n7XlLiZ8T82WIuq0pHOPxO1M0bbLTny8HEOjw9qUcDIPX7wPht5JNVQ-7wGZI2SJmX6lMgSQ=="
+    },
+    "id_intern": "ff3d3f75-b452-4e97-471f-854e61e9fd07",
+    ":id": "row-r3sv~uwv9~sc39",
+    ":created_at": "2026-07-13T13:26:08.273Z",
+    ":updated_at": "2026-07-13T13:26:08.273Z"
+  }
+]

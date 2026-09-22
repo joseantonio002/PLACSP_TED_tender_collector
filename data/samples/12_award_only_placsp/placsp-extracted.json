@@ -1,0 +1,1017 @@
+[
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/13416259",
+    "updated": "2025-10-27T15:00:34.247+01:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/32eecb10-7f89-42fe-9a5f-80c771cc9e19/300166766",
+    "uuid": "32eecb10-7f89-42fe-9a5f-80c771cc9e19",
+    "publication_id": "300166766",
+    "expediente": "AG-2023-29",
+    "title": "Execució d'infraestructures de prevenció d'incendis en zones d'alt risc i d'actuacions de millores en forests públiques amb càrrec als fons PRTR",
+    "status": "RES",
+    "buyer_name": "Departament d'Agricultura, Ramaderia, Pesca i Alimentació",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "202191"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "6055461.26",
+    "budget_gross": null,
+    "estimated_value": "6055461.26",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "45200000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2024-03-07",
+    "deadline_time": "14:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Execució del projecte d'infraestructures bàsiques del PPP de Collserola. PEGs 18, 19 i 22",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Lot 10 - Punts d'aigua",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Lot 11 - Punts d'aigua",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Reducció de càrrega de combustible a les forests Frides i Fontit, Núm 52 del CUP i Manou; núm. 64 del CUP, al TM de Tivissa",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Treballs silvícoles de millora a les forests propietat de la Generalitat situades al TM del Perelló",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "14",
+        "title": "Lot 14 - Accessos",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "15",
+        "title": "Millora de la xarxa viària per a la prevenció d'incendis a la Serra de Boumort",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "16",
+        "title": "Millora de la xarxa viària per a la prevenció d'incendis al PPP L-3",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "17",
+        "title": "Millora de la xarxa viària per a la prevenció d'incendis al PPP L-1",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "18",
+        "title": "Reducció de càrregues de combustibles en el PPP L1",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "19",
+        "title": "Selecció de tanys en forest patrimonials: Mont-roig i Sant Marc",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Execució del projecte d'infraestructures bàsiques del PPP de Collserola. PEGs 1, 3, 4 i 15",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "20",
+        "title": "Lot 20 - Punts d'aigua",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "21",
+        "title": "Treballs de prevenció d'incendis, reduccions de càrrega de combustible i millora de infraestructures per a l'extinció d'incendis forestals a Argençola",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "22",
+        "title": "Treballs de prevenció d'incendis, reduccions de càrrega de combustible i millora de infraestructures per a l'extinció d'incendis forestals a Bages, Berguedà i Solsonès",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "23",
+        "title": "Treballs de prevenció d'incendis, reduccions de càrrega de combustible i millora de infraestructures per a l'extinció d'incendis forestals al Moianès i Osona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "24",
+        "title": "Actuacions de disminució de la càrrega de combustible mitjançant la extracció de material vegetal en zones on no es possible el trànsit rodat",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "25",
+        "title": "Millora silvícola i de pastures a la Muntanya de Sant Miquel, municipi de Setcases (Ripollès)",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Lot 3 - PPP de Collserola",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Establiment d'infraestructures de prevenció d'incendis a les forests Muntanya de Colera (CUP  G-73) i Muntanya de Portbou (CUP G-72)",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Millora infraestructures de prevenció d'incendis a la forest Muntanya de les Salines, Fucimanya i Balló (CUP G-1). Fase I",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Millora accés a la forest Solei i Bac (CUP G-5), camí de Can Vidalic",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Millora i manteniment de vials als Perímetres de Protecció Prioritària (PPP) T3-Muntanyes de Prades i BT2-Ancosa-Motagut",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Millora i manteniment de vials al Perímetre de Protecció Prioritària (PPP) T3-Muntanyes de Prades",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Lot 9 - Punts d'aigua",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "1",
+        "amount": "339043.82",
+        "supplier_ids": [
+          "B44187078"
+        ],
+        "supplier_names": [
+          "GIL FORESTAL, SL"
+        ],
+        "contract_dates": [
+          "2024-03-20"
+        ]
+      },
+      {
+        "result": "3",
+        "award_date": null,
+        "lot": "10",
+        "amount": null,
+        "supplier_ids": [],
+        "supplier_names": [],
+        "contract_dates": []
+      },
+      {
+        "result": "3",
+        "award_date": null,
+        "lot": "11",
+        "amount": null,
+        "supplier_ids": [],
+        "supplier_names": [],
+        "contract_dates": []
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "12",
+        "amount": "299796.25",
+        "supplier_ids": [
+          "B44187078"
+        ],
+        "supplier_names": [
+          "GIL FORESTAL, SL"
+        ],
+        "contract_dates": [
+          "2024-03-20"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "13",
+        "amount": "465906.84",
+        "supplier_ids": [
+          "B44187078"
+        ],
+        "supplier_names": [
+          "GIL FORESTAL, SL"
+        ],
+        "contract_dates": [
+          "2024-03-20"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "15",
+        "amount": "227940",
+        "supplier_ids": [
+          "B43833284"
+        ],
+        "supplier_names": [
+          "ADOMGRI, SLU"
+        ],
+        "contract_dates": [
+          "2024-03-20"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "16",
+        "amount": "215750",
+        "supplier_ids": [
+          "A25202680"
+        ],
+        "supplier_names": [
+          "RIBALTA I FILLS, SA"
+        ],
+        "contract_dates": [
+          "2024-03-20"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "17",
+        "amount": "156325",
+        "supplier_ids": [
+          "B43833284"
+        ],
+        "supplier_names": [
+          "ADOMGRI, SLU"
+        ],
+        "contract_dates": [
+          "2024-03-20"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "18",
+        "amount": "139090.59",
+        "supplier_ids": [
+          "B44187078"
+        ],
+        "supplier_names": [
+          "GIL FORESTAL, SL"
+        ],
+        "contract_dates": [
+          "2024-03-27"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "19",
+        "amount": "137896.35",
+        "supplier_ids": [
+          "B44187078"
+        ],
+        "supplier_names": [
+          "GIL FORESTAL, SL"
+        ],
+        "contract_dates": [
+          "2024-03-27"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "2",
+        "amount": "264710.17",
+        "supplier_ids": [
+          "A08602815"
+        ],
+        "supplier_names": [
+          "TALHER, SA"
+        ],
+        "contract_dates": [
+          "2024-03-20"
+        ]
+      },
+      {
+        "result": "3",
+        "award_date": null,
+        "lot": "20",
+        "amount": null,
+        "supplier_ids": [],
+        "supplier_names": [],
+        "contract_dates": []
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "21",
+        "amount": "270359.57",
+        "supplier_ids": [
+          "B25334202"
+        ],
+        "supplier_names": [
+          "EXPLOTACIONS FORESTALS M. BAUTISTA, SL"
+        ],
+        "contract_dates": [
+          "2024-03-20"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "22",
+        "amount": "292256.9",
+        "supplier_ids": [
+          "B17574799"
+        ],
+        "supplier_names": [
+          "ARICO FORESTS, SLU"
+        ],
+        "contract_dates": [
+          "2024-06-05"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "23",
+        "amount": "466617.53",
+        "supplier_ids": [
+          "B44187078"
+        ],
+        "supplier_names": [
+          "GIL FORESTAL, SL"
+        ],
+        "contract_dates": [
+          "2024-03-20"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "24",
+        "amount": "86876.81",
+        "supplier_ids": [
+          "B25500786"
+        ],
+        "supplier_names": [
+          "HELITRANS PYRINÉES, SLU"
+        ],
+        "contract_dates": [
+          "2024-03-20"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "25",
+        "amount": "0",
+        "supplier_ids": [
+          "B17574799"
+        ],
+        "supplier_names": [
+          "ARICO FOREST, SLU"
+        ],
+        "contract_dates": [
+          "2024-04-03"
+        ]
+      },
+      {
+        "result": "3",
+        "award_date": null,
+        "lot": "3",
+        "amount": null,
+        "supplier_ids": [],
+        "supplier_names": [],
+        "contract_dates": []
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "4",
+        "amount": "317510.4",
+        "supplier_ids": [
+          "B17652728"
+        ],
+        "supplier_names": [
+          "ALAMEDA TORRENT, SL"
+        ],
+        "contract_dates": [
+          "2024-03-27"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "5",
+        "amount": "366451.65",
+        "supplier_ids": [
+          "B17652728"
+        ],
+        "supplier_names": [
+          "ALAMEDA TORRENT, SL"
+        ],
+        "contract_dates": [
+          "2024-03-27"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "6",
+        "amount": "127202.17",
+        "supplier_ids": [
+          "B17574799"
+        ],
+        "supplier_names": [
+          "ARICO FOREST, SLU"
+        ],
+        "contract_dates": [
+          "2024-04-03"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "7",
+        "amount": "77062.32",
+        "supplier_ids": [
+          "B43870880"
+        ],
+        "supplier_names": [
+          "NOGUÉS EXCAVACIONS, SL"
+        ],
+        "contract_dates": [
+          "2024-04-03"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "8",
+        "amount": "34700",
+        "supplier_ids": [
+          "B43833284"
+        ],
+        "supplier_names": [
+          "ADOMGRI, SLU"
+        ],
+        "contract_dates": [
+          "2024-03-20"
+        ]
+      },
+      {
+        "result": "3",
+        "award_date": null,
+        "lot": "9",
+        "amount": null,
+        "supplier_ids": [],
+        "supplier_names": [],
+        "contract_dates": []
+      }
+    ],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2023-09-26"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-09"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-09"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-09"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-09"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-09"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-09"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-09"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-09"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-09"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-09"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-09"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-09"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-09"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-09"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-09"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-09"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-09"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-09"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-09"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-05-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-06-07"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP AG-2023-29. VDEF.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/300203564/867B47B542CE601583B5428A93989B47"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "Plec Prescripcions Tècniques AG-2023-29.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/300203565/C6516AFB076CF5FF4950F9E628C4D5F3"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20251029_040155_4.atom",
+    "ordinal": 265
+  }
+]

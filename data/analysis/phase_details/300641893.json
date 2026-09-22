@@ -1,0 +1,1632 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "9884AM",
+  "idExpedient": "0cad6ef8-d560-937e-0dc0-bdf44338687e",
+  "dataPublicacioPlanificada": "2025-12-10T12:50:00.000Z",
+  "organ": {
+    "nom": "Aigües de Manresa, SA",
+    "nif": "A08294282",
+    "direccioPostal": "Plaça Plana de l'Om, 6 3r3a",
+    "localitat": "Barcelona, Manresa",
+    "codiPostal": "08241",
+    "nuts": "ES511",
+    "web": "www.aiguesmanresa.cat",
+    "telefon": "938725522",
+    "email": "info@aiguesmanresa.cat",
+    "personesContacte": [
+      {
+        "nom": "Carme",
+        "cognom": "Ruiz Boatella",
+        "carrec": "Tècnica Licitacions",
+        "telefon": "938725522",
+        "email": "compres@aiguesmanresa.cat"
+      },
+      {
+        "nom": "Jèssica",
+        "cognom": "Alvarez Enrique",
+        "carrec": "Tècnica Licitacions",
+        "telefon": "938725522",
+        "email": "compres@aiguesmanresa.cat"
+      }
+    ],
+    "centralCompres": false,
+    "tipusPoderAdjudicador": 1500007,
+    "observacions": {
+      "ca": "Aigües de Manresa, SA, ostenta la condició de mitjà propi de diferents poders adjudicadors, tal i com estableix l'Article 2n dels Estatuts de la Societat (veure document adjunt)\\r"
+    },
+    "horari": {
+      "ca": "De dilluns a divendres de 7:30h a 15:30h"
+    },
+    "organContractacioId": 30877783
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000043,
+      "ca": "Formalització",
+      "es": "Formalización",
+      "en": "Formalisation",
+      "oc": "Formalizacion"
+    },
+    "expedientId": "0cad6ef8-d560-937e-0dc0-bdf44338687e",
+    "teLots": true,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000043,
+        "ca": "Formalització",
+        "es": "Formalización",
+        "en": "Formalisation",
+        "oc": "Formalizacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "9884AM",
+      "denominacio": {
+        "ca": "Acord Marc pel subministrament de comptadors d'aigua freda de consum humà, aigua residuals i/o fangs, per Aigües de Manresa, SA"
+      },
+      "descripcio": {
+        "ca": "Subministrament de comptadors d'aigua freda de consum humà, aigua residuals i/o fangs, per Aigües de Manresa, SA, dividir en lots."
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "racionalitzacioContractacio": {
+        "id": 472,
+        "ca": "Acord Marc",
+        "es": "Acuerdo marco",
+        "en": "Framework Agreement",
+        "oc": "Acòrd Marc"
+      },
+      "tipusContracte": {
+        "id": 394,
+        "ca": "Subministraments ",
+        "es": "Suministros",
+        "en": "Supplies ",
+        "oc": "Subministraments "
+      },
+      "procedimentAdjudicacio": {
+        "id": 401,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {},
+      "tipusSubministraments": {
+        "id": 1008432,
+        "ca": "Adquisició"
+      }
+    },
+    "dadesPublicacio": {
+      "pressupostLicitacio": 211249.74,
+      "observacions": {},
+      "contractacioConjunta": false,
+      "justificacioProcedimentUtilitzat": {},
+      "contracteFinancatUe": true,
+      "tipusFinancament": {
+        "id": 1008344,
+        "ca": "MRR (Mecanisme de recuperació, transformació i resiliència)",
+        "en": "RRF (Recovery, Resilience Facility)",
+        "oc": "MRR (Mecanisme de recuperacion, transformacion e resiliéncia)"
+      },
+      "valorEstimatContracte": 422499.47
+    },
+    "dadesPublicacioLot": [
+      {
+        "numeroLot": "4",
+        "lotId": 0,
+        "descripcio": {
+          "ca": "COMPTADORS MECÀNICS INDUSTRIALS DN25-DN40 "
+        },
+        "publicacioExpedientId": 300641893,
+        "titol": "COMPTADORS MECÀNICS INDUSTRIALS DN25-DN40 ",
+        "cpvPrincipal": {
+          "codi": "38421100-3",
+          "ca": "Comptadors d'aigua",
+          "es": "Contadores de agua",
+          "en": "Water meters",
+          "oc": "Comptadors d'aigua"
+        },
+        "cpvsSecundaris": [],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "dataAdjudicacio": "2023-01-19T23:00:00.000Z",
+        "dataFormalitzacio": "2023-03-14T23:00:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {
+          "ca": "La durada del acord marc serà d’un (1) any, amb possibilitat de fins a una (1) pròrroga de caràcter anual. \nD’acord amb el què estableix a l’article 219.3 de la LCSP, la durada dels contractes basats en un acord marc serà independent de la durada de l’acord marc, i es regirà per allò previst a l’article 29 de la LCSP. Només podran adjudicar-se contractes basats en un acord marc durant la vigència de l’acord marc, si bé la seva durada serà independent de l’Acord Marc.\nPel que fa a la durada dels contractes basats es fixarà en el plec o document de condicions de cadascun dels procediments. En tot cas, en l’esmentat plec es determinarà, si s’escau, la durada de les pròrrogues que puguin establir-se amb les empreses adjudicatàries. \nL’Acord marc i els seus contractes basats tenen caràcter administratiu i es regeixen per aquest Plec de clàusules particulars i pel Plec de prescripcions tècniques, els quals tenen caràcter contractual. \nEl termini de durada del contracte s’iniciarà l’endemà de la formalització del mateix.\n"
+        },
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 22,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 22,
+                "descripcioCriteri": {
+                  "ca": "Proposta Tècnica, segons clàusula 10.2 PCP"
+                },
+                "identificador": "71375889814056"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 78,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 78,
+                "descripcioCriteri": {},
+                "identificador": "71375889830314"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 2,
+        "ofertesRebudesEconomics": 2,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 2,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "SENSUS ESPAÑA, SAU",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A08338683",
+            "adreca": "AVDA. DELS VENTS, 9 ESCALA A 3R",
+            "codiNuts": {
+              "codiNuts": "ES511",
+              "ca": "Badalona"
+            },
+            "telefon": "934601064",
+            "email": "info.es@xylem.com",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 748,
+                "ca": "PIME",
+                "en": "SME",
+                "oc": "PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the previous options",
+                "oc": "Cap des anteriores"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1000944,
+              "ca": "Badalona"
+            },
+            "informacioUte": [],
+            "plurianualitats": [],
+            "codiPostal": "08917"
+          }
+        ],
+        "subcontractacio": false,
+        "subcontractacions": [],
+        "metodeUtilitzatCalculValorEstimat": {},
+        "peuDeRecurs": {
+          "ca": "Aquest contracte i en relació als actes que especifica l’article 44.6 LCSP, en tractar-se d’un contracte de subministrament per un import superior a cent mil euros (100.000.-€), podrà ser objecte de recurs especial en matèria de contractació de conformitat amb el que disposa l’apartat primer de l’esmentat precepte.\nTambé s’han de considerar incloses en l’àmbit objectiu del recurs especial les modificacions contractuals, la subcontractació i la resolució del contracte, en tant nomes es qüestioni el compliment de les exigències que, amb efecte directe, estableix el Dret de la Unió Europea.\nAquest recurs té caràcter potestatiu, es podrà interposar davant el Tribunal Català de Contractes del Sector Públic o l’òrgan de contractació, prèviament o alternativament, a la interposició del recurs contencions administratiu, de conformitat amb la Llei 29/1998, de 13 de juny, reguladora de la jurisdicció contenciosa administrativa, i es regira pel que disposen els articles 44 i 47 del LCSP i el Real Decret 814/2015, d’11 de setembre, pel qual s’aprova el Reglament dels procediments especials de revisió de decisions en matèria contractual i d’organització del Tribunal Administratiu Central de Recursos Contractuals.\n"
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 301849836,
+              "titol": "9884AM_3.05-P01-R15_Contracte SENSUS_ LOTS 1-4-5_formalitzat.pdf",
+              "path": "Zks-4eN9AowdbJ0EY9-uJkaI31y1nTGigYoTYI-Z7maLHMwl3U1asz_cmAFBJi-zlDRso34dS4Rq3rqb6loPUlUgT_suBb8eRd3fm0LCfp5BtPC3oWSdGB6sD8FJRQGCzDvYwRZe0Q8iQ5z-3agGu3DFxP_lfoJAK-MHQFy0aVHwIPMXKb0izNXI6mjrnTK0mJPlyHut8YVYu34TDjxhdXN6BvHFOPYHVL25fsSbILjEXEhzernur4pNh3B0nkLowMM40opk0a8DciVHifEjWQKHHNo_Bt2CKnOeQnbqKM_lTKOLurkwbOX8iFuVxaDdctfBY2PFqbIYero2zstaRQ==",
+              "hash": "807B204048077B81CEFF256DF99AA080",
+              "idioma": "ca",
+              "mida": 169500
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [
+            {
+              "id": 301849931,
+              "titol": "3.10-P02-D02.pdf",
+              "path": "Ggrv1aYomHE5mQMhaJVVibHkOixIrqdb_jx-LqUvS7Gap0gx8fneMTFJYGLcNaOwFiRa3kSQLwoWz2dGwUXX5ni1FJvl8N522ZvZsQ6OU3kPKAzWE21F9Azjqh_Few1KCx-RaymrcvwiKXqgbPk9PSOMdeicABUCY6DaigAUnJljs1mX2WE4fiW8Y1YrIQnRPyfiYb03-0Dfn14OHoC9eQPtCugYICdRxOj1OjBc6iTutFr_oBV-3c8o_Sp9pY5_GPJ2QDqwbXvsN32bys0g0GZjV5ToMjw-CwkAfDblmA65O6TgX4x72BdnABk7tCKzV2X8LuahKZY-Z3PkRc6jSg==",
+              "hash": "7917D78605B61EFA08C6264A11EF636D",
+              "idioma": "ca",
+              "mida": 150074
+            },
+            {
+              "id": 301849932,
+              "titol": "3.10-P02-D03.pdf",
+              "path": "Qvdoo4qyjVrCP1k81STHTdKjHqClVMxJmg79wVhEJpSu5k3vyxzJX8Yjwr-nzoY8HexAKUUrALaqADxH7vphEiUxZbrWwyGytw3FUvXDd8RvMJv7eAwEdCoHQrsMEicslZdkt_wCjDwImF10JwNTHW0yodalsgHJt0cV4pMtXG6ENx6MzBGcZi2AAYmRIOToulESwVvnQwopNTOWfVxh3ihExgfeIkWmFPT5ZTWRnvyzsX3-dRqdLcMI77ONacgXTwmUrTuTCGDj6Ex6WY_0_FnFQTaLA53bkfy5t7QckCmr4HMvLGETnwkdi-zo6oCSRUEjGWt1FvwgKw0jtEm5mQ==",
+              "hash": "87AE1C4BC6ADD3340009FE47C09B00DE",
+              "idioma": "ca",
+              "mida": 158832
+            },
+            {
+              "id": 301849933,
+              "titol": "3.10-P02-D04.pdf",
+              "path": "jvq5T2gMeg4mFPvpnVJ5EBUQNLFOCsU8_AYjuCF8OYtoOzOENXA2XT1aFCFIuY1mFU9t-RoRg5UqNx1zvlvN-qgOAYrL9hA5Wk56VlCEZzD2BjZH5tEzg3q6ZPAt-C4AEbW7Z7Bzw16SJX1vc0p53bfGhabBGyOP3drRl_sA01Q8XMBQTPkHHrFGJmjLNu6z9pzqd5rli2mU2CPpeSzMGgpOVJv80mOq5g7c-myGYXkUY3IRIbE_-nexs6neNHgdTcyPYmJCsSuyW47tLsQOcD4VGf7JgG70_vEOZB5FVhXMKRxU3k_QmE5BbU_Lusw4CnZ-zg5PYo9XXH89mjOGww==",
+              "hash": "0317B2F6397C0377FD5807EE863C31A5",
+              "idioma": "ca",
+              "mida": 147604
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2023-03-16T23:00:00.000Z",
+        "fiTerminiExecucio": "2024-03-15T23:00:00.000Z",
+        "observacionsTermini": {},
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "paisOrigenProducte": {
+          "id": 65,
+          "ca": "Espanya",
+          "es": "España",
+          "en": "Spain"
+        },
+        "canonExplotacio": {}
+      },
+      {
+        "numeroLot": "1",
+        "lotId": 1,
+        "descripcio": {
+          "ca": "COMPTADORS MECÀNICS AMB LECTURA PLANA "
+        },
+        "publicacioExpedientId": 300641893,
+        "titol": "COMPTADORS MECÀNICS AMB LECTURA PLANA ",
+        "cpvPrincipal": {
+          "codi": "38421100-3",
+          "ca": "Comptadors d'aigua",
+          "es": "Contadores de agua",
+          "en": "Water meters",
+          "oc": "Comptadors d'aigua"
+        },
+        "cpvsSecundaris": [],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "dataAdjudicacio": "2023-01-19T23:00:00.000Z",
+        "dataFormalitzacio": "2023-03-15T23:00:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {
+          "ca": "La durada del acord marc serà d’un (1) any, amb possibilitat de fins a una (1) pròrroga de caràcter anual. \nD’acord amb el què estableix a l’article 219.3 de la LCSP, la durada dels contractes basats en un acord marc serà independent de la durada de l’acord marc, i es regirà per allò previst a l’article 29 de la LCSP. Només podran adjudicar-se contractes basats en un acord marc durant la vigència de l’acord marc, si bé la seva durada serà independent de l’Acord Marc.\nPel que fa a la durada dels contractes basats es fixarà en el plec o document de condicions de cadascun dels procediments. En tot cas, en l’esmentat plec es determinarà, si s’escau, la durada de les pròrrogues que puguin establir-se amb les empreses adjudicatàries. \nL’Acord marc i els seus contractes basats tenen caràcter administratiu i es regeixen per aquest Plec de clàusules particulars i pel Plec de prescripcions tècniques, els quals tenen caràcter contractual. \nEl termini de durada del contracte s’iniciarà l’endemà de la formalització del mateix.\n"
+        },
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 22,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 22,
+                "descripcioCriteri": {
+                  "ca": "Proposta Tècnica, segons clàusula 10.2 PCP"
+                },
+                "identificador": "71375889880886"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 78,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 78,
+                "descripcioCriteri": {},
+                "identificador": "71375889881940"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 3,
+        "ofertesRebudesEconomics": 3,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 3,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "CONTHIDRA, SL",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "B41956970",
+            "adreca": "Calle B número 25 Poligono Industrial Servialsa",
+            "codiNuts": {
+              "codiNuts": "ES618",
+              "ca": "Gines"
+            },
+            "telefon": "954717190",
+            "email": "info@cohisa.com",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 748,
+                "ca": "PIME",
+                "en": "SME",
+                "oc": "PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the previous options",
+                "oc": "Cap des anteriores"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 336,
+              "ca": "Sevilla",
+              "es": "Sevilla",
+              "en": "Seville",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1006163,
+              "ca": "Gines"
+            },
+            "informacioUte": [],
+            "plurianualitats": [],
+            "codiPostal": "41960"
+          },
+          {
+            "denominacioEmpresaContractista": "SENSUS ESPAÑA, SAU",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A08338683",
+            "adreca": "AV. DELS VENTS,9 ESC.A 3º 4ª",
+            "codiNuts": {
+              "codiNuts": "ES511",
+              "ca": "Badalona"
+            },
+            "telefon": "934601064",
+            "email": "info.es@xylem.com",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 748,
+                "ca": "PIME",
+                "en": "SME",
+                "oc": "PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the previous options",
+                "oc": "Cap des anteriores"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1000944,
+              "ca": "Badalona"
+            },
+            "informacioUte": [],
+            "plurianualitats": [],
+            "codiPostal": "08917"
+          }
+        ],
+        "subcontractacio": false,
+        "subcontractacions": [],
+        "metodeUtilitzatCalculValorEstimat": {},
+        "peuDeRecurs": {
+          "ca": "Aquest contracte i en relació als actes que especifica l’article 44.6 LCSP, en tractar-se d’un contracte de subministrament per un import superior a cent mil euros (100.000.-€), podrà ser objecte de recurs especial en matèria de contractació de conformitat amb el que disposa l’apartat primer de l’esmentat precepte.\nTambé s’han de considerar incloses en l’àmbit objectiu del recurs especial les modificacions contractuals, la subcontractació i la resolució del contracte, en tant nomes es qüestioni el compliment de les exigències que, amb efecte directe, estableix el Dret de la Unió Europea.\nAquest recurs té caràcter potestatiu, es podrà interposar davant el Tribunal Català de Contractes del Sector Públic o l’òrgan de contractació, prèviament o alternativament, a la interposició del recurs contencions administratiu, de conformitat amb la Llei 29/1998, de 13 de juny, reguladora de la jurisdicció contenciosa administrativa, i es regira pel que disposen els articles 44 i 47 del LCSP i el Real Decret 814/2015, d’11 de setembre, pel qual s’aprova el Reglament dels procediments especials de revisió de decisions en matèria contractual i d’organització del Tribunal Administratiu Central de Recursos Contractuals.\n"
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 301849837,
+              "titol": "9884AM_3.05-P01-R15_Contracte CONTHIDRA_LOTS 1-2-5-6_ formalitzat.pdf",
+              "path": "Zz2zz56wydNOCBYna1vVR7NlaPIpI0Y3YmgkNUlWzEJm-mVf-1Dp2NxNC7jbmPwWcSLSD6A_Ly_fUJo8et3gCL0JX8PPyHcZ5t_4fROZyLA_EVByrvu8VyOHqdPLfPcRbh-R0I8R16lweuPUQW1v5WvP2FJ0MDn_NUBGHBrtQ4VWl-XiN1skBHYwpBjzFRTi8VmuOxAxaJBly_yQzKWen-h_nc-7X9UK5pQKFL73HvjzuO0zBanos4ghNjJaaOrp7O39sMX3VFYlrH2SgKhmP4ZIG7g1LSz3nEnyVS9g4IvDaJtwYLPPZW9DjhaQu0zxMJp6K2vXBzLf8fPQj3KViQ==",
+              "hash": "A25DD4052FDFDB7494A7836394D2CCD5",
+              "idioma": "ca",
+              "mida": 213140
+            },
+            {
+              "id": 301849838,
+              "titol": "9884AM_3.05-P01-R15_Contracte SENSUS_ LOTS 1-4-5_formalitzat.pdf",
+              "path": "WoMIqI2SUGGTkYy5OjD47deXe9uNekL3PfkqiXFySMwufotkREc6-UJDTm22P7f_3-LZE0gsyzF9r1X_ri5ohzDu-aY-C-RE6ysY7yoFIAVKMdCsYcVzbHOR-FTM2Hz_KnZ11V1L0m36BuW3Bbxfwjwp5zvey5aKfISquD0LEgbOrZYnxBlWnG30LEXeBCMiWgbiDdymy_r3Quh2Fka3VVQD3evcVpAsIFDUmSRh7f7WTgDdGnFZnoIg-IVSahV-9Il0eGiEvHPG7aeTafjY90VBgUAOMMzLcF5l1ujVx8r-xu8Z4tn_yLKBw0it0UYuqnhQKRqCouokZiFW9Dg0zA==",
+              "hash": "807B204048077B81CEFF256DF99AA080",
+              "idioma": "ca",
+              "mida": 169500
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [
+            {
+              "id": 301849970,
+              "titol": "3.10-P02-D02.pdf",
+              "path": "mJ7yz3H205OE_HJNYXMjqJ4ZsG9fQ5xohJPpnVe2VRxPoGOjXKhBuQxYOws6QgdiLul66_BdF_c-XyBYrgpM3v4HraofGMKXdDvFym2X1qXWiX4xpNNuKPxVwIwHnNsBpdsmg0QJ_TUEqaT257EdMYp8arodKApNPGLOz1bkrw-KsGe95B10btEPsWfEMbn5HCkiIxu4tHKO-Zw4mIWBVGEN68y8yWWoU5LBex75AohZns2ELG3HqY-X4QqdoQEk6cknE9X0HfJMQMIxN7uLNFOUzzqxtW9aVUISepaK5WwKghwZbn-PdV7M2puieC2_JjClGqJsHB-s_30l7R0uXQ==",
+              "hash": "7917D78605B61EFA08C6264A11EF636D",
+              "idioma": "ca",
+              "mida": 150074
+            },
+            {
+              "id": 301849971,
+              "titol": "3.10-P02-D03.pdf",
+              "path": "S24fKLG7i2fy0h5iN7MrLBhNfWsOLt2LdOoEWEnGM7mbwriJzPo7E6AymYinnoKSLclYR3kZWzQ7Paek3go-QeTNttweJUv77sOPMy3e8ddkAeYHHvBpln3YYdjntWXdg98oQ0hiKG00vMGdEA9ZuMcqEbeP8ssW1q6SrmvWiea97IGMUbebWaScoFjHlHzEnYW9Zm_sMmc_3v3mNekIQzKG6S10ei-7S4EYqxLPe1eFT10TS6wIp-gM0fO1T-fHQoVHiFTK5ccZkn-QMCkcLaUxNVris-yQemwBjl_cJWE-VL1a1lVflSMDjR-qtH32gLyTR32kJYwI6Bp6EkrIDA==",
+              "hash": "87AE1C4BC6ADD3340009FE47C09B00DE",
+              "idioma": "ca",
+              "mida": 158832
+            },
+            {
+              "id": 301849972,
+              "titol": "3.10-P02-D04.pdf",
+              "path": "rtuwYa4bTVtdgPaUQu-27nf4HrO82MlnKdEB3bA5FHPav5Yv5RnKHgqn1R44KExfaclKUKAWimIoVq6qCgliyylayoxJHIVxfyZXjW8blEH1pcQs1eOeH6oxl1M2loJtUHYdQHvyjO6CBUm1AgtBaVi-Z5RjbrTgKV1aPJVBBdGh8aOvDeJAJHWtU7McESJW6W0tAxwBlaKSYsll_i86-cOOSLSNe7hHLUKmtshpq-MgFwrscshMpahioLgF6hujC6v50RZjHEER3Qc9N9cQQ8f-lMO41djEXcI2A_JEpub89NePpeOzgV36SNy2t7KOiQ7DIIFcH08scGWoE4zAyg==",
+              "hash": "0317B2F6397C0377FD5807EE863C31A5",
+              "idioma": "ca",
+              "mida": 147604
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2023-03-16T23:00:00.000Z",
+        "fiTerminiExecucio": "2024-03-15T23:00:00.000Z",
+        "observacionsTermini": {},
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "paisOrigenProducte": {
+          "id": 65,
+          "ca": "Espanya",
+          "es": "España",
+          "en": "Spain"
+        },
+        "canonExplotacio": {}
+      },
+      {
+        "numeroLot": "2",
+        "lotId": 2,
+        "descripcio": {
+          "ca": "COMPTADORS MECÀNICS AMB LECTURA INCLINADA "
+        },
+        "publicacioExpedientId": 300641893,
+        "titol": "COMPTADORS MECÀNICS AMB LECTURA INCLINADA ",
+        "cpvPrincipal": {
+          "codi": "38421100-3",
+          "ca": "Comptadors d'aigua",
+          "es": "Contadores de agua",
+          "en": "Water meters",
+          "oc": "Comptadors d'aigua"
+        },
+        "cpvsSecundaris": [],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "dataAdjudicacio": "2023-01-19T23:00:00.000Z",
+        "dataFormalitzacio": "2023-03-12T23:00:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {
+          "ca": "La durada del acord marc serà d’un (1) any, amb possibilitat de fins a una (1) pròrroga de caràcter anual. \nD’acord amb el què estableix a l’article 219.3 de la LCSP, la durada dels contractes basats en un acord marc serà independent de la durada de l’acord marc, i es regirà per allò previst a l’article 29 de la LCSP. Només podran adjudicar-se contractes basats en un acord marc durant la vigència de l’acord marc, si bé la seva durada serà independent de l’Acord Marc.\nPel que fa a la durada dels contractes basats es fixarà en el plec o document de condicions de cadascun dels procediments. En tot cas, en l’esmentat plec es determinarà, si s’escau, la durada de les pròrrogues que puguin establir-se amb les empreses adjudicatàries. \nL’Acord marc i els seus contractes basats tenen caràcter administratiu i es regeixen per aquest Plec de clàusules particulars i pel Plec de prescripcions tècniques, els quals tenen caràcter contractual. \nEl termini de durada del contracte s’iniciarà l’endemà de la formalització del mateix.\n"
+        },
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 22,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 22,
+                "descripcioCriteri": {
+                  "ca": "Proposta Tècnica, segons clàusula 10.2 PCP"
+                },
+                "identificador": "71375889896609"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 78,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 78,
+                "descripcioCriteri": {},
+                "identificador": "71375889897415"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 1,
+        "ofertesRebudesEconomics": 1,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 1,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "CONTHIDRA, SL",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "B41956970",
+            "adreca": "Calle B número 25 Poligono Industrial Servialsa",
+            "codiNuts": {
+              "codiNuts": "ES618",
+              "ca": "Gines"
+            },
+            "telefon": "954717190",
+            "email": "info@cohisa.com",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 748,
+                "ca": "PIME",
+                "en": "SME",
+                "oc": "PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the previous options",
+                "oc": "Cap des anteriores"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 336,
+              "ca": "Sevilla",
+              "es": "Sevilla",
+              "en": "Seville",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1006163,
+              "ca": "Gines"
+            },
+            "informacioUte": [],
+            "plurianualitats": [],
+            "codiPostal": "41960"
+          }
+        ],
+        "subcontractacio": false,
+        "subcontractacions": [],
+        "metodeUtilitzatCalculValorEstimat": {},
+        "peuDeRecurs": {
+          "ca": "Aquest contracte i en relació als actes que especifica l’article 44.6 LCSP, en tractar-se d’un contracte de subministrament per un import superior a cent mil euros (100.000.-€), podrà ser objecte de recurs especial en matèria de contractació de conformitat amb el que disposa l’apartat primer de l’esmentat precepte.\nTambé s’han de considerar incloses en l’àmbit objectiu del recurs especial les modificacions contractuals, la subcontractació i la resolució del contracte, en tant nomes es qüestioni el compliment de les exigències que, amb efecte directe, estableix el Dret de la Unió Europea.\nAquest recurs té caràcter potestatiu, es podrà interposar davant el Tribunal Català de Contractes del Sector Públic o l’òrgan de contractació, prèviament o alternativament, a la interposició del recurs contencions administratiu, de conformitat amb la Llei 29/1998, de 13 de juny, reguladora de la jurisdicció contenciosa administrativa, i es regira pel que disposen els articles 44 i 47 del LCSP i el Real Decret 814/2015, d’11 de setembre, pel qual s’aprova el Reglament dels procediments especials de revisió de decisions en matèria contractual i d’organització del Tribunal Administratiu Central de Recursos Contractuals.\n"
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 301849839,
+              "titol": "9884AM_3.05-P01-R15_Contracte CONTHIDRA_LOTS 1-2-5-6_ formalitzat.pdf",
+              "path": "bs3OxOPF3O7f2L4-D6otf-YaDCe4WLBqIZYjuT8aSIODIxeFQjrOXAgMA7ZDxY0H0uaPMOt3W_E7b9cR1pZBYRECfvKppN5YItv_zhZaeQ8y2UMuJ643PcquV27qaJHAwLQCdY-qA0jDkvy9houSf-JtxfWu8LoTVV4I0jIT6Otj0aTmYPlty7VAfZ4kb-2-RNuKA2P9VM8RHcVIK9wnGi2b-eYUcCibWtBiveDfBXTkWxmgrY19F9hYMVvpC0wKxl2gjtIcBa1YEWEpVp93IrU5enrZIBPmXRc1zS_buCIQXpA-c97WSVsTNEsxCa5a03hoP7zSeLMw1fLdusoFmg==",
+              "hash": "A25DD4052FDFDB7494A7836394D2CCD5",
+              "idioma": "ca",
+              "mida": 213140
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [
+            {
+              "id": 301849986,
+              "titol": "3.10-P02-D02.pdf",
+              "path": "g160CdBJhSPSEb9J6YP_oq2tX82DOpjT62pquZDhEj4DET2GG1QauosQ712MOKFUKqejgIA5GNOtq6PdXUAI0q3RrxFbQWKYYJS2RNDBAOjKAun0a5IzJ9tved4Gm7SPGKSuSE4gxzZZX1xLyMoBZdszrix2ZDgKqyUrV3l4OfYEHDSzZDy63pfFqHoL3FHT88mpyFbV-69mviuzcGLsI1pb_fjh5v3OBSaHbpH55M6zMbbu9lcITr6fGGyd_WRdMB2vCJowtX5WhnrFe-yN2o09XzwfBV68wvB1Zpc1HOSmO3h4TiCtPDEk9T7xjKb9S_NH4Kl3Nv0dhDKB8r_Vog==",
+              "hash": "7917D78605B61EFA08C6264A11EF636D",
+              "idioma": "ca",
+              "mida": 150074
+            },
+            {
+              "id": 301849987,
+              "titol": "3.10-P02-D03.pdf",
+              "path": "d2STjPwBJeP6NF94cHcsSd-PooEamlPxL0K2vAEz-MyVBMUDnH0KQRHsxOnZB77kpvo8TqIrqqobbSKYem4w5u9u_i0J5pnvAdX-zp5NXZnx98MRaGYgyPOr4rZGE4AGqjgBdWsuKtUeZhteMnXZ56pZP-Ukyce48M4-GajVidor9Ve7QZqC_altnAw2WSMjVoAk3dY3w4oa65CAR3MzM0CjaNRNuRT63ZStpikidF1_u_Gjuopd3yV71c3zYEMEmm4n0VXyuZlzZrVGTWJGacsqCiBbmgQJWkF22dPDFYRKYqDwO41eMXedU2JatPBmxtrcECkwwAOdQM74LHoaQQ==",
+              "hash": "87AE1C4BC6ADD3340009FE47C09B00DE",
+              "idioma": "ca",
+              "mida": 158832
+            },
+            {
+              "id": 301849988,
+              "titol": "3.10-P02-D04.pdf",
+              "path": "dFK8DXA8EpkhcV6fXSoIhvYXG0vy6rP-d2q--z-UH7J2tA6-FxS-JXcjn3ppNqfBrAk_uJ5T2mNpb_uasXrRz7YNPZMMacoKZvtOkKPI2JTSWVp01JNzYZO-qBNtU4hHOgChxfeQWH2TWs0SOGYO2AbnLk3hpEgd0ixPb8B9QiFtVtPfcUDIM43SypzPD_zm9AYTYkKjlHESzommnHRt-3VpkRfAAs9msaGdrrVZ-qVwuHz6MkUVoNpsx-dzLliGC0hbtpng4K0vEi6JtMjVUsUZNRQOlK7ujFOlLCoCHlBaBWYjIP5TrQzPmkVz-docbWar4m6S_xvVZlvUUdgjIA==",
+              "hash": "0317B2F6397C0377FD5807EE863C31A5",
+              "idioma": "ca",
+              "mida": 147604
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2023-03-13T23:00:00.000Z",
+        "fiTerminiExecucio": "2024-03-12T23:00:00.000Z",
+        "observacionsTermini": {},
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "paisOrigenProducte": {
+          "id": 65,
+          "ca": "Espanya",
+          "es": "España",
+          "en": "Spain"
+        },
+        "canonExplotacio": {}
+      },
+      {
+        "numeroLot": "3",
+        "lotId": 3,
+        "descripcio": {
+          "ca": "COMPTADORS ELECTROMAGNÈTICS "
+        },
+        "publicacioExpedientId": 300641893,
+        "titol": "COMPTADORS ELECTROMAGNÈTICS ",
+        "cpvPrincipal": {
+          "codi": "38421100-3",
+          "ca": "Comptadors d'aigua",
+          "es": "Contadores de agua",
+          "en": "Water meters",
+          "oc": "Comptadors d'aigua"
+        },
+        "cpvsSecundaris": [],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "dataAdjudicacio": "2023-01-19T23:00:00.000Z",
+        "dataFormalitzacio": "2023-03-06T11:00:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {
+          "ca": "La durada del acord marc serà d’un (1) any, amb possibilitat de fins a una (1) pròrroga de caràcter anual. \nD’acord amb el què estableix a l’article 219.3 de la LCSP, la durada dels contractes basats en un acord marc serà independent de la durada de l’acord marc, i es regirà per allò previst a l’article 29 de la LCSP. Només podran adjudicar-se contractes basats en un acord marc durant la vigència de l’acord marc, si bé la seva durada serà independent de l’Acord Marc.\nPel que fa a la durada dels contractes basats es fixarà en el plec o document de condicions de cadascun dels procediments. En tot cas, en l’esmentat plec es determinarà, si s’escau, la durada de les pròrrogues que puguin establir-se amb les empreses adjudicatàries. \nL’Acord marc i els seus contractes basats tenen caràcter administratiu i es regeixen per aquest Plec de clàusules particulars i pel Plec de prescripcions tècniques, els quals tenen caràcter contractual. \nEl termini de durada del contracte s’iniciarà l’endemà de la formalització del mateix.\n"
+        },
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 22,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 22,
+                "descripcioCriteri": {
+                  "ca": "Proposta Tècnica, segons clàusula 10.2 PCP"
+                },
+                "identificador": "71375889907794"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 78,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 78,
+                "descripcioCriteri": {},
+                "identificador": "71375889908412"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 1,
+        "ofertesRebudesEconomics": 1,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 1,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "KROHNE IBERIA, SLU",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "B80611601",
+            "adreca": "Poligon Industrial Nilo Cr.Brasil, 5,",
+            "codiNuts": {
+              "codiNuts": "ES300",
+              "ca": "Alcalá de Henares"
+            },
+            "telefon": "918832152",
+            "email": "krohnespain@krohne.com",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 748,
+                "ca": "PIME",
+                "en": "SME",
+                "oc": "PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the previous options",
+                "oc": "Cap des anteriores"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1001042,
+              "ca": "Manresa"
+            },
+            "informacioUte": [],
+            "plurianualitats": []
+          }
+        ],
+        "subcontractacio": false,
+        "subcontractacions": [],
+        "metodeUtilitzatCalculValorEstimat": {},
+        "peuDeRecurs": {
+          "ca": "Aquest contracte i en relació als actes que especifica l’article 44.6 LCSP, en tractar-se d’un contracte de subministrament per un import superior a cent mil euros (100.000.-€), podrà ser objecte de recurs especial en matèria de contractació de conformitat amb el que disposa l’apartat primer de l’esmentat precepte.\nTambé s’han de considerar incloses en l’àmbit objectiu del recurs especial les modificacions contractuals, la subcontractació i la resolució del contracte, en tant nomes es qüestioni el compliment de les exigències que, amb efecte directe, estableix el Dret de la Unió Europea.\nAquest recurs té caràcter potestatiu, es podrà interposar davant el Tribunal Català de Contractes del Sector Públic o l’òrgan de contractació, prèviament o alternativament, a la interposició del recurs contencions administratiu, de conformitat amb la Llei 29/1998, de 13 de juny, reguladora de la jurisdicció contenciosa administrativa, i es regira pel que disposen els articles 44 i 47 del LCSP i el Real Decret 814/2015, d’11 de setembre, pel qual s’aprova el Reglament dels procediments especials de revisió de decisions en matèria contractual i d’organització del Tribunal Administratiu Central de Recursos Contractuals.\n"
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 301849840,
+              "titol": "9884AM_3.05-P01-R15_Contracte KROHNE_ LOT 3_formalitzat.pdf",
+              "path": "tdrMBwzwXOKnzwhFGKVcgNOncuqVRHVMJkkwx9KqtlRr2FAzNN5Iqo4GY6rK29fxF8PAySREgkR8-tC43DGWNV8xutXtjFtgUqqRnKGt32h4STj8xNChDXFJ_Fh41gF3-iQsbB2emr0CKAHslVVMv6ExzH90EYbvmLb79hmu9KrErGzTuPl1thP7U-D3xBYuGxD2AdpRIW16UR1zsI98GKrSP_TVG1PDKLTz-UVh_xge_r6CLbOBpNpBrvX3PR2-AwIcty-PhO7Qkx4dB_Vv3bcxKHWzK7RONUNiMmniYU0A1XBHBaFA0fC9qAGaKSUYQCNu-sV_Mae9nQ_-AOZ-Kg==",
+              "hash": "5B9FAF2283256633C67AF81DE2BE0F41",
+              "idioma": "ca",
+              "mida": 156640
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [
+            {
+              "id": 301849990,
+              "titol": "3.10-P02-D02.pdf",
+              "path": "J9NDB1H2MqXv5k7bYCWAwB90MV9AVCmDtHZS13g5gc75OtPDuxovwEskEzmGXRg_ngNuCgaFyEjmtm2X9rv6SGzR5cf8yEk5VAoFiS_EEiY1FKEZLOum3etswlCpD6YZ9QP7Vyc1Cjf5Dvx0m5qPlnHcyDYzPvsWx6-GJY6OKzKvzDbrsR2Qc5g-cavwxs4aAPyRpSMpZBI6mmvTV1tPqGuV7H3iMdlK151gILBddWypd7YKUKdsvRMgvzyZQ5O_nWAeBCpOWnIAzO9ab9oRim7Ug5lUgMZ1RbNVde0n23epyD3YA7uWPis0Kup6JJr4A61mVHpFNOOg48AGXmm2nw==",
+              "hash": "7917D78605B61EFA08C6264A11EF636D",
+              "idioma": "ca",
+              "mida": 150074
+            },
+            {
+              "id": 301849991,
+              "titol": "3.10-P02-D03.pdf",
+              "path": "QEaA2VihzuyQ4Iu7Lg42a8-0EldKXUe1HZva19iQa8tZuDaoTFjDUS8PuW174YwQ3HCuZ0shSWQ7nmlOSMnbK5TK4zsI6cyNmGBH8RvIeaP0Ah5Z3ql3ceTK7n5U2RYCMOuEGH4bO3DDN09-dGSrn8BwnW2wXEQbESriroXZK-JOXkzFe7h6LOFnYxCGnZPFSFS7-pAZroRU9GEo2SQYJdV9poPzpyIYnCcf5xOzmUVGfrs6y1U10v4u_sGLXmQDNEvGeEVxXgbCf6E_R_rxzDc8PfuFNgWdUHnklMz7Fa-q6O52jVtOYE3WhrrOc7WszzenqP3hq1UIpzdxnN3TIA==",
+              "hash": "87AE1C4BC6ADD3340009FE47C09B00DE",
+              "idioma": "ca",
+              "mida": 158832
+            },
+            {
+              "id": 301849992,
+              "titol": "3.10-P02-D04.pdf",
+              "path": "p70zOtWAdwLvNDu3D_W5wkysUxdIqaI06B8UJRdJnR1ht-DWad3PL3AngWKEoUeBuV3QZ3g5YimAY5aFoy_6X2OUATdNLTJUfxyKRkyRbiwwhwP83fD0ShrGRjuZXDQ-rLl3bLa0rs8aqobWJsozz72PqcElUQRPRCt_4UZdBscCZwGM9_91-s2X-KMsreiYkzGEj4k6XT59bMt_mLGdLXHqUCc12Irijre0OdOgyQ5BtKCeSpV_7b-xgklwddkdmTjpk8yLPw9Mlq4LJjTGzdYMSSMhqMCxoeRzghu63di8TkUo0yFpXx6psVHiZvTJrq-Apw2w3pTovxQoEEZXoQ==",
+              "hash": "0317B2F6397C0377FD5807EE863C31A5",
+              "idioma": "ca",
+              "mida": 147604
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2023-03-06T23:00:00.000Z",
+        "fiTerminiExecucio": "2024-03-05T23:00:00.000Z",
+        "observacionsTermini": {},
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "paisOrigenProducte": {
+          "id": 65,
+          "ca": "Espanya",
+          "es": "España",
+          "en": "Spain"
+        },
+        "canonExplotacio": {}
+      },
+      {
+        "numeroLot": "6",
+        "lotId": 4,
+        "descripcio": {
+          "ca": "COMPTADORS VOLUMÈTRICS AMB LECTURA INCLINADA "
+        },
+        "publicacioExpedientId": 300641893,
+        "titol": "COMPTADORS VOLUMÈTRICS AMB LECTURA INCLINADA ",
+        "cpvPrincipal": {
+          "codi": "38421100-3",
+          "ca": "Comptadors d'aigua",
+          "es": "Contadores de agua",
+          "en": "Water meters",
+          "oc": "Comptadors d'aigua"
+        },
+        "cpvsSecundaris": [],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "dataAdjudicacio": "2023-01-19T23:00:00.000Z",
+        "dataFormalitzacio": "2023-03-12T23:00:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {
+          "ca": "La durada del acord marc serà d’un (1) any, amb possibilitat de fins a una (1) pròrroga de caràcter anual. \nD’acord amb el què estableix a l’article 219.3 de la LCSP, la durada dels contractes basats en un acord marc serà independent de la durada de l’acord marc, i es regirà per allò previst a l’article 29 de la LCSP. Només podran adjudicar-se contractes basats en un acord marc durant la vigència de l’acord marc, si bé la seva durada serà independent de l’Acord Marc.\nPel que fa a la durada dels contractes basats es fixarà en el plec o document de condicions de cadascun dels procediments. En tot cas, en l’esmentat plec es determinarà, si s’escau, la durada de les pròrrogues que puguin establir-se amb les empreses adjudicatàries. \nL’Acord marc i els seus contractes basats tenen caràcter administratiu i es regeixen per aquest Plec de clàusules particulars i pel Plec de prescripcions tècniques, els quals tenen caràcter contractual. \nEl termini de durada del contracte s’iniciarà l’endemà de la formalització del mateix."
+        },
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 22,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 22,
+                "descripcioCriteri": {
+                  "ca": "Proposta Tècnica, segons clàusula 10.2 PCP"
+                },
+                "identificador": "71375889918768"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 78,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 78,
+                "descripcioCriteri": {},
+                "identificador": "71375889919894"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 1,
+        "ofertesRebudesEconomics": 1,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 1,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "CONTHIDRA, SL",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "B41956970",
+            "adreca": "Pol, Ind, Servialsa Balmes, 25",
+            "codiNuts": {
+              "codiNuts": "ES618",
+              "ca": "Gines"
+            },
+            "telefon": "954717190",
+            "email": "info@cohisa.com",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 748,
+                "ca": "PIME",
+                "en": "SME",
+                "oc": "PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the previous options",
+                "oc": "Cap des anteriores"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 336,
+              "ca": "Sevilla",
+              "es": "Sevilla",
+              "en": "Seville",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1006163,
+              "ca": "Gines"
+            },
+            "informacioUte": [],
+            "plurianualitats": [],
+            "codiPostal": "41960"
+          }
+        ],
+        "subcontractacio": false,
+        "subcontractacions": [],
+        "metodeUtilitzatCalculValorEstimat": {},
+        "peuDeRecurs": {
+          "ca": "Aquest contracte i en relació als actes que especifica l’article 44.6 LCSP, en tractar-se d’un contracte de subministrament per un import superior a cent mil euros (100.000.-€), podrà ser objecte de recurs especial en matèria de contractació de conformitat amb el que disposa l’apartat primer de l’esmentat precepte.\nTambé s’han de considerar incloses en l’àmbit objectiu del recurs especial les modificacions contractuals, la subcontractació i la resolució del contracte, en tant nomes es qüestioni el compliment de les exigències que, amb efecte directe, estableix el Dret de la Unió Europea.\nAquest recurs té caràcter potestatiu, es podrà interposar davant el Tribunal Català de Contractes del Sector Públic o l’òrgan de contractació, prèviament o alternativament, a la interposició del recurs contencions administratiu, de conformitat amb la Llei 29/1998, de 13 de juny, reguladora de la jurisdicció contenciosa administrativa, i es regira pel que disposen els articles 44 i 47 del LCSP i el Real Decret 814/2015, d’11 de setembre, pel qual s’aprova el Reglament dels procediments especials de revisió de decisions en matèria contractual i d’organització del Tribunal Administratiu Central de Recursos Contractuals.\n"
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 301849841,
+              "titol": "9884AM_3.05-P01-R15_Contracte CONTHIDRA_LOTS 1-2-5-6_ formalitzat.pdf",
+              "path": "IxK8CxMjqTkcadMcxezc-aGLsZlET0eNnb_QzE1-kWr72U7hsRfmplNMHFoYhKAe0LHl0d1gfLosYN5N3DN6iPx71tP3aXLTLIHgw7ZNSrkw7L-aDXQ3rNVYMAsBp76DFn1dZjCZ3jI4DAApe9EgNxxUteJP8hozoa86suGNzWO8y1tNbPoCGwc8F1QXXmmJDYQXkAqL5zCubv4VFfq3hkBKJEteVR8V2FzSHPRH8DedXasymB3OsVPdkfurQXKtcS5v_ss4gPESxCF4XVwNCEvXxd3yeGIWrncn40s-_lo09E5MHc8yQm-1ENhdKYcwV2QId_k3uqQYFZpTZ5gCfQ==",
+              "hash": "A25DD4052FDFDB7494A7836394D2CCD5",
+              "idioma": "ca",
+              "mida": 213140
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [
+            {
+              "id": 301849996,
+              "titol": "3.10-P02-D02.pdf",
+              "path": "Pysw19PC4VSSkB67sc1hg4-CTy728fBw-BZNo2kY1clBgOArNdD2xNf0rilriytREf-b7Lq8a0CbdzdUxcSJpWk1cWbZ1VfwbpdqTVrBeKNaPYwPqWrBMkaZaBx0OjerKwtiS0fAZDGgoeqBZHtiOzOQb81n0s3674RgGmXHiHQUjQxf67qEkK41pj8MAOnESYDRyyqlDPk5mw_YMPmfpPqitqnqCCwSVMj88UiVFl9PiDnRhcBlqS4rNucxw82ZHFJOQl6kqdcyDexTPGJ7Z3HkX1yZRmCBbu-KNkJE-gadpp_VVI1zN0jVt6qoiH4vtwjHEWLx_0GEgKoq8ZV59g==",
+              "hash": "7917D78605B61EFA08C6264A11EF636D",
+              "idioma": "ca",
+              "mida": 150074
+            },
+            {
+              "id": 301849997,
+              "titol": "3.10-P02-D03.pdf",
+              "path": "I-r4ROopNzIM8QgguLV2tX6LtnRi5XGCPuDvMk8fbcNbzMrmkcuyJlNSs76earTkAZeecj4Oohk4PIpSoQ6ayRTYkcuS5N2AOvsKs2Zra3eGagEt3UMgvxUrpRv2BB7syGMRifRjOWM7v2A8zVyPugLj-mONRkDQVn_2-6sXZncXKNwHYxhAP1FC5RrjN2-RFfZkKQix6SwEYTRxop3c4KBKbzVV9B_8dWQ2NYVjmsi9DE-R7xp_R1cZETk8jPlaAI9cvPW51A7kqjhS97pjWyLoiRrNhNimfIgZpTxoHfYwZbkBw8m2W08ZKW2s1QjqN_d2J_pnznYyV8x8ncOx9Q==",
+              "hash": "87AE1C4BC6ADD3340009FE47C09B00DE",
+              "idioma": "ca",
+              "mida": 158832
+            },
+            {
+              "id": 301849998,
+              "titol": "3.10-P02-D04.pdf",
+              "path": "MSBN0gpwTkz7s91EfmLKVLP47bdUTMxWuOCZ9VeeLKqb3uZ5hpX2j2xIFcWHVDqST_Fc1ealpGiJM4CRM211l910WnCr_F7YloM8fnBlmqIuvmx5VSaCkAtHyQDnpVt7R-fPvdzFgFDCp_QNNrk4Hf-P1qwdsir7G996agbbxV-Wy9lNRElK7TIppANfYiaNHmYFYD5sqgExiE356FWMF2g44i0WCm9lg2oXDo31TAMdaNxLNpgfIAZ5BQKhtpGR9-xTiMyVYH2k7RsCsK-okrlDMxsb-IJ2odEam3TnbHCXHWRgwWWj3DMJbTea4nCLqFCFX0adcEMVQbJA7eREag==",
+              "hash": "0317B2F6397C0377FD5807EE863C31A5",
+              "idioma": "ca",
+              "mida": 147604
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2023-03-13T23:00:00.000Z",
+        "fiTerminiExecucio": "2024-03-12T23:00:00.000Z",
+        "observacionsTermini": {},
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "paisOrigenProducte": {
+          "id": 65,
+          "ca": "Espanya",
+          "es": "España",
+          "en": "Spain"
+        },
+        "canonExplotacio": {}
+      },
+      {
+        "numeroLot": "5",
+        "lotId": 5,
+        "descripcio": {
+          "ca": "COMPTADORS MECÀNICS INDUSTRIALS DN>=50 "
+        },
+        "publicacioExpedientId": 300641893,
+        "titol": "COMPTADORS MECÀNICS INDUSTRIALS DN>=50 ",
+        "cpvPrincipal": {
+          "codi": "38421100-3",
+          "ca": "Comptadors d'aigua",
+          "es": "Contadores de agua",
+          "en": "Water meters",
+          "oc": "Comptadors d'aigua"
+        },
+        "cpvsSecundaris": [],
+        "llocLliuramentOExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña",
+          "en": "Catalonia",
+          "oc": "null"
+        },
+        "dataAdjudicacio": "2023-01-19T23:00:00.000Z",
+        "dataFormalitzacio": "2023-03-15T23:00:00.000Z",
+        "descripcioLicitacio": {},
+        "altraInformacio": {
+          "ca": "La durada del acord marc serà d’un (1) any, amb possibilitat de fins a una (1) pròrroga de caràcter anual. \nD’acord amb el què estableix a l’article 219.3 de la LCSP, la durada dels contractes basats en un acord marc serà independent de la durada de l’acord marc, i es regirà per allò previst a l’article 29 de la LCSP. Només podran adjudicar-se contractes basats en un acord marc durant la vigència de l’acord marc, si bé la seva durada serà independent de l’Acord Marc.\nPel que fa a la durada dels contractes basats es fixarà en el plec o document de condicions de cadascun dels procediments. En tot cas, en l’esmentat plec es determinarà, si s’escau, la durada de les pròrrogues que puguin establir-se amb les empreses adjudicatàries. \nL’Acord marc i els seus contractes basats tenen caràcter administratiu i es regeixen per aquest Plec de clàusules particulars i pel Plec de prescripcions tècniques, els quals tenen caràcter contractual. \nEl termini de durada del contracte s’iniciarà l’endemà de la formalització del mateix."
+        },
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 22,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008373,
+                  "ca": "Altres criteris qualitatius",
+                  "es": "Otros criterios cualitativos",
+                  "en": "Other qualitative criteria",
+                  "oc": "D’auti critèris qualitatius"
+                },
+                "puntuacio": 22,
+                "descripcioCriteri": {
+                  "ca": "Proposta Tècnica segons clàusula 10.2 PCP"
+                },
+                "identificador": "71375889929319"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 78,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "es": "Precio",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 78,
+                "descripcioCriteri": {},
+                "identificador": "71375889929965"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 0,
+            "observacions": {},
+            "desglossament": []
+          }
+        ],
+        "teDiversosCriterisAdjudicacio": true,
+        "totalOfertesRebudes": 3,
+        "ofertesRebudesEconomics": 3,
+        "ofertesRebudesAltresEstatPaisTercer": 0,
+        "ofertesRebudesElectronica": 3,
+        "empresaContractista": [
+          {
+            "denominacioEmpresaContractista": "SENSUS ESPAÑA, SAU",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "A08338683",
+            "adreca": "AVDA. DELS VENTS, 9 ESCALA A 3R",
+            "codiNuts": {
+              "codiNuts": "ES511",
+              "ca": "Badalona"
+            },
+            "telefon": "934601064",
+            "email": "info.es@xylem.com",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 748,
+                "ca": "PIME",
+                "en": "SME",
+                "oc": "PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the previous options",
+                "oc": "Cap des anteriores"
+              }
+            ],
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 303,
+              "ca": "Barcelona",
+              "es": "Barcelona",
+              "en": "Barcelona",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1000944,
+              "ca": "Badalona"
+            },
+            "informacioUte": [],
+            "plurianualitats": []
+          },
+          {
+            "denominacioEmpresaContractista": "CONTHIDRA, SL",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "B41956970",
+            "adreca": "Pol, Ind, Servialsa Balmes, 25",
+            "codiNuts": {
+              "codiNuts": "ES618",
+              "ca": "Gines"
+            },
+            "telefon": "954717190",
+            "email": "info@cohisa.com",
+            "tipusEmpresaUnificat": [
+              {
+                "id": 748,
+                "ca": "PIME",
+                "en": "SME",
+                "oc": "PIME"
+              },
+              {
+                "id": 1008406,
+                "ca": "Cap de les anteriors",
+                "es": "Ninguna de las anteriores",
+                "en": "None of the previous options",
+                "oc": "Cap des anteriores"
+              }
+            ],
+            "varisTipusIva": false,
+            "pais": {
+              "id": 65,
+              "ca": "Espanya",
+              "es": "España",
+              "en": "Spain"
+            },
+            "provincia": {
+              "id": 336,
+              "ca": "Sevilla",
+              "es": "Sevilla",
+              "en": "Seville",
+              "oc": "null"
+            },
+            "municipi": {
+              "id": 1006163,
+              "ca": "Gines"
+            },
+            "informacioUte": [],
+            "plurianualitats": []
+          }
+        ],
+        "subcontractacio": false,
+        "subcontractacions": [],
+        "metodeUtilitzatCalculValorEstimat": {},
+        "peuDeRecurs": {
+          "ca": "Aquest contracte i en relació als actes que especifica l’article 44.6 LCSP, en tractar-se d’un contracte de subministrament per un import superior a cent mil euros (100.000.-€), podrà ser objecte de recurs especial en matèria de contractació de conformitat amb el que disposa l’apartat primer de l’esmentat precepte.\nTambé s’han de considerar incloses en l’àmbit objectiu del recurs especial les modificacions contractuals, la subcontractació i la resolució del contracte, en tant nomes es qüestioni el compliment de les exigències que, amb efecte directe, estableix el Dret de la Unió Europea.\nAquest recurs té caràcter potestatiu, es podrà interposar davant el Tribunal Català de Contractes del Sector Públic o l’òrgan de contractació, prèviament o alternativament, a la interposició del recurs contencions administratiu, de conformitat amb la Llei 29/1998, de 13 de juny, reguladora de la jurisdicció contenciosa administrativa, i es regira pel que disposen els articles 44 i 47 del LCSP i el Real Decret 814/2015, d’11 de setembre, pel qual s’aprova el Reglament dels procediments especials de revisió de decisions en matèria contractual i d’organització del Tribunal Administratiu Central de Recursos Contractuals.\n"
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "documentFormalitzacio": {
+          "ca": [
+            {
+              "id": 301849842,
+              "titol": "9884AM_3.05-P01-R15_Contracte CONTHIDRA_LOTS 1-2-5-6_ formalitzat.pdf",
+              "path": "FlBy_ERvJmM0ZyKnkHgf-eNjHu-iL1ynl85rMhBFDbIuLIs4A3HUsLVbF0f5BNVOH4NxHecHSz6XrBtQ0TfIqZ6Ut67qWZWtRLgWImgkcgkLVF0nqgjtubiHewLZQ7Ac_H3ePg8TZFqDOM_wa1B6CusSDmmJWlnfieie9JRlLMZT8aRoGlFGQlG2WC1qblFinUWjk3rHGfkBYFJZAf3qG5-JLrVDFpLwI71zYVD63eSFFFSgGWfYVMTzYP4Mz9s7Lh7yumTQnHyGHZLit5ON1i1GZckg0XlvXlUBnp4oryHG_cQmmNROK80JdwqQFWTYY0qa5roTsES2zjTeMgyN2w==",
+              "hash": "A25DD4052FDFDB7494A7836394D2CCD5",
+              "idioma": "ca",
+              "mida": 213140
+            },
+            {
+              "id": 301849843,
+              "titol": "9884AM_3.05-P01-R15_Contracte SENSUS_ LOTS 1-4-5_formalitzat.pdf",
+              "path": "SsesOhz7vREzKQJAPuJTviTTTMMGZDi6t-X_EXw1sFa5P8TCs14aVM8ZCUIaONyasB0WxexHJTWGJyQA8LgtZ8A7eYK3i5Q4cctLYApfJzrHz9PkzHU_7kvdIF_OwsVz2jN0iojG-q0bsw4drAW9E4gog5k7IxI0G_elYHtvW1EwkpOWjZxx-nsnHG-vLA6rnS6CvIAjoPXEwZM2BtLMzlWgnVFtDAjxYfyKCNVUPB8sXibPzE23pg6abpD39aDxtNNF8grYrpVLo9FSINi3GaCyB4j-89KWNh7M2AozrQpnUy46tvTb_YhZSQ0RcmuLkcQSv3NbIOUbfiobiUtZQw==",
+              "hash": "807B204048077B81CEFF256DF99AA080",
+              "idioma": "ca",
+              "mida": 169500
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [
+            {
+              "id": 301850003,
+              "titol": "3.10-P02-D02.pdf",
+              "path": "hPLxbde5lCL7IAGBsBbhlEeeGMo51npkFWQxgaJJrhuRVUuFHP-_i5iZatFD0fYl7Ck6gFtQX9HE95q5heaeHOhVNgrOwnJbgqsG9JEoSRuX_xzSOvzb6bMVGHrT56_a0lIq01XMh86H9T1-wcH3UTXLirIEthLNZ2spHgIYp0fstl9oOaLn4HjOHC-snOu1-NAJ_xXRMp7LJZ7kPdgufP8wuFnMqc7ihbD37HczMaxamcBxqzGIf7SQEN--kZ3pLqhR1lGdKsI0zBWKC-4-TbEkm0e25nNf9m7CLWbKWVrceV2jg7ftyhBMixDD-o-7JMO2UUnWi88GQ9wetsqDOw==",
+              "hash": "7917D78605B61EFA08C6264A11EF636D",
+              "idioma": "ca",
+              "mida": 150074
+            },
+            {
+              "id": 301850004,
+              "titol": "3.10-P02-D03.pdf",
+              "path": "njMQ8YygbipScskSWrxy2YUfQmmB93MtM4VMu5xPr9DMnUMYYubyl9g0a8I0qQ1W2orYoLXSIbHx-NHjmPth332h1NFP4Alpr1T0Cm7OQOKHCw7Jw9524-hjNpNVMkaMSMoZN8VMifs9UyO5KV7809E9Dyg4Z64rPZoQaK-7STNa3ucSeWuT9Qo3XdLY9zyMaRPOQdU--lQ1sF2rW1yNKaCklXJgmetjooQ1ydl8AnFf7s2RQTP2I1Zt_SWA2w3Ovzcid9y06XZ9R8diHVLYIcOMSBkoCFNS5k2nqL8TlTMXqQYrwKUAfzyK0p5FUb80fJs20SB9Sa-sZuxK7NHX-g==",
+              "hash": "87AE1C4BC6ADD3340009FE47C09B00DE",
+              "idioma": "ca",
+              "mida": 158832
+            },
+            {
+              "id": 301850005,
+              "titol": "3.10-P02-D04.pdf",
+              "path": "LgqG9PJxeh2WszYTICedAN7FlmGoaO1zyJnWZZoh35MxFRhvvWbRZor9tEYfoWEq4KRtafTQ-4h7F-9YKEB_UMSYrya1YDJQp5i14ZK6jLNnZR265cbjPfs0cugBCsTfP6hkqdNYLyfhpmWdWweM60dOerV97fKvcfdmmmM18f56Kf14b6trkyIuqbnDCP2PlzUPh-6s7yTCbrJkq4ZZ0GMv7tBnK4yKRCUeHzC6zLWULUUcw3bMTxLmuJjOceD_dgooowwJ9uX6OwNvTUiZ2CPcTsyXZO5gxE8-Y84gju4qlHBCR1jw4whp2jyCwxU0YnZOa-8flzYuMVRR2ANL7w==",
+              "hash": "0317B2F6397C0377FD5807EE863C31A5",
+              "idioma": "ca",
+              "mida": 147604
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "iniciTerminiExecucio": "2023-03-16T23:00:00.000Z",
+        "fiTerminiExecucio": "2024-03-15T23:00:00.000Z",
+        "observacionsTermini": {},
+        "revisioPreus": {
+          "id": 1008438,
+          "ca": "No prevista revisió de preus"
+        },
+        "preuUnitari": false,
+        "paisOrigenProducte": {
+          "id": 65,
+          "ca": "Espanya",
+          "es": "España",
+          "en": "Spain"
+        },
+        "canonExplotacio": {}
+      }
+    ],
+    "dadesExpedient": {
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "0cad6ef8-d560-937e-0dc0-bdf44338687e",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "tenderingSpaceId": 107376459,
+      "esPublicacioAntiga": true,
+      "tipusOfertaElectronica": 413,
+      "denominacioExpedientReferencia": {},
+      "esReduit": false
+    },
+    "publicacionsOficials": [],
+    "tipusEsmena": {
+      "id": 1008172,
+      "ca": "Esmena",
+      "es": "enmienda",
+      "en": "Amendment",
+      "oc": "Esmenda"
+    },
+    "motiuEsmena": {
+      "ca": "Licitació susceptible d'ésser finançada en el marc de les ajudes NextGenerationEU - Projectes per a la millora i renovació de les xarxes d'abastament d'aigua en baixa dels municipis petits i mitjans de Catalunya dins del Pla de Recuperació, Transformació i resiliència -PERTE-  Per als expedients: \nLOT 1 MARGANELL PRE137/22/000030 \nLOT 2 CASTELLTALLAT  PRE137/22/000083 \nLOT 3 SANT FRUITOS DE BAGES  PRE137/22/000148\n"
+    }
+  },
+  "pathPdf": "e5cP368gQqysyGfrTDtqs47fKk6iCjlAEKN6IEQWL9yjFMnhiSg2_6s5WSmtO4wk4UeMMrvAyev7wkzuNG5c9FAaWh6NflGOjgP7dEzf_Eh1qWZBdl2oNAYGVi9H-B-0VBZ-elixCbA4zCjBh-oneWy_lzDSWgKFDEDqoqGDWcFy5ertCcGLYsWOxboDIjti84mLIi6fNODO3TwktQspFoJ2-uhEc9jQXL4fGwKu2sT2Ut4rkeer6GZF2WqNqh50-pxHh3oPZLvpesoDHbpw0vOBWIk-mHixfQ7rSx4RdbbZl1zRvRwpLlEZVbBiug7jtNqZzqQV5D4xQXfnpHU4CQ==",
+  "pathCertificacio": "o9l3r4puo4WMuUfKp-D5_tvhnzzSCl_UAirGpeUSz6WRD-NhMLEa7__GMS1Q8g3ZFjofjRjL3Bls3NvlC11fJ4jGj6YRvWh3d5emCyWRU0UXJxRYk5TKHU5aue506rtyCD29Ch33M7F51je4nzKsWHdfHF0yQiB7prVozAjwQ3WeWHF7m_7YEz9qoWllwgomlFeQW2RIiY5LjWhnZJqkFY2CX4g40cUrnCsUo7QjxGxYHsb8lwgRjydVjx14oSsfWd9UwmNvZWxKAe7OOa_gZOjMTI3YnNRLHxdgg_P6t3Ub6x8j86npmZPLgLy5b3DKQd1hTIVwePx3U2CPCi8uIQ==",
+  "pathJson": "PXH6SL5y_cTQyQthWo8kWC2SxrfXnSlpxk3pGv8HmOnnFBgJQ0ro2GL29yf8PqKmutykEeWQdkK6jb4RNYg59JxrQjrL-jzR5OsPj5GWIKz_YsgaE2kZnAZK20px1maNkKYlLJleilz_eneCkCXzcAAS--WbURcH9u0_gldOq7gKOP8y5ImOWXPaR9_KIxu9wTHaA_rc_SW7z28RfUw4-8lAgejGENDqFhWkH4CtitcBEt5dQU6BEgxqMCT_Xhk6Bui72AXshLuq44DmR3l4P3OvA0U8FmC8iDzBT5RzCxy7MRw6vjD6C8Xsrc1a_FW78hcxsmqIvR2zRMlWEAIKGg==",
+  "dataPublicacioReal": "2025-12-10T12:50:21.397Z",
+  "dadesExpedient": {
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": "Català",
+      "es": "Catalan",
+      "en": "Catalan",
+      "oc": "Catalan"
+    },
+    "expedientId": "0cad6ef8-d560-937e-0dc0-bdf44338687e",
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "tenderingSpaceId": 107376459,
+    "esPublicacioAntiga": true,
+    "tipusOfertaElectronica": 413,
+    "denominacioExpedientReferencia": {},
+    "esReduit": false
+  }
+}

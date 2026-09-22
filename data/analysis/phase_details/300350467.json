@@ -1,0 +1,217 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "1/2025",
+  "idExpedient": "bb2996bd-86e9-4923-ae70-c2c97566d27a",
+  "dataPublicacioPlanificada": "2025-01-14T11:20:00.000Z",
+  "organ": {
+    "nom": "INTERHOSPITALIA 2 A.I.E.",
+    "unitat": "INTERHOSPITALIA 2 A.I.E.",
+    "nif": "G60857059",
+    "direccioPostal": "Carrer ESLA, 60",
+    "localitat": "Barcelona, Terrassa",
+    "codiPostal": "08223",
+    "nuts": "ES511",
+    "telefon": "937310623",
+    "email": "j.guallarte@interhospitalia.es",
+    "personesContacte": [
+      {
+        "nom": "Joaquim",
+        "cognom": "Guallarte Beltrán",
+        "carrec": "GERENT",
+        "telefon": "607010188",
+        "email": "j.guallarte@interhospitalia.es"
+      },
+      {
+        "nom": "JORDI",
+        "cognom": "FOSSAS SABATÉ",
+        "carrec": "TÈCNIC",
+        "telefon": "937854362",
+        "email": "projectes@interhospitalia.es"
+      }
+    ],
+    "centralCompres": false,
+    "tipusPoderAdjudicador": 1500007,
+    "observacions": {},
+    "horari": {},
+    "organContractacioId": 100000081
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000039,
+      "ca": "Anunci previ",
+      "es": "Anuncio previo",
+      "en": "Prior announcement",
+      "oc": "Anóncia prealabla"
+    },
+    "expedientId": "bb2996bd-86e9-4923-ae70-c2c97566d27a",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000039,
+        "ca": "Anunci previ",
+        "es": "Anuncio previo",
+        "en": "Prior announcement",
+        "oc": "Anóncia prealabla"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "1/2025",
+      "denominacio": {
+        "ca": "Servei de recollida i tractament dels residus de les instal·lacions de la bugaderia d’Interhospitalia2, A.I.E."
+      },
+      "descripcio": {
+        "ca": "Servei de recollida i tractament dels residus de les instal·lacions de la bugaderia d’Interhospitalia2, A.I.E."
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "unitatContractacio": 100000100,
+      "tipusContracte": {
+        "id": 393,
+        "ca": "Serveis",
+        "es": "Servicios",
+        "en": "Services",
+        "oc": "Servicis"
+      },
+      "procedimentAdjudicacio": {
+        "id": 419,
+        "ca": "Obert simplificat",
+        "es": "Abierto simplificado",
+        "en": "Open simplified",
+        "oc": "Daurit simplificat"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {}
+    },
+    "dadesPublicacio": {
+      "pressupostLicitacio": 68760,
+      "observacions": {},
+      "contracteHarmonitzat": false,
+      "valorEstimatContracte": 110016,
+      "iva": 10,
+      "pressupostLicitacioAmbIva": 75636,
+      "durada": {
+        "esDurada": true,
+        "anys": 3,
+        "mesos": 0,
+        "dies": 0,
+        "observacions": {}
+      },
+      "llocExecucio": {
+        "codiNuts": "ES511",
+        "ca": "Terrassa"
+      },
+      "dataPrevistaProcesLicitacio": "2025-01-19T23:00:00.000Z",
+      "codisCpv": [],
+      "cpvPrincipal": {
+        "codi": "90511300-5",
+        "ca": "Serveis de recollida d'escombraries",
+        "es": "Servicios de recogida de basuras",
+        "en": "Litter collection services",
+        "oc": "Servicis de recuelhuda de lordères"
+      },
+      "cpvsSecundaris": [
+        {
+          "codi": "90511400-6",
+          "ca": "Serveis de recollida de paper",
+          "es": "Servicios de recogida de papel",
+          "en": "Paper collecting services",
+          "oc": "Servicis de recuelhuda de papèr"
+        }
+      ],
+      "documentacio": {
+        "ca": [
+          {
+            "id": 301010393,
+            "titol": "1- Informe justificatiu de la contractació - Servei recollida residus.pdf",
+            "path": "WcsJfRehqDzQsPE4-sGcxBeiRp1zs2XMk4drmQHmyfM4LpS1PVowXOUGUVflJ5ig8fAMa5_g17gNQdeWgIZfulrB94oau7laqpRSx_f83kZB9_OazoYr247iPmJ-6xZU8xfEtoLf2OuISfDj2DoUvaTus3ScYMzzWKR3TeD7RaW00nhynXHDbZQI-RPsG_s9QwXW_McW_jXthR-ksMOAl2X9t6QvFSL97gVxykQrP4hPFHA7o8W_vKoZxY1vMuqm36MSHTKx0UzMaVwaLg8TJJ7QxUQbPUo429FlorkfI31frzunHMMnqHFR7492rQqwGkOiC9Rt173ZIs1lD0GHRg==",
+            "hash": "08936061976B062A69B4F0A61ABBDB11",
+            "idioma": "ca",
+            "mida": 6655905
+          }
+        ],
+        "es": [],
+        "en": [],
+        "oc": []
+      },
+      "acpAplicable": true,
+      "solvenciaEconomicaFinanciera": [],
+      "solvenciaTecnicaProfessional": [],
+      "classificacioEmpresarial": [],
+      "condicionsPerParticipacio": {},
+      "contractacioConjunta": false,
+      "divisioEnLots": false,
+      "publicacionsOficials": []
+    },
+    "dadesPublicacioLot": [],
+    "dadesExpedient": {
+      "organContractacioId": 100000081,
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "bb2996bd-86e9-4923-ae70-c2c97566d27a",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "denominacioExpedientReferencia": {}
+    },
+    "motiuEsmena": {}
+  },
+  "pathPdf": "dC1R5fUMI37ZyQeWh9fYjfVpxxD-B51UM-Kl57igZfIM-ak2E6rxO7SGnHdssShnN3IsxiuFPJz1M6QSPy720m1qIYt4AaZjIjr1SNirCNpMTnls5akPVmURsT4mi9RKPxZ5dq8FWz3v4emS7g5A4658lydEBi7qFMLh7pcLBaR3nBzUKBwlyC6_OqBwDohaMevhq1U1Tg7t5iy1j68iLb7g9m6tEXP5RlUuUtCHKhYvnJJlHekL0pb9oPJW1C3b5yMrXqwcfxNVxZaI2T-UZZPNrrAUoQtERM8g4UdMfxmEYXivEpeW46e5Rq5oLz-gh3-cvf0xcYuMzk1A1uT4sQ==",
+  "pathCertificacio": "ncB-1Fbs1ajhthCIwbiqrICfXkfKPj9NXJc748TGCcswRtBzAA7m8iluBCx_Yt7RBcGg7wNskgj-AEkjKgeDTPes1NZfhPpeyClJ0Uk-DNSXJC1kjfVUhFe7BGgXZKR8Nvav2WYniWx81Jcu1vXCL1QTi3VVlXAPHzpNpS91BeQyin_PHf4HJ5z11tT4h9LqF7h7BoD4jJH-WHVGPeA9XFYJ-yHVIjZ12ahyHx1Bxzbvk1DUviTNwVySCgXfAkXNCLkwNoEN2q4H1rJyEHlVS59XiwNK4pGChDUBZUjgti4e32xnPXXvFv9YGS1Lz3-5JJgk9zK8I6GpKKy_CgczZA==",
+  "pathJson": "pJQk8b5NAxPfY9DF3bqWFNLXHfbAsKVkh58JmmsIOI-vS7euAvI5apEQ4W8tcwad1rq7z-wphlH47poGWvn4Ljzz7Cv8I2JGut6mg5qm5JI-YzWBRKseEca3zYtO1Lq6XNuEmIszekF_UyHfgxHZOOPRnw1uUJIL1xXPmgDgyFdmVQoS6Qw-c0bEfA7dqeNOJ7FBXnaZ6kRGbZS-KfUVFNTEJJDZrAilYdN2oJXNxjAX6LWvFNUNJzU9MwAuXd29hW4qiLYzU45lPFqanhtD2gLvQpROdjPPeLg_1h29KGwH4aDljKvX9rZalY-ldMpXqkp20AzI5E4fS3-oe370nw==",
+  "dataPublicacioReal": "2025-01-14T11:20:05.650Z",
+  "dadesExpedient": {
+    "organContractacioId": 100000081,
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "expedientId": "bb2996bd-86e9-4923-ae70-c2c97566d27a",
+    "dataFiPublicacioPerfil": null,
+    "dataFiGestio": null,
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "tenderingSpaceId": null,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": null,
+    "dataVisiblePortalAccesExclusiu": null,
+    "expedientIdReferencia": null,
+    "codiExpedientReferencia": null,
+    "denominacioExpedientReferencia": {
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "nomOrganContractacioReferencia": null
+  }
+}

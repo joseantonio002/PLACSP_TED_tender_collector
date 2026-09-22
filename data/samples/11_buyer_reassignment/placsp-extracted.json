@@ -1,0 +1,120 @@
+[
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/15314304",
+    "updated": "2025-01-31T12:03:14.196+01:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/deed8b7e-fcb0-45db-bc95-1b47db67b496/300364522",
+    "uuid": "deed8b7e-fcb0-45db-bc95-1b47db67b496",
+    "publication_id": "300364522",
+    "expediente": "PR-2025-7",
+    "title": "Servei de recollida de dades de les minories religioses a Catalunya del Mapa Religiós de Catalunya durant els anys 2025, 2026 i 2027.",
+    "status": "RES",
+    "buyer_name": "Departament de la Presidència",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "202037"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "214876.03",
+    "budget_gross": null,
+    "estimated_value": "214876.03",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "79320000",
+      "79315000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2024-07-29",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [],
+    "awards": [
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": null,
+        "amount": "204236",
+        "supplier_ids": [
+          "R5800395E"
+        ],
+        "supplier_names": [
+          "FUNDACIÓ PERE TARRÉS"
+        ],
+        "contract_dates": [
+          "2025-01-28"
+        ]
+      }
+    ],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-07-12"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2024-12-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-01-31"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "7_PCAP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/300833739/13628235E43D378ECB0E931699599FD1"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "7_PPT.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/300833740/AC55537A85ED4C76F4AA5F3062C74FE7"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250201_040016_2.atom",
+    "ordinal": 216
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20154714",
+    "updated": "2026-07-29T12:03:48.534+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/0a859be5-1ee8-4c70-97f5-5ac6b6677700/300846143",
+    "uuid": "0a859be5-1ee8-4c70-97f5-5ac6b6677700",
+    "publication_id": "300846143",
+    "expediente": "2026/7731",
+    "title": "L’objecte del contracte és l’adquisició, per part de la Diputació de Girona, d’ordinadors portàtils i dockstation, maletes d’esquena (motxilles) per a ordinadors portàtils, ratolins i teclats, auriculars i pantalles.",
+    "status": "PUB",
+    "buyer_name": "Diputació de Girona",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "14301168"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "58866.4",
+    "budget_gross": null,
+    "estimated_value": "58866.4",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "30231000",
+      "32342100",
+      "30213100",
+      "30237460",
+      "30237410",
+      "18931100"
+    ],
+    "execution_nuts": [
+      "ES512"
+    ],
+    "execution_names": [],
+    "deadline_date": "2026-08-12",
+    "deadline_time": "23:59:59",
+    "procedure_type": "999",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Ordinadors portàtils i Dockstations",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Motxilles per a portàtils",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Ratolins i teclats",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Auriculars doble amb diadema i micro",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Pantalles",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2026-07-29"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP_2026_7731_signat.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/302474492/ED4A195A4D2DFAF2C7CF2F8E8B5D1A65"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "PPT_2026_7731_signat.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/302474493/F14E3C1DE7D2995697C756AD06332AD2"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2026.zip",
+    "member": "PlataformasAgregadasSinMenores_20260730_030126_1.atom",
+    "ordinal": 5
+  }
+]

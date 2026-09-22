@@ -1,0 +1,38 @@
+[
+  {
+    "codi_ambit": "1500002",
+    "nom_ambit": "Entitats de l'administració local",
+    "codi_organ": "9598270",
+    "nom_organ": "Ajuntament de Vila-seca",
+    "codi_ine10": "4317110007",
+    "codi_dir3": "L01431711",
+    "codi_expedient": "4317110007-2021-0001388",
+    "numero_lot": "0",
+    "tipus_actuacio_execucio": "Modificació (Objectiva)",
+    "denominacio_actuacio": "Modificació del contracte del servei de recollida i transport de residus municipals, neteja viària i de la platja, i gestió de la deixalleria en el terme municipal de Vila-seca",
+    "data": "2026-03-30T00:00:00.000",
+    "import_sense_iva": "341124.070000000000000000",
+    "url_json": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300007312",
+    ":id": "row-immc-dqqp_ii59",
+    ":created_at": "2026-08-27T01:10:55.486Z",
+    ":updated_at": "2026-09-22T01:11:51.826Z"
+  },
+  {
+    "codi_ambit": "1500002",
+    "nom_ambit": "Entitats de l'administració local",
+    "codi_organ": "9598270",
+    "nom_organ": "Ajuntament de Vila-seca",
+    "codi_ine10": "4317110007",
+    "codi_dir3": "L01431711",
+    "codi_expedient": "4317110007-2021-0001388",
+    "numero_lot": "0",
+    "tipus_actuacio_execucio": "Modificació (Objectiva)",
+    "denominacio_actuacio": "Segona modificació del contracte del servei de recollida i transport de residus municipals, neteja viària i de la platja, i gestió de la deixalleria en el terme municipal de Vila-seca",
+    "data": "2026-08-10T00:00:00.000",
+    "import_sense_iva": "317101.250000000000000000",
+    "url_json": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300007312",
+    ":id": "row-5zxx.dwxh_8t7i",
+    ":created_at": "2026-08-27T01:10:55.486Z",
+    ":updated_at": "2026-09-22T01:11:51.826Z"
+  }
+]

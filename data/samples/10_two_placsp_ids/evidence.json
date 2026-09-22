@@ -1,0 +1,69 @@
+{
+  "case_id": "10_two_placsp_ids",
+  "gencat_uuid": "00c79486-0c0d-41f8-8ed6-2097f449a999",
+  "tags": [
+    "duplicate_identity",
+    "award",
+    "formalization"
+  ],
+  "fetch_historical_notices": true,
+  "placsp_observations": 3,
+  "gencat_rows": 1,
+  "evidence_references": [
+    {
+      "source": "placsp",
+      "file": "placsp-000.xml.fragment",
+      "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+      "member": "PlataformasAgregadasSinMenores_20250208_040115_3.atom",
+      "entry_ordinal": 42,
+      "byte_start_in_member": 363060,
+      "byte_end_in_member": 369911,
+      "fragment_sha256": "bb418d9617b7024fef42e877e80d2ae5991348263fa3df7a95f713f175aeec72",
+      "note": "Exact byte slice, namespace bindings inherited from parent feed; original complete XML is in archive member."
+    },
+    {
+      "source": "placsp",
+      "file": "placsp-001.xml.fragment",
+      "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+      "member": "PlataformasAgregadasSinMenores_20250208_040752_3.atom",
+      "entry_ordinal": 109,
+      "byte_start_in_member": 962790,
+      "byte_end_in_member": 969641,
+      "fragment_sha256": "e1203646e9cbae90de17a054f950d1ada21d00d0b15e46c701f46d8b783fd945",
+      "note": "Exact byte slice, namespace bindings inherited from parent feed; original complete XML is in archive member."
+    },
+    {
+      "source": "placsp",
+      "file": "placsp-002.xml.fragment",
+      "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+      "member": "PlataformasAgregadasSinMenores_20250211_040020_3.atom",
+      "entry_ordinal": 53,
+      "byte_start_in_member": 476618,
+      "byte_end_in_member": 484356,
+      "fragment_sha256": "0332f9139b8cc3a241a9a470f91d0d0015656977ce02dc1b6ba4a83d157490be",
+      "note": "Exact byte slice, namespace bindings inherited from parent feed; original complete XML is in archive member."
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/000020000.json",
+      "row_ordinal": 8493,
+      "socrata_id": "row-x3hd~7maf-gcgh",
+      "id_intern": "00c79486-0c0d-41f8-8ed6-2097f449a999"
+    }
+  ],
+  "phase_json": {
+    "300370321": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300370321/SbE-pY9Jhp_AAH4Nhmf9BALIg3aJTzj6A4nXvWNJ006gArAsv4Tegxa92Xg_bl7U-CdwS2H0z9F0RGKlFMhDg7thNxmRNSR3Wyj7gBIqVHasV1nck1vkTe8jB2QBgqTRA-6cEWJtxfO7EnQhoH3Znj3g8ZcwyfVu_d0qUCHDagq9bmsK7m4XA9sP9d55tD6xJq0Ij6APIrVq9uif30v3Mn7rwpWH_uLqVBL0qNSOGX6oLVbEkahaxcdBbl3URNvoTkbr3VmSf7lgCD6meEhDquIy3-hIc_JkFTLMkQayYpbD4QadZpItxFZe0b2GkO3t4pAknfyNLbDziyA0CWgoTQ==",
+      "field": "url_json_adjudicacio",
+      "source_row_id": "row-x3hd~7maf-gcgh",
+      "raw_path": "data/raw/gencat/phases/300370321.json"
+    },
+    "300371580": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300371580/pLEamOHhnHHW7ynaf2mVfCOZxTO1UmOcfR3xur2BGorkVhmm_yx-aHjuG-AQprrQv5YrW2iQpxHPwR4RSaefBoQi1qf8y-EMljmh3Xvo0ywx1ta4LoqK7RmAwszdvaJOTloLJQ4eHP0qCfAVlsksRXdGVazRANfnXmKj1YpbdHpHjztLIai4SGsgIuNKmixuUpW99F6p1TBKs_jK1cNJpe3iMi8wUQkjRHqDdZv9VRSVNtc1Spa0cL4J_q0EuJHXTf7GUJjIRANaY2Z-MtrCfwA2NZoLIJppua3B1cBibf6CyfN7Vq28iYZErQZM5-jkq169rNG0LMO7UtzaZasuwQ==",
+      "field": "url_json_formalitzacio",
+      "source_row_id": "row-x3hd~7maf-gcgh",
+      "raw_path": "data/raw/gencat/phases/300371580.json"
+    }
+  },
+  "folder": "data/samples/10_two_placsp_ids"
+}

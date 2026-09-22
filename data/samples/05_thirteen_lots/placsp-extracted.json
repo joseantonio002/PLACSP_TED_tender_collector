@@ -1,0 +1,5246 @@
+[
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2025-03-30T14:00:07.390+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300412160",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300412160",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+    "status": "PUB",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-04-29",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Edificis judicials Barcelona Províncies Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Centres penitenciaris i Centres educatius juvenils Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-03-30"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301189900/D08182B8B961699936600064488DBF32"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301189906/BC1C84085704F31601EFE544CF54AD4A"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250401_040050_1.atom",
+    "ordinal": 95
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2025-03-31T10:08:27.255+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300412412",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300412412",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+    "status": "PUB",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-04-29",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Edificis judicials Barcelona Províncies Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Centres penitenciaris i Centres educatius juvenils Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-03-31"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301190956/D08182B8B961699936600064488DBF32"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301190957/BC1C84085704F31601EFE544CF54AD4A"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250401_040050.atom",
+    "ordinal": 420
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2025-04-04T14:08:53.934+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300417864",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300417864",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+    "status": "PUB",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-04-29",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Edificis judicials Barcelona Províncies Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Centres penitenciaris i Centres educatius juvenils Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-03-31"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02_esm.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301207463/66489F0C14E429271B0E1A69C8335659"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301207460/BC1C84085704F31601EFE544CF54AD4A"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250408_040053_1.atom",
+    "ordinal": 421
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2025-04-09T20:00:14.487+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300421817",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300421817",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+    "status": "PUB",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-04-29",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Edificis judicials Barcelona Províncies Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Centres penitenciaris i Centres educatius juvenils Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-03-31"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02_esm2.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301218990/54C17EA8CA37CC39DE1F5468147969DE"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP_esm.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301218991/ADB43D1FC1CF380B88843A7D8BE61E92"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250411_040052_1.atom",
+    "ordinal": 296
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2025-04-15T12:05:42.647+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300425850",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300425850",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+    "status": "PUB",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-04-29",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Edificis judicials Barcelona Províncies Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Centres penitenciaris i Centres educatius juvenils Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-03-31"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02_esm2.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301230666/54C17EA8CA37CC39DE1F5468147969DE"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP_esm.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301230667/ADB43D1FC1CF380B88843A7D8BE61E92"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250416_040110.atom",
+    "ordinal": 184
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2025-04-29T12:04:38.946+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300433779",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300433779",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+    "status": "PUB",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-07",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Edificis judicials Barcelona Províncies Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Centres penitenciaris i Centres educatius juvenils Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-03-31"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02_esm3 termini.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301254754/BFB597669173AFFC5A01C6DC2A9F276B"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP_esm.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301254739/ADB43D1FC1CF380B88843A7D8BE61E92"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250430_040051_1.atom",
+    "ordinal": 78
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2025-04-30T12:05:30.965+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300435353",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300435353",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+    "status": "PUB",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-07",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Edificis judicials Barcelona Províncies Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Centres penitenciaris i Centres educatius juvenils Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-04-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CN",
+        "notice_issue": "2025-04-30+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-03-31"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02_esm3 termini.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301259703/BFB597669173AFFC5A01C6DC2A9F276B"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP_esm.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301259704/ADB43D1FC1CF380B88843A7D8BE61E92"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250501_040050_1.atom",
+    "ordinal": 133
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2025-05-08T18:02:54.162+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300443708",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300443708",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+    "status": "EV",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-07",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Edificis judicials Barcelona Províncies Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Centres penitenciaris i Centres educatius juvenils Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-03-31"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CN",
+        "notice_issue": "2025-03-31+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-04-30"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02_esm3 termini.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301259703/BFB597669173AFFC5A01C6DC2A9F276B"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP_esm.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301259704/ADB43D1FC1CF380B88843A7D8BE61E92"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250510_040131_4.atom",
+    "ordinal": 21
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2025-05-13T22:01:02.131+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300443708",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300443708",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+    "status": "EV",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-07",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Edificis judicials Barcelona Províncies Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Centres penitenciaris i Centres educatius juvenils Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-04-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CN",
+        "notice_issue": "2025-04-30+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-03-31"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02_esm3 termini.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301294381/BFB597669173AFFC5A01C6DC2A9F276B"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP_esm.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301294382/ADB43D1FC1CF380B88843A7D8BE61E92"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250515_040118_1.atom",
+    "ordinal": 357
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2025-05-15T14:03:43.797+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300443708",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300443708",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+    "status": "EV",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-07",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Edificis judicials Barcelona Províncies Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Centres penitenciaris i Centres educatius juvenils Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-03-31"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CN",
+        "notice_issue": "2025-03-31+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-05-15"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CN",
+        "notice_issue": "2025-05-15+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-04-30"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02_esm3 termini.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299279/BFB597669173AFFC5A01C6DC2A9F276B"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP_esm.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299280/ADB43D1FC1CF380B88843A7D8BE61E92"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250516_040108.atom",
+    "ordinal": 119
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2025-05-19T16:06:25.454+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300454013",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300454013",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+    "status": "EV",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-07",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Edificis judicials Barcelona Províncies Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Centres penitenciaris i Centres educatius juvenils Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-03-31"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CN",
+        "notice_issue": "2025-03-31+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-05-15"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CN",
+        "notice_issue": "2025-05-15+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-04-30"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02_esm3 termini.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299279/BFB597669173AFFC5A01C6DC2A9F276B"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP_esm.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299280/ADB43D1FC1CF380B88843A7D8BE61E92"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250521_040052_1.atom",
+    "ordinal": 265
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2025-05-22T14:06:37.047+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300458208",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300458208",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+    "status": "EV",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-07",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Edificis judicials Barcelona Províncies Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Centres penitenciaris i Centres educatius juvenils Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-05-15"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CN",
+        "notice_issue": "2025-05-15+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-04-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CN",
+        "notice_issue": "2025-04-30+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-03-31"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02_esm3 termini.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299279/BFB597669173AFFC5A01C6DC2A9F276B"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP_esm.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299280/ADB43D1FC1CF380B88843A7D8BE61E92"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250523_040118.atom",
+    "ordinal": 109
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2025-06-02T10:04:31.830+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300468818",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300468818",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+    "status": "EV",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-07",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Edificis judicials Barcelona Províncies Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Centres penitenciaris i Centres educatius juvenils Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-03-31"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CN",
+        "notice_issue": "2025-03-31+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-04-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CN",
+        "notice_issue": "2025-04-30+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-05-15"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02_esm3 termini.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299279/BFB597669173AFFC5A01C6DC2A9F276B"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP_esm.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299280/ADB43D1FC1CF380B88843A7D8BE61E92"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250603_040108_2.atom",
+    "ordinal": 6
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2025-06-12T16:06:05.818+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300480713",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300480713",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+    "status": "EV",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-07",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Edificis judicials Barcelona Províncies Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Centres penitenciaris i Centres educatius juvenils Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-05-15"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CN",
+        "notice_issue": "2025-05-15+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-04-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CN",
+        "notice_issue": "2025-04-30+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2025-03-30",
+          "2025-03-31"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02_esm3 termini.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299279/BFB597669173AFFC5A01C6DC2A9F276B"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP_esm.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299280/ADB43D1FC1CF380B88843A7D8BE61E92"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250614_040051_1.atom",
+    "ordinal": 463
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2025-07-01T14:04:49.551+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300498374",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300498374",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+    "status": "EV",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-07",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Edificis judicials Barcelona Províncies Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Centres penitenciaris i Centres educatius juvenils Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-03-30"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02_esm3 termini.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299279/BFB597669173AFFC5A01C6DC2A9F276B"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP_esm.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299280/ADB43D1FC1CF380B88843A7D8BE61E92"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250702_040058.atom",
+    "ordinal": 427
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2025-07-02T12:07:20.622+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300499571",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300499571",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+    "status": "EV",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-07",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Edificis judicials Barcelona Províncies Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Centres penitenciaris i Centres educatius juvenils Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-03-30"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02_esm3 termini.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299279/BFB597669173AFFC5A01C6DC2A9F276B"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP_esm.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299280/ADB43D1FC1CF380B88843A7D8BE61E92"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250703_040113_1.atom",
+    "ordinal": 26
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2025-07-04T14:07:29.572+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300502587",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300502587",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+    "status": "EV",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-07",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Edificis judicials Barcelona Províncies Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Centres penitenciaris i Centres educatius juvenils Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-03-30"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02_esm3 termini.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299279/BFB597669173AFFC5A01C6DC2A9F276B"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP_esm.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299280/ADB43D1FC1CF380B88843A7D8BE61E92"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250707_040103.atom",
+    "ordinal": 412
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2025-08-01T14:13:47.040+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300502587",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300502587",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+    "status": "EV",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-07",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Edificis judicials Barcelona Províncies Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Centres penitenciaris i Centres educatius juvenils Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-03-30"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02_esm3 termini.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299279/BFB597669173AFFC5A01C6DC2A9F276B"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP_esm.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299280/ADB43D1FC1CF380B88843A7D8BE61E92"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250803_040111_1.atom",
+    "ordinal": 468
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2025-08-07T10:06:41.637+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300502587",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300502587",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+    "status": "EV",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-07",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Edificis judicials Barcelona Províncies Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Centres penitenciaris i Centres educatius juvenils Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-03-30"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02_esm3 termini.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299279/BFB597669173AFFC5A01C6DC2A9F276B"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP_esm.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299280/ADB43D1FC1CF380B88843A7D8BE61E92"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250808_040059.atom",
+    "ordinal": 437
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2025-08-08T09:04:48.983+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300502587",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300502587",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+    "status": "EV",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-07",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Edificis judicials Barcelona Províncies Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Centres penitenciaris i Centres educatius juvenils Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-03-30"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02_esm3 termini.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299279/BFB597669173AFFC5A01C6DC2A9F276B"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP_esm.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299280/ADB43D1FC1CF380B88843A7D8BE61E92"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250809_040102_1.atom",
+    "ordinal": 290
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2025-08-09T13:01:25.396+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300502587",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300502587",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+    "status": "EV",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-07",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Edificis judicials Barcelona Províncies Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Centres penitenciaris i Centres educatius juvenils Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-03-30"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02_esm3 termini.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299279/BFB597669173AFFC5A01C6DC2A9F276B"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP_esm.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299280/ADB43D1FC1CF380B88843A7D8BE61E92"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250812_040046_1.atom",
+    "ordinal": 232
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2025-09-10T14:05:30.841+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300557696",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300557696",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+    "status": "EV",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-07",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Edificis judicials Barcelona Províncies Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Centres penitenciaris i Centres educatius juvenils Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-03-30"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02_esm3 termini.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299279/BFB597669173AFFC5A01C6DC2A9F276B"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP_esm.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299280/ADB43D1FC1CF380B88843A7D8BE61E92"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250911_040103.atom",
+    "ordinal": 158
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2025-10-27T10:14:33.976+01:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300593784",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300593784",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+    "status": "ADJ",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-07",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Lot 3 - Judicials BCN Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Lot 7 - cp i cej bcn",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "1",
+        "amount": "2011802.23",
+        "supplier_ids": [
+          "B60650801"
+        ],
+        "supplier_names": [
+          "GESTIÓN INTEGRAL DE INSTALACIONES S.L"
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "10",
+        "amount": "4481305.18",
+        "supplier_ids": [
+          "A07077969"
+        ],
+        "supplier_names": [
+          "URBIA INTERMEDIACIÓN INGENIERIA Y SERVICIOS, S.A."
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "11",
+        "amount": "2242926.62",
+        "supplier_ids": [
+          "B64570567"
+        ],
+        "supplier_names": [
+          "MH INDUSTRIAS, S.L.U"
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "12",
+        "amount": "1079762.76",
+        "supplier_ids": [
+          "A80241789"
+        ],
+        "supplier_names": [
+          "SERVEO"
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "13",
+        "amount": "894739.25",
+        "supplier_ids": [
+          "A60470127"
+        ],
+        "supplier_names": [
+          "COMSA Service Facility Management, S.A.U."
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "2",
+        "amount": "3845214.11",
+        "supplier_ids": [
+          "A79486833"
+        ],
+        "supplier_names": [
+          "Elecnor"
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "4",
+        "amount": "2915028.09",
+        "supplier_ids": [
+          "A60470127"
+        ],
+        "supplier_names": [
+          "COMSA Service Facility Management, S.A.U."
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "5",
+        "amount": "1952457.57",
+        "supplier_ids": [
+          "B64570567"
+        ],
+        "supplier_names": [
+          "MH INDUSTRIAS, S.L.U"
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "6",
+        "amount": "2573810.83",
+        "supplier_ids": [
+          "A27178789"
+        ],
+        "supplier_names": [
+          "OHL SERVICIOS INGESAN, S.A."
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "8",
+        "amount": "4845595.77",
+        "supplier_ids": [
+          "A28517308"
+        ],
+        "supplier_names": [
+          "Eulen, S.A."
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "9",
+        "amount": "3521574.16",
+        "supplier_ids": [
+          "A07077969"
+        ],
+        "supplier_names": [
+          "URBIA INTERMEDIACIÓN INGENIERIA Y SERVICIOS, S.A."
+        ],
+        "contract_dates": []
+      }
+    ],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-03-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-21"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-21"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02_esm3 termini.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299279/BFB597669173AFFC5A01C6DC2A9F276B"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP_esm.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299280/ADB43D1FC1CF380B88843A7D8BE61E92"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20251029_040155_8.atom",
+    "ordinal": 36
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2026-03-24T16:07:04.274+01:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300731241",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300731241",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+    "status": "ADJ",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-07",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Edificis judicials Barcelona Províncies Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Centres penitenciaris i Centres educatius juvenils Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils Vallès Oriental",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "1",
+        "amount": "2011802.23",
+        "supplier_ids": [
+          "B60650801"
+        ],
+        "supplier_names": [
+          "GESTIÓN INTEGRAL DE INSTALACIONES S.L"
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "10",
+        "amount": "4481305.18",
+        "supplier_ids": [
+          "A07077969"
+        ],
+        "supplier_names": [
+          "URBIA INTERMEDIACIÓN INGENIERIA Y SERVICIOS, S.A."
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "11",
+        "amount": "2242926.62",
+        "supplier_ids": [
+          "B64570567"
+        ],
+        "supplier_names": [
+          "MH INDUSTRIAS, S.L.U"
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "12",
+        "amount": "1079762.76",
+        "supplier_ids": [
+          "A80241789"
+        ],
+        "supplier_names": [
+          "SERVEO"
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "13",
+        "amount": "894739.25",
+        "supplier_ids": [
+          "A60470127"
+        ],
+        "supplier_names": [
+          "COMSA Service Facility Management, S.A.U."
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "2",
+        "amount": "3845214.11",
+        "supplier_ids": [
+          "A79486833"
+        ],
+        "supplier_names": [
+          "Elecnor"
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "3",
+        "amount": "2199111.88",
+        "supplier_ids": [
+          "A79486833"
+        ],
+        "supplier_names": [
+          "Elecnor Servicios y Proyectos, SAU"
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "4",
+        "amount": "2915028.09",
+        "supplier_ids": [
+          "A60470127"
+        ],
+        "supplier_names": [
+          "COMSA Service Facility Management, S.A.U."
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "5",
+        "amount": "1952457.57",
+        "supplier_ids": [
+          "B64570567"
+        ],
+        "supplier_names": [
+          "MH INDUSTRIAS, S.L.U"
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "6",
+        "amount": "2573810.83",
+        "supplier_ids": [
+          "A27178789"
+        ],
+        "supplier_names": [
+          "OHL SERVICIOS INGESAN, S.A."
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "7",
+        "amount": "3423168.37",
+        "supplier_ids": [
+          "A60744216"
+        ],
+        "supplier_names": [
+          "Serveis Integrals de Manteniment RUBATEC, S.A."
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "8",
+        "amount": "4845595.77",
+        "supplier_ids": [
+          "A28517308"
+        ],
+        "supplier_names": [
+          "Eulen, S.A."
+        ],
+        "contract_dates": []
+      },
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": "9",
+        "amount": "3521574.16",
+        "supplier_ids": [
+          "A07077969"
+        ],
+        "supplier_names": [
+          "URBIA INTERMEDIACIÓN INGENIERIA Y SERVICIOS, S.A."
+        ],
+        "contract_dates": []
+      }
+    ],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-03-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-21"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-21"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2026-03-24"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2026-03-24"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02_esm3 termini.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299279/BFB597669173AFFC5A01C6DC2A9F276B"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP_esm.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299280/ADB43D1FC1CF380B88843A7D8BE61E92"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2026.zip",
+    "member": "PlataformasAgregadasSinMenores_20260325_040103.atom",
+    "ordinal": 72
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/17024876",
+    "updated": "2026-05-11T08:01:32.327+02:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300768299",
+    "uuid": "f98c30c1-1327-4dfc-b38a-5b707e9adf41",
+    "publication_id": "300768299",
+    "expediente": "ME. MEC-25L02",
+    "title": "Contrato de servicios de conservación y mantenimiento y gestión energética y mejora ambiental de varios equipamientos de uso público adscritos al Departamento de Justicia y Calidad Democrática. Clave: ME. MEC-25L02",
+    "status": "RES",
+    "buyer_name": "Infraestructures de la Generalitat de Catalunya, SAU",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "203633"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "41129079.8",
+    "budget_gross": null,
+    "estimated_value": "83579468.07",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "50700000"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": "2025-05-07",
+    "deadline_time": "13:00:00",
+    "procedure_type": "1",
+    "lots": [
+      {
+        "id": "1",
+        "title": "Edificis judicials Barcelona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "10",
+        "title": "Centre penitenciari Brians 2",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "11",
+        "title": "Centres penitenciaris i Centres educatius juvenils",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "12",
+        "title": "Centres penitenciaris i Centres educatius juvenils",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "13",
+        "title": "Centres penitenciaris Tarragona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "2",
+        "title": "Edificis judicials Barcelona Províncies Nord",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "3",
+        "title": "Edificis judicials Barcelona Províncies Sud",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "4",
+        "title": "Edificis judicials Tarragona i Terres de l’Ebre",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "5",
+        "title": "Edificis judicials Lleida",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "6",
+        "title": "Edificis judicials Girona",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "7",
+        "title": "Centres penitenciaris i Centres educatius juvenils",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "8",
+        "title": "Centres penitenciaris i Centres educatius juvenils",
+        "budget": null,
+        "cpv": []
+      },
+      {
+        "id": "9",
+        "title": "Centre penitenciari Brians 1",
+        "budget": null,
+        "cpv": []
+      }
+    ],
+    "awards": [
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "1",
+        "amount": "2011802.23",
+        "supplier_ids": [
+          "B60650801"
+        ],
+        "supplier_names": [
+          "GESTIÓN INTEGRAL DE INSTALACIONES S.L"
+        ],
+        "contract_dates": [
+          "2025-11-24"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "10",
+        "amount": "4481305.18",
+        "supplier_ids": [
+          "A07077969"
+        ],
+        "supplier_names": [
+          "URBIA INTERMEDIACIÓN INGENIERIA Y SERVICIOS, S.A."
+        ],
+        "contract_dates": [
+          "2025-11-24"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "11",
+        "amount": "2242926.62",
+        "supplier_ids": [
+          "B64570567"
+        ],
+        "supplier_names": [
+          "MH INDUSTRIAS, S.L.U"
+        ],
+        "contract_dates": [
+          "2025-11-27"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "12",
+        "amount": "1079762.76",
+        "supplier_ids": [
+          "A80241789"
+        ],
+        "supplier_names": [
+          "SERVEO"
+        ],
+        "contract_dates": [
+          "2025-11-19"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "13",
+        "amount": "894739.25",
+        "supplier_ids": [
+          "A60470127"
+        ],
+        "supplier_names": [
+          "COMSA Service Facility Management, S.A.U."
+        ],
+        "contract_dates": [
+          "2025-11-26"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "2",
+        "amount": "3845214.1",
+        "supplier_ids": [
+          "A79486833"
+        ],
+        "supplier_names": [
+          "Elecnor"
+        ],
+        "contract_dates": [
+          "2025-11-27"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "3",
+        "amount": "2199111.88",
+        "supplier_ids": [
+          "A79486833"
+        ],
+        "supplier_names": [
+          "Elecnor Servicios y Proyectos, SAU"
+        ],
+        "contract_dates": [
+          "2026-04-28"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "4",
+        "amount": "2915028.09",
+        "supplier_ids": [
+          "A60470127"
+        ],
+        "supplier_names": [
+          "COMSA Service Facility Management, S.A.U."
+        ],
+        "contract_dates": [
+          "2025-11-20"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "5",
+        "amount": "1952457.57",
+        "supplier_ids": [
+          "B64570567"
+        ],
+        "supplier_names": [
+          "MH INDUSTRIAS, S.L.U"
+        ],
+        "contract_dates": [
+          "2025-11-27"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "6",
+        "amount": "2573810.83",
+        "supplier_ids": [
+          "A27178789"
+        ],
+        "supplier_names": [
+          "OHL SERVICIOS INGESAN, S.A."
+        ],
+        "contract_dates": [
+          "2025-11-24"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "7",
+        "amount": "3423168.37",
+        "supplier_ids": [
+          "A60744216"
+        ],
+        "supplier_names": [
+          "Serveis Integrals de Manteniment RUBATEC, S.A."
+        ],
+        "contract_dates": [
+          "2026-04-28"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "8",
+        "amount": "4845595.77",
+        "supplier_ids": [
+          "A28517308"
+        ],
+        "supplier_names": [
+          "Eulen, S.A."
+        ],
+        "contract_dates": [
+          "2025-11-24"
+        ]
+      },
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": "9",
+        "amount": "3521574.16",
+        "supplier_ids": [
+          "A07077969"
+        ],
+        "supplier_names": [
+          "URBIA INTERMEDIACIÓN INGENIERIA Y SERVICIOS, S.A."
+        ],
+        "contract_dates": [
+          "2025-11-24"
+        ]
+      }
+    ],
+    "notices": [
+      {
+        "type": "DOC_CN",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-03-30"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-16"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-21"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-10-21"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2026-03-24"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2026-03-24"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2026-05-11",
+          "2026-05-11"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": "2026-05-11+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2026-05-11",
+          "2026-05-11"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": "2026-05-11+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2026-05-11",
+          "2026-05-11"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": "2026-05-11+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2026-05-11",
+          "2026-05-11"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": "2026-05-11+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2026-05-11",
+          "2026-05-11"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": "2026-05-11+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2026-05-11",
+          "2026-05-11"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": "2026-05-11+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2026-05-11",
+          "2026-05-11"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": "2026-05-11+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2026-05-11",
+          "2026-05-11"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": "2026-05-11+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2026-05-11",
+          "2026-05-11"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": "2026-05-11+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2026-05-11",
+          "2026-05-11"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": "2026-05-11+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2026-05-11",
+          "2026-05-11"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": "2026-05-11+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2026-05-11",
+          "2026-05-11"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": "2026-05-11+02:00",
+        "media": [
+          "Perfil del contratante",
+          "DOUE"
+        ],
+        "dates": [
+          "2026-05-11",
+          "2026-05-11"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [
+      {
+        "kind": "LegalDocumentReference",
+        "id": "PCAP ME. MEC-25L02_esm3 termini.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299279/BFB597669173AFFC5A01C6DC2A9F276B"
+        ]
+      },
+      {
+        "kind": "TechnicalDocumentReference",
+        "id": "MEC-25L02 PPTP_esm.pdf",
+        "urls": [
+          "https://contractaciopublica.cat/portal-api/descarrega-document/301299280/ADB43D1FC1CF380B88843A7D8BE61E92"
+        ]
+      }
+    ],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2026.zip",
+    "member": "PlataformasAgregadasSinMenores_20260512_040052_1.atom",
+    "ordinal": 459
+  }
+]

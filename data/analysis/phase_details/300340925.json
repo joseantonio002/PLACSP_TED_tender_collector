@@ -1,0 +1,321 @@
+{
+  "versio": "1.0.0",
+  "codiExpedient": "PR-2025-7",
+  "idExpedient": "deed8b7e-fcb0-45db-bc95-1b47db67b496",
+  "dataPublicacioPlanificada": "2024-12-30T13:49:01.887Z",
+  "organ": {
+    "nom": "Departament de la Presidència",
+    "unitat": "Bústia de Contractació Presidència",
+    "direccioPostal": "Carrer Sant Honorat, 2",
+    "localitat": "Barcelona, Barcelona",
+    "codiPostal": "08002",
+    "nuts": "ES511",
+    "telefon": "934024600",
+    "email": "contractacio.presidencia@gencat.cat",
+    "personesContacte": [],
+    "centralCompres": false,
+    "observacions": {},
+    "horari": {},
+    "organContractacioId": 202037
+  },
+  "publicacio": {
+    "fase": {
+      "id": 1000042,
+      "ca": "Adjudicació",
+      "es": "Adjudicación",
+      "en": "Adjudication",
+      "oc": "Adjudicacion"
+    },
+    "expedientId": "deed8b7e-fcb0-45db-bc95-1b47db67b496",
+    "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "fasePublicacio": {
+        "id": 1000042,
+        "ca": "Adjudicació",
+        "es": "Adjudicación",
+        "en": "Adjudication",
+        "oc": "Adjudicacion"
+      },
+      "normativaAplicable": {
+        "id": 1008186,
+        "ca": "LCSP (contractes del sector públic)",
+        "en": "LCSP (public sector contracts)",
+        "oc": "LCSP (contractes deth sector public)"
+      },
+      "codiExpedient": "PR-2025-7",
+      "denominacio": {
+        "ca": "Servei de recollida de dades de les minories religioses a Catalunya del Mapa Religiós de Catalunya. PR-2025-7"
+      },
+      "descripcio": {
+        "ca": "Servei de recollida de dades de les minories religioses a Catalunya del Mapa Religiós de Catalunya durant els anys 2025, 2026 i 2027."
+      },
+      "observacions": {},
+      "tipusPublicacioExpedient": {
+        "id": 1000000,
+        "ca": "Contracte",
+        "en": "Contract",
+        "oc": "Contracte"
+      },
+      "tipusTramitacio": {
+        "id": 470,
+        "ca": "Ordinària",
+        "es": "Ordinaria",
+        "en": "Ordinary",
+        "oc": "Ordinària"
+      },
+      "unitatContractacio": 100000015,
+      "tipusContracte": {
+        "id": 393,
+        "ca": "Serveis",
+        "es": "Servicios",
+        "en": "Services",
+        "oc": "Servicis"
+      },
+      "procedimentAdjudicacio": {
+        "id": 401,
+        "ca": "Obert",
+        "es": "Abierto",
+        "en": "Open",
+        "oc": "Dubèrt"
+      },
+      "publicacioAgregada": false,
+      "accesExclusiu": false,
+      "tipusOfertaElectronica": {
+        "id": 413,
+        "ca": "Sobre digital",
+        "es": "Sobre digital",
+        "en": "Digital envelope",
+        "oc": "Envolopa digitau"
+      },
+      "descripcioAltres": {},
+      "compraPublicaInnovacio": false,
+      "compraPublicaPrecomercial": false,
+      "contracteMixt": false,
+      "justificacioTramitacioUrgencia": {},
+      "denominacioExpedientReferencia": {}
+    },
+    "dadesPublicacio": {
+      "pressupostLicitacio": 214876.03,
+      "observacions": {},
+      "valorEstimatContracte": 214876.03,
+      "iva": 21,
+      "varisTipusIva": false,
+      "pressupostBaseLicitacioAmbIVA": 260000,
+      "contracteRelacionatFinanciatFonsUnioEuropea": false
+    },
+    "dadesPublicacioLot": [
+      {
+        "pressupostLicitacio": 214876.03,
+        "publicacioExpedientId": 300340925,
+        "dataAdjudicacio": "2024-12-23T09:56:00.000Z",
+        "terminiFormalitzacioContracte": {
+          "ca": "D'acord amb l’article 44 LCSP, la formalització del contracte no podrà efectuar-se abans que transcorrin quinze dies hàbils des que es remet la notificació de l’adjudicació als licitadors i aquesta es publica al perfil del contractant del Departament de la Presidència."
+        },
+        "importAdjudicacio": 204236,
+        "ofertaAdjudicatariaIncursa": false,
+        "observacions": {},
+        "peuDeRecurs": {
+          "ca": "D’acord amb l’article 44.2 LCSP, contra aquesta resolució d’adjudicació es pot interposar potestativament recurs especial en matèria contractació o bé recurs contenciós administratiu. El recurs especial en matèria de contractació s’ha d’interposar davant l’òrgan de contractació o l’òrgan competent per a la seva resolució, en el termini de 15 dies hàbils a comptar segons estableix l’article 50 LCSP. Si s’opta per interposar directament recurs contenciós administratiu, aquest recurs s’ha d’interposar davant la Sala Contenciosa Administrativa del Tribunal Superior de Justícia de Catalunya, en el termini de dos mesos a comptar des de l’endemà de la notificació o, si escau, de la publicació de l’acte impugnat, d’acord els articles 10.1 i 46 de la Llei 29/1998, de 13 de juliol, reguladora de la jurisdicció contenciosa\nadministrativa."
+        },
+        "adrecaEnllacMesInformacioRecurs": {},
+        "empresesAdjudicataries": [
+          {
+            "denominacio": "FUNDACIÓ PERE TARRÉS",
+            "tipusIdentificador": {
+              "id": 542,
+              "ca": "NIF",
+              "en": "NIF (Tax Identification Number)",
+              "oc": "NIF"
+            },
+            "identificador": "R5800395E",
+            "varisTipusIva": false,
+            "tipusEmpresa": {
+              "id": 749,
+              "ca": "No PIME",
+              "en": "No SME",
+              "oc": "Non PIME"
+            },
+            "informacioUte": []
+          }
+        ],
+        "resolucioAdjudicacio": {
+          "ca": [
+            {
+              "id": 300986886,
+              "titol": "7_res_adj_S.pdf",
+              "path": "WwNqcQwLfL30lUcIuY3OHV43KFmR3xCmI5YJXAznm90a68OpvTWR3XEszutanN6AnEU1XOYZIgHjWMqwyaMe7WJvF0AGkamJH1vztaCLZwhBLisV2vR2JcV8NhHHLAiufN9VP3MAP0OeTFwsquq4AnIDKxicWlb9uWnL6QnXKUUWAszcxrs1c5MlUSg-4Qhi5-Xg3P7peJT3wXNFqqpYStUH5elBjVo6qTbTYcnlLpBYMAf-Y4VyTve_aNhD-q8CdHwEgxTFcghTIe7PXG2H2bWKHFLrl61Npj6xctO_HP1uIwqRdjCk6kjnfz-2_Qz9_KRVm8tIp2-jiGjRhNjrCQ==",
+              "hash": "B6DF4D45865AB4945D4AF572F51C8F8E",
+              "idioma": "ca",
+              "mida": 322160
+            }
+          ],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "altraDocumentacio": {
+          "ca": [],
+          "es": [],
+          "en": [],
+          "oc": []
+        },
+        "importAdjudicacioIva": 247125.56,
+        "ivaAdjudicacio": 21,
+        "varisTipusIvaAdjudicacio": false,
+        "valorEstimatContracte": 214876.03,
+        "iva": 21,
+        "varisTipusIva": false,
+        "pressupostBaseLicitacioAmbIVA": 260000,
+        "codisCpv": [],
+        "cpvPrincipal": {
+          "codi": "79315000-5",
+          "ca": "Serveis de recerca social",
+          "es": "Servicios de investigación social",
+          "en": "Social research services",
+          "oc": "Servicis de recèrca sociau"
+        },
+        "cpvsSecundaris": [
+          {
+            "codi": "79320000-3",
+            "ca": "Serveis d'enquestes d'opinió pública",
+            "es": "Servicios de encuestas de opinión pública",
+            "en": "Public-opinion polling services",
+            "oc": "Servicis d'enquèstes d'opinion publica"
+          }
+        ],
+        "llocExecucio": {
+          "codiNuts": "ES51",
+          "ca": "Catalunya",
+          "es": "Cataluña"
+        },
+        "reservaSocial": false,
+        "duradaTermini": {
+          "esDurada": false,
+          "iniciTermini": "2024-12-31T23:00:00.000Z",
+          "fiTermini": "2027-12-30T23:00:00.000Z",
+          "observacions": {
+            "ca": "Des de l’1 de gener de 2025, o des de la data de signatura del contracte si és posterior, fins al 31 de desembre de 2027."
+          }
+        },
+        "teDiversosCriterisAdjudicacio": true,
+        "criterisAdjudicacio": [
+          {
+            "index": 0,
+            "criteri": {
+              "id": 1008429,
+              "ca": "Criteris de valoració sotmesos a judici de valor",
+              "es": "Criterios de valoración sometidos a juicio de valor",
+              "en": "Valuation criteria subject to value judgment",
+              "oc": "Critèris d'avaloracion sometudi a jutjament de valor"
+            },
+            "ponderacio": 25,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008363,
+                  "ca": "Característiques tècniques i funcionals"
+                },
+                "puntuacio": 25,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "criteri": {
+              "id": 1008427,
+              "ca": "Preu"
+            },
+            "ponderacio": 40,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008359,
+                  "ca": "Preu",
+                  "en": "Price",
+                  "oc": "Prètz"
+                },
+                "puntuacio": 40,
+                "descripcioCriteri": {}
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "criteri": {
+              "id": 1008428,
+              "ca": "Resta de criteris de valoració automàtica"
+            },
+            "ponderacio": 35,
+            "observacions": {},
+            "desglossament": [
+              {
+                "tipusCriteri": {
+                  "id": 1008361,
+                  "ca": "Altres criteris relacionats amb els costos",
+                  "en": "Other criteria related to costs",
+                  "oc": "D’auti critèris restacadi damb es còsti"
+                },
+                "puntuacio": 35,
+                "descripcioCriteri": {}
+              }
+            ]
+          }
+        ],
+        "preuUnitari": false,
+        "totalOfertesRebudes": 2
+      }
+    ],
+    "dadesExpedient": {
+      "organContractacioId": 202037,
+      "idiomaPerDefecte": {
+        "id": 1000031,
+        "ca": "Català",
+        "es": "Catalan",
+        "en": "Catalan",
+        "oc": "Catalan"
+      },
+      "expedientId": "deed8b7e-fcb0-45db-bc95-1b47db67b496",
+      "lleiAssociada": "Llei 2017/2019",
+      "noAdmetrePreguntes": false,
+      "esPublicacioAntiga": false,
+      "tipusOfertaElectronica": 413,
+      "denominacioExpedientReferencia": {}
+    },
+    "motiuEsmena": {}
+  },
+  "pathPdf": "U3d1c5AvssuFKg8fb38IuQyuJ9dFyX_J2fAbzVtnS_WsCGtQpRTvhg6Uj9hWcmphNHDd2ffzT1Zf3Qeo8AarKwj71P0qeqhHEr1rNXGpN0x8-xWrDwFhd5vf2kGwReXuiQUsdFHhnANsels8jDWlVsaWKB8WGLP7BbNzsrWM1M6MKPdjSksbIiN6uZZNF7INjSIGAYuID50PndUxm1TT70MyhcXxQ7moetWckOmGdwsVJXmN94gwumrr64doLSO06YJQLuPmZMKElxOqyl4ncb56Yd2rpQhM9gzki-bU61SL6As8thJ-r5tZxQjlB9DNAcXuc4wozh1_503Th3KVwQ==",
+  "pathCertificacio": "hfselj4cgFfcea0-4KJlsaAmK61eWc0bjcLCnp1PgbQ4eFLNYx79fGXnIKLIQSyCQPBbNhRIlCWon4YIds9JK0DiuUsYMVOoHyrfbM-A-h5skWuwlwykOFhSklxkrDxHE1Uj_n3il8j9EKQwVXbuz57uvsvM6sJPT95cCybwaj6_sQkQ7Bl9_gPouoSM5s1_N07OM1SnDkjbVSEgVw58dS-ootBoumXzExTAGQYhT5hZydbv9e-ZGefpKjGOZfuhb7MeV9Y0nrFgAIYjEmnbC3UOfhot_9adXARrvHjEs-M1d7Mo8tkwV_O-n4YtFmknuyOiuJpTcXV2f3beKvBBkQ==",
+  "pathJson": "Gbfiz00LpwgFjmoV0gI5BzO6-fc_WV5OFhEgcFbvSNvyA5FT7UnVJvYcQb6Dc6L2NmRxiceatwLsiql3D0KLMytV_8AOJbRwqMSof7LgsYBWd5XLo_YrdZJkFJLBN3sL9KzLVxsv_h2LxlfkNI0QOHMq3cvM1dA19CCzbngQGOcHXRz4A6ErqPpGP7jhiY3bKRgq1Flh_2YXpwU79vPzeCmQiQR53svd1KbNGCKugQ3bI441kSPO14O3d8JYg9G-wzMrJ-4LC5_FYbnRGi5v5RgqhLCxjTfhgRs3xJexJOy1h1cey54kxXGrDIcfMBOt0yb5FPSaEndbmplkCeUsxA==",
+  "dataPublicacioReal": "2024-12-30T13:50:06.422Z",
+  "dadesExpedient": {
+    "organContractacioId": 202037,
+    "idiomaPerDefecte": {
+      "id": 1000031,
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "expedientId": "deed8b7e-fcb0-45db-bc95-1b47db67b496",
+    "dataFiPublicacioPerfil": null,
+    "dataFiGestio": null,
+    "lleiAssociada": "Llei 2017/2019",
+    "noAdmetrePreguntes": false,
+    "tenderingSpaceId": null,
+    "esPublicacioAntiga": false,
+    "tipusOfertaElectronica": 413,
+    "dataVisiblePortalAccesExclusiu": null,
+    "expedientIdReferencia": null,
+    "codiExpedientReferencia": null,
+    "denominacioExpedientReferencia": {
+      "ca": null,
+      "es": null,
+      "en": null,
+      "oc": null
+    },
+    "nomOrganContractacioReferencia": null
+  }
+}

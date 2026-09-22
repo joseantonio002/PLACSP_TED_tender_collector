@@ -1,0 +1,1591 @@
+PAGE 1
+                
+ 
+ 
+ 
+ 
+ 
+ 
+Manual de uso de OpenPLACSP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dirección General del Patrimonio del Estado 
+Subdirección General de Coordinación de la Contratación 
+Electrónica 
+Versión: 2.1 
+Fecha: 09/09/2024
+
+
+PAGE 2
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 2  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+CONTROL DE VERSIONES 
+Versión Fecha Descripción 
+1.0 06-05-2021 Versión inicial 
+1.1 13-10-2021 Apartado 5.1. Añadidos 2 nuevos campos: “ID OC en PLACSP” y “Enlace al 
+Perfil de Contratante del OC”.  
+1.1.1 15-12-2021 Apartado 6.2. Actualización de las versiones de las librerías log4j-api y log4j-
+core a 2.16.0. 
+1.2 03-02-2022 Apartado 5.1. Añadido los campo “Fecha de presentación de ofertas” y 
+“Fecha de presentación de solicitudes participación”. 
+1.3 28-04-2022 
+Apartado 4.2: Actualización de la pantalla inicial. 
+Apartado 4.4: Reestructura del apartado para describir los dos modos de 
+funcionamiento. 
+Apartado 5.1: Se añaden dos datos relacionados con la financiación europea. 
+2.0 23-11-2022 
+Apartado 6: Se añaden nuevos tipos de anuncios que pueden ser procesados 
+por la herramienta: encargos a medios propios y consultas preliminares de 
+mercado. 
+2.1 09-09-2024 
+Apartado 5.1: Se añaden los siguientes campos: 
+- Identificador único TED 
+- Contrato mixto 
+- Contrato SARA/Umbral 
+- Subasta electrónica 
+Se modifican los siguientes campos: 
+- Primera publicación: ahora no se tiene en cuenta si la primera 
+publicación se realizó en el perfil de contratante 
+- ID OC en PLACSP: ahora también se incluyen identificadores de 
+órganos de contratación de expedientes incorporados por 
+mecanismos de agregación 
+- Tipo de Administración: actualizada lista de categorías 
+Apartado 5.2: Se añade el campo “Valor estimado licitación/lote” 
+Apartado 7.2: Actualizadas librerías CODICE y su extensión a versión 2.8.0 
+y 1.4.0 respectivamente. 
+
+PAGE 3
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 3  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+  
+INDICE 
+1 INTRODUCCIÓN .............................................................................................................. 5 
+1.1 Propósito ........................................................................................................... 5 
+1.2 Motivación ........................................................................................................ 5 
+1.3 Estructura del documento ................................................................................. 6 
+2 REFERENCIAS ................................................................................................................. 7 
+3 INSTALACIÓN Y CONFIGURACIÓN .......................................................................... 9 
+3.1 Ejecución en entornos Linux .......................................................................... 10 
+4 GUÍA DE USUARIO ........................................................................................................ 11 
+4.1 Adquisición y disposición previa de los datos abiertos .................................. 11 
+4.2 Presentación inicial de la herramienta ............................................................ 14 
+4.3 Ejecución y configuración asociada ............................................................... 16 
+4.4 Modos de generación de tablas de datos ........................................................ 21 
+4.4.1 Generación de datos en dos tablas .............................................................. 21 
+4.4.2 Generación de datos en una tabla ............................................................... 24 
+5 LISTA DE DATOS DE LA LICITACIÓN .................................................................... 26 
+5.1 Hoja “Licitaciones” ........................................................................................ 26 
+5.2 Hoja “Resultados” .......................................................................................... 29 
+6 OTRAS PUBLICACIONES Y ANUNCIOS EN DATOS ABIERTOS ....................... 31 
+6.1 Hoja “Encargos a medios propios” ................................................................ 31 
+6.2 Hoja “Consultas preliminares de mercado” ................................................... 33 
+
+PAGE 4
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 4  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+7 ACERCA DEL DESARROLLO DE LA HERRAMIENTA OPENPLACSP ............ 36 
+7.1 Acceso al código fuente .................................................................................. 36 
+7.2 Librerías CODICE .......................................................................................... 36 
+7.3 Dependencias .................................................................................................. 37 
+8 LICENCIAMIENTO ....................................................................................................... 40 
+
+PAGE 5
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 5  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+1 Introducción 
+1.1 Propósito 
+Este documento es una guía de utilización de la herramienta OpenPLACSP  que 
+proporciona la Plataforma de Contratación del Sector Público (PLACSP) y que ha sido 
+desarrollada por la  Subdirección General de Coordinación de la Contratación 
+Electrónica del Ministerio de Hacienda. 
+El objetivo de la herramienta es facilitar a los usuarios el acceso a la información 
+contenida en los datos abiertos de PLACSP , en  aras a una mayor transparencia y 
+Reutilización de la Información del Sector Público (RISP). 
+En este documento se proporciona una noción básica al usuario sobre la utilización de 
+dicho software. Muchas de las descripciones y redacciones pueden ser someras en cierta 
+medida para centrar al usuario en los conceptos de mayor importancia. Se 
+complementarán con diferentes referencias a otra documentación por si se desea tener 
+conocimiento con un detalle más profundo. 
+Tanto la herramienta como la documentación están sujetas a una evolución de mejora  
+continua, por lo que se recomienda consultar las fuentes oficiales para disponer de las 
+versiones más actualizadas. 
+1.2 Motivación 
+Siendo la transparencia uno de los objetivos inspiradores de la Ley 9/2017 de Contratos 
+del Sector Público  [1], según se recoge en su Título Preliminar, así como varias 
+referencias hacia la transparencia a lo largo de toda la citada Ley, debe existir un trabajo 
+activo para otorgar vías al ciudadano que le permitan acceder a la información que se 
+publica en PLACSP. 
+Actualmente los datos abiertos publicados en PLACSP siguen el Esquema Nacional de 
+Interoperabilidad (RD 4/2010)  [2] y las Normas Técnicas de Interoperabilidad tales 
+como la de Protocolos de intermediación de datos  [3] o de Reutilización de recursos 
+de la información [4]. Los datos abiertos  [5] se presentan en formato 
+Atom/XML siguiendo la RFC 4287 [6]. Si se desea un mayor detalle sobre el formato  
+desarrollado para PLACSP y su diseño, se recomienda consultar la documentación sobre 
+la especificación [7]. 
+Esto permite fomentar la RISP, presentando la información estandarizada en formatos 
+reutilizables que puedan ser procesados automáticamente entre máquinas. Sin embargo, 
+la complejidad de las tecnologías implicadas requiere de un cierto conocimiento técnico 
+y de unos medios que no todo el mundo tiene a su alcance. 
+
+PAGE 6
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 6  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+Por este motivo se pretende ofrecer una vía que simplifique dicho 
+procesamiento, permitiendo a los usuarios transformar los datos abiertos en 
+hojas de cálculo en  formato xlsx , siguiendo el estándar ISO/IEC 29500 -1:2016, 
+Information technology – Office Open XML formats [8]. Este tipo de archivos se puede 
+leer fácilmente por diferentes procesadores de hojas de cálculo  y es una formato 
+recogido en la Norma Técnica de Interoperabilidad de Catálogo de estándares [9]. 
+De esta manera, cualquier interesado podrá disponer de los principales datos de 
+contratación a partir de los distintos conjuntos de datos abiertos, que pone a disposición 
+la Plataforma de Contratación del Sector Público, en un formato de hojas de cálculo. 
+Con este tipo de formato, el interesado podrá trabajar y manipular los distintos datos 
+de una forma rápida y sencilla. 
+1.3 Estructura del documento 
+En el apartado 2 se indican las referencias a otra documentación o contenido usadas en 
+este documento. 
+En el apartado 3 se detalla la instalación de la herramienta de OpenPLACSP. 
+El apartado 4 es una guía de usuario en la que se presenta cómo utilizar la herramienta 
+paso a paso y aspectos a tener en cuenta. 
+El apartado 5 lista de manera concisa las variables o  atributos que pueden albergar los 
+datos de salida que genera la herramienta, así como su formato y disposición. 
+El apartado 7 describe ciertos aspectos relevantes a tener en cuenta sobre el desarrollo 
+software llevado a cabo.  
+El apartado 8 contiene las condiciones de licenciamiento en las que se distribuyen la 
+aplicación y su código fuente.  
+ 
+
+PAGE 7
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 7  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+2 Referencias 
+ 
+[1]  Ley 11/2017 de Contratos del Sector Público, «Boletín Oficial del Estado,» [En 
+línea]. Available: https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902. 
+[2]  Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional 
+de Interoperabilidad en el ámbito de la Administración Electrónica, «Boletín 
+Oficial del Estado,» [En línea]. Available: 
+https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331. 
+[3]  Resolución de 28 de junio de 2012, de la Secretaría de Estado de 
+Administraciones Públicas, por la que se aprueba la Norma Técnica de 
+Interoperabilidad de Protocolos de intermediación de datos, «Boletín Oficial del 
+Estado,» [En línea]. Available: https://www.boe.es/diario_boe/txt.php?id=BOE-
+A-2012-10049. 
+[4]  Resolución de 19 de febrero de 2013, de la Secretaría de Estado de 
+Administraciones Públicas, por la que se aprueba la Norma Técnica de 
+Interoperabilidad de Reutilización de recursos de la información., «Boletín 
+Oficial del Estado,» [En línea]. Available: 
+https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-2380. 
+[5]  Ministerio de Hacienda, «Licitaciones publicadas en la Plataforma de 
+Contratación del Sector Público,» [En línea]. Available: 
+https://www.hacienda.gob.es/es-
+ES/GobiernoAbierto/Datos%20Abiertos/Paginas/licitaciones_plataforma_contr
+atacion.aspx. 
+[6]  Internet Engineering Task Force (IETF), «RFC 4287 - The Atom Syndication 
+Format,» [En línea]. Available: https://tools.ietf.org/html/rfc4287. 
+[7]  Dirección General del Patrimonio del Estado, «Formato de sindicación y 
+reutilización de datos sobre licitaciones publicadas en la Plataforma de 
+Contratación del Sector Público,» [En línea]. Available: 
+https://www.hacienda.gob.es/Documentacion/Publico/D.G.%20PATRIMONIO/
+Plataforma_Contratacion/especificacion-sindicacion.pdf. 
+[8]  International Organization for Standardization, «ISO/IEC 29500 -1:2016 - 
+Information technology — Document description and processing languages — 
+
+PAGE 8
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 8  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+Office Open XML File Formats — Part 1: Fundamentals and Markup Language 
+Reference,» [En línea]. Available: https://www.iso.org/standard/71691.html. 
+[9]  Resolución de 3 de octubre de 2012, de la Secretaría de Estado de 
+Administraciones Públicas, por la que se aprueba la Norma Téscnica de 
+Interoperabilidad de Catálogo de estándares., «Boletín Oficial del Estado,» [En 
+línea]. Available: https://boe.es/buscar/doc.php?id=BOE-A-2012-13501. 
+[10]  Subdirección General de Coordinación de la Contratación Electrónica, 
+«Plataforma de Contratación del Sector Público,» [En línea]. Available: 
+https://contrataciondelestado.es/wps/portal/plataforma. 
+[11]  Dirección General Del Patrimonio Del Estado, «Resumen de contenido en 
+conjuntos de datos abiertos,» [En línea]. Available: 
+https://www.hacienda.gob.es/Documentacion/Publico/D.G.%20PATRIMONIO/
+Plataforma_Contratacion/Resumen-Datos-Abiertos.pdf. 
+[12]  SIMAP - information system for public procurement, «Common Procurement 
+Vocabulary (CPV),» [En línea]. Available: 
+https://simap.ted.europa.eu/web/simap/cpv. 
+[13]  SIMAP - information system for public procurement, «Nomenclature of 
+Territorial Units for Statistics (NUTS),» [En línea]. Available: 
+https://simap.ted.europa.eu/web/simap/nuts. 
+[14]  CTT - Centro de Transferencia de Tecnología, «Directorio Común de Unidades 
+Orgánicas y Oficinas (DIR3) - PAe,» [En línea]. Available: 
+https://administracionelectronica.gob.es/ctt/dir3. 
+[15]  Dirección General del Patrimonio del Estado, «CODICE - Componentes y 
+Documentos Interoperables para la Contratación Electrónica,» [En línea]. 
+Available: https://contrataciondelestado.es/wps/portal/codice. 
+[16]  Comisión Europea, «EUPL text (EUPL -1.2),» [En línea]. Available: 
+https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12. 
+ 
+ 
+ 
+
+PAGE 9
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 9  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+3 Instalación y configuración 
+OpenPLACSP es una aplicación Java, que podrá ejecutarse desde cualquier equipo con 
+una máquina virtual Java 1.8.0_60 o superior. Puede acceder a la siguiente dirección 
+para su descarga: https://www.java.com/es/download/. 
+El paquete suministrado consta de un fichero comprimido denominado “ open-placsp-
+1.1-bin.zip”. Para su instalación es necesario descomprimir el fichero comprimido en un 
+Directorio de la maquina local, por ejemplo “herramienta -OpenPLACSP”. La 
+distribución, una vez descomprimido el fichero, consta de la siguiente estructura de 
+directorios: 
+ 
+Imagen 1. Contenido de OpenPLACSP 
+Los directorios y ficheros suministrados son los siguientes: 
+• doc: Documentación de OpenPLACSP. 
+• lib: Librerías y componentes externos que se distribuyen y emplea OpenPLACSP. 
+• licenses: Licencias usadas por los componentes externos que se distribuyen. 
+• src: Código fuente desarrollado para la herramienta. 
+• LICENSE: Documentos e información relacionadas con la licencia bajo la que se 
+distribuye la aplicación. 
+• open-placsp.bat: Fichero de ejecución de la aplicación. 
+• open-placsp-1.1-complete.jar: Archivo java que contiene la herramienta que sirve 
+para su ejecución. 
+Ejecutando el archivo open -placsp-1.1-complete.jar (u open-placsp.bat en caso de que 
+no funcione en su equipo el fichero anterior) se lanzará la herramienta y aparecerá la 
+interfaz de usuario. En el siguiente apartado se tratará su uso siguiendo un ejemplo con 
+datos reales. 
+
+
+PAGE 10
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 10  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+3.1 Ejecución en entornos Linux 
+OpenPLACPS está preparado para ejecutarse en entornos Linux. El requisito que debe 
+cumplirse es del disponer una máquina virtual Java 1.8.0_60 o superior. Puede 
+comprobar la versión en su sistema de la siguiente forma: 
+ 
+user@host:/home$ java -version 
+java version "1.8.0_281" 
+Java(TM) SE Runtime Environment (build 1.8.0_281-b09) 
+Java HotSpot(TM) 64-Bit Server VM (build 25.281-b09, mixed mode) 
+Para poder ejecutar OpenPLACSP en Sistemas Linux, descargue el paquete distribuible 
+en una carpeta y realiza las siguientes operaciones: 
+ 
+user@host:/home$ unzip open-placsp-1.1-bin.zip 
+user@host:/home$ cd open-placsp-1.1/ 
+user@host:/home/open-placsp-1.1$ java -jar open-placsp-1.1-complete.jar 
+
+PAGE 11
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 11  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+4 Guía de usuario 
+ 
+A continuación se describen los diferentes pasos para utilizar la herramienta.  
+4.1 Adquisición y disposición previa de los datos abiertos 
+Los datos abiertos de PLACSP pueden ser de scargados a través de su página [10]. 
+Aparecen comprimidos en formato zip y en diferentes agrupaciones. También se pueden 
+acceder a través de mecanismos de sindicación  [7]. Para ejemplificar el uso de la 
+herramienta se va a tomar la sindicación 643 que alberga de manera actualizada las 
+licitaciones publicadas en el perfil del contratante de PLACSP, excluyendo los contratos 
+menores.  
+Para nuestra guía descargaremos como ejemplos los archivos comprimidos 
+pertenecientes a los meses de enero de 2021, febrero de 2021 y marzo de 2021. 
+Se pueden descargar en los siguientes enlaces: 
+• Enero 2021:  
+o https://contrataciondelestado.es/sindicacion/sindicacion_643/licitaciones
+PerfilesContratanteCompleto3_202101.zip   
+• Febrero 2021:  
+o https://contrataciondelestado.es/sindicacion/sindicacion_643/licitaciones
+PerfilesContratanteCompleto3_202102.zip  
+• Marzo 2021: 
+o https://contrataciondelestado.es/sindicacion/sindicacion_643/licitaciones
+PerfilesContratanteCompleto3_202103.zip  
+ 
+Se recomienda alojar todos los archivos que se vayan a descomprimir, pertenecientes a 
+la misma sindicación y  al mismo período de tiempo  sin lapsos intermedios , en 
+una carpeta dedicada expresamente a estos archivos, ya que la existencia de otros 
+ficheros podría causar problemas indeseados durante el uso de la herramienta , como 
+muestra la Imagen 2. 
+ 
+ 
+ 
+
+PAGE 12
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 12  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+ 
+Imagen 2. Archivos descargados de ejemplo 
+ 
+ 
+Cada archivo zip contiene un conjunto de archivos Atom/XML (en adelante, atom) que 
+van almacenando entradas en orden cronol ógico, las cuales contienen actualizaciones 
+con datos de las licitaciones. 
+ 
+Cada atom contiene además una referencia que apunta al siguiente  archivo a procesar, 
+el cual guarda las actualizaciones pasadas más cercanas temporalmente al mismo, como 
+se muestra en la captura de pantalla de la Imagen 3. Así podemos encontrar un archivo 
+atom “inicial” que sirve como punto de referencia base, que contiene las licitaciones más 
+recientes respecto al zip descomprimido. Para la sindicación 643, el atom base se llama 
+“licitacionesPerfilesContratanteCompleto3.atom”. 
+ 
+ 
+Imagen 3. Captura de pantalla del comienzo de un archivo atom. Vista del contenido inicial del 
+atom base de enero 2021 de la sindicación 643, licitacionesPerfilesContratanteCompleto3.atom  
+ 
+Cada zip de esta sindicación mencionada como ejemplo tiene su atom base con el mismo 
+nombre. Esto significa que hay que tener precaución con el orden en el que se 
+descompriman los ficheros, puesto que se sobrescribirá parte de su contenido. Por 
+ello, se debe descomprimir  primero los zip que contengan los datos más 
+antiguos e ir descomprimiendo sucesivamente los más próximos al presente.  
+En nuestro caso particular de ejemplo, significaría que primero hay que extraer enero 
+de 2021, después febrero de 2021 y finalmente marzo de 2021. Esto hace que el archivo 
+base “más actualizado” en relación al conjunto total de los 3 meses quede definido por 
+
+
+PAGE 13
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 13  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+marzo, permitiendo que el atom más antiguo del zip de marzo de 2021 se enlace con el 
+más reciente del zip de febrero de 2021, y el más antiguo de febrero de 2021 con el más 
+reciente de enero de 2021. Véase las siguientes capturas de pantalla de la Imagen 4.  
+Las fechas de los archivos que se sobrescriben coinciden con la casuística de la línea de 
+tiempo descrita. 
+ 
+ 
+ 
+Imagen 4. Ejemplo de orden al descomprimir y sobrescribir archivos 
+ 
+Archivos zip de diferentes conjuntos de datos no serán compatibles para 
+transformarlos con la herramienta todos a la vez. Esto es, no se pueden procesar 
+a la vez ficheros de conjuntos de datos diferentes como, por ejemplo, ficheros de 
+licitaciones y ficheros de contratos menores.  
+Igualmente, para períodos de tiempo d iscontinuos, por ejemplo, descargando los 
+archivos zip de los años 2017 y 2018 junto a los meses de enero y febrero del año en 
+curso 2021 , se deberá realizar una ejecución de la herramienta por cada conjunto 
+temporalmente continuo de la misma sindicación , para el caso  citado, 2 ejecuciones al 
+haber un lapso de tiempo sin datos . Actualmente los datos se agrupan en ficheros 
+comprimidos por años, salvo el año en curso que se proporcionan mensualmente. 
+Además, el último mes en el que nos encontremos se actualizará diariamente su 
+comprimido correspondiente. 
+Por este motivo se recomienda tener una carpeta diferenciada para cada conjunto de 
+una sola sindicación con un solo período de tiempo continuo. Para el ejemplo concreto 
+de los 3 meses es suficiente una sola carpeta , puesto que los 3 comprimidos zip 
+pertenecen a la misma sindicación y al mismo período de tiempo cont inuo. Se 
+recomienda la consulta de la documentación de los mecanismos de sindicación [7] si se 
+desea tener un mayor conocimiento de su funcionamiento.  
+1 2 
+
+PAGE 14
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 14  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+Para continuar con el ejemplo, una vez descomprimidos los 3 zip en el orden adecuado, 
+la carpeta debería contar con un total de 1 46 archivos contando los propios zip . La 
+cantidad de archivos total puede variar dependiendo del período  y la sindicación 
+seleccionados. 
+De esta forma ya estamos preparados para arrancar la herramienta, cuya instalación y 
+configuración se detalla en el apartado 3. 
+4.2 Presentación inicial de la herramienta 
+ 
+Una vez iniciada la aplicación se nos presentará una interfaz con la siguiente apariencia: 
+
+PAGE 15
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 15  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+ 
+ 
+Imagen 5. Vista inicial de la interfaz de usuario 
+Podemos distinguir los siguientes elementos: 
+1. Barra de ayuda que muestra información de la herramienta , así como la 
+documentación asociada 
+2. Zona de selección de archivos de entrada y salida 
+3. Información relativa a la ejecución del programa 
+4. Botón de inicio de generación de hojas de cálculo xlsx 
+5. Zona de selección de datos 
+6. Modo de generación del fichero del libro de hojas de cálculo 
+1 
+2 
+3 4 
+5 
+6 
+
+PAGE 16
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 16  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+ 
+4.3 Ejecución y configuración asociada 
+Se deberá pulsar sobre el botón de “seleccionar” asociado a la parte de Fichero Raíz. 
+Se abrirá una ventana donde se indicará el atom base del conjunto que deseamos 
+pasar a xlsx . Como se ha detallado en el  4.1, en nuestro caso  de ejemplo  sería 
+“licitacionesPerfilesContratanteCompleto3.atom”. Una vez seleccionado se mostraría su ruta 
+en la interfaz. 
+ 
+ 
+ 
+ 
+Imagen 6. Selección de Fichero Raíz 
+ 
+
+
+PAGE 17
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 17  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+ 
+Imagen 7. Ruta del Fichero Raíz añadida 
+ 
+A continuación , seleccionamos de manera similar con su botón análogo, dónde 
+deseamos que se guarde el Fichero Destino, indicando su ruta y el nombre elegido 
+a través de la ventana de diálogo. En la interfaz se actualizará la ruta de destino. 
+ 
+ 
+Imagen 8. Selección de Fichero Destino 
+
+
+PAGE 18
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 18  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+ 
+Imagen 9. Ruta del Fichero Destino añadida 
+ 
+ 
+El siguiente paso es seleccionar las datos o atributos que se deseen exportar. A través 
+del árbol desplegable se pueden seleccionar. La disposición en la interfaz gráfica es la 
+misma que se encontrará en las hojas de cálculo, detallado en la siguiente sección. Para 
+el ejemplo que estamos utilizando vamos a marcar todos los datos además de los que 
+muestra la Imagen 10. En el apartado 5 se muestra una descripción de cada tipo de 
+dato. 
+ 
+
+
+PAGE 19
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 19  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+ 
+Imagen 10. Selección de algunos datos de ejemplo 
+ 
+Finalmente se debe pulsar el botón “ Generar fichero de datos” para que comience 
+el procesamiento. Como se indica en la interfaz, este paso puede durar varios minutos 
+hasta que se complete. En el ejemplo que estamos explicando se han seleccionado todos 
+los campos disponibles. 
+ 
+
+
+PAGE 20
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 20  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+Al acabar la ejecución se mostrará un mensaje de aviso, cuántos ficheros se han 
+procesado y el número de licitaciones que se han añadido al archivo de salida. 
+ 
+ 
+ 
+Imagen 11. Mensaje de fichero generado con éxito 
+ 
+ 
+
+
+PAGE 21
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 21  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+4.4 Modos de generación de tablas de datos 
+Desde la versión 1.3 de OpenPLACSP, existe la posibilidad de seleccionar entre  dos 
+modos de generación del fichero de resultados:  
+• Generación del fichero con los datos agrupados en dos tablas 
+• Generación del fichero con los datos agrupados en una tabla 
+El primer modo de funcionamiento ha estado disponible en OpenPLACSP desde el 
+principio. Mediante este modo, los datos se agrupan  en dos tablas: una de ellas con la 
+información común a la licitación, y una segunda tabla con los datos de los resultados de 
+cada licitación. Mediante este mecanismo, se reduce la redundancia de información, ya 
+que una licitación puede dar lugar a más de un resultado; de esta forma, los datos 
+comunes de una licitación particular se muestran en la primea tabla y los datos 
+específicos de los resultados en una segunda tabla. 
+El segundo modo de funcionamiento consiste en agrupar todos los datos, tanto los 
+comunes como los de resultados en una única tabla. Esto implica que cuando una 
+licitación dé lugar a más de un resultado, habrá datos comunes que se repitan en las 
+distintas filas.  
+En los siguiente subapartados se detalla el funcionamiento de estos dos modos mediante 
+el ejemplo que se está realizando. 
+4.4.1 Generación de datos en dos tablas 
+El archivo generado, ubicado en el directorio destino que le indicamos en los pasos 
+anteriores, contendrá 3 hojas diferentes: 
+• Presentación 
+• Licitaciones 
+• Resultados 
+El contenido de la primera hoja tiene carácter informativo.  
+Un proceso de licitación tiene varias fases, como ocurre de manera similar a diferentes 
+procedimientos administrativos. Para simplificar todo lo estipulado en la Ley 9/2017 de 
+Contratos del Sector Público  [1] se ha decidido separar en dos secciones que hacen 
+referencia las dos hojas de Excel.  
+La primera  pestaña, “ Licitaciones” alude a la convocatoria y toda la información 
+referida a cada una de las licitaciones. La segunda, “ Resultados”, a la información 
+relativa a las adjudicaciones y resoluciones. Una licitación puede tener varios lotes 
+asociados y en la adjudicación con su posterior resolución aparecer ninguna, una o varias 
+
+PAGE 22
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 22  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+empresas para cada lote . La definición de fila para “Licitaciones” constará de la 
+información relativa a la propia licitación, mientras que en “Resultados” contendrá las 
+adjudicaciones para cada licitación o sus lotes.  
+Si nos fijamos en la columna “identificador”, sirve para referir de manera unívoca a cada 
+licitación en ambas hojas de cálculo. En la segunda hoja, además, el dato podrá aparecer 
+repetido tantas veces como lotes y/o adjudicatarios tenga. 
+En el ejemplo que estamos siguiendo, en las primeras filas de la segunda hoja podemos 
+encontrar el identificador 6231566 repetido 21 veces, mientras que en la primera solo 
+aparece una, como se muestra en la Imagen 12. En la columna “Lote” de la segunda hoja 
+se pueden ver las ocurrencias a los diferentes lotes si los hubiera. Si la licitación no tiene 
+lotes el contenido de dicha c elda aparece el texto “Sin lotes”. Si una licitación o lote 
+tiene varios adjudicatarios aparecerá tanto su identificador como el número de lote 
+repetido tantas veces como adjudicatarios tengamos. Fíjense en  la Imagen 13, el 
+identificador 5966125 donde se pueden observar números de lote repetidos , cada uno 
+con su respectivo adjudicatario en la columna correspondiente. 
+ 
+ 
+ 
+
+
+PAGE 23
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 23  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+ 
+Imagen 12. Ejemplo de contrato con varios lotes 
+ 
+ 
+Imagen 13. Ejemplo de lotes con varios adjudicatarios 
+ 
+ 
+En el apartado 5 encontrará la lista de datos incluidos en cada hoja de cálculo del 
+archivo de salida, con su descripción. 
+
+
+PAGE 24
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 24  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+ 
+4.4.2 Generación de datos en una tabla 
+El archivo generado, ubicado en el directorio destino que le indicamos en los pasos 
+anteriores, contendrá 2 hojas diferentes: 
+• Presentación 
+• Licitaciones 
+El contenido de la primera hoja tiene carácter informativo.  
+En este caso, la pestaña “ Licitaciones” contiene información tanto de la con 
+convocatoria como de los “ Resultados”; es decir, se incluirán todos los datos 
+seleccionados. 
+Como una licitación puede dar lugar a varios resultados, hay que tener en cuenta que 
+en la hoja se insertarán tantas filas como resultados existan; en cada una de estas filas la 
+información común de la convocatoria se repetirá. 
+En la siguiente imagen se puede ver un ejemplo de los resultados cuando se generan los 
+datos en una única tabla: 
+ 
+ 
+Imagen 14. Resultados en el modo de una tabla 
+En este caso, encontramos básicamente tres situaciones: 
+• Licitación sin lotes que produce un único resultado (fila 5). En este caso, se 
+genera una única fila con los datos de la licitación. Contiene los datos comunes 
+y los de resultados que hayan sido seleccionados por el usuario. 
+• Licitación que no ha sido adjudica (fila 7). Independientemente de si la licitación 
+se estructura o no en lotes, en caso de que aún se encuentre en estados 
+anteriores a la adjudicación, solo se mostrará una fila, al no existir en ese 
+
+
+PAGE 25
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 25  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+momento resultados. Únicamente aparecerán los datos comunes, ya que no 
+existe información sobre los resultados. 
+• Licitación que ha producido más de un resultado (filas 11 -13). Este caso se 
+produce habitualmente cuando la licitación se estructura en lotes. Existen tantas 
+filas como lotes resueltos existan. Estas filas tendrán los mismos datos comunes 
+(identificador, estado, número de expediente, tipo de procedimiento, …). Sin 
+embargo, los datos referentes a los resultados (adjudicatario, importe de 
+adjudicación, …) serán específicos para cada resultado. 
+
+PAGE 26
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 26  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+5 Lista de datos de la licitación 
+El archivo de salida cuenta con más de 40 variables repartidas en las dos hojas de cálculo. 
+En esta versión actual de la herramienta se ha seleccionado un subconjunto relevante 
+del total posible que alberga los datos abiertos. La lista completa se puede consultar en 
+su correspondiente resumen [11].  
+ 
+5.1 Hoja “Licitaciones” 
+• Identificador: Número único que referencia a una única licitación. Se añade por 
+defecto y no es seleccionable en la interfaz de la herramienta. 
+• Link licitación: Enlace a PLACSP con toda la información relativa a la licitación. 
+Se añade por defecto y no es seleccionable en la interfaz. 
+• Fecha de actualización: Momento en el que se realizó la última actualización 
+de la licitación relacionada.  Se añade por defecto y no es seleccionable en la 
+interfaz. 
+• Vigente/Anulada/Archivada: Situación de la licitación respecto a los datos 
+abiertos. 
+o Vigente: La licitación no se encuentra anulada ni archivada, por lo que es 
+accesible. 
+o Anulada: Todos los anuncios de la licitación se encuentran anulados. 
+o Archivada: La licitación se ha archivado por haber transcurrido más de 5 
+años desde su resoluci ón y no ha habido nuevas actualizaciones.  Las 
+licitaciones son archivadas una vez transcurridos 5 años, según lo indicado 
+en al artículo 63.1 de la Ley 9/2017 [1]. 
+• Primera publicación: Fecha del primer anuncio publicado que no haya sido 
+anulado, independientemente del medio de publicación y sin tener en cuenta los 
+anuncios previos. 
+• Estado: Fase en la que se encuentra la licitación. Puede ser: 
+o Anuncio previo 
+o En plazo 
+o Pendiente de adjudicación 
+o Adjudicada 
+o Resuelta 
+o Anulada 
+• Número de expediente: Conjunto de caracteres alfa-numéricos que identifica 
+de manera unívoca una licitación dentro de un mismo órgano de contratación. 
+Podría darse el caso de número de expedientes repetidos entre órganos de 
+contratación diferentes. 
+• Objeto del Contrato: Texto referido al objeto del contrato. 
+
+PAGE 27
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 27  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+• Identificador único TED : Identificador único en el ámbito del TED (versión 
+online del Suplemento del Diario Oficial de la Unión Europea 
+• dedicado a la contratación pública europea). 
+• Valor estimado del contrato: Valor estimado para la licitación. 
+• Presupuesto base sin impuestos: Precio máximo sin impuestos que se podrá 
+pagar al contratista como contrapartida por el cumplimiento del contrato.  
+• Presupuesto base con impuestos : Precio máximo con impuestos que se 
+podrá pagar al contratista como contrapartida por el cumplimiento del contrato. 
+• CPV: Common Procurement Vocabulary. Sistema de clasificación único de 
+contratos públicos. 
+o Más información en SIMAP [12]  
+• Tipo de contrato: 
+o Obras 
+o Servicios 
+o Suministros 
+o Concesión de obras públicas 
+o Concesión de obras 
+o Gestión de servicios públicos 
+o Concesión de servicios 
+o Colaboración entre el sector público y el sector privado 
+o Administrativo especial 
+o Privado 
+o Patrimonial 
+o Otros 
+• Contrato mixto: Indica si se trata de un contrato mixto al contener 
+prestaciones de más de un tipo. 
+• Lugar de ejecución: Variable compuesta por código NUTS (Nomenclature of 
+Territorial Units for Statistics) y la denominación territorial o país descrita. 
+o Más información en SIMAP [13]  
+• Órgano de contratación: Nombre del órgano de contratación. 
+• ID OC en PLACSP: Identificador de Órgano de Contratación en PLACSP.  
+• NIF OC: Número de Identificación Fiscal del órgano de contratación. 
+• DIR3: Directorio Común de Unidades Orgánicas y Oficinas. 
+o Más información en PAe [14]  
+• Enlace al Perfil de Contratante del OC : Enlace al sitio web  del Perfil de 
+Contratante del Órgano de Contratación. 
+• Tipo de Administración:  
+o Autoridad estatal 
+o Autoridad regional 
+o Autoridad local 
+o Organismo de Derecho Público 
+
+PAGE 28
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 28  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+o Otras Entidades del Sector Público 
+o Organismo de Derecho público bajo el control de una autoridad estatal 
+o Organismo de Derecho público bajo el control de una autoridad regional 
+o Organismo de Derecho público bajo el control de una autoridad local 
+o Empresa pública bajo el control de una autoridad estatal 
+o Empresa pública bajo el control de una autoridad regional 
+o Empresa pública bajo el control de una autoridad local 
+o Entidad con derechos especiales o exclusivos 
+• Código Postal: Referido al lugar de ejecución. 
+• Tipo de Procedimiento:  
+o Abierto 
+o Restringido 
+o Negociado con publicidad 
+o Negociado sin publicidad 
+o Diálogo competitivo 
+o Normas internas 
+o Derivado de acuerdo marco 
+o Concurso de proyectos 
+o Abierto simplificado 
+o Asociación para la innovación 
+o Derivado de asociación para la innovación 
+o Basado en un sistema dinámico de adquisición 
+o Licitación con negociación 
+o Otros 
+• Sistema de contratación: Indica si es un contrato como tal, un acuerdo marco 
+o un sistema dinámico de adquisición. 
+o Establecimiento del Acuerdo Marco 
+o Establecimiento del Sistema Dinámico de Adquisición 
+o Contrato basado en un Acuerdo Marco 
+o Contrato basado en un Sistema Dinámico de Adquisición 
+o No aplica 
+• Tramitación: Tipo de tramitación. 
+o Ordinaria 
+o Urgente 
+o Emergencia 
+• Forma de presentación de la oferta: Cómo se presenta la oferta. 
+o Manual 
+o Electrónica 
+o Manual y/o Electrónica 
+• Fecha de presentación de ofertas: Fecha límite para presentar las ofertas. 
+• Fecha de presentación de solicitudes de participación: Fecha límite para 
+presentar las solicitudes de participación 
+
+PAGE 29
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 29  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+• Directiva de aplicación : En caso de que aplique alguna directiva, se indicará 
+cuál es. 
+• Contrato SARA/Umbral: Indica si la licitación es de Regulación armonizada 
+para la directiva 24/2014 o si supera el umbral comunitario en caso de tratarse 
+de otras directivas. 
+• Financiación Europea y fuente: Indica si la licitación tiene o no financiación 
+europea. En caso de que tenga y sea conocida su fuente de financiación, se 
+indicará. 
+• Descripción de la financiación europea:  Texto descriptivo referente a la 
+financiación europea. 
+• Subasta electrónica:  Permite indicar si se va a recurrir a una subasta 
+electrónica para adjudicar el contrato. 
+• Subcontratación permitida : Si el contrato admite subcontratación en sus 
+términos. 
+• Subcontratación permitida porcentaje : Marca el porcentaje máximo 
+admitido en el caso de que el contrato permita subcontratación. 
+ 
+5.2 Hoja “Resultados” 
+• Identificador: Número único que referencia a una única licitación. Se añade por 
+defecto y no es seleccionable en la interfaz de la herramienta. 
+• Link licitación: Enlace a PLACSP con toda la información relativa a la licitación. 
+Se añade por defecto y no es seleccionable en la interfaz. 
+• Fecha de actualización: Momento en el que se realizó la última actualización 
+de la licitación relacionada. Se añade por defecto y no es seleccionable en la 
+interfaz. 
+• Número de expediente: Conjunto de caracteres alfa-numéricos que identifica 
+de manera unívoca una licitación dentro de un mismo órgano de contratación. 
+Podría darse el caso de número de expedientes repetidos entre órganos de 
+contratación diferentes. 
+• Lote: Indica el número de lote en el caso de que la licitación correspondiente 
+tuviera asignados. En caso contrario, es decir, licitación sin lotes, se indicará el 
+texto “Sin lotes”. 
+• Objeto de licitación/lote: Similar al homólogo de la hoja “Licitaciones”, pero 
+sobre el lote correspondiente si lo hubiera. 
+• Valor estimado licitación/lote: Similar al homólogo de la hoja “Licitaciones”, 
+pero sobre el lote correspondiente si lo hubiera. 
+• Presupuesto base con impuestos/lote : Similar al homólogo de la hoja 
+“Licitaciones”, pero sobre el lote correspondiente si lo hubiera. 
+• Presupuesto base  sin impuestos/lote : Similar al homólogo de la hoja 
+“Licitaciones”, pero sobre el lote correspondiente si lo hubiera. 
+
+PAGE 30
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 30  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+• CPV licitación/lote: Similar al homólogo de la hoja “Licitaciones”, pero sobre 
+el lote correspondiente si lo hubiera. 
+• Lugar de ejecución licitación/lote : Similar al homólogo de la hoja 
+“Licitaciones”, pero sobre el lote correspondiente si lo hubiera. 
+• Resultado licitación/lote: Código de resultado de la licitación. 
+o Adjudicado 
+o Formalizado 
+o Desierto 
+o Renuncia 
+o Desistimiento 
+• Fecha del acuerdo licitación/lote:  Fecha del acuerdo de adjudicación de la 
+licitación o de la decisión de renuncia, desistimiento o desierto. 
+• Número de ofertas recibidas por licitació n/lote: Cantidad de candidatos 
+presentados por licitación o lote. 
+• Precio de la oferta más baja: Valor en euros de la oferta más baja. 
+• Precio de la oferta más alta: Valor en euros de la oferta más alta. 
+• Se han excluido ofertas por ser anormalmente bajas por licitación/lote: 
+Verdadero/Falso. 
+• Número de contrato licitación/lote: Referencia propia del contrato o lote. 
+• Fecha formalización del contrato licitación/lote. 
+• Fecha entrada en vigor del contrato de la licitación/lote. 
+• Adjudicatario licitación/lote: Nombre del Adjudicatario. 
+• Tipo de identificador de adjudicatario por licitación/lote:  
+o NIF 
+o UTE 
+o Otros 
+• Identificador Adjudicatario de la licitació n/lote: Referencia unívoca para 
+identificar a los adjudicatarios. 
+• El adjudicatario de la licitación/lote es o no una PYME: El adjudicatario 
+pertenece o no al conjunto de Pequeñas Y Medianas Empresas. 
+• Importe adjudicación sin impuestos licitación/lote: Valor final por el que 
+se ha adjudicado la licitación o lote, sin impuestos. 
+• Importe adjudicación con impuestos licitación/lote: Valor final por el que 
+se ha adjudicado la licitación o lote, con impuestos. 
+ 
+ 
+ 
+
+PAGE 31
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 31  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+6 Otras publicaciones y anuncios en datos abiertos 
+ 
+Además de expedientes sobre licitaciones y contratos menores, a partir de noviembre 
+de 2022 se pone a disposición del público nuevos anuncios en la sección de Datos 
+Abiertos de PLACSP. En particular, se dispone de encargos a medios propios y consultas 
+preliminares de mercado. 
+ 
+Estos dos tipos de expediente aparecerán en la salida de datos de la herramienta como 
+dos pestañas adicionales con sus respectivos nombres, independientemente de si se 
+selecciona el modo de generación en una o dos en la interfaz de usuario. 
+ 
+A continuación, se listan los campos de información para cada tipo. 
+ 
+6.1 Hoja “Encargos a medios propios” 
+ 
+• Identificador: Número único que referencia a un único expediente . Se añade 
+por defecto y no es seleccionable en la interfaz de la herramienta. 
+• Link encargo: Enlace a PLACSP con toda la información relativa al encargo a 
+medio propio. Se añade por defecto y no es seleccionable en la interfaz. 
+• Fecha de actualización: Momento en el que se realizó la última actualización 
+del expediente relacionado . Se añade por defecto y no es seleccionable en la 
+interfaz. 
+• Vigente/Anulada/Archivada: Situación del encargo respecto a los datos 
+abiertos. 
+o Vigente: No se encuentra anulado ni archivado, por lo que es accesible. 
+o Anulada: Todos los anuncios se encuentran anulados. 
+o Archivada: El expediente se ha archivado por haber transcurrido más de 
+5 años desde su resolución y no ha habido nuevas actualizaciones.  Los 
+expedientes son archivad os una vez transcurridos 5 años, según lo 
+indicado en al artículo 63.1 de la Ley 9/2017 [1]. 
+• Primera publicación : Fecha del primer anuncio publicado en el perfil de 
+contratante que no ha sido anulado. 
+• Estado: Fase en la que se encuentra el encargo. Puede ser: 
+o Publicado 
+• Número de expediente: Conjunto de caracteres alfa-numéricos que identifica 
+de manera unívoca un encargo a medio propio dentro de un mismo órgano de 
+contratación. Podría darse el caso de número de expedientes repetidos entre 
+órganos de contratación diferentes. 
+• Objeto del encargo: Texto referido al objeto del encargo. 
+
+PAGE 32
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 32  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+• Presupuesto base sin impuestos: Precio máximo sin impuestos que se podrá 
+pagar al contratista como contrapartida por el cumplimiento del contrato.  
+• Presupuesto base con impuestos : Precio máximo con impuestos que se 
+podrá pagar al contratista como contrapartida por el cumplimiento del contrato. 
+• CPV: Common Procurement Vocabulary. Sistema de clasificación único de 
+contratos públicos. 
+o Más información en SIMAP [12]  
+• Tipo de encargo: 
+o Obras 
+o Servicios 
+o Suministros 
+o Concesión de obras 
+o Concesión de servicios 
+• Lugar de ejecución: Variable compuesta por código NUTS (Nomenclature of 
+Territorial Units for Statistics) y la denominación territorial o país descrita. 
+o Más información en SIMAP [13]  
+• Órgano de contratación: Nombre del órgano de contratación. 
+• ID OC en PLACSP: Identificador de Órgano de Contratación en PLACSP.  
+• NIF OC: Número de Identificación Fiscal del órgano de contratación. 
+• DIR3: Directorio Común de Unidades Orgánicas y Oficinas. 
+o Más información en PAe [14]  
+• Enlace al Perfil de Contratante del OC : Enlace al sitio web  del Perfil de 
+Contratante del Órgano de Contratación. 
+• Tipo de Administración:  
+o Administración General del Estado 
+o Comunidad Autónoma 
+o Administración Local 
+o Entidad de Derecho Público 
+o Otras Entidades del Sector Público 
+• Código Postal: Referido al lugar de ejecución. 
+• Fecha del acuerdo del encargo. 
+• Medio propio personificado: Nombre de la Entidad que realizará el encargo. 
+• NIF Medio propio personificado: Número de Identificación Fiscal del medio 
+propio. 
+• ID_PLATAFORMA Medio propio personificado : Identificador de l medio 
+propio en PLACSP. Solo disponible para aquellos que tengan alojado su perfil en 
+la Plataforma. 
+ 
+ 
+ 
+
+PAGE 33
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 33  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+6.2 Hoja “Consultas preliminares de mercado” 
+ 
+• Identificador: Número único que referencia a un único expediente. Se añade 
+por defecto y no es seleccionable en la interfaz de la herramienta. 
+• Link Consulta: Enlace a PLACSP con toda la información relativa a la consulta 
+preliminar de mercado. Se añade por defecto y no es seleccionable en la interfaz. 
+• Fecha de actualización: Momento en el que se realizó la última actualización 
+del expediente relacionado. Se añade por defecto y no es seleccionable en la 
+interfaz. 
+• Vigente/Anulada/Archivada: Situación del encargo respecto a los datos 
+abiertos. 
+o Vigente: No se encuentra anulado ni archivado, por lo que es accesible. 
+o Anulada: Todos los anuncios se encuentran anulados. 
+o Archivada: El expediente se ha archivado por haber transcurrido más de 
+5 años desde su resolución y no ha habido nuevas actualizaciones. Los 
+expedientes son archivados una vez transcurridos 5 años, según lo 
+indicado en al artículo 63.1 de la Ley 9/2017 [1]. 
+• Primera publicación : Fecha del primer anuncio publicado en el perfil de 
+contratante que no ha sido anulado. 
+• Estado: Fase en la que se encuentra la consulta. Puede ser: 
+o Publicada 
+o Realizada 
+• Número de consulta preliminar: Conjunto de caracteres alfa-numéricos que 
+identifica de manera unívoca un a consulta preliminar de mercado dentro de un 
+mismo órgano de contratación. Podría darse el caso de número de expedientes 
+repetidos entre órganos de contratación diferentes. 
+• Objeto de la consulta: Texto referido al objeto de la consulta preliminar de 
+mercado. 
+• Fecha de inicio de la consulta : Fecha a partir de la cual se podrán enviar 
+propuestas. 
+• Fecha límite de respuesta : Fecha a partir de la cual ya no se podrán enviar 
+propuestas. 
+• Dirección de presentación : donde aparecerán forma de contacto, 
+instrucciones, pasos u otras indicaciones para poder realizar una presentación a 
+la consulta preliminar de mercado. 
+• Tipo de consulta: 
+o Consulta abierta 
+o Selección de participantes 
+• Condiciones o términos de envío de la consulta: Descripción resumida de 
+las condiciones o términos de envío de consulta preliminar de mercado 
+• Futura licitación. Tipo de contrato:  
+
+PAGE 34
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 34  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+o Obras 
+o Servicios 
+o Suministros 
+o Concesión de obras públicas 
+o Concesión de obras 
+o Gestión de servicios públicos 
+o Concesión de servicios 
+o Colaboración entre el sector público y el sector privado 
+o Administrativo especial 
+o Privado 
+o Patrimonial 
+• Futura licitación. Objeto: Texto referido al objeto del futuro contrato. 
+• Futura licitación. Procedimiento: 
+o Abierto 
+o Restringido 
+o Negociado con publicidad 
+o Negociado sin publicidad 
+o Diálogo competitivo 
+o Normas internas 
+o Derivado de acuerdo marco 
+o Concurso de proyectos 
+o Abierto simplificado 
+o Asociación para la innovación 
+o Derivado de asociación para la innovación 
+o Basado en un sistema dinámico de adquisición 
+o Licitación con negociación 
+o Otros 
+• CPV: Common Procurement Vocabulary. Sistema de clasificación único de 
+contratos públicos. 
+o Más información en SIMAP [12]  
+• Órgano de contratación: Nombre del órgano de contratación. 
+• ID OC en PLACSP: Identificador de Órgano de Contratación en PLACSP.  
+• NIF OC: Número de Identificación Fiscal del órgano de contratación. 
+• DIR3: Directorio Común de Unidades Orgánicas y Oficinas. 
+o Más información en PAe [14]  
+• Enlace al Perfil de Contratante del OC : Enlace al sitio web  del Perfil de 
+Contratante del Órgano de Contratación. 
+• Tipo de Administración:  
+o Administración General del Estado 
+o Comunidad Autónoma 
+o Administración Local 
+
+PAGE 35
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 35  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+o Entidad de Derecho Público 
+o Otras Entidades del Sector Público 
+• Código Postal: Referido al lugar de ejecución. 
+ 
+ 
+ 
+ 
+
+PAGE 36
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 36  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+7 Acerca del desarrollo de la herramienta OpenPLACSP 
+7.1 Acceso al código fuente 
+Todo el c ódigo fuente de la herramienta OpenPLAC SP se encuentra en el directorio 
+src, Los desarrolladores que lo deseen puedan adaptarlo según sus necesidades, 
+cumpliendo con la licencia con la que se distribuye y que se describe en el apartado 8. 
+7.2 Librerías CODICE 
+OpenPLACSP para datos abiertos hace uso de la especificaci ón CODICE [15] y de su 
+extensión, descritas en el sitio web de la Plataforma de Contratación del Sector Público: 
+https://contrataciondelestado.es/wps/portal/codice 
+Esta especificación se describe mediante esquemas XSD. Se puede acceder a los distintos 
+esquemas XSD en las siguientes direcciones: 
+ 
+CODICE 2.06 https://contrataciondelestado.es/codice/2.0/xsd/2.05/ 
+Extensión 
+CODICE 1.3 
+https://contrataciondelestado.es/codice/extension/xsd/1.2/ 
+Esquemas 
+ATOM 
+https://contrataciondelestado.es/codice/extension/xsd/Atom/ 
+La Plataforma de Contratación del Sector Público ha dispuesto varias librerías Java que 
+dan soporte a las especificaciones CODICE 2. 06 y CODICE -PLACE-EXT 1.3. Estas 
+librerías han sido desarrolladas mediante la arquitectura JAXB 2, y proporcionan una 
+serie de componentes para el desarrollo y tratamientos de documentos electrónicos 
+CODICE. 
+Las librerías Java que son utilizadas por OpenPLACSP son: 
+• codice-2.8.0.jar: Contiene las clases que representa n a los esquemas de 
+CODICE 2.06. 
+• codice_place_ext-1.4.0.jar: Librería que proporciona los componentes 
+que dan soporte a los esquemas de la extensión CODICE-PLAC-EXT 1.4.0.  
+ 
+
+PAGE 37
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 37  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+Estas librerías están disponibles en el sitio web de la Plataforma de Contratación del 
+Sector Público. Se dispone además de documentación asociada a estas librerías, que 
+proporciona detalles sobre su contenido y uso. 
+Puede acceder a este contenido en el apartado “Librería Java” del siguiente enlace: 
+https://contrataciondelestado.es/wps/portal/CODICEInfo 
+Por otra parte, OpenPLACSP utiliza la librería atom-1.0.jar. Esta librería proporciona 
+los componentes que dan soportes a los Esquemas ATOM, y se ha creado de forma 
+equivalente a las librerías CODICE. Esto implica para elaborar esta librería se partió de 
+los esquemas XSD ATOM y se hizo uso de la arquitectura JAXB 2 para realizar un 
+proceso “XML Data Binding”. 
+7.3 Dependencias 
+Además de las tres librerías enunciadas en el apartado anterior, OpenPLACSP hace uso 
+de otras librerías y componentes externos. Todos estos componentes están licenciados 
+con distintos tipos de licencias de software libre que permite su distribución.  
+Estas dependencias se distribuyen en el paquete de OpenPLACSP y se localizan en la 
+carpeta lib. Existe una copia de las distintas licencias en la carpeta licenses. 
+A continuación, se enumeran los distintos componentes que se distribuyen junto con su 
+licencia: 
+ 
+COMPONENTE LICENCIA REFERENCIA 
+batik-all-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-anim-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-awt-util-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-bridge-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-codec-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-constants-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-css-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-dom-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-ext-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-extension-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-gui-util-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-gvt-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-i18n-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-parser-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+
+PAGE 38
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 38  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+batik-rasterizer-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-rasterizer-ext-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-script-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-shared-resources-
+1.13.jar 
+Apache 2.0 licenses/apache-license-2.0.tx 
+batik-slideshow-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-squiggle-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-squiggle-ext-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-svgbrowser-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-svg-dom-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-svggen-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-svgpp-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-svgrasterizer-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-swing-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-transcoder-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-ttf2svg-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-util-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+batik-xml-1.13.jar Apache 2.0 licenses/apache-license-2.0.tx 
+bcpkix-jdk15on-1.68.jar Bouncy Castle licenses/bouncy-castle-licence.txt 
+bcprov-jdk15on-1.68.jar Bouncy Castle licenses/bouncy-castle-licence.txt 
+commons-codec-1.15.jar Apache 2.0 licenses/apache-license-2.0.tx 
+commons-collections4-4.4.jar Apache 2.0 licenses/apache-license-2.0.tx 
+commons-compress-1.20.jar Apache 2.0 licenses/apache-license-2.0.tx 
+commons-io-1.3.1.jar Apache 2.0 licenses/apache-license-2.0.tx 
+commons-io-1.3.1.jar Apache 2.0 licenses/apache-license-2.0.tx 
+commons-math3-3.6.1.jar Apache 2.0 licenses/apache-license-2.0.tx 
+curvesapi-1.06.jar BSD 3-clause licenses/bsd-3-clause.txt 
+fontbox-2.0.22.jar Apache 2.0 licenses/apache-license-2.0.tx 
+graphics2d-0.30.jar Apache 2.0 licenses/apache-license-2.0.tx 
+jcl-over-slf4j-1.7.30.jar Apache 2.0 licenses/apache-license-2.0.tx 
+log4j-api-2.16.0.jar Apache 2.0 licenses/apache-license-2.0.tx 
+log4j-core-2.16.0.jar Apache 2.0 licenses/apache-license-2.0.tx 
+pdfbox-2.0.22.jar Apache 2.0 licenses/apache-license-2.0.tx 
+poi-5.0.0.jar Apache 2.0 licenses/apache-license-2.0.tx 
+poi-ooxml-5.0.0.jar Apache 2.0 licenses/apache-license-2.0.tx 
+poi-ooxml-lite-5.0.0.jar Apache 2.0 licenses/apache-license-2.0.tx 
+serializer-2.7.2.jar Apache 2.0 licenses/apache-license-2.0.tx 
+slf4j-api-1.7.30.jar MIT licenses/mit-license.txt 
+SparseBitSet-1.2.jar Apache 2.0 licenses/apache-license-2.0.tx 
+
+PAGE 39
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 39  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+stax2-api-4.2.jar BSD 3-clause licenses/bsd-3-clause.txt 
+woodstox-core-5.2.1.jar Apache 2.0 licenses/apache-license-2.0.tx 
+xalan-2.7.2.jar Apache 2.0 licenses/apache-license-2.0.tx 
+xml-apis-1.4.01.jar SAX 
+W3C 
+licenses/the-sax-license.txt 
+licenses/the-w3c-license.txt 
+xml-apis-ext-1.3.04.jar Apache 2.0 licenses/apache-license-2.0.tx 
+xmlbeans-4.0.0.jar Apache 2.0 licenses/apache-license-2.0.tx 
+xmlsec-2.2.1.jar Apache 2.0 licenses/apache-license-2.0.tx 
+ 
+
+PAGE 40
+OpenPLACSP  
+ 
+Manual de uso de OpenPLACSP  
+Fecha:  
+09/09/2024 
+ 
+ 
+  Pág. 40  de 40 
+ 
+SUBDIRECCIÓN GENERAL DE COORDINACIÓN 
+DE LA CONTRATACIÓN ELECTRÓNICA 
+DIRECCIÓN GENERAL DEL 
+PATRIMONIO DEL ESTADO 
+8 Licenciamiento 
+El aplicativo “OpenPLACSP” y su c ódigo fuente, contenido en la carpeta  “src” se 
+distribuyen bajo la licencia EUPL v.1. 2, cuyo texto se puede descargar de 
+https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12. Para m ás informaci ón se 
+puede consultar la web https://joinup.ec.europa.eu/collection/eupl. 
+Esto quiere decir que el c ódigo fuente de la aplicaci ón se puede reutilizar para su 
+incorporación en el desarrollo de otros aplicativos, respetando los derechos de autor 
+de la Dirección General del Patrimonio del Estado. 
+En el fichero LICENSE se puede acceder al contenido de la licencia EUPL 1.2, que es la 
+utilizada para la distribuci ón de la aplicación.  En este fichero se enumeran también los 
+componentes externos que se distribuyen y que se han indicado en el apartado 7.3. 
+En relación a las licencias de los componetes externos que se distribuyen, puede 
+consultarlas en la carpeta licenses. 
+ 

@@ -1,0 +1,82 @@
+{
+  "case_id": "04_expediente_renamed",
+  "placsp_id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/15581446",
+  "tags": [
+    "identity_alias",
+    "lots"
+  ],
+  "fetch_historical_notices": true,
+  "placsp_observations": 2,
+  "gencat_rows": 2,
+  "evidence_references": [
+    {
+      "source": "placsp",
+      "file": "placsp-000.xml.fragment",
+      "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+      "member": "PlataformasAgregadasSinMenores_20250201_040016_2.atom",
+      "entry_ordinal": 180,
+      "byte_start_in_member": 2039386,
+      "byte_end_in_member": 2052348,
+      "fragment_sha256": "49e7097906200d6e86a4603f26b94f264ce68d4a623643ce192b7db1b0b2c5a5",
+      "note": "Exact byte slice, namespace bindings inherited from parent feed; original complete XML is in archive member."
+    },
+    {
+      "source": "placsp",
+      "file": "placsp-001.xml.fragment",
+      "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+      "member": "PlataformasAgregadasSinMenores_20250729_040054.atom",
+      "entry_ordinal": 139,
+      "byte_start_in_member": 1324938,
+      "byte_end_in_member": 1339863,
+      "fragment_sha256": "3ac438aabb7a6d41c74ed991f7ca26ef960277af79081537e140458d7b7d3d0a",
+      "note": "Exact byte slice, namespace bindings inherited from parent feed; original complete XML is in archive member."
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/000010000.json",
+      "row_ordinal": 5843,
+      "socrata_id": "row-yi5q~5imw~4wqh",
+      "id_intern": "d64c0289-9916-43f6-a457-b4d3f02a0add_0"
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/000010000.json",
+      "row_ordinal": 5842,
+      "socrata_id": "row-awbe~umyy~aw7j",
+      "id_intern": "d64c0289-9916-43f6-a457-b4d3f02a0add_1"
+    }
+  ],
+  "phase_json": {
+    "300234179": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300234179/Lh2sVfVyj4VDAghQjwtiEnpX_8EeyVvgARU_F_RLeWCSMjUnXVLpl5l01JhyA27UGNB6bEdzgXfNSYg6BK2_IDHAbstRMtzFHvyybh68EE3dCl2GiQV6Sfqrd0lx356v61mRIZGEIER8K3Suu5kXAKiNSN0u-NAUxKbTgxyFiYgF7KxUqpXsUs0gxs0B-DhKcLECoWu7LAxSezuBJjLbzEk_gcU5xOiTLW_ncSMhjF67Y0vPk0bQvU74wIp5NvcxrI6Dx51WvUP-fix90RmpYveG1P9yN3kPYuvkm0V8QfRCpQb3FTbe5Jhl9FGVQcaKB7vyDFS5ThGJoyeeic3Sug==",
+      "field": "url_json_licitacio",
+      "source_row_id": "row-awbe~umyy~aw7j",
+      "raw_path": "data/raw/gencat/phases/300234179.json"
+    },
+    "300302267": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300302267/boXQCi4HdcmcRh-usBK1-42azYWgBPk0LvHq9NfzAPBUIubw2edXLXhq79cTQYXI_u8GQE5WBftJIE7dhgJzpFiIDI_cAMyk8Zc3AtGxTfPxSS84yVRC7Zbb1A0XLDF1U-SrYzdPZM6RqldT9_kse7PfYDF0JTfj1AUiNpItrpvenDsRUL4Suie-CI1dEpZzgy1DqckCMUrqxfwj1u042jiTSh-8TyKPuqITEbaX1dQbq9c1nR95okDdnybMbxwkkWsMF5d9vD8fztyFWkYb5ic6We0qEW3TNBUsyANa9wK83UXdX-f17P7Uo5hWRhihWTFTW_evm-N9ehERQa2noA==",
+      "field": "url_json_avaluacio",
+      "source_row_id": "row-awbe~umyy~aw7j",
+      "raw_path": "data/raw/gencat/phases/300302267.json"
+    },
+    "300334146": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300334146/JxaovRDJUwVEUt5FOL4R14ORYRGUmWMU-2R8DF_B6w87vadIVmzxqfaHfg6U-UoOMB7Lo0stgBBp4NmxfhhpIb8rS4Lktqnwyg6UD6MUCQun1oXGOnzMqguPm7wuplYfCKBUK-QosJfF9aIJm3A59CVsIaskJy9x0_3vNYHpSyo14nSGXO8kgLjwV0JyfHGGDf1nqTMbNYykA6oq9jAyR0hURxUeSID6kWxYx4tCqEEx_GMkmxbQ75xPoOdKaZ1E5gUaaHAWXXXpBN3fKp1Z5WLPYGCDmH_IUCWep84j9wug42lysEkfLw4ID3mafVbQdPq5FuzSTI6f-IwtbqKCYA==",
+      "field": "url_json_adjudicacio",
+      "source_row_id": "row-awbe~umyy~aw7j",
+      "raw_path": "data/raw/gencat/phases/300334146.json"
+    },
+    "300525566": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300525566/LmVGOvJsNJqIhr9VucPgYkpKDPBKA1V-4_2wpiD2mctjZ4pCKXFr39_9cLqgmxfGq9lVdvzSMTHTcERRUtbLL-2QuR7u6SLY0otlmOvMW5_buaQxRscpv1WDaUs17XbkgGh3JX8Y0NCMw3gDbdgZPY_0R3ino9VpNhV0W8HOfFs0ca4W4gjSOozGZG0j09Jj7tXZtxTXsSKTbMh_ghYBypZ_yoNCT3UFuO85mi7ObC3BMhOCMk-nGhSaB8KqrebC_-z-IgukL5pUudGG0wE94beI-sIOaG5f2iiW2wyEGZ6o49G4RnJp5uMp_FyxmoJXdcquFUE5qotdhxLtqYFT6g==",
+      "field": "url_json_formalitzacio",
+      "source_row_id": "row-awbe~umyy~aw7j",
+      "raw_path": "data/raw/gencat/phases/300525566.json"
+    },
+    "300364611": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json/300364611",
+      "field": "historical_placsp_publication_link",
+      "source_placsp_updated": "2025-01-31T12:05:09.058+01:00",
+      "raw_path": "data/raw/gencat/phases/300364611.json"
+    }
+  },
+  "folder": "data/samples/04_expediente_renamed"
+}

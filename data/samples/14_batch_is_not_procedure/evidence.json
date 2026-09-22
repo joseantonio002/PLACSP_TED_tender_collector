@@ -1,0 +1,65 @@
+{
+  "case_id": "14_batch_is_not_procedure",
+  "gencat_uuid": "fff0ffe1-d07b-42af-ade9-dc8eb403a8b6",
+  "tags": [
+    "ambiguous_identity",
+    "aggregate_publication",
+    "different_contracts"
+  ],
+  "fetch_historical_notices": false,
+  "placsp_observations": 0,
+  "gencat_rows": 6,
+  "evidence_references": [
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/000590000.json",
+      "row_ordinal": 5420,
+      "socrata_id": "row-u5pt_diur_q5ga",
+      "id_intern": "fff0ffe1-d07b-42af-ade9-dc8eb403a8b6_306344580"
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/000590000.json",
+      "row_ordinal": 5421,
+      "socrata_id": "row-m6eh_f7bc_ckiw",
+      "id_intern": "fff0ffe1-d07b-42af-ade9-dc8eb403a8b6_306344581"
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/000590000.json",
+      "row_ordinal": 5422,
+      "socrata_id": "row-4w33~w2tt.ff7t",
+      "id_intern": "fff0ffe1-d07b-42af-ade9-dc8eb403a8b6_306344582"
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/000590000.json",
+      "row_ordinal": 5423,
+      "socrata_id": "row-7jki.284e_9gnp",
+      "id_intern": "fff0ffe1-d07b-42af-ade9-dc8eb403a8b6_306344583"
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/000590000.json",
+      "row_ordinal": 5424,
+      "socrata_id": "row-x2xp~9xbi_3pm4",
+      "id_intern": "fff0ffe1-d07b-42af-ade9-dc8eb403a8b6_306344584"
+    },
+    {
+      "source": "gencat",
+      "page": "data/raw/gencat/ybgg-dgi6/pages/000590000.json",
+      "row_ordinal": 5425,
+      "socrata_id": "row-px6u~wjm4~bgww",
+      "id_intern": "fff0ffe1-d07b-42af-ade9-dc8eb403a8b6_306344585"
+    }
+  ],
+  "phase_json": {
+    "300339416": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300339416/kc7tFep1YGC-Fn0S7F6IFXG8DrNbmX9QzNX61__hHHNEJ1RkxfdIaAc6txUkxCr1tp79FQ6GE7cJyulbs7vYbXH8udCFq_lBaZYVYANW03g3BhLp4nBW5aUgkDMQZvLPuat1oSFPEu5SFuz55M89oiZG_Cp0CgqtA50NORUsfxhL7Xe-s9NJ6SOpCJuCvAT1PxSVZq2hRXYNXwskPFTDm42Rx2IJh0KyJ2-yILBfsEb19NLuqgFL4sNZgpNxwQ3BYnWtR0CLpDMdvnlo8waRlAfaMv0M4-EhmCHOydLGU2bhWwpMK9GH0nmJlL4JF_FXQ-39waJMoEv1kk2AYGdDyw==",
+      "field": "url_json_agregada",
+      "source_row_id": "row-px6u~wjm4~bgww",
+      "raw_path": "data/raw/gencat/phases/300339416.json"
+    }
+  },
+  "folder": "data/samples/14_batch_is_not_procedure"
+}

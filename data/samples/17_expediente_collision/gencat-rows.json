@@ -1,0 +1,79 @@
+[
+  {
+    "codi_ambit": "1500002",
+    "nom_ambit": "Entitats de l'administració local",
+    "codi_organ": "100000012",
+    "nom_organ": "Entitat Municipal Descentralitzada d'Ars",
+    "codi_ine10": "7000990004",
+    "codi_expedient": "1/2025",
+    "tipus_contracte": "Obres",
+    "procediment": "Obert simplificat",
+    "fase_publicacio": "Anunci de licitació",
+    "denominacio": "ARRANJAMENT I MILLORA DE VIALS I SERVEIS AL NUCLI D'ARS",
+    "objecte_contracte": "Es pretén l'arranjament i millora de vials i serveis al nucli antic d'Ars.",
+    "valor_estimat_contracte": "105206.83",
+    "codi_nuts": "ES513",
+    "lloc_execucio": "Valls de Valira, les",
+    "durada_contracte": "01/05/2025 a 30/06/2025",
+    "termini_presentacio_ofertes": "2025-04-15T15:00:00.000",
+    "data_publicacio_anunci": "2025-03-25T14:40:00.000",
+    "codi_cpv": "45233252-0||38421100-3",
+    "enllac_publicacio": {
+      "url": "https://contractaciopublica.cat/ca/detall-publicacio/0f1a4e43-bbf7-480d-94eb-cb203d7141b6/300408447"
+    },
+    "es_agregada": "NO",
+    "tipus_tramitacio": "Ordinària",
+    "eina_presentacio_electronica": "Sobre digital",
+    "pressupost_licitacio_sense": "87672.36",
+    "pressupost_licitacio_sense_1": "87672.36",
+    "pressupost_licitacio_amb": "106083.55",
+    "pressupost_licitacio_amb_1": "106083.55",
+    "valor_estimat_expedient": "105206.83",
+    "url_json_licitacio": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300408447/L6Yv15kYrPrL6U48nBsQaBwHWgOrRo7YBPpYXxBJbjfnqhcVBffiwRKgsP-JEsjj9Jynn9Dn0O74-V1l3boUr5ntG4jr9XWcedGvswL1bHWrwjvvBJl1tkN1Jz98ImeK03eSZRSXkQ03L8P0UYlcWMLRhGY_WU3oh_GsqUVOAsFurxDJYG83gGpGDGFdrqFJdSF06PzVsUTnI9giZWWiM6Yam0a7K3AUA8UBCTrORdZbMZCvlCB1cL0weZswakkbke2O3EWeQf-fS_4XjssFxl6orziJse-a3gW1xM0qsSOs1xrzH-l7lBsvu8JvhyUxCAsZC39O154BtYjNd8ViGg=="
+    },
+    "id_intern": "0f1a4e43-bbf7-480d-94eb-cb203d7141b6",
+    ":id": "row-u3ix_kxak_3w3n",
+    ":created_at": "2026-07-13T13:26:08.273Z",
+    ":updated_at": "2026-07-13T13:26:08.273Z"
+  },
+  {
+    "codi_ambit": "1500005",
+    "nom_ambit": "Altres ens",
+    "codi_departament_ens": "202252",
+    "nom_departament_ens": "Departament de Salut",
+    "codi_organ": "100000081",
+    "nom_organ": "INTERHOSPITALIA 2 A.I.E.",
+    "codi_unitat": "100000100",
+    "nom_unitat": "INTERHOSPITALIA 2 A.I.E.",
+    "codi_expedient": "1/2025",
+    "tipus_contracte": "Serveis",
+    "procediment": "Obert simplificat",
+    "fase_publicacio": "Anunci previ",
+    "denominacio": "Servei de recollida i tractament dels residus de les instal·lacions de la bugaderia d’Interhospitalia2, A.I.E.",
+    "objecte_contracte": "Servei de recollida i tractament dels residus de les instal·lacions de la bugaderia d’Interhospitalia2, A.I.E.",
+    "valor_estimat_contracte": "110016.00",
+    "codi_nuts": "ES511",
+    "lloc_execucio": "Terrassa",
+    "durada_contracte": "3 anys",
+    "data_publicacio_previ": "2025-01-14T12:20:00.000",
+    "codi_cpv": "90511300-5||90511400-6",
+    "enllac_publicacio": {
+      "url": "https://contractaciopublica.cat/ca/detall-publicacio/bb2996bd-86e9-4923-ae70-c2c97566d27a/300350467"
+    },
+    "es_agregada": "NO",
+    "tipus_tramitacio": "Ordinària",
+    "pressupost_licitacio_sense": "68760.00",
+    "pressupost_licitacio_sense_1": "68760.00",
+    "pressupost_licitacio_amb": "75636.00",
+    "pressupost_licitacio_amb_1": "75636.00",
+    "valor_estimat_expedient": "110016.00",
+    "url_json_previ": {
+      "url": "https://contractaciopublica.cat/portal-api/documents-publicacio/json-xifrat/300350467/pJQk8b5NAxPfY9DF3bqWFNLXHfbAsKVkh58JmmsIOI-vS7euAvI5apEQ4W8tcwad1rq7z-wphlH47poGWvn4Ljzz7Cv8I2JGut6mg5qm5JI-YzWBRKseEca3zYtO1Lq6XNuEmIszekF_UyHfgxHZOOPRnw1uUJIL1xXPmgDgyFdmVQoS6Qw-c0bEfA7dqeNOJ7FBXnaZ6kRGbZS-KfUVFNTEJJDZrAilYdN2oJXNxjAX6LWvFNUNJzU9MwAuXd29hW4qiLYzU45lPFqanhtD2gLvQpROdjPPeLg_1h29KGwH4aDljKvX9rZalY-ldMpXqkp20AzI5E4fS3-oe370nw=="
+    },
+    "id_intern": "bb2996bd-86e9-4923-ae70-c2c97566d27a",
+    ":id": "row-ei55_f9dd~847p",
+    ":created_at": "2026-07-13T13:26:08.273Z",
+    ":updated_at": "2026-07-13T13:26:08.273Z"
+  }
+]

@@ -1,0 +1,244 @@
+[
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16638290",
+    "updated": "2025-02-07T14:00:46.223+01:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/00c79486-0c0d-41f8-8ed6-2097f449a999/300370321",
+    "uuid": "00c79486-0c0d-41f8-8ed6-2097f449a999",
+    "publication_id": "300370321",
+    "expediente": "SCS-2025-122",
+    "title": "Contractació d'emergència dels serveis de rehabilitació física i de logopèdia en la modalitat ambulatòria i domiciliaria a l'àmbit de l'Anoia.",
+    "status": "ADJ",
+    "buyer_name": "Servei Català de la Salut (CatSalut)",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "204113"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "465995.24",
+    "budget_gross": null,
+    "estimated_value": "465995.24",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "85312500"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": null,
+    "deadline_time": null,
+    "procedure_type": "999",
+    "lots": [],
+    "awards": [
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": null,
+        "amount": "465995.24",
+        "supplier_ids": [
+          "U65918468"
+        ],
+        "supplier_names": [
+          "UTE Fundació Sanitària Sant Josep i Fisioteràpia, SA,"
+        ],
+        "contract_dates": []
+      }
+    ],
+    "notices": [
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-02-07"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250208_040115_3.atom",
+    "ordinal": 42
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16638580",
+    "updated": "2025-02-07T14:00:46.223+01:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/00c79486-0c0d-41f8-8ed6-2097f449a999/300370321",
+    "uuid": "00c79486-0c0d-41f8-8ed6-2097f449a999",
+    "publication_id": "300370321",
+    "expediente": "SCS-2025-122",
+    "title": "Contractació d'emergència dels serveis de rehabilitació física i de logopèdia en la modalitat ambulatòria i domiciliaria a l'àmbit de l'Anoia.",
+    "status": "ADJ",
+    "buyer_name": "Servei Català de la Salut (CatSalut)",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "204113"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "465995.24",
+    "budget_gross": null,
+    "estimated_value": "465995.24",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "85312500"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": null,
+    "deadline_time": null,
+    "procedure_type": "999",
+    "lots": [],
+    "awards": [
+      {
+        "result": "8",
+        "award_date": null,
+        "lot": null,
+        "amount": "465995.24",
+        "supplier_ids": [
+          "U65918468"
+        ],
+        "supplier_names": [
+          "UTE Fundació Sanitària Sant Josep i Fisioteràpia, SA,"
+        ],
+        "contract_dates": []
+      }
+    ],
+    "notices": [
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-02-07"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250208_040752_3.atom",
+    "ordinal": 109
+  },
+  {
+    "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/16638580",
+    "updated": "2025-02-10T14:02:44.175+01:00",
+    "url": "https://contractaciopublica.cat/ca/detall-publicacio/00c79486-0c0d-41f8-8ed6-2097f449a999/300371580",
+    "uuid": "00c79486-0c0d-41f8-8ed6-2097f449a999",
+    "publication_id": "300371580",
+    "expediente": "SCS-2025-122",
+    "title": "Contractació d'emergència dels serveis de rehabilitació física i de logopèdia en la modalitat ambulatòria i domiciliaria a l'àmbit de l'Anoia.",
+    "status": "RES",
+    "buyer_name": "Servei Català de la Salut (CatSalut)",
+    "buyer_ids": [
+      [
+        "ID_OC_PLAT",
+        "204113"
+      ]
+    ],
+    "buyer_postal": null,
+    "agent": "62",
+    "agent_name": "Generalitat de Catalunya",
+    "budget": "465995.24",
+    "budget_gross": null,
+    "estimated_value": "465995.24",
+    "currency": [
+      "EUR",
+      "EUR"
+    ],
+    "cpv": [
+      "85312500"
+    ],
+    "execution_nuts": [
+      "ES51"
+    ],
+    "execution_names": [],
+    "deadline_date": null,
+    "deadline_time": null,
+    "procedure_type": "999",
+    "lots": [],
+    "awards": [
+      {
+        "result": "9",
+        "award_date": null,
+        "lot": null,
+        "amount": "465995.24",
+        "supplier_ids": [
+          "U65918468"
+        ],
+        "supplier_names": [
+          "UTE Fundació Sanitària Sant Josep i Fisioteràpia, SA,"
+        ],
+        "contract_dates": [
+          "2024-12-13"
+        ]
+      }
+    ],
+    "notices": [
+      {
+        "type": "DOC_CAN_ADJ",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-02-07"
+        ],
+        "ids": [],
+        "urls": []
+      },
+      {
+        "type": "DOC_FORM",
+        "notice_issue": null,
+        "media": [
+          "Perfil del contratante"
+        ],
+        "dates": [
+          "2025-02-10"
+        ],
+        "ids": [],
+        "urls": []
+      }
+    ],
+    "documents": [],
+    "geography_reasons": [
+      "origin_platform_62",
+      "pscp_url",
+      "execution_nuts_ES51"
+    ],
+    "archive": "data/raw/placsp/aggregated/PlataformasAgregadasSinMenores_2025.zip",
+    "member": "PlataformasAgregadasSinMenores_20250211_040020_3.atom",
+    "ordinal": 53
+  }
+]
