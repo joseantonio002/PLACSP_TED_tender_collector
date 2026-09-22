@@ -8,3 +8,4 @@ data/processed/
 *.egg-info/
 build/
 dist/
+LOG.md
