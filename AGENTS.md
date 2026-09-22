@@ -1,11 +1,46 @@
-# Procurement research environment
+# Development instructions
 
-Use `.venv/bin/python`; do not install Python packages globally. Research dependencies are pinned in `requirements-research.txt`; requests was already installed, and pypdf 6.17.0 was added for local official-PDF text extraction.
+Use `.venv/bin/python`; never install Python packages globally. Research dependencies are pinned in `requirements-research.txt`.
 
-Raw acquisitions are immutable under `data/raw/`, with an append-only `data/raw/download_manifest.jsonl`. Never replace a successful raw acquisition to refresh a source: use a new filename/run directory. The downloader resumes at validated-file/page boundaries, not HTTP byte boundaries. Current-year PLACSP archives and Socrata tables are mutable upstream.
+Develop incrementally. For each requested change:
 
-Research entry points are `scripts/download.py`, `scripts/extract_documentation.py`, `scripts/inspect_placsp.py`, `scripts/inspect_gencat.py`, and `scripts/compare_sources.py`. Run from repository root. SQLite files under `data/processed/` are analysis indexes, not production schemas. PLACSP dates are filtered using entry/updated; Generalitat main rows are selected by any data_publicacio* date; execution actions have a different date definition. Do not conflate these cohorts.
+1. Inspect the relevant existing code and documentation first.
+2. Make the smallest change required for the current task.
+3. Do not implement unrelated future functionality.
+4. Add or update tests for introduced behavior.
+5. Run the relevant tests after changes and do not finish with failing tests.
+6. Prefer simple, typed, readable Python over premature abstractions.
 
-Preserve existing exploratory root scripts and user files. The investigation does not use subagents or create production infrastructure.
+Tests should be deterministic and should not depend on live external services unless explicitly marked as live tests. Prefer representative real source data stored as local fixtures.
 
-Verification: `.venv/bin/python -m unittest discover -s scripts -p 'test_*.py' -v`, `.venv/bin/python -m compileall -q scripts`, `.venv/bin/python scripts/verify_artifacts.py`, `.venv/bin/python scripts/verify_parsers.py`, and `.venv/bin/python scripts/verify_report.py`. `REPORT.md` has the complete reproduction sequence and limitations. Validated downloads resume without network refresh. Rich PSCP exports may be legacy XML even through a `/json/` endpoint; do not rely on URL names for content type. `es_agregada=SI` (accented in source as SÍ) UUIDs identify publication batches, not individual procurement procedures.
+Raw acquisitions under `data/raw/` are immutable. `data/raw/download_manifest.jsonl` is append-only. Never overwrite a successful acquisition to refresh a source; create a new acquisition instead.
+
+Existing research entry points include:
+
+* `scripts/download.py`
+* `scripts/extract_documentation.py`
+* `scripts/inspect_placsp.py`
+* `scripts/inspect_gencat.py`
+* `scripts/compare_sources.py`
+
+Run scripts from the repository root. SQLite files under `data/processed/` are analysis indexes, not production schemas. Preserve existing exploratory scripts and user files unless explicitly asked to remove them.
+
+Important research findings already established:
+
+* PLACSP research dates are filtered using entry `updated`.
+* Generalitat main rows use `data_publicacio*` dates; execution actions use different date semantics. Do not conflate these cohorts.
+* Current-year PLACSP archives and Socrata tables may change upstream.
+* PSCP exports may contain legacy XML even through `/json/` endpoints; inspect actual content rather than trusting URL names.
+* `es_agregada=SI` UUIDs identify publication batches, not individual procurement procedures.
+
+Current research verification commands:
+
+```bash
+.venv/bin/python -m unittest discover -s scripts -p 'test_*.py' -v
+.venv/bin/python -m compileall -q scripts
+.venv/bin/python scripts/verify_artifacts.py
+.venv/bin/python scripts/verify_parsers.py
+.venv/bin/python scripts/verify_report.py
+```
+
+`REPORT.md` contains the full research reproduction sequence, findings, and limitations.
