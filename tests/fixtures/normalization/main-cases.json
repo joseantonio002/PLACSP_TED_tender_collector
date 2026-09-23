@@ -1,0 +1,67 @@
+{
+  "C05-G1": {
+    "origin": "data/samples/05_thirteen_lots/gencat-rows.json",
+    "selection": "row-iw6d.k33d-dch8",
+    "reduction": "Selected complete scalar identity, scope, monetary, result and temporal fields; omitted administrative metadata and export URL objects. Not original page bytes.",
+    "row": {
+      "codi_organ": "203633", "nom_organ": "Infraestructures de la Generalitat de Catalunya, SAU", "codi_dir3": "A09006507",
+      "codi_expedient": "ME. MEC-25L02", "tipus_contracte": "Serveis", "procediment": "Obert", "fase_publicacio": "Formalització",
+      "denominacio": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+      "objecte_contracte": "Contracte de serveis de conservació i manteniment i gestió energètica i millora ambiental de diversos equipaments d’ús públic adscrits al Departament de Justícia i Qualitat Democràtica. Clau: ME. MEC-25L02",
+      "valor_estimat_contracte": "4500965.74", "codi_nuts": "ES51", "lloc_execucio": "Catalunya", "durada_contracte": "24/11/2025 a 30/06/2028",
+      "termini_presentacio_ofertes": "2025-05-07T13:00:00.000", "data_publicacio_anunci": "2025-05-15T10:56:00.000", "data_publicacio_adjudicacio": "2026-03-24T15:48:00.000", "data_publicacio_formalitzacio": "2026-05-11T04:16:00.000",
+      "numero_lot": "1", "descripcio_lot": "Edificis judicials Barcelona", "codi_cpv": "50700000-2", "tipus_identificacio": "542", "identificacio_adjudicatari": "B60650801", "denominacio_adjudicatari": "GESTIÓN INTEGRAL DE INSTALACIONES S.L",
+      "import_adjudicacio_sense": "2011802.23", "import_adjudicacio_amb_iva": "2434280.70", "ofertes_rebudes": "18", "resultat": "Formalització",
+      "enllac_publicacio": {"url": "https://contractaciopublica.cat/ca/detall-publicacio/f98c30c1-1327-4dfc-b38a-5b707e9adf41/300768299"}, "es_agregada": "NO",
+      "data_adjudicacio_contracte": "2025-10-15T17:00:00.000", "data_formalitzacio_contracte": "2025-11-24T00:00:00.000", "tipus_tramitacio": "Ordinària",
+      "pressupost_licitacio_sense": "2292542.12", "pressupost_licitacio_sense_1": "41129079.80", "pressupost_licitacio_amb": "2773975.96", "pressupost_licitacio_amb_1": "49766186.56", "valor_estimat_expedient": "83579468.07", "data_publicacio_avaluacio": "2025-09-10T12:30:00.000",
+      "id_intern": "f98c30c1-1327-4dfc-b38a-5b707e9adf41_0", ":id": "row-iw6d.k33d-dch8", ":created_at": "2026-07-13T13:26:08.273Z", ":updated_at": "2026-07-13T13:26:08.273Z"
+    }
+  },
+  "C14-G0": {
+    "origin": "data/samples/14_batch_is_not_procedure/gencat-rows.json",
+    "selection": "row-u5pt_diur_q5ga",
+    "reduction": "Omitted organizational hierarchy, participation counters and tokenized export URL; retained member/batch identity, all reported money and relevant clocks.",
+    "row": {
+      "codi_organ": "2988807", "nom_organ": "Xarxa Local de Municipis Gironins (XALOC)", "codi_dir3": "A9999999", "codi_expedient": "2023/585", "tipus_contracte": "Serveis", "fase_publicacio": "Publicació agregada de contractes",
+      "denominacio": "Aprovació de la pròrroga del contracte de la pòlissa d'assegurança de vida per al personal de XALOC corresponent a l'exercici 2025.",
+      "objecte_contracte": "Aprovació de la pròrroga del contracte de la pòlissa d'assegurança de vida per al personal de XALOC corresponent a l'exercici 2025.",
+      "valor_estimat_contracte": "132628.56", "lloc_execucio": "Girona", "durada_contracte": "01/01/2025 a 31/12/2025", "codi_cpv": "66511000-5", "identificacio_adjudicatari": "A28119220", "denominacio_adjudicatari": "Seguros Catalana Occidente SA", "import_adjudicacio_sense": "28957.25", "import_adjudicacio_amb_iva": "28957.25",
+      "enllac_publicacio": {"url": "https://contractaciopublica.cat/ca/detall-publicacio/fff0ffe1-d07b-42af-ade9-dc8eb403a8b6/300339416"}, "es_agregada": "SÍ", "data_adjudicacio_contracte": "2024-11-29T00:00:00.000", "racionalitzacio_contractacio": "Contracte basat en acord marc", "pressupost_licitacio_sense": "28957.25", "data_publicacio_contracte": "2025-01-01T09:00:00.000",
+      "id_intern": "fff0ffe1-d07b-42af-ade9-dc8eb403a8b6_306344580", ":id": "row-u5pt_diur_q5ga", ":created_at": "2026-07-13T13:26:08.273Z", ":updated_at": "2026-07-13T13:26:08.273Z"
+    }
+  },
+  "C20-G1": {
+    "origin": "data/samples/20_multiple_winners_empty_amounts/gencat-rows.json",
+    "selection": "row-bqev_mmy2.eedc",
+    "reduction": "Omitted hierarchy, financing, submission-tool metadata and tokenized export URLs. All supplier vectors, empty amount tokens, scope and date fields below are unchanged.",
+    "row": {
+      "codi_organ": "30877783", "nom_organ": "Aigües de Manresa, SA", "codi_dir3": "A99999999", "codi_expedient": "9884AM", "tipus_contracte": "Subministraments", "procediment": "Obert", "fase_publicacio": "Formalització",
+      "denominacio": "Acord Marc pel subministrament de comptadors d'aigua freda de consum humà, aigua residuals i/o fangs, per Aigües de Manresa, SA", "objecte_contracte": "Subministrament de comptadors d'aigua freda de consum humà, aigua residuals i/o fangs, per Aigües de Manresa, SA, dividir en lots.",
+      "codi_nuts": "ES51", "lloc_execucio": "Catalunya", "durada_contracte": "17/03/2023 a 16/03/2024", "termini_presentacio_ofertes": "2022-11-14T15:00:00.000", "data_publicacio_anunci": "2022-10-21T15:00:00.000", "data_publicacio_adjudicacio": "2023-01-23T12:00:00.000", "data_publicacio_formalitzacio": "2025-12-10T13:50:00.000",
+      "numero_lot": "1", "descripcio_lot": "COMPTADORS MECÀNICS AMB LECTURA PLANA", "codi_cpv": "38421100-3", "tipus_identificacio": "542||542", "identificacio_adjudicatari": "B41956970||A08338683", "denominacio_adjudicatari": "CONTHIDRA, SL||SENSUS ESPAÑA, SAU", "import_adjudicacio_sense": "||", "import_adjudicacio_amb_iva": "||", "ofertes_rebudes": "3", "resultat": "Formalització",
+      "enllac_publicacio": {"url": "https://contractaciopublica.cat/ca/detall-publicacio/0cad6ef8-d560-937e-0dc0-bdf44338687e/300641893"}, "es_agregada": "NO", "data_adjudicacio_contracte": "2023-01-20T00:00:00.000", "data_formalitzacio_contracte": "2023-03-16T00:00:00.000", "tipus_tramitacio": "Ordinària", "racionalitzacio_contractacio": "Acord Marc", "pressupost_licitacio_sense_1": "211249.74", "valor_estimat_expedient": "422499.47", "tipus_empresa": "PIME||PIME",
+      "id_intern": "0cad6ef8-d560-937e-0dc0-bdf44338687e_1", ":id": "row-bqev_mmy2.eedc", ":created_at": "2026-07-13T13:26:08.273Z", ":updated_at": "2026-07-13T13:26:08.273Z"
+    }
+  },
+  "C09-G": {
+    "origin": "data/samples/09_withdrawal_retains_award/gencat-rows.json", "selection": "row-r3sv~uwv9~sc39",
+    "reduction": "Omitted hierarchy, electronic submission metadata and tokenized export URLs; retained historical award, negative result, phase and independent dates.",
+    "row": {
+      "codi_organ": "30109100", "nom_organ": "Ferrocarril Metropolità de Barcelona, SA", "codi_dir3": "A9999999", "codi_expedient": "13794496", "tipus_contracte": "Subministraments", "procediment": "Obert", "fase_publicacio": "Anul·lació",
+      "denominacio": "Subministrament 43680 paquets de tovalloletes eixugamans 31x23cm reciclades Codi TMB 5456", "objecte_contracte": "Subministrament 43680 paquets de tovalloletes eixugamans 31x23cm reciclades Codi TMB 5456", "valor_estimat_contracte": "91728.00", "termini_presentacio_ofertes": "2022-06-17T09:00:00.000", "data_publicacio_anunci": "2022-06-01T15:00:00.000", "data_publicacio_adjudicacio": "2023-08-02T08:39:00.000", "data_publicacio_anul": "2026-02-13T14:04:00.000",
+      "tipus_identificacio": "542", "identificacio_adjudicatari": "A58846064", "denominacio_adjudicatari": "Distribuidora Joan, S.A", "import_adjudicacio_sense": "83996.64", "import_adjudicacio_amb_iva": "101635.93", "resultat": "Renúncia", "enllac_publicacio": {"url": "https://contractaciopublica.cat/ca/detall-publicacio/ff3d3f75-b452-4e97-471f-854e61e9fd07/300694438"}, "es_agregada": "NO", "data_adjudicacio_contracte": "2022-07-11T00:00:00.000", "tipus_tramitacio": "Ordinària", "pressupost_licitacio_sense": "91728.00", "pressupost_licitacio_sense_1": "91728.00", "valor_estimat_expedient": "91728.00",
+      "id_intern": "ff3d3f75-b452-4e97-471f-854e61e9fd07", ":id": "row-r3sv~uwv9~sc39", ":created_at": "2026-07-13T13:26:08.273Z", ":updated_at": "2026-07-13T13:26:08.273Z"
+    }
+  },
+  "C16-parent": {
+    "origin": "data/samples/16_parent_and_lots_different_phases/gencat-rows.json", "selection": "row-qb3i_5px5-saz3",
+    "reduction": "Omitted hierarchy, submission metadata and export URL; preserved absence of codi_expedient and lot fields.",
+    "row": {
+      "codi_organ": "14301168", "nom_organ": "Diputació de Girona", "codi_dir3": "L02000017", "tipus_contracte": "Subministraments", "procediment": "Obert simplificat abreujat", "fase_publicacio": "Alerta futura",
+      "denominacio": "2026/7731 Contracte del subministrament d’ordinadors portàtils, dockstations, motxilles, ratolins, teclats, auriculars i pantalles per a la Diputació de Girona",
+      "objecte_contracte": "L’objecte del contracte és l’adquisició, per part de la Diputació de Girona, d’ordinadors portàtils i dockstation, maletes d’esquena (motxilles) per a ordinadors portàtils, ratolins i teclats, auriculars i pantalles.",
+      "data_publicacio_futura": "2026-07-14T13:50:00.000", "enllac_publicacio": {"url": "https://contractaciopublica.cat/ca/detall-publicacio/0a859be5-1ee8-4c70-97f5-5ac6b6677700/300831068"}, "es_agregada": "NO", "tipus_tramitacio": "Ordinària", "id_intern": "0a859be5-1ee8-4c70-97f5-5ac6b6677700", ":id": "row-qb3i_5px5-saz3", ":created_at": "2026-07-15T08:00:33.555Z", ":updated_at": "2026-07-15T08:00:33.555Z"
+    }
+  }
+}

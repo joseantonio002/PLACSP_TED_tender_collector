@@ -724,3 +724,107 @@ For G15, the initial matrix already covers repeated media and parties synthetica
 - Synthetic cases change one relevant property of a known fixture and identify their origin; immutable raw acquisitions remain untouched.
 - Shared invariants verify source isolation, no entity resolution, exact values, scope, grouping, local references and no fabricated completeness.
 - Default pytest requires neither live services nor bulk research data. No tests/mappers/schemas/fixtures are implemented by this document.
+
+## 14. Executable test contract (test-first update)
+
+**Implementation update, 23 September 2026:** the historical repository-state descriptions above predate the raw-reader implementation. `RawSourceRecord` and retained-data readers now exist. The executable tests are under `tests/normalization/`; normalization functions and the production `NormalizedObservation` model still do **not** exist. This section records the contract selected for the next implementation, not a claim that normalization has passed.
+
+The user explicitly selected **expected failures while the API is absent**, rather than leaving the repository's default suite red. The collection hook only marks tests that request the normalization API fixture, only when `tenderwatch.normalization` is absent, and only for a dedicated `MissingNormalizationImplementation` exception (`strict=True`). Once a module exists, missing exports, internal import failures, assertion failures, and mapper errors fail normally. There are no fake normalizers, unconditional xfails, or replacement observation models. Executable fixture and harness checks run even before the API exists.
+
+### 14.1 Public API selected by the tests
+
+The future module `tenderwatch.normalization` is expected to export:
+
+```text
+normalize(raw: RawSourceRecord, *, resolve, projection: str | None = None)
+    -> tuple[NormalizedObservation, ...]
+
+validate_observation(observation: NormalizedObservation) -> None
+
+NormalizedObservation
+SCHEMA_VERSION
+MAPPING_VERSION
+NormalizationError
+InvalidNormalizationInput
+UnsupportedNormalizationInput
+NormalizationInvariantError
+```
+
+`resolve` is a small callable taking the raw `ContentReference` and returning the selected JSON object or XML element. For local artifacts, callers can supply `functools.partial(tenderwatch.sources.artifacts.load_record, root)`. It is an explicit raw-access boundary, not a service container or acquisition interface. Tests exercise the real readers, `to_raw`, and resolver; doubles are confined to resolver failures and test-harness checks. The normalizer must not resolve another occurrence, fetch links, open research indexes, or look up companion rows/bodies. Both raw artifact/envelope and resolver-returned parsed views must remain unchanged, including when normalization raises.
+
+The public dispatcher keeps callers independent of internal adapter names. The three core routes are PLACSP Atom entries, Generalitat `ybgg-dgi6` main rows, and Generalitat `8idu-wkjv` execution rows. Modern rich bodies need a separate adapter; tombstones and unsupported legacy bodies have explicit dispatch contracts. Internal function/module organization is not dictated by the tests.
+
+- Ordinary selected records return a one-element tuple; tombstones return `()`.
+- `projection=None` automatically selects an ordinary root or enumerates all explicit rich batch members in source order.
+- The observation's root marker is `$`. Batch projections use exact `/publicacio/dadesPublicacio/contractesAgregada/{index}` pointers. Arbitrary body subtrees and noncanonical/negative/out-of-range array indices are not subject selectors.
+- Whole-batch enumeration is atomic on a fatal member-shape/selection failure. Explicit selection of a valid sibling remains supported. A recoverable bad monetary token does not abort batch enumeration.
+- Empty main/execution objects have no defensible procurement subject and raise `UnsupportedNormalizationInput(reason='unprojectable_subject')`; this does not make ordinary missing optional fields fatal.
+- Observation models are frozen dataclasses with the fields in N §16 and immutable tuple collections. Decimal, `datetime.date`, `datetime.time`, UTC-aware `datetime.datetime`, and `datetime.timedelta` represent the corresponding typed values. No binary-float money, mutable nested payloads, or canonical/query fields.
+- Schema/mapping versions are nonempty module constants, independent of source `versio`. Observation IDs are deterministic for the same raw/projection/version and distinguish different raw occurrences even when source ID and source clock are equal. The digest algorithm and opaque local-key spelling are deliberately not pinned. Identifier namespaces remain source/context qualified; a record-local qualifier can include the full raw-record ID. Semantic mutation comparisons replace that literal qualifier with a placeholder, without changing source identifier values.
+- `validate_observation` owns generated-output invariant checks. Its defect exception is separate from expected normalization failures. Ordinary upstream field errors remain Issues, not validator failures.
+
+### 14.2 Paths, diagnostics, and conservative mapping decisions
+
+| Decision | Executable expectation |
+|---|---|
+| JSON source paths | RFC 6901 pointers relative to the selected row or complete rich body. `$` denotes the selected raw root, not a whole acquired table page. |
+| XML source paths | ElementTree-compatible paths relative to the entry, e.g. `./{URI}ContractFolderStatus/{URI}ProcurementProject/...`; repeated occurrences use one-based `[n]`. Namespace URIs, not prefixes, identify elements. |
+| Composite paths | `paths:` followed by a JSON array of source paths, preserving field order. |
+| Supplier token paths | Append `#token={zero_based_index}` to an original vector-field pointer. Scalar fields use their ordinary pointer; explicit `\|\|` vectors retain empty positions. |
+| Issue paths | `raw:` plus the affected path/token/composite locator. Assertions pin codes and paths, not human message prose. Tokenized export URLs must not be copied into diagnostic details. |
+| Baselines | Happy fixtures may contain the documented scope/time/placeholder/unmapped diagnostics. Tests assert required diagnostics and forbidden ones where specified, not globally empty issues. One-property recovery tests compare unaffected fields with the independently normalized base and require the new field-specific diagnostic. Exhaustive full-observation issue goldens remain deferred; no mapper output has been auto-blessed as an oracle. |
+| Missing/empty/null money | Missing means no Money. Empty string or explicit JSON null means `explicit_empty`; raw null token is the string `null`, not Python `None`. Valid zero stays Decimal zero. Nonfinite strings are invalid Money, not valid numeric values. |
+| Estimate tax basis | Generalitat metadata explicitly defines both `valor_estimat_*` columns as excluding IVA; procedure versus lot/member scope remains separate. PLACSP's retained syndication §4.4 defines EstimatedOverallContractAmount by Directive 2004/18/EC Article 9, whose net-of-VAT definition supports excluded tax basis. No VAT rate is calculated from amounts. |
+| Floating times | Preserve local components, no UTC instant, no inferred Madrid zone. C05's nonmidnight award time is retained with uncertainty. No universal observed-minute rule is imposed from C13. |
+| Rich calendar serialization | The J19 action-date test deliberately adopts the conservative **raw-only unresolved business day** policy: original serialized value retained, no local business day or legal UTC instant asserted, `ambiguous_time`. A future reviewed calendar-zone rule requires an explicit contract/version update, not accepting either answer silently. Publication and submission timestamps with explicit offsets remain instants. |
+| Scope | Main-row lot columns without lot evidence stay `record_subject` with `uncertain_scope`; explicit procedure columns remain procedure-scoped. No-lots rich header/container money is retained as separate source-located assertions, never summed. Missing multi-lot result references use unknown scope; ambiguous/unembedded explicit lot references remain source-only. |
+| Vocabulary coverage | Pin the researched PLACSP lifecycle and reviewed result subset (including TenderResultCode-2.09 `5`/`9`) and documented Generalitat labels. Unknown source values/list versions remain unmapped. Complete numeric contract/method/action dictionaries are not implied by this suite. |
+| Supplier schemes/placeholders | Missing scheme does not become NIF from spelling. Unknown supplied scheme produces an unmapped-code diagnostic. Both observed DIR3 sentinel spellings are placeholders. Misaligned amount vectors retain all positions with unresolved, party-free amount allocations; an independently compatible vector survives. |
+| Phase association | All ten date fields are tested. Bind only to the named same-phase export; missing export does not cause fallback to the main page URL. Date-only and export-only references remain meaningful. |
+| Documents | Preserve actual URLs or opaque paths as supplied, with unknown hash algorithm unless explicit. Rich `mida` remains raw and `reported_size_bytes=None` pending a reviewed unit rule. No size-based golden or negative-size mapping test claims that unresolved unit gate is closed. |
+| Legacy | First-increment capability is explicitly unsupported: valid legacy XML raises `UnsupportedNormalizationInput(reason='unsupported_structure_or_format')`, not a JSON syntax error. Positive legacy financial/lot/calendar tests remain gated on the focused field review in G12. |
+| Optional action shape | No typed-container fallback is adopted for a structurally unusable J19 action type: omit that action with `unsupported_structure`, preserving its valid sibling and independent award/tender facts. |
+
+The estimate definition used above is available in the retained `data/analysis/documentation/syndication-current.txt` (§4.4) and [Directive 2004/18/EC, Article 9(1)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32004L0018). Tests make no live request for these definitions.
+
+### 14.3 Executable coverage and fixture provenance
+
+| Test file | Coverage |
+|---|---|
+| `test_core.py` | P/G-O/G-L/G-B/E envelopes and happy projections; typed money/scopes, phase versus lifecycle, clocks, lots, supplier tokens, absence and determinism. |
+| `test_publications.py` | Modern ordinary, six-member batch, execution and six-lot bodies; corrections, no-lots containers, source document metadata, sibling isolation, conflicts and optional-subtree recovery. |
+| `test_regressions.py` | Independent C01–C20 regression projections in conjunction with core/publication tests: evolving assertions, renamed numbers, many lots, annulment, negative results/retained awards, multiple IDs/buyers, partial inventories, precision/notice targets, collisions and explicit zeros. Includes reviewed native evidence. |
+| `test_recovery.py` | Bad/empty/null/zero/nonfinite/exact decimals, unknown codes/schemes/currency, invalid/floating times, supplier alignment, conflicting booleans, invalid URLs/CPVs, partial deadlines, taxonomy and optional absence. |
+| `test_publication_dates.py` | All ten named phase-date families, nine same-phase export pairings, and independent missing date/export cases. Unrepresented phase combinations are explicitly synthetic. |
+| `test_failures.py` | Reachable locator/integrity/decoder integration failures, missing P root, batch selection/atomicity, missing provenance, legacy capability, invariant validation and visible system/program errors; tombstone dispatch. |
+| `test_additional_invariants.py` | Namespace URI/prefix distinction, repeated media dates, duration units, multiple VAT, exact identifier spelling, projection guards, guarded URL identity extraction, same-ID/same-clock raw isolation. |
+| `test_fixtures.py`, `test_harness.py` | Active checks of every committed fixture, exact fragment hashes, decimal-safe one-property mutations, source-path helpers, optional original-evidence audit, and narrow xfail behavior. |
+
+`support.py` is test-only: it creates actual raw records through the existing readers, makes independent temporary mutation artifacts, checks shared output invariants, and compares semantics while treating local keys as opaque. It contains no normalization implementation or expected-output generator based on research mappers. Catalog-to-XML packing only reconstructs the explicitly reviewed input paths/attributes; its output is audited against original XML, never used to calculate normalized expectations.
+
+Small source-derived fixtures are under `tests/fixtures/normalization/`, with existing raw-layer fixtures reused where suitable:
+
+- **Exact P entries:** `C01-P000.xml.fragment` and `C07-P001.xml.fragment`, copied unchanged with SHA-256 checks. C01 originates in aggregated 2026 member `PlataformasAgregadasSinMenores_20260812_030033.atom`, ordinal 451, bytes `[5324381,5332091)`. C07 originates in `PlataformasAgregadasSinMenores_20260224_040120.atom`, ordinal 453, bytes `[4896231,4906084)`. The fixture packer adds the retained Atom namespace wrapper; it does not claim the wrapper is an original feed page.
+- **Other P regressions:** `placsp-regressions.json` records each original fragment path and retained raw field paths, values, lot order and result order. The generated XML is a deliberately reduced/reformatted input, not byte-exact evidence. Unlisted titles, documents, suppliers, money and other subtrees are omitted; tests do not claim full-field coverage of those original entries. The 13/25-lot and eight-result occurrence counts remain intact where tested. Each original fragment's acquisition/member/ordinal/byte range is available through its neighboring `evidence.json` and the retained acquisition ledger.
+- **Native P:** `P-native.xml.fragment` is a reviewed reduction of entry ordinal 1 of the retained `data/raw/placsp/probes/native-head.atom`, Atom ID ending `20479849`. It preserves buyer NIF, explicit net/gross/estimated money, separate CPVs/deadline roles, one nested document reference and both notice occurrences. Contact/hierarchy/qualification material and other attachments are omitted. This is real native evidence, not an aggregated fixture with its dataset tag changed; it is bounded native coverage, not an exhaustive native oracle.
+- **Main rows:** `main-cases.json` and `main-regressions.json` record original sample paths, exact Socrata selectors, retained row objects and explicit reduction notes. Their original page/row locators are in the neighboring case evidence. They are reserialized selected-field excerpts, not exact acquired page bytes. Supplier amounts, positions and relevant scope flags are retained in the cases that assert them. Supplier personal identity is omitted from the C15 amount/duplicate-lot excerpts.
+- **Modern rich reductions:** J01 from `phases/300885987.json`, J14 from `phases/300339416.json`, J19 from `phases/300007312.json`, J20 from `phases/300641893.json`. Body envelope, shared applicable header and source paths remain in place. J14 retains all six members; J19 both modifications plus independent award facts; J20 all six ordered lots and all eight contractor occurrences. Contact information and unrelated detail are omitted. J01 retains the administrative/technical document collections only, so its expected document count is two, not a claim that the original contains only two. Other omitted scalar fields and subtrees are visible by comparison with the originals.
+- **Unpruned/previous fixtures:** C01 main row, the execution probe including C19 E0/E1, C01 P002/tombstone, and the full J16 body reuse existing committed fixtures with provenance in `docs/RAW_SOURCE_RECORDS.md`. L07 reuses the explicitly labelled legacy XML excerpt for the unsupported-capability contract only.
+
+Each temporary raw artifact has its own computed SHA-256, record locator and raw identity. XML mutation recipes retain the base document hash and target path; JSON recipes additionally record replacement/deletion. Fixture acquisition time remains unknown rather than inventing historical receipt metadata. Original acquisition hashes remain in `data/raw/download_manifest.jsonl`; reduced copies are never presented as having those original hashes. The optional audit compares every retained JSON field and ordered array, XML field/attribute/repetition, and exact P fragment against the named originals. No research acquisition or analysis index is rewritten.
+
+**Remaining bounded gates:** F01's future routing family cannot be constructed as a valid member of today's closed `RecordKind` enum, and F02's absent content violates the typed raw contract; the suite does not forge such objects to manufacture coverage. Wrong JSON row envelopes and modern bodies without `publicacio` are already rejected by the readers, so their decoder/root ownership stays there rather than duplicating imaginary mapper states. Full legacy support, comprehensive source dictionaries, additional PLACSP modification/multi-contract/effective-date mappings, publisher-backed rich calendar rules, and verified document size units still require the focused reviews described above. The suite covers the central regression of each C01–C20 case, not every field and every occurrence in the full research corpus.
+
+### 14.4 Running this test-first stage
+
+From the repository root:
+
+```bash
+.venv/bin/python -m pytest -q -r fE
+.venv/bin/python -m pytest tests/normalization -q -r fE
+.venv/bin/python -m pytest tests/normalization --runxfail -x
+.venv/bin/python -m pytest tests/normalization/test_fixtures.py --audit-normalization-evidence -q
+.venv/bin/python -m compileall -q src tests research/scripts
+```
+
+The `--runxfail` command intentionally exposes the missing API as a failure for TDD. Do not interpret pending xfails as successful mapping tests. The audit command is optional and requires local retained originals; specify the test path as shown so pytest loads its scoped option. Default tests use only committed fixtures and temporary artifacts, with research-file reads, SQLite connections and network calls forbidden inside the normalization suite (except the explicitly selected provenance audit). The normalizer remains a separate implementation task.

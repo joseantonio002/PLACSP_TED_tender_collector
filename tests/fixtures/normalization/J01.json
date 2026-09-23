@@ -1,0 +1,22 @@
+{
+  "versio": "1.0.0", "codiExpedient": "905451/26", "idExpedient": "4b131001-63ad-4eac-a80a-ab91c3a9f366", "dataPublicacioPlanificada": "2026-09-17T18:17:26.471Z", "dataPublicacioReal": "2026-09-17T18:18:05.642Z",
+  "organ": {"nom": "Àrea Metropolitana de Barcelona", "nif": "P0800258F", "direccioPostal": "Carrer 62 núm. 16-18 - Zona Franca", "localitat": "Barcelona, Barcelona", "codiPostal": "08040", "nuts": "ES511", "organContractacioId": 28027859},
+  "publicacio": {
+    "fase": {"id": 1000040, "ca": "Anunci de licitació", "es": "Anuncio de licitación", "en": "Tender announcement", "oc": "Anóncia de licitacion"}, "expedientId": "4b131001-63ad-4eac-a80a-ab91c3a9f366", "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "codiExpedient": "905451/26", "denominacio": {"ca": "Servei de tractament de la fracció vegetal municipal procedent dels municipis de l’AMB", "es": "Servicios de tratamiento de la fracción vegetal municipal procedente de los municipios del AMB"}, "descripcio": {"ca": "Servei de tractament de la fracció vegetal municipal procedent dels municipis de l’AMB", "es": "Servicios de tratamiento de la fracción vegetal municipal procedente de los municipios del AMB"},
+      "tipusContracte": {"id": 393, "ca": "Serveis", "es": "Servicios", "en": "Services", "oc": "Servicis"}, "procedimentAdjudicacio": {"id": 401, "ca": "Obert", "es": "Abierto", "en": "Open", "oc": "Dubèrt"}, "publicacioAgregada": false, "contracteMixt": false
+    },
+    "dadesPublicacio": {
+      "pressupostLicitacio": 949509.1, "dataTerminiPresentacioOSolicitud": "2026-09-14T12:00:00.000Z", "valorEstimatContracte": 2183870.93, "iva": 10, "varisTipusIva": false, "pressupostBaseLicitacioAmbIva": 1044460.01, "divisioEnLots": {"id": 1008401, "ca": "Sense lots"},
+      "plecsDeClausulesAdministratives": {"ca": [{"id": 302601952, "titol": "905451-26 Plec Administratiu.pdf", "path": "Ew7ABdGrXE0PnvUtpZ04k91fKh1Jw8Q5D33ZupaY-xqundYOOxZzmtZZNa2-P1W1OsdtRwmOEeGu79MHSRhNKFtsCKSfZOQjl1JjHOr0d2KUeJ2D9mim2F2RQ7avWa6tzVudC32VLMDVzEqoPdEtowLdvDWZA-Vbyuw-JN9CKsbDNFwTUOH5qn1BeMKJ3vtTyhZ0Fm_Zv0seHmqqQdkcuU6loUXLSg8dSyub1DU8ADMcsAuNl61MrDDhaDDzZorL0swnjpjIzF27upFWyuAqp6US9VKcB5nzSrE6h56-YnJ1g8jJ2cRyOTQIxXoKFOr0mLmfF7gNkWXWXD37UidsVg==", "hash": "BAB2F1E0BDE82DCE3E975F7C2857BD1A", "idioma": "ca", "mida": 1418269}], "es": [], "en": [], "oc": []},
+      "plecsDePrescripcionsTecniques": {"ca": [{"id": 302601953, "titol": "905451-26 Plec tècnic.pdf", "path": "Z-acN_432SoBWPeGZ7TMy4IAT3I8rxdxWVXM2FKKDMETGi96m5pMlFUxKxBXQ5kPq7t0_vT_VaX52AQDxzMCeCMKUxO1aoHv57OcKWuboq3UIIQeRJPklR0nsVaJjRq8tZJgjEd5lnCaUEDYhP2LDShmiu5D-H5jRaj1i1gtarBLfyunPDvw0cauDX4WlriDEAQGQAP7l6-TWuURRfPeAk2nIr2ePDXzs0-s2ogNnUnnfPy04V9ideZn3-HCyl5Cki8Uh54_u2CJhOMnzCXx8Ugzp75qQXi0j9rrbG_DYIhi2vcbdp22vuqSea2UL3ttAeMO8bxZwxorxsKiDWwuog==", "hash": "FC93F5E7DFD68DA43B394AB9D5EF76BF", "idioma": "ca", "mida": 1207284}], "es": [], "en": [], "oc": []}
+    },
+    "dadesPublicacioLot": [{
+      "ultimaObertura": {"dataObertura": "2026-09-21T09:00:00.000Z"}, "pressupostLicitacio": 949509.1, "iva": 10, "pressupostBaseLicitacioAmbIva": 1044460.01, "varisTipusIva": false, "valorEstimat": 2183870.93,
+      "llocExecucio": {"codiNuts": "ES511", "ca": "Barcelona", "es": "Barcelona", "en": "Barcelona", "oc": "null"},
+      "duradaTermini": {"anys": 2, "mesos": 0, "dies": 0, "observacions": {"ca": "La durada del contracte serà de dos anys, amb dues possibles pròrrogues d’un any cadascuna, per tant, el contracte podrà tenir una durada màxima de quatre anys. \n\nL’inici del contracte serà el dia 1 de gener de 2027 o el dia següent a la seva formalització si aquesta data és posterior\n", "es": "La duración del contrato será de dos años, con dos posibles prórrogas de un año cada una, por lo tanto, el contrato podrá tener una duración máxima de cuatro años. \nEl inicio del contrato será el día 1 de enero de 2027 o el día siguiente a su formalización si esta fecha es posterior"}}
+    }],
+    "tipusEsmena": {"id": 1008194, "ca": "Data obertura de sobres", "en": "Envelope opening date", "oc": "Data dubertura de sobres"}, "motiuEsmena": {"ca": "Modificació de dades d'obertura"}
+  }
+}

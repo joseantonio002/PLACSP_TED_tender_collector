@@ -63,6 +63,20 @@ Run only the preserved research tests:
 
 These tests use no live APIs, databases or bulk downloads. `testpaths` limits collection to `tests/`; research tools with import-time side effects are not collected. The test-only `pythonpath` setting exposes the legacy flat research modules without changing their imports or adding them to the application package. Future live-service tests must use `@pytest.mark.live`; they are excluded by default and can be selected explicitly with `-m live`. No live tests exist yet.
 
+### Test-first normalization suite
+
+Normalization is **not implemented yet**. `tests/normalization/` specifies the future `RawSourceRecord -> NormalizedObservation` API and behavior using committed retained-evidence fixtures. Tests requiring the absent `tenderwatch.normalization` module are narrowly marked as expected failures; fixture/harness checks run normally. Once that module exists, all its contract tests run normally—missing exports, broken imports, and incorrect mappings are not hidden.
+
+```bash
+.venv/bin/python -m pytest tests/normalization -q -r fE
+.venv/bin/python -m pytest tests/normalization --runxfail -x
+.venv/bin/python -m pytest tests/normalization/test_fixtures.py --audit-normalization-evidence -q
+```
+
+The first command summarizes the pending suite without verbose expected-failure tracebacks. The second deliberately exposes the missing implementation as a red TDD test; it is not the default verification command. The third is an optional audit requiring the retained local research data; ordinary normalization tests block research-data fallback, database access, and network calls.
+
+See [normalization test contracts and implementation gates](research/docs/NORMALIZATION_TESTS.md#14-executable-test-contract-test-first-update) for the proposed public API, conservative decisions, source-path conventions, coverage, and fixture reductions. No normalizer or production `NormalizedObservation` model was added with these tests.
+
 ## Read retained data into raw records
 
 ```bash

@@ -1,0 +1,25 @@
+{
+  "versio": "1.0.0", "codiExpedient": "4317110007-2021-0001388", "idExpedient": "cdd2280f-bc0d-b291-4214-69ded8c1182d", "dataPublicacioPlanificada": "2026-08-26T10:42:12.022Z", "dataPublicacioReal": "2026-08-26T10:44:10.472Z",
+  "organ": {"nom": "Ajuntament de Vila-seca", "nif": "P4317300D", "direccioPostal": "Plaça De l'Església, 26", "localitat": "Tarragona, Vila-seca", "codiPostal": "43480", "nuts": "ES514", "organContractacioId": 9598270},
+  "publicacio": {
+    "fase": {"id": 1000045, "ca": "Execució", "es": "Ejecución", "en": "Execution", "oc": "Execucion"}, "expedientId": "cdd2280f-bc0d-b291-4214-69ded8c1182d", "teLots": false,
+    "dadesBasiquesPublicacio": {
+      "codiExpedient": "4317110007-2021-0001388", "denominacio": {"ca": "Servei de recollida i transport de residus municipals, neteja viària i de la platja, i gestió de la deixalleria en el terme municipal de Vila-seca (Tarragonès)."},
+      "descripcio": {"ca": "Servei de recollida i transport de residus municipals, neteja viària i de la platja, i gestió de la deixalleria en el terme municipal de Vila-seca (Tarragonès)."},
+      "tipusContracte": {"id": 393, "ca": "Serveis", "es": "Servicios", "en": "Services", "oc": "Servicis"}, "procedimentAdjudicacio": {"id": 401, "ca": "Obert", "es": "Abierto", "en": "Open", "oc": "Dubèrt"}, "publicacioAgregada": false, "contracteMixt": false
+    },
+    "dadesPublicacio": {"pressupostLicitacio": 3981218.08, "observacions": {}, "contracteRelacionatAmbProjecteOProgramaFinancatAmbFonsDeLaUE": false},
+    "dadesPublicacioLot": [{
+      "publicacioExpedientId": 300007312,
+      "modificacions": [
+        {"antiga": false, "tipusActuacioExecucio": {"id": 1008296, "ca": "Modificació", "es": "Modificación", "en": "Modification", "oc": "Modificacion"}, "identificador": 1, "denominacioModificacio": {"ca": "Modificació del contracte del servei de recollida i transport de residus municipals, neteja viària i de la platja, i gestió de la deixalleria en el terme municipal de Vila-seca"}, "tipusModificacio": {"id": 1008290, "ca": "Objectiva", "en": "Objective", "oc": "Objectiva"}, "dataModificacio": "2026-03-29T22:00:00.000Z", "contractistes": [], "incrementPreu": 341124.07},
+        {"antiga": false, "tipusActuacioExecucio": {"id": 1008296, "ca": "Modificació", "es": "Modificación", "en": "Modification", "oc": "Modificacion"}, "identificador": 2, "tipusModificacio": {"id": 1008290, "ca": "Objectiva", "en": "Objective", "oc": "Objectiva"}, "dataModificacio": "2026-08-09T22:00:00.000Z", "contractistes": [], "incrementPreu": 317101.25}
+      ],
+      "llocExecucio": {"codiNuts": "ES514", "ca": "Tarragona", "es": "Tarragona", "en": "Tarragona", "oc": "null"},
+      "dataAdjudicacio": "2022-01-27T23:00:00.000Z", "dataFormalitzacio": "2022-02-24T23:00:00.000Z",
+      "empresaContractista": [{"denominacioEmpresaContractista": "URBASER, SA", "tipusIdentificador": {"id": 542, "ca": "NIF", "en": "NIF (Tax Identification Number)", "oc": "NIF"}, "identificador": "A79524054", "importAdjudicacioSenseIva": 3961311.99, "importAdjudicacioAmbIva": 4357443.19, "iva": 10, "varisTipusIva": false, "informacioUte": [], "plurianualitats": []}],
+      "importAdjudicacio": 3961311.99
+    }],
+    "motiuEsmena": {}
+  }
+}
