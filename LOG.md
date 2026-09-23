@@ -265,3 +265,126 @@ Stored Downloaded Data
 - `PROJECT_CONTEXT.md`: current scope now explicitly describes the retained-data, single-execution MVP and the implementation sequence through canonical querying.
 - `AGENTS.md`: repository-wide development rules now state that the current implementation reads existing local acquisitions and should not introduce pipeline infrastructure unless explicitly requested.
 - `LOG.md`: this entry records the change of plans and supersedes the informal pipeline notes previously appended to the log.
+
+---
+
+## 2026-09-23: Retained-data readers and immutable raw source records
+
+**What:** Implemented the first two processing boundaries:
+
+```text
+Stored artifact on disk
+    -> source-specific reader
+    -> individual SourceRecord
+    -> to_raw(source_record)
+    -> immutable RawSourceRecord
+```
+
+No normalization, reconciliation, canonical representations, query functionality, or new downloading behavior was implemented.
+
+**Implementation:**
+
+- `src/tenderwatch/raw.py`: frozen raw/source models, explicit record kinds, structured artifact/record locators, and deterministic occurrence IDs.
+- `src/tenderwatch/sources/`: local artifact access and checksum verification, JSON/XML parsing, PLACSP and Generalitat readers, manifest-based discovery, deliberate error types, and the traversal entry point.
+- PLACSP readers visit every retained Atom/XML ZIP member, including members outside the advertised navigation chain. Atom entries and tombstones remain distinct.
+- Generalitat main-table and execution-table rows remain independent. Rich JSON and legacy XML publication bodies are supported; a batch body remains one raw occurrence rather than being split or joined with table rows.
+- Original content is retained through checksum-bound references to the complete artifact/member and an exact record locator. XML namespace context, original JSON values, unknown fields, acquisition URLs, captured timestamps, and metadata remain recoverable without semantic conversion.
+
+### How to execute
+
+Use the existing virtual environment and run from the repository root:
+
+```bash
+cd /home/jose/PLACSP_TED_tender_collector
+.venv/bin/python -m tenderwatch.sources --root .
+```
+
+For a single source, or to display the available options:
+
+```bash
+.venv/bin/python -m tenderwatch.sources --root . --source placsp
+.venv/bin/python -m tenderwatch.sources --root . --source gencat
+.venv/bin/python -m tenderwatch.sources --help
+```
+
+`--root` points to the repository/snapshot root containing `data/raw/`, not to `data/raw/` itself. No network access or additional runtime dependencies are required. The retained acquisitions must already exist locally.
+
+To save the summary and progress separately, choose new output filenames:
+
+```bash
+.venv/bin/python -m tenderwatch.sources --root . \
+  > raw-record-counts.tsv 2> raw-record-progress.log
+```
+
+The summary contains a tab-separated header and count rows followed by a human-readable total line; it is not a raw-record export or a strict TSV-only file. Shell redirection overwrites existing output files with those names.
+
+### Inputs
+
+Discovery reads `data/raw/download_manifest.jsonl` and processes supported successful acquisitions:
+
+- **PLACSP:** the four original 2025/2026 ZIP archives under `data/raw/placsp/aggregated/` and `data/raw/placsp/native/`, plus standalone Atom probes under `data/raw/placsp/probes/`.
+- **Generalitat main table:** JSON row arrays under `data/raw/gencat/ybgg-dgi6/pages/`, the dataset probe, and separately acquired main-table probes under `data/raw/gencat/probes/`.
+- **Generalitat execution table:** JSON row arrays under `data/raw/gencat/8idu-wkjv/pages/` and its dataset probe.
+- **Rich Generalitat publications:** retained bodies under `data/raw/gencat/phases/`, `phase_probes/`, and `legacy_probes/`. Actual body content determines JSON versus XML; JSON-named endpoints can contain XML.
+- **Context:** manifest acquisition lines and annotations, plus retained table metadata-before/after and count-before/after artifacts. These are provenance/context inputs, not additional procurement rows.
+
+Failed requests, unfinished `.partial` files, aggregate audit queries, documentation, research SQLite indexes, and derived sample/analysis copies are not emitted as source records. Separately acquired probes are included as independent occurrences. No date/geography filtering, deduplication, or source-record joins are performed.
+
+### Outputs
+
+**Command output:**
+
+- Progress messages identifying each input artifact go to **stderr**.
+- Counts by `source`, `dataset`, and `record_kind`, followed by the total number of raw occurrences and artifacts, go to **stdout**.
+- Checksums are verified during traversal. Missing/changed files, malformed supported inputs, and invalid locators produce controlled errors; traversal failures exit nonzero and do not present incomplete counts as success.
+- The command constructs raw objects incrementally but does **not** persist them, export normalized data, create a database, or modify input acquisitions. Output files are only created if the caller explicitly redirects stdout/stderr.
+
+**Programmatic output:** reader iterators yield individual `SourceRecord` objects; `to_raw()` returns an immutable `RawSourceRecord` for each occurrence:
+
+```python
+from pathlib import Path
+
+from tenderwatch.raw import to_raw
+from tenderwatch.sources.retained import discover_inputs
+
+root = Path('.')
+for retained in discover_inputs(root):
+    for source_record in retained.read(root):
+        raw_record = to_raw(source_record)
+```
+
+Source-specific interfaces are `read_placsp`, `read_gencat_main`, `read_gencat_execution`, and `read_gencat_publication`. Recovery helpers include `read_document` for exact containing-document bytes, `load_record` for a fresh parsed record view, and `read_manifest_line` for verified acquisition metadata. Raw records reference retained content rather than embedding a cleaned procurement object, so the referenced files must remain available and unchanged.
+
+### Verified results
+
+The complete local traversal succeeded with **2,850,341 raw occurrences across 195 input artifacts**, with checksums verified:
+
+| Record kind | Count |
+|---|---:|
+| `placsp_atom_entry` (both collections) | 1,625,075 |
+| `placsp_tombstone` (both collections) | 86,253 |
+| `gencat_main_row` | 1,070,978 |
+| `gencat_execution_row` | 67,965 |
+| `gencat_publication_json` | 66 |
+| `gencat_publication_xml` | 4 |
+
+Counts include independent probe acquisitions and all archived occurrences, so they are not equivalent to the research's filtered cohorts or bulk-only row totals.
+
+**Tests and verification:**
+
+```bash
+.venv/bin/python -m pytest
+.venv/bin/python -m compileall -q src tests research/scripts
+.venv/bin/python research/scripts/verify_artifacts.py
+.venv/bin/python research/scripts/verify_parsers.py
+.venv/bin/python research/scripts/verify_report.py
+```
+
+- All **52 tests passed**, including existing research regressions and optional local-evidence checks. The suite without the optional retained-evidence test module passed all **43 tests** and requires no research snapshot.
+- Compilation and existing research verification scripts passed.
+- Research artifact verification checked all **214 acquired files** and found no missing files, checksum mismatches, or sample-reference errors. This broader acquisition total includes documentation and metadata that are not among the 195 source-record input artifacts.
+- Added three test modules and six small retained-evidence fixtures/excerpts. Raw acquisitions and research scripts were not changed.
+
+**Documentation:** Added `docs/RAW_SOURCE_RECORDS.md` with the full module/API contract, locator rules, supported formats, fixture provenance, and limitations. Updated `README.md` and the implementation status in `PROJECT_CONTEXT.md`; no implementation-task changes were made to `AGENTS.md`.
+
+**Next:** Implement and test `RawSourceRecord -> NormalizedObservation` separately. Preserve the existing meaning of `observed_at` as captured download completion, not an invented precise receipt timestamp. Bulk normalization should reuse verified page/member parsing rather than repeatedly reopen and hash large containing artifacts. Identifier roles, batch projections, legacy XML semantic mappings, and all procurement normalization decisions remain deferred.
