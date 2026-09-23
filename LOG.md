@@ -134,6 +134,24 @@
 
 ---
 
-## Next step:
+**## 2026-09-23: Normalization test strategy**
 
-Implement normalization logic to map PLACSP and Generalitat records into NormalizedObservation instances.
+**What:** Defined the test strategy for the `RawSourceRecord -> NormalizedObservation` mapping layer before implementing the normalizers.
+
+**Why:** To establish expected behavior for valid, unusual, degraded, and invalid source records, and to distinguish recoverable source-data issues from fatal normalization errors and implementation bugs.
+
+**How:**
+
+* Reviewed the normalized schema, retained raw samples, and C01–C20 research cases.
+* Identified happy paths and real edge cases to use as regression fixtures.
+* Analyzed potential normalization failure modes and classified them as recoverable issues or fatal errors.
+* Defined a small public exception model and synthetic-fixture strategy for failure cases not present in the retained data.
+* Identified cross-source normalization invariants to test independently of individual fixtures.
+
+**Outputs:**
+
+* `research/docs/NORMALIZATION_TESTS.md`: Test plan covering happy paths, edge cases, recoverable failures, fatal failures, invariants, fixtures, and expected exception behavior.
+
+**Next:** Implement the normalization test suite from this specification before implementing the source-specific normalization mappers.
+
+
