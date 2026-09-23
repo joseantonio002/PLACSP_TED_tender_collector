@@ -94,3 +94,46 @@
 - Simplified REPORT.md reference in `PROJECT_CONTEXT.md` for clarity.
 
 **Verification:** All 10 tests pass; commit successful.
+
+
+---
+
+## 2026-09-23: Normalized schema design report
+
+**What:** Designed and documented the first version of a common normalized procurement schema that both PLACSP and Generalitat de Catalunya can map into without erasing important semantic differences.
+
+**Why:** To establish a source-independent representation layer that preserves source scope, uncertainty, and traceability before implementing reconciliation, entity resolution, or canonical state logic. The normalized model must be implementation-ready but language-agnostic, and must reflect actual observed source semantics rather than hypothetical universal procurement concepts.
+
+**How:**
+- Reviewed all research evidence: `REPORT.md`, source documentation, semantic audit, representative case studies, and raw publication bodies.
+- Analyzed conceptual models of both sources: PLACSP as an Atom update feed with accumulated publication history; Generalitat as mixed-granularity rows (procedures, lots, contracts, batch members) plus separate execution-action records.
+- Identified false equivalences: expediente ≠ stable procedure ID; publication UUID ≠ procedure UUID; source update ≠ business event; RES ≠ awarded; missing value ≠ deletion.
+- Designed `NormalizedObservation` as a typed, source-attributed projection of exactly one raw source record about one procurement subject, with explicit scope, no cross-record merging, and retained source codes.
+- Specified all normalized fields with type, cardinality, semantics, source mappings, and edge cases.
+- Separated lifecycle dimensions: publication phase, process status, outcome, execution state, and source availability.
+- Distinguished monetary purposes: estimated value, tender budget, award amount, contract amount, modification delta, execution action amount.
+- Preserved temporal semantics: source update time, publication time, submission deadline, award decision time, formalization time, execution action time, planned publication time.
+- Modeled identifiers as namespaced values retaining scheme, issuer, role, raw value and scope.
+- Deferred canonical identities, reconciliation confidence, entity resolution, and field-level canonical provenance.
+
+**Outputs:**
+- `research/docs/NORMALIZED_SCHEMA_DESIGN.md`
+
+**Key design decisions:**
+- `NormalizedObservation` is a partial, single-input projection—not a canonical tender, reconciled state, or complete procedure snapshot.
+- Procedure, lot, batch-member and publication scope are explicit and preserved.
+- Outcomes are separate from awards; positive award facts require positive evidence.
+- Supplier allocations preserve positional and unresolved alignment; no guessing or equal splitting.
+- Lots are nested only when the source explicitly supports a lot context; no synthetic lot zero.
+- Documents are source references/metadata, not acquired binaries; URLs do not establish download.
+- Provenance preserves raw source record identity, dataset identity, acquisition identity, source record locator, mapping version, exact field/path locators, projection scope, and source record hash.
+- Source-specific raw codes are retained alongside normalized categories; crosswalks are versioned.
+- Unresolved/unknown values are represented explicitly rather than guessed or forced into `other`.
+
+**Verification:** Report reviewed for all 16 required sections, consistent terminology, no accidental code/SQL, no unsupported source claims, no contradictions between field tables and final schema, valid Markdown formatting, and closed code fences.
+
+---
+
+## Next step:
+
+Implement normalization logic to map PLACSP and Generalitat records into NormalizedObservation instances.
