@@ -2,7 +2,7 @@
 
 TenderWatch is a public procurement data platform for discovering and exploring tenders from **PLACSP and Generalitat de Catalunya**, initially focused on Catalunya / Barcelona. Its goal is to reconcile source observations into traceable canonical tender states and preserve their history for search and exploration.
 
-[PROJECT_CONTEXT.md](PROJECT_CONTEXT.md) is the high-level source of truth for the current project direction. The repository is transitioning from research to implementation: the research is preserved, and the application package remains intentionally empty, with no procurement business logic or external-service infrastructure yet.
+[PROJECT_CONTEXT.md](PROJECT_CONTEXT.md) is the high-level source of truth for the current project direction. The application now reads the retained research acquisitions into independent source records and immutable `RawSourceRecord`s. Normalization, reconciliation, canonical representations, and queries are not implemented yet. The research remains preserved, with no new acquisition or external-service infrastructure.
 
 ## Repository layout
 
@@ -11,7 +11,8 @@ src/tenderwatch/             Installable TenderWatch application package
 tests/                      Offline test suite
   test_smoke.py              Minimal application package-import test
   research/                 Existing research regression tests
-  fixtures/                 Small test fixtures only; currently reserved
+  fixtures/                 Small retained-evidence fixtures and explicit excerpts
+docs/                       Implemented application contracts and usage
 research/
   scripts/                  Research acquisition, profiling and verification tools
   legacy/                   Archived experiments and historical source notes
@@ -61,6 +62,16 @@ Run only the preserved research tests:
 ```
 
 These tests use no live APIs, databases or bulk downloads. `testpaths` limits collection to `tests/`; research tools with import-time side effects are not collected. The test-only `pythonpath` setting exposes the legacy flat research modules without changing their imports or adding them to the application package. Future live-service tests must use `@pytest.mark.live`; they are excluded by default and can be selected explicitly with `-m live`. No live tests exist yet.
+
+## Read retained data into raw records
+
+```bash
+.venv/bin/python -m tenderwatch.sources --root .
+```
+
+This offline command discovers retained source acquisitions through the manifest, verifies checksums, iterates individual records, creates immutable raw records, and reports counts by source/dataset/kind. It includes separately acquired probes and preserves repeated occurrences; it does not apply the research date/geography filters or run any normalization. Use `--source placsp` or `--source gencat` to traverse one source.
+
+See [the raw-source contract and API](docs/RAW_SOURCE_RECORDS.md) for module responsibilities, supported formats, exact artifact locators, acquisition lineage, fixture provenance, and limitations.
 
 ## Research tools and data integrity
 

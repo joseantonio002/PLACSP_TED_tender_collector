@@ -1,0 +1,34 @@
+{
+  "versio" : "1.0.0",
+  "codiExpedient" : "2024004-AM",
+  "idExpedient" : "fff0ffe1-d07b-42af-ade9-dc8eb403a8b6",
+  "dataPublicacioPlanificada" : "2025-01-01T08:00:00.000Z",
+  "publicacio" : {
+    "expedientId" : "fff0ffe1-d07b-42af-ade9-dc8eb403a8b6",
+    "dadesPublicacio" : {
+      "contractesAgregada" : [ {
+        "expedient" : "2023/585",
+        "nifAdjudicatari" : "A28119220",
+        "nomAdjudicatari" : "Seguros Catalana Occidente SA",
+        "importAdjudicacioSenseIva" : 28957.25,
+        "importAdjudicacioAmbIva" : 28957.25,
+        "vec" : 132628.56
+      }, {
+        "expedient" : "2023/800",
+        "nifAdjudicatari" : "W0072130H",
+        "nomAdjudicatari" : "Zurich Insurance PLC, Sucursal en España",
+        "importAdjudicacioSenseIva" : 7096.06,
+        "importAdjudicacioAmbIva" : 7096.06,
+        "vec" : 34061.08
+      }, {
+        "expedient" : "2023/800",
+        "nifAdjudicatari" : "G08171407",
+        "nomAdjudicatari" : "FIATC Mutua de Seguros y Reaseguros Sociedad Unipersonal",
+        "importAdjudicacioSenseIva" : 3149.79,
+        "importAdjudicacioAmbIva" : 3149.79,
+        "vec" : 13369.64
+      } ]
+    }
+  },
+  "dataPublicacioReal" : "2025-01-01T08:00:05.758Z"
+}

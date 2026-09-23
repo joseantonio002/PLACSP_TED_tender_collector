@@ -13,27 +13,15 @@ Develop incrementally. For each requested change:
 5. Run the relevant tests after changes and do not finish with failing tests.
 6. Prefer simple, typed, readable Python over premature abstractions.
 
-Tests should be deterministic and should not depend on live external services unless explicitly marked as live tests. Prefer representative real source data stored as local fixtures.
-
-Raw acquisitions under `data/raw/` are immutable. `data/raw/download_manifest.jsonl` is append-only. Never overwrite a successful acquisition to refresh a source; create a new acquisition instead.
-
 Existing research entry points include:
 
-* `research/scripts/download.py`
-* `research/scripts/extract_documentation.py`
-* `research/scripts/inspect_placsp.py`
-* `research/scripts/inspect_gencat.py`
-* `research/scripts/compare_sources.py`
+- `research/scripts/download.py`
+- `research/scripts/extract_documentation.py`
+- `research/scripts/inspect_placsp.py`
+- `research/scripts/inspect_gencat.py`
+- `research/scripts/compare_sources.py`
 
 Run scripts from the repository root. SQLite files under `data/processed/` are analysis indexes, not production schemas. Preserve existing exploratory scripts and user files unless explicitly asked to remove them.
-
-Important research findings already established:
-
-* PLACSP research dates are filtered using entry `updated`.
-* Generalitat main rows use `data_publicacio*` dates; execution actions use different date semantics. Do not conflate these cohorts.
-* Current-year PLACSP archives and Socrata tables may change upstream.
-* PSCP exports may contain legacy XML even through `/json/` endpoints; inspect actual content rather than trusting URL names.
-* `es_agregada=SI` UUIDs identify publication batches, not individual procurement procedures.
 
 Application code belongs in `src/tenderwatch/`; tests belong in `tests/`, with small local fixtures in `tests/fixtures/`. Research code is not application code. Existing research regression tests are retained in `tests/research/` and run as part of the complete pytest suite. The test-only `pythonpath` configuration preserves their existing flat imports. Do not import the live-request experiments in `research/legacy/` into tests.
 
@@ -49,14 +37,12 @@ Verification commands:
 
 The default pytest suite needs no bulk data or external services; future `live` tests are opt-in with `-m live`. The research verification scripts require the local snapshot and can refresh derived verification outputs, but never raw acquisitions.
 
-`research/docs/REPORT.md` contains the full research reproduction sequence, findings, and limitations. Keep existing `analysis/` and `data/` locations stable because historical evidence references use repository-relative paths.
-
 ## Project documentation
 
 Keep project documentation consistent with the repository as it evolves.
 
-* Update `PROJECT_CONTEXT.md` when an implemented and accepted change materially affects the project scope, core concepts, or high-level architecture.
-* Do not update it for temporary implementation details, experiments, or unconfirmed ideas.
-* Update `AGENTS.md` only when a new stable repository-wide working rule is necessary. Do not turn one-off implementation decisions into permanent instructions.
-* Never remove or rewrite existing `AGENTS.md` rules unless the change is clearly required by the task.
-* Mention any changes to `AGENTS.md` or `PROJECT_CONTEXT.md` in the task summary.
+- Update `PROJECT_CONTEXT.md` when an implemented and accepted change materially affects the project scope, core concepts, or high-level architecture.
+- Do not update it for temporary implementation details, experiments, or unconfirmed ideas.
+- Update `AGENTS.md` only when a new stable repository-wide working rule is necessary. Do not turn one-off implementation decisions into permanent instructions.
+- Never remove or rewrite existing `AGENTS.md` rules unless the change is clearly required by the task.
+- Mention any changes to `AGENTS.md` or `PROJECT_CONTEXT.md` in the task summary.

@@ -1,0 +1,53 @@
+<Notice>
+<codiceVersion>1.05b</codiceVersion>
+<tenderingSpaceId>101232022</tenderingSpaceId>
+<TenderingProcess>
+<diligenceId><![CDATA[C 06/2022]]></diligenceId>
+<fundingProgramCodeCodeType>
+<id>101232033</id>
+<value><![CDATA[No]]></value>
+<name><![CDATA[No]]></name>
+<languageID><![CDATA[ca_ES]]></languageID>
+</fundingProgramCodeCodeType>
+<contractingUnit>
+<ca_ES><![CDATA[]]></ca_ES>
+<es_ES><![CDATA[]]></es_ES>
+<oc_ES><![CDATA[]]></oc_ES>
+<en_GB><![CDATA[]]></en_GB>
+</contractingUnit>
+<ElectronicDelivery>
+<int>2</int>
+</ElectronicDelivery>
+</TenderingProcess>
+<com.capgemini.gencat.economia.pscp.entity.PscpContractNotice>
+  <contractNoticeId>103585423</contractNoticeId>
+  <issueDate>
+    <id>103585424</id>
+    <dbDate>22/06/2022 11:30:26</dbDate>
+    <value class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
+      <year>2022</year>
+      <month>6</month>
+      <day>22</day>
+      <timezone>120</timezone>
+      <hour>11</hour>
+      <minute>30</minute>
+      <second>26</second>
+      <fractionalSecond>0.854</fractionalSecond>
+    </value>
+  </issueDate>
+  <issueTime>
+    <id>103585425</id>
+    <dbDate>22/06/2022 11:30:26</dbDate>
+    <value class="com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl">
+      <year>2022</year>
+      <month>6</month>
+      <day>22</day>
+      <timezone>120</timezone>
+      <hour>11</hour>
+      <minute>30</minute>
+      <second>26</second>
+      <fractionalSecond>0.854</fractionalSecond>
+    </value>
+  </issueTime>
+</com.capgemini.gencat.economia.pscp.entity.PscpContractNotice>
+</Notice>
