@@ -1,9 +1,9 @@
 from __future__ import annotations
 
-from contextlib import contextmanager
+from contextlib import ExitStack, contextmanager
 import hashlib
 from pathlib import Path
-from typing import BinaryIO, Iterator
+from typing import BinaryIO, Callable, Iterator
 import xml.etree.ElementTree as ET
 import zipfile
 import zlib
@@ -117,6 +117,70 @@ def load_record(root: Path, content: ContentReference) -> dict[str, JSONValue] |
     if locator.ordinal >= len(matches):
         raise LocatorError('XML child locator is out of range')
     return matches[locator.ordinal]
+
+
+@contextmanager
+def verified_resolver(root: Path, artifact: Artifact) -> Iterator[Callable[[ContentReference], dict[str, JSONValue] | ET.Element]]:
+    with ExitStack() as stack:
+        stream = stack.enter_context(open_artifact(root, artifact))
+        archive = None
+        cached_key = None
+        document: JSONValue | ET.Element = None
+        digest = None
+        children: dict[str, list[ET.Element]] = {}
+
+        def resolve(content: ContentReference) -> dict[str, JSONValue] | ET.Element:
+            nonlocal archive, cached_key, document, digest, children
+            if content.artifact != artifact:
+                raise LocatorError('Resolver is restricted to one verified artifact')
+            locator = content.locator
+            cache_key = (locator.member_index, locator.member_name, content.format)
+            if cached_key != cache_key:
+                cached_key = None
+                if locator.member_index is None:
+                    stream.seek(0)
+                    data = stream.read()
+                else:
+                    if archive is None:
+                        archive = stack.enter_context(open_zip(stream, artifact.path))
+                    members = archive.infolist()
+                    if locator.member_index >= len(members):
+                        raise LocatorError('ZIP member index is out of range')
+                    member = members[locator.member_index]
+                    if member.filename != locator.member_name or member.is_dir():
+                        raise LocatorError('ZIP member does not match the locator')
+                    data = read_member(archive, member)
+                digest = hashlib.sha256(data).hexdigest()
+                if digest != content.document_sha256:
+                    raise IntegrityError('Containing document checksum mismatch')
+                if content.format == 'json':
+                    document = parse_json(data, artifact.path)
+                elif content.format == 'xml':
+                    document = parse_xml(data, artifact.path)
+                else:
+                    raise UnsupportedFormatError(f'Unsupported content format: {content.format}')
+                children = {}
+                if isinstance(document, ET.Element):
+                    for child in document:
+                        children.setdefault(child.tag, []).append(child)
+                cached_key = cache_key
+            if digest != content.document_sha256:
+                raise IntegrityError('Containing document checksum mismatch')
+            selected = document
+            if locator.kind == 'json-row':
+                if content.format != 'json' or not isinstance(document, list) or locator.ordinal >= len(document):
+                    raise LocatorError('JSON row locator is out of range or not an array')
+                selected = document[locator.ordinal]
+            elif locator.kind == 'xml-child':
+                matches = children.get(locator.xml_tag, ())
+                if content.format != 'xml' or locator.ordinal >= len(matches):
+                    raise LocatorError('XML child locator is out of range')
+                selected = matches[locator.ordinal]
+            if not isinstance(selected, (dict, ET.Element)):
+                raise LocatorError('Record locator does not select an object or XML element')
+            return selected
+
+        yield resolve
 
 
 def read_manifest_line(root: Path, reference: ManifestLine) -> dict[str, JSONValue]:

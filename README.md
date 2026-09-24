@@ -2,7 +2,7 @@
 
 TenderWatch is a public procurement data platform for discovering and exploring tenders from **PLACSP and Generalitat de Catalunya**, initially focused on Catalunya / Barcelona. Its goal is to reconcile source observations into traceable canonical tender states and preserve their history for search and exploration.
 
-[PROJECT_CONTEXT.md](PROJECT_CONTEXT.md) is the high-level source of truth for the current project direction. The application now reads the retained research acquisitions into independent source records and immutable `RawSourceRecord`s. Normalization, reconciliation, canonical representations, and queries are not implemented yet. The research remains preserved, with no new acquisition or external-service infrastructure.
+[PROJECT_CONTEXT.md](PROJECT_CONTEXT.md) is the high-level source of truth for the current project direction. The application now reads retained research acquisitions into independent source records, immutable `RawSourceRecord`s, and source-attributed immutable `NormalizedObservation`s. Reconciliation, canonical representations, and queries are not implemented yet. The research remains preserved, with no new acquisition or external-service infrastructure.
 
 ## Repository layout
 
@@ -63,9 +63,9 @@ Run only the preserved research tests:
 
 These tests use no live APIs, databases or bulk downloads. `testpaths` limits collection to `tests/`; research tools with import-time side effects are not collected. The test-only `pythonpath` setting exposes the legacy flat research modules without changing their imports or adding them to the application package. Future live-service tests must use `@pytest.mark.live`; they are excluded by default and can be selected explicitly with `-m live`. No live tests exist yet.
 
-### Test-first normalization suite
+### Normalization suite
 
-Normalization is **not implemented yet**. `tests/normalization/` specifies the future `RawSourceRecord -> NormalizedObservation` API and behavior using committed retained-evidence fixtures. Tests requiring the absent `tenderwatch.normalization` module are narrowly marked as expected failures; fixture/harness checks run normally. Once that module exists, all its contract tests run normally—missing exports, broken imports, and incorrect mappings are not hidden.
+`tests/normalization/` exercises the implemented `RawSourceRecord -> NormalizedObservation` API using committed retained-evidence fixtures. The original test-first assertions, fixtures, and harness are unchanged. The harness automatically imports the real `tenderwatch.normalization` package; its absent-module expected-failure mechanism is inactive. All mapping tests now run normally, including under `--runxfail`.
 
 ```bash
 .venv/bin/python -m pytest tests/normalization -q -r fE
@@ -73,19 +73,54 @@ Normalization is **not implemented yet**. `tests/normalization/` specifies the f
 .venv/bin/python -m pytest tests/normalization/test_fixtures.py --audit-normalization-evidence -q
 ```
 
-The first command summarizes the pending suite without verbose expected-failure tracebacks. The second deliberately exposes the missing implementation as a red TDD test; it is not the default verification command. The third is an optional audit requiring the retained local research data; ordinary normalization tests block research-data fallback, database access, and network calls.
+The third command is an optional audit requiring retained local research data; ordinary normalization tests block research-data fallback, database access, and network calls. Additional implementation-edge tests and workflow tests cover the inspection command and cached artifact resolver.
 
-See [normalization test contracts and implementation gates](research/docs/NORMALIZATION_TESTS.md#14-executable-test-contract-test-first-update) for the proposed public API, conservative decisions, source-path conventions, coverage, and fixture reductions. No normalizer or production `NormalizedObservation` model was added with these tests.
+See [normalization contracts and implementation gates](research/docs/NORMALIZATION_TESTS.md#14-executable-test-contract-test-first-update) for source-path conventions, conservative policies, coverage, and fixture reductions.
 
-## Read retained data into raw records
+## Normalize retained data for inspection
 
 ```bash
 .venv/bin/python -m tenderwatch.sources --root .
 ```
 
-This offline command discovers retained source acquisitions through the manifest, verifies checksums, iterates individual records, creates immutable raw records, and reports counts by source/dataset/kind. It includes separately acquired probes and preserves repeated occurrences; it does not apply the research date/geography filters or run any normalization. Use `--source placsp` or `--source gencat` to traverse one source.
+This offline single-run command discovers manifest inputs, verifies checksums, creates every raw occurrence, calls `normalize`, and streams every resulting observation into a new **disposable, non-production** `tenderwatch-inspection-*` directory under the system temporary directory. The exact location is printed. It preserves repeated acquisitions and performs no date/geography filtering, joins, downloads, reconciliation, or canonical-state construction.
 
-See [the raw-source contract and API](docs/RAW_SOURCE_RECORDS.md) for module responsibilities, supported formats, exact artifact locators, acquisition lineage, fixture provenance, and limitations.
+A full snapshot produces substantial output. For a bounded inspection or a selected family:
+
+```bash
+.venv/bin/python -m tenderwatch.sources --root . --limit 100
+.venv/bin/python -m tenderwatch.sources --root . --artifact 'data/raw/gencat/phases/*'
+.venv/bin/python -m tenderwatch.sources --root . --artifact 'data/raw/placsp/probes/native-head.atom' --limit 100
+.venv/bin/python -m tenderwatch.sources --root . --raw-only
+```
+
+`--source placsp|gencat` filters sources. Repeat `--artifact` to select multiple retained-path globs. `--output-parent /existing/path` selects the parent of a fresh uniquely named directory; existing outputs are never overwritten. `--raw-only` retains the previous count-only behavior without creating output. `--limit` counts raw occurrences, not observations, and marks the run as limited.
+
+Each inspection directory contains:
+
+- `observations.jsonl`: one complete observation per line, including its raw ID, projection locator, versions, source paths, and Issues. Decimals are exact strings, dates/times are ISO strings, and UTC offsets are readable duration strings. This is a debugging export, not a production storage contract.
+- `failures.jsonl`: contextual controlled failures, including unsupported legacy XML. Whole-batch fatal selection failures produce no partial batch output. Other raw occurrences still run.
+- `summary.json`: counts by source/kind, diagnostic/failure totals, filters, and completion status (`complete`, `complete_with_unsupported`, `limited`, `failed`, or `interrupted`).
+
+The first three processed raw occurrences are printed with compact normalized summaries (including zero observations for tombstones or an explicit failure). Huge raw payloads and tokenized export URLs are not dumped to stdout. All observations are collected on disk rather than retained together in memory. Known unsupported inputs are counted/reported; invalid inputs cause a nonzero exit after traversal. Unexpected programmer/invariant errors propagate and leave an interrupted summary. The generated directory is safe to delete and is never used as research evidence or production persistence.
+
+### Normalization API and implementation
+
+```python
+from functools import partial
+from tenderwatch.normalization import normalize, validate_observation
+from tenderwatch.sources.artifacts import load_record
+
+observations = normalize(raw_record, resolve=partial(load_record, root))
+```
+
+`normalize(raw, *, resolve, projection=None)` returns a tuple of frozen `NormalizedObservation`s. Ordinary inputs produce one, tombstones none, and explicit rich batch members one each. `projection` can select an exact batch-member JSON pointer. No observation combines raw occurrences. The command uses `verified_resolver(root, artifact)` to keep one verified artifact open and cache only the current parsed page/member; this avoids repeated archive hashing for each record. Parsed views are read-only to normalization.
+
+The package `tenderwatch.normalization` contains `models.py` (frozen typed models), `common.py` (source-preserving value parsing), `placsp.py`, `tables.py`, and `publications.py` (adapters), plus `errors.py` and `validation.py`. Public controlled input errors derive from `NormalizationError`; `NormalizationInvariantError` is deliberately separate. Observation identity includes the raw occurrence, projection, schema version, and mapping version.
+
+Supported mappings cover native/aggregated PLACSP Atom entries, Generalitat main and execution rows, and modern ordinary/batch/execution publication JSON. Legacy XML raises `UnsupportedNormalizationInput`. Reviewed code dictionaries are intentionally bounded (including EUR currency recognition); unknown codes produce Issues, not guessed categories. Comprehensive code lists, legacy mappings, additional contract-action families, PLACSP multi-project award grouping/effective dates, publisher-backed rich calendar interpretations, and document-size units remain deferred. Multi-project result groups are diagnosed rather than pooled; rich serialized business dates retain unresolved raw values rather than guessed legal instants. No entity resolution or reconciliation is performed.
+
+See [the raw-source contract and API](docs/RAW_SOURCE_RECORDS.md) for supported acquisition formats, exact artifact locators, acquisition lineage, fixture provenance, and limitations.
 
 ## Research tools and data integrity
 

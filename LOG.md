@@ -388,3 +388,142 @@ Counts include independent probe acquisitions and all archived occurrences, so t
 **Documentation:** Added `docs/RAW_SOURCE_RECORDS.md` with the full module/API contract, locator rules, supported formats, fixture provenance, and limitations. Updated `README.md` and the implementation status in `PROJECT_CONTEXT.md`; no implementation-task changes were made to `AGENTS.md`.
 
 **Next:** Implement and test `RawSourceRecord -> NormalizedObservation` separately. Preserve the existing meaning of `observed_at` as captured download completion, not an invented precise receipt timestamp. Bulk normalization should reuse verified page/member parsing rather than repeatedly reopen and hash large containing artifacts. Identifier roles, batch projections, legacy XML semantic mappings, and all procurement normalization decisions remain deferred.
+
+---
+
+## 2026-09-24: Source-specific normalization and disposable inspection output
+
+**What:** Implemented the next processing boundary and connected it to the existing single-run workflow:
+
+```text
+Stored artifact on disk
+    -> individual SourceRecord
+    -> immutable RawSourceRecord
+    -> normalize(raw, resolve=..., projection=...)
+    -> tuple of immutable NormalizedObservation objects
+    -> disposable inspection JSONL
+```
+
+Each observation describes exactly one raw occurrence/selection. Normalization does not join records, fetch links, consult research indexes, resolve entities, reconcile observations, construct canonical state, or provide queries.
+
+**Important command change:** `python -m tenderwatch.sources` now normalizes by default and writes inspection output. The preceding entry's count-only behavior is still available with `--raw-only`; its historical statement that the default command creates no output files no longer applies.
+
+### Implementation and public interfaces
+
+- Added `src/tenderwatch/normalization/`: `models.py` defines frozen typed observations and nested values; `common.py` contains shared value parsing; `placsp.py`, `tables.py`, and `publications.py` implement the source-specific adapters; `errors.py` and `validation.py` define controlled failures and output invariant checks.
+- Public interface: `normalize(raw, *, resolve, projection=None) -> tuple[NormalizedObservation, ...]`, plus `validate_observation`, `NormalizedObservation`, `SCHEMA_VERSION`, `MAPPING_VERSION`, and the normalization exception classes.
+- Normalized identity is deterministic for the raw occurrence, projection locator, and schema/mapping versions. Local keys and references remain observation-local, not canonical IDs.
+- Money uses exact `Decimal` values and distinguishes missing, explicit empty/null, invalid, and valid zero values. Source spelling, positional supplier tokens, financial scope, tax basis, and temporal roles remain distinct. No currency, timezone, missing amount, or legal state is guessed.
+- Recoverable source problems become path-qualified `Issue`s. Fatal input/selection failures use `InvalidNormalizationInput` or `UnsupportedNormalizationInput`, both derived from `NormalizationError`. Generated-output defects raise the separate `NormalizationInvariantError`; unexpected programming/system errors are not converted into successful empty results.
+- Extended `src/tenderwatch/sources/artifacts.py` with `verified_resolver(root, artifact)`: a context-managed resolver restricted to one verified artifact, caching the current parsed page/member and checking each locator/document checksum. This avoids reopening and hashing an archive for every entry. Parsed views are not mutated by normalization.
+- Added `src/tenderwatch/inspection.py` for serialization and compact previews, keeping file output and stdout behavior outside the normalization functions. Extended `src/tenderwatch/sources/__main__.py` to call normalization for every processed raw occurrence and stream all resulting observations to disk.
+
+### Supported raw kinds
+
+| Raw record kind | Normalization behavior |
+|---|---|
+| `placsp_atom_entry` | One observation for a native or aggregated entry, with supported nested lots, publications, outcomes, awards, and documents. |
+| `placsp_tombstone` | Empty tuple; no invented procurement cancellation. |
+| `gencat_main_row` | One independent procedure, lot, planning, or batch-member projection according to the row evidence. |
+| `gencat_execution_row` | One independent execution-action projection, without a main-table join. |
+| `gencat_publication_json` | Ordinary/execution body projection, or one observation per explicitly selected batch member. |
+| `gencat_publication_xml` | Raw-readable but normalization explicitly raises `UnsupportedNormalizationInput(reason='unsupported_structure_or_format')`. |
+
+Ordinary observations use projection locator `$`. Rich batch members use `/publicacio/dadesPublicacio/contractesAgregada/{index}`. Whole-batch enumeration is atomic on fatal member-selection/shape failures; a valid sibling can still be normalized separately by its explicit pointer.
+
+### How to execute
+
+From the repository root, using the existing virtual environment:
+
+```bash
+cd /home/jose/PLACSP_TED_tender_collector
+.venv/bin/python -m tenderwatch.sources --root .
+```
+
+The command above processes all discovered inputs and can produce substantial output. For bounded inspection, source selection, or the previous raw-only traversal:
+
+```bash
+.venv/bin/python -m tenderwatch.sources --root . --limit 100
+.venv/bin/python -m tenderwatch.sources --root . --source gencat --limit 100
+.venv/bin/python -m tenderwatch.sources --root . --artifact 'data/raw/gencat/phases/*'
+.venv/bin/python -m tenderwatch.sources --root . --artifact 'data/raw/placsp/probes/native-head.atom' --limit 100
+.venv/bin/python -m tenderwatch.sources --root . --raw-only
+.venv/bin/python -m tenderwatch.sources --help
+```
+
+- `--root` is the repository/snapshot root containing `data/raw/`.
+- `--limit` counts raw occurrences, not observations, and explicitly marks the output as limited.
+- `--source placsp|gencat` filters sources; repeat `--artifact` to select multiple retained-path globs.
+- `--output-parent /existing/path` places a new uniquely named inspection directory under that existing parent. Existing outputs are never overwritten.
+- No new runtime dependency or network access is required.
+
+### Inputs and outputs
+
+**Inputs:** the existing successful acquisitions in `data/raw/download_manifest.jsonl`, including both PLACSP collections and their probes, Generalitat main/execution table pages and probes, modern rich publication JSON, and retained legacy XML. Artifact checksums and record locators remain the raw-access boundary. No acquisition, fixture, research index, or sample was rewritten to make normalization work.
+
+**Outputs:** each normalizing run creates a fresh `tenderwatch-inspection-*` directory under the system temporary directory unless `--output-parent` is supplied. Its exact location is printed. The directory is explicitly non-production and safe to delete:
+
+- `observations.jsonl`: one complete normalized observation per line, including raw identity, projection, versions, source paths, scoped assertions, and Issues. Decimal values are serialized as exact strings; dates/times use ISO strings and offsets use readable duration strings. This is a debugging representation, not an adopted production storage schema.
+- `failures.jsonl`: controlled normalization failures with raw occurrence context, exception type, reason, and projection locator. Unsupported legacy XML is recorded here rather than silently discarded. Other raw occurrences continue processing.
+- `summary.json`: raw/observation/artifact counts, source-kind counts, diagnostic/failure totals, filters, and completion status: `complete`, `complete_with_unsupported`, `limited`, `failed`, or `interrupted`.
+
+Progress and output-directory announcements go to stderr. Stdout shows the first three processed raw occurrences with compact normalized summaries, then final counts. Tombstones show zero observations; unsupported examples show their failure reason. Huge raw payloads and tokenized export URLs are not dumped to stdout. Observations are streamed to disk rather than accumulated for the entire snapshot in memory.
+
+Known unsupported inputs are counted and reported. Invalid normalization inputs cause a nonzero exit after traversal; unexpected programmer/invariant errors propagate and leave an interrupted summary. `--raw-only` creates no inspection directory.
+
+### Retained-data inspection performed
+
+The combined selected-evidence run used:
+
+```bash
+.venv/bin/python -m tenderwatch.sources --root . \
+  --artifact 'data/raw/gencat/*/probe.json' \
+  --artifact 'data/raw/gencat/phases/*' \
+  --artifact 'data/raw/gencat/phase_probes/*' \
+  --artifact 'data/raw/gencat/legacy_probes/*' \
+  --artifact 'data/raw/placsp/probes/*.atom'
+```
+
+It verified and processed **623 raw occurrences across 74 artifacts**, yielding **575 normalized observations**. There were **four controlled unsupported-input failures**, all retained legacy XML bodies, and no other controlled input failures. The run status was `complete_with_unsupported`.
+
+| Selected raw input | Count |
+|---|---:|
+| Generalitat execution probe rows | 5 |
+| Generalitat main probe rows | 5 |
+| Modern rich publication JSON bodies | 66 |
+| Legacy publication XML bodies | 4 |
+| Aggregated PLACSP Atom entries | 359 |
+| Aggregated PLACSP tombstones | 49 |
+| Native PLACSP Atom entries | 135 |
+
+The six-member batch accounts for five additional observations; tombstones and unsupported legacy bodies produce none. The modern rich bodies alone produced **71 observations**.
+
+The combined output was written to **`/tmp/tenderwatch-inspection-7ehvit4k/`** (approximately 12 MB of observations), with all three files described above. This temporary path may be removed by system cleanup; rerunning the command creates a new directory. Separate bounded runs also exercised 100 rows from each Generalitat table and both PLACSP feed families.
+
+**Scope of this verification:** this was a selected-evidence normalization run, not a new full traversal/normalization of all 2,850,341 raw occurrences reported in the previous entry. The unfiltered command is available, but a complete multi-million-record normalized export was not generated in this task.
+
+### Tests and verification
+
+The original test-first assertions, expected outputs, fixtures, and harness were left unchanged. No placeholder test wiring needed replacement: the existing API fixture automatically imports the real module, so absent-implementation xfails are inactive. Added `tests/normalization/test_implementation_edges.py` and `tests/test_normalization_workflow.py` for implementation-edge cases, resolver caching/integrity, lossless inspection serialization, CLI output, limits, and failure propagation.
+
+```bash
+.venv/bin/python -m pytest -q -r fE
+.venv/bin/python -m pytest tests/normalization --runxfail -q -r fE
+.venv/bin/python -m pytest tests/normalization/test_fixtures.py --audit-normalization-evidence -q
+.venv/bin/python -m compileall -q src tests research/scripts
+git diff --check
+```
+
+Verified implementation results:
+
+- Complete suite: **298 passed, 1 skipped**, no xfails or failing tests.
+- Normalization suite with `--runxfail`: **239 passed, 1 skipped**.
+- Explicit retained-evidence fixture audit: **54 passed**.
+- The ordinary skipped normalization test is the opt-in retained-evidence audit.
+- Compilation and diff checks passed. The existing original normalization tests/fixtures had no diff.
+
+### Remaining limitations and documentation
+
+Legacy XML mappings, comprehensive source code dictionaries, additional action families, PLACSP multi-project award grouping/effective dates, publisher-backed rich business-date timezone rules, and document-size units remain deferred. Code and currency recognition is deliberately bounded; unreviewed values remain unmapped with Issues rather than being guessed. Unreviewed multi-project result groups are diagnosed rather than pooled into a misleading award total. Rich serialized business dates remain raw/unresolved where their legal calendar interpretation is not established.
+
+Updated `README.md`, `docs/RAW_SOURCE_RECORDS.md`, the implementation-status note in `research/docs/NORMALIZATION_TESTS.md`, and `PROJECT_CONTEXT.md` to describe the implemented boundary and workflow. `AGENTS.md`, original contract tests/fixtures, raw acquisitions, and research scripts were unchanged. This entry records the completed normalization increment; reconciliation, canonical representations, and querying remain separate future work.

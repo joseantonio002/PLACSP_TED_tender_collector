@@ -1,12 +1,12 @@
 # Retained source records and raw occurrences
 
-Only these boundaries are implemented:
+This document describes the raw ingestion boundaries:
 
 ```text
 retained artifact -> source-specific reader -> SourceRecord -> to_raw -> RawSourceRecord
 ```
 
-There is no normalization, semantic selection, reconciliation, database, acquisition, or query implementation. The readers do not select a date range or geography, join rows, or discard occurrences with repeated source IDs. This follows the raw relationship contract in [the normalization design](../research/docs/NORMALIZED_SCHEMA_DESIGN.md), §§5.1 and 6.10, without adopting its proposed semantic mappings.
+These modules do not perform normalization or semantic selection. A separate `tenderwatch.normalization` package now implements the next boundary; see the [normalization API and inspection workflow](../README.md#normalize-retained-data-for-inspection). Reconciliation, database, acquisition, and query stages remain unimplemented. The readers do not select a date range or geography, join rows, or discard occurrences with repeated source IDs. This follows the raw relationship contract in [the normalization design](../research/docs/NORMALIZED_SCHEMA_DESIGN.md), §§5.1 and 6.10, without adopting its proposed semantic mappings.
 
 ## Modules and public interfaces
 
@@ -103,7 +103,7 @@ For a ZIP member, `member_name` and its zero-based central-directory `member_ind
 
 `load_record(root, raw.content)` is a convenience view: it verifies the same bytes, parses the complete document, validates the locator, and returns the selected object or XML element. Each call returns a fresh mutable view that cannot mutate the raw record. JSON numeric tokens use `Decimal` for nonintegers; strings stay strings. The bytes, not this parsed view, remain authoritative for lexical fidelity (including duplicate JSON keys, XML prefixes, CDATA and XML parser whitespace rules). Consumers needing inherited XML context must use the original document, not serialize the selected element as a replacement artifact.
 
-Recovery deliberately reopens and verifies the containing artifact on each call. Bulk normalization should eventually reuse verified page/member parsing rather than call `load_record` separately for every row of a large page or entry in a multi-gigabyte ZIP. That optimization is not a new processing stage and does not require changing these locators.
+`load_record` deliberately reopens and verifies the containing artifact on each call. Bulk normalization uses the context manager `verified_resolver(root, artifact)`, which opens and verifies one artifact, caches the current parsed document/member and its checksum, and checks every requested locator and document checksum. Its callable cannot resolve a different artifact. XML child ordinals remain tag-specific. Cached parsed views must not be mutated by callers; normalization never mutates them. Cache lifetime is the context, with memory proportional to the largest current page/member, not the full snapshot. Retained artifacts must remain immutable throughout the run.
 
 ## Errors and iteration
 
@@ -122,12 +122,12 @@ No broad exception recovery skips records. Unknown procurement codes, amounts, i
 From the repository root:
 
 ```bash
-.venv/bin/python -m tenderwatch.sources --root .
-.venv/bin/python -m tenderwatch.sources --root . --source placsp
-.venv/bin/python -m tenderwatch.sources --root . --source gencat
+.venv/bin/python -m tenderwatch.sources --root . --raw-only
+.venv/bin/python -m tenderwatch.sources --root . --source placsp --raw-only
+.venv/bin/python -m tenderwatch.sources --root . --source gencat --raw-only
 ```
 
-The command verifies checksums, creates each raw object, and reports counts by source/dataset/kind without retaining all objects in memory or writing output artifacts. Progress goes to stderr, final counts to stdout. Failures exit nonzero and do not present partial counts as a successful traversal. This is a local validation entry point, not a production CLI framework.
+With `--raw-only`, the command verifies checksums, creates each raw object, and reports counts by source/dataset/kind without retaining all objects in memory or writing output artifacts. Without this flag, it also normalizes records and writes disposable inspection output as described in README. Progress goes to stderr, final counts to stdout. Failures exit nonzero and do not present partial counts as a successful traversal. This is a local validation entry point, not a production CLI framework.
 
 ## Tests and evidence
 
@@ -153,6 +153,6 @@ Fixture copies may add a final newline. `test_retained_evidence.py` additionally
 
 - No CSV, Socrata `rows.json` export envelope, JSONL table export, other PLACSP collections, RPC rows, or detached XML fragments without their original feed context. Publication detection currently covers the retained UTF-8 JSON/XML representations, not arbitrary encodings or unresearched publication envelopes. DTDs and external entities are intentionally unsupported.
 - No claims of complete historical state, geographic coverage, API transactionality, or acquisition receipt precision beyond the retained evidence.
-- No member projection, procedure/lot/batch classification, timestamp interpretation, status/phase mapping, money/winner semantics, or canonical IDs. A future normalizer must explicitly choose these rules and its legacy-XML support level.
+- No semantic mappings or canonical IDs in the raw layer. Member projections, scopes, timestamps, codes, and monetary semantics are handled only by the separate normalization package; legacy XML normalization remains explicitly unsupported.
 - IDs are versioned occurrence identities tied to this retained snapshot layout and append-only ledger. A future relocation/import mechanism must preserve or explicitly migrate those references rather than pretending source IDs are unique raw identities.
 - The raw files are protected by checksum verification, not an operating-system immutability guarantee. Do not mutate them concurrently while reading. Long-term artifact storage and recovery caching remain separate implementation decisions.

@@ -88,9 +88,13 @@ Continuous acquisition, incremental change detection, scheduling, and production
 
 ## Current status
 
-The first two processing boundaries are available: retained PLACSP and Generalitat artifacts are read into independent source records and immutable `RawSourceRecord`s. Original content is retained through checksum-bound artifact references and exact record locators, with captured acquisition lineage where available. This includes PLACSP tombstones, both Generalitat tables, and retained modern JSON/legacy XML publication bodies. No normalization, reconciliation, canonical representation, or query stage is implemented yet.
+Retained PLACSP and Generalitat artifacts are read into independent source records and immutable `RawSourceRecord`s. Original content remains recoverable through checksum-bound artifact references and exact record locators, with captured acquisition lineage where available.
 
-The application modules, raw contract, and local traversal command are documented in `docs/RAW_SOURCE_RECORDS.md`.
+The next boundary, `RawSourceRecord -> NormalizedObservation`, is implemented with a common dispatcher, immutable typed models, source-specific adapters, explicit scopes, Issues, and controlled input failures. Each observation derives from one raw occurrence/selection; no records are joined. Supported mappings cover PLACSP Atom entries, Generalitat main/execution rows, and modern rich JSON publications, including batch-member projections. Tombstones produce no procurement observations. Legacy XML remains raw-readable but explicitly unsupported for normalization. Reviewed mapping coverage is bounded as documented in README and the normalization test contract.
+
+The single-run command now streams normalized observations into disposable inspection JSONL and prints three compact examples; this is not production persistence. `--raw-only` retains the raw count-only workflow. Reconciliation, canonical representations, and queries remain unimplemented.
+
+The raw contract is documented in `docs/RAW_SOURCE_RECORDS.md`; README describes the normalization API, inspection output, and execution commands.
 
 Research has already been conducted on:
 
@@ -105,7 +109,7 @@ Research has already been conducted on:
 
 The next implementation stages are:
 
-1. implement and test `RawSourceRecord -> NormalizedObservation` mappings;
+1. extend normalization coverage only after reviewing the documented remaining mapping gates;
 2. implement entity resolution and reconciliation;
 3. construct canonical representations;
 4. expose a query/search interface over those canonical representations.
