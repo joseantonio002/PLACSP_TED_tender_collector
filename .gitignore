@@ -4,6 +4,10 @@ guia.md
 __pycache__/
 data/raw/
 data/processed/
+data/NormalizedObservations
+data/CanonicalObservations
+data/ProcessingRuns/
+data/tenderwatch-inspection-*/
 .pytest_cache/
 *.egg-info/
 build/

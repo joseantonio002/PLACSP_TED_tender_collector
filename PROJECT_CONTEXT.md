@@ -92,9 +92,13 @@ Retained PLACSP and Generalitat artifacts are read into independent source recor
 
 The next boundary, `RawSourceRecord -> NormalizedObservation`, is implemented with a common dispatcher, immutable typed models, source-specific adapters, explicit scopes, Issues, and controlled input failures. Each observation derives from one raw occurrence/selection; no records are joined. Supported mappings cover PLACSP Atom entries, Generalitat main/execution rows, and modern rich JSON publications, including batch-member projections. Tombstones produce no procurement observations. Legacy XML remains raw-readable but explicitly unsupported for normalization. Reviewed mapping coverage is bounded as documented in README and the normalization test contract.
 
-The single-run command now streams normalized observations into disposable inspection JSONL and prints three compact examples; this is not production persistence. `--raw-only` retains the raw count-only workflow. Reconciliation, canonical representations, and queries remain unimplemented.
+The single-run workflow also implements conservative entity resolution and reconciliation into `CanonicalObservation`s. Exact, qualified procedure identifiers establish groups; contradictory identifiers and unsupported subject identities remain unresolved. Reconciliation consolidates equivalent evidence, selects a sole supported value, and preserves competing values as unresolved conflicts without timestamp/source-priority tie breakers. Nested objects remain observation-qualified occurrences unless their identity is established; no legal contracts are manufactured.
 
-The raw contract is documented in `docs/RAW_SOURCE_RECORDS.md`; README describes the normalization API, inspection output, and execution commands.
+Each canonical observation contains a deterministic canonical ID, all associated normalized observation IDs, a reconciled current state, conflicts, and resolution provenance. This evidence history is not a reconstructed sequence of legal states. There is no canonical-revision system.
+
+Normalized and canonical JSONL outputs are published under `data/NormalizedObservations/` and `data/CanonicalObservations/`. Isolated disk-backed run directories and a shared current pointer prevent stale/partial output from mixing across runs; diagnostics and unresolved observations are stored separately under `data/ProcessingRuns/`. `--raw-only` retains the raw count-only workflow. Search / Query is the remaining major product stage and is not implemented.
+
+The raw contract is documented in `docs/RAW_SOURCE_RECORDS.md`; README describes the stage APIs, exact MVP rules, output structure, and execution commands.
 
 Research has already been conducted on:
 
@@ -107,11 +111,6 @@ Research has already been conducted on:
 
 `research/docs/REPORT.md`, `research/docs/NORMALIZED_SCHEMA_DESIGN.md`, `research/docs/NORMALIZATION_TESTS.md`, and the supporting research artifacts contain the detailed findings.
 
-The next implementation stages are:
-
-1. extend normalization coverage only after reviewing the documented remaining mapping gates;
-2. implement entity resolution and reconciliation;
-3. construct canonical representations;
-4. expose a query/search interface over those canonical representations.
+The next major product stage is a query/search interface over the canonical representations. Further normalization coverage and matching/reconciliation sophistication require separate evidence-backed work; fuzzy matching, exhaustive party deduplication, advanced temporal/legal reconstruction, database persistence, scheduling, and incremental ingestion remain deferred.
 
 No production architecture should be considered final solely because it appears in the research material. Implementation decisions should be introduced incrementally and validated with tests and real retained source data.

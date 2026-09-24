@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TenderWatch | Canonical explorer</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/">TENDER<span>WATCH</span></a>
+    <div class="header-note">Catalunya procurement intelligence</div>
+  </header>
+  <main>
+    <section class="hero">
+      <p class="eyebrow">CANONICAL EXPLORER</p>
+      <h1>Find the tenders<br><em>worth your attention.</em></h1>
+      <p class="hero-copy">Search reconciled procurement records from PLACSP and Generalitat de Catalunya, with the evidence behind every result.</p>
+      <label class="search-wrap"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search titles, descriptions, buyers or identifiers" autocomplete="off"></label>
+    </section>
+    <section class="workspace">
+      <aside class="filters" aria-label="Tender filters">
+        <div class="filter-heading"><h2>Refine results</h2><button id="clear-filters" class="text-button">Clear all</button></div>
+        <label>Publication from<input id="publication-from" type="date"></label>
+        <label>Publication to<input id="publication-to" type="date"></label>
+        <label>Deadline from<input id="deadline-from" type="date"></label>
+        <label>Deadline to<input id="deadline-to" type="date"></label>
+        <label>Buyer<input id="buyer" type="search" placeholder="Any buyer"></label>
+        <label>Status<input id="status" type="search" placeholder="e.g. open"></label>
+        <label>Contract type<input id="contract-type" type="search" placeholder="e.g. services"></label>
+        <label>CPV code<input id="cpv" type="search" placeholder="e.g. 45000000"></label>
+        <label>Minimum budget<input id="min-budget" type="number" min="0" placeholder="0"></label>
+        <label>Maximum budget<input id="max-budget" type="number" min="0" placeholder="No limit"></label>
+        <label class="check"><input id="has-conflicts" type="checkbox"> Show records with conflicts</label>
+      </aside>
+      <section class="results" aria-live="polite">
+        <div class="results-toolbar"><div><p class="eyebrow">LIVE CATALOG</p><h2 id="result-count">Loading tenders...</h2></div><label class="sort">Sort <select id="sort"><option value="deadline">Deadline soonest</option><option value="newest">Newest first</option><option value="budget">Highest budget</option></select></label></div>
+        <div id="cards" class="cards"></div>
+        <div id="empty" class="empty" hidden><h3>No matching tenders</h3><p>Try removing a filter or searching a broader term.</p><button id="empty-clear" class="button">Reset search</button></div>
+        <nav id="pagination" class="pagination" aria-label="Pagination"></nav>
+      </section>
+    </section>
+  </main>
+  <footer><span>TENDERWATCH</span><span>Read-only canonical publication</span></footer>
+  <script src="/app.js"></script>
+</body>
+</html>

@@ -1,31 +1,12 @@
 from __future__ import annotations
 
-from dataclasses import fields, is_dataclass
-from datetime import date, datetime, time, timedelta
-from decimal import Decimal
-import json
 from pathlib import Path
 import tempfile
 from typing import Any, TextIO
 
 from tenderwatch.normalization import NormalizationError, NormalizedObservation
 from tenderwatch.raw import RawSourceRecord
-
-
-def _json_default(value: Any) -> Any:
-    if is_dataclass(value):
-        return {field.name: getattr(value, field.name) for field in fields(value)}
-    if isinstance(value, Decimal):
-        return str(value)
-    if isinstance(value, (datetime, date, time)):
-        return value.isoformat()
-    if isinstance(value, timedelta):
-        return str(value)
-    raise TypeError(f'Unsupported inspection value: {type(value).__name__}')
-
-
-def serialize(value: Any) -> str:
-    return json.dumps(value, default=_json_default, ensure_ascii=False, allow_nan=False, separators=(',', ':'))
+from tenderwatch.serialization import serialize
 
 
 def create_output(parent: Path | None = None) -> Path:

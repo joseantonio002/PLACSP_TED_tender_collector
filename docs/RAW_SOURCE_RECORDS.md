@@ -6,7 +6,7 @@ This document describes the raw ingestion boundaries:
 retained artifact -> source-specific reader -> SourceRecord -> to_raw -> RawSourceRecord
 ```
 
-These modules do not perform normalization or semantic selection. A separate `tenderwatch.normalization` package now implements the next boundary; see the [normalization API and inspection workflow](../README.md#normalize-retained-data-for-inspection). Reconciliation, database, acquisition, and query stages remain unimplemented. The readers do not select a date range or geography, join rows, or discard occurrences with repeated source IDs. This follows the raw relationship contract in [the normalization design](../research/docs/NORMALIZED_SCHEMA_DESIGN.md), §§5.1 and 6.10, without adopting its proposed semantic mappings.
+These modules do not perform normalization or semantic selection. Separate `tenderwatch.normalization` and `tenderwatch.canonical` packages implement the downstream normalization, entity-resolution, and reconciliation boundaries; see the [single-run workflow](../README.md#run-retained-data-through-canonical-observations). Database persistence, new acquisition infrastructure, and querying remain unimplemented. The readers do not select a date range or geography, join rows, or discard occurrences with repeated source IDs. This follows the raw relationship contract in [the normalization design](../research/docs/NORMALIZED_SCHEMA_DESIGN.md), §§5.1 and 6.10, without adopting its proposed semantic mappings.
 
 ## Modules and public interfaces
 
@@ -127,7 +127,7 @@ From the repository root:
 .venv/bin/python -m tenderwatch.sources --root . --source gencat --raw-only
 ```
 
-With `--raw-only`, the command verifies checksums, creates each raw object, and reports counts by source/dataset/kind without retaining all objects in memory or writing output artifacts. Without this flag, it also normalizes records and writes disposable inspection output as described in README. Progress goes to stderr, final counts to stdout. Failures exit nonzero and do not present partial counts as a successful traversal. This is a local validation entry point, not a production CLI framework.
+With `--raw-only`, the command verifies checksums, creates each raw object, and reports counts by source/dataset/kind without retaining all objects in memory or writing output artifacts. Without this flag, it also materializes normalized observations, resolves procedure identities, reconciles evidence, and publishes canonical observations in the two `data/NormalizedObservations/` and `data/CanonicalObservations/` directories described in README. Progress goes to stderr, final counts to stdout. Failures exit nonzero and do not present partial counts as a successful traversal. This is a local validation entry point, not a production CLI framework.
 
 ## Tests and evidence
 
