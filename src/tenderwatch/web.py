@@ -19,6 +19,28 @@ class Catalog:
             path = root / "data" / "CanonicalObservations" / "canonical.jsonl"
         self.items = [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
         self.by_id = {item["canonical_id"]: item for item in self.items}
+        normalized_path = run_root / "NormalizedObservations" / "observations.jsonl"
+        if not normalized_path.is_file():
+            normalized_path = root / "data" / "NormalizedObservations" / "observations.jsonl"
+        self.observation_sources = {}
+        if normalized_path.is_file():
+            for line in normalized_path.read_text(encoding="utf-8").splitlines():
+                if line.strip():
+                    observation = json.loads(line)
+                    self.observation_sources[observation["observation_id"]] = observation.get("source", {}).get("system")
+
+    def public_items(self):
+        return [
+            {
+                **item,
+                "_source_systems": sorted({
+                    self.observation_sources[observation_id]
+                    for observation_id in item.get("normalized_observation_ids", ())
+                    if self.observation_sources.get(observation_id)
+                }),
+            }
+            for item in self.items
+        ]
 
 
 def make_handler(catalog: Catalog):
@@ -26,7 +48,7 @@ def make_handler(catalog: Catalog):
         def do_GET(self) -> None:  # noqa: N802
             parsed = urlparse(self.path)
             if parsed.path == "/api/canonicals":
-                self._json(list(catalog.by_id.values()))
+                self._json(catalog.public_items())
                 return
             if parsed.path.startswith("/api/canonicals/"):
                 item = catalog.by_id.get(parsed.path.rsplit("/", 1)[-1])
