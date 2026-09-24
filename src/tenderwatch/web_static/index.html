@@ -23,19 +23,20 @@
         <div class="filter-heading"><h2>Refine results</h2><button id="clear-filters" class="text-button">Clear all</button></div>
         <label>Publication from<input id="publication-from" type="date"></label>
         <label>Publication to<input id="publication-to" type="date"></label>
-        <label>Deadline from<input id="deadline-from" type="date"></label>
-        <label>Deadline to<input id="deadline-to" type="date"></label>
+        <label>Offer deadline from<input id="deadline-from" type="date"></label>
+        <label>Offer deadline to<input id="deadline-to" type="date"></label>
         <label>Buyer<input id="buyer" type="search" placeholder="Any buyer"></label>
         <label>Data source<select id="source"><option value="">All sources</option><option value="placsp">PLACSP</option><option value="gencat">Generalitat</option></select></label>
         <label>Status<input id="status" type="search" placeholder="e.g. open"></label>
         <label>Contract type<input id="contract-type" type="search" placeholder="e.g. services"></label>
         <label>CPV code<input id="cpv" type="search" placeholder="e.g. 45000000"></label>
-        <label>Minimum budget<input id="min-budget" type="number" min="0" placeholder="0"></label>
-        <label>Maximum budget<input id="max-budget" type="number" min="0" placeholder="No limit"></label>
+        <label>Minimum budget (EUR)<input id="min-budget" type="number" min="0" placeholder="0"></label>
+        <label>Maximum budget (EUR)<input id="max-budget" type="number" min="0" placeholder="No limit"></label>
         <label class="check"><input id="has-conflicts" type="checkbox"> Show records with conflicts</label>
+        <p class="section-description">Filters use selected values only. Budgets prefer amounts including VAT; if absent, amounts excluding VAT are used without conversion. Budget filters use a single selected procedure budget in EUR with the same preference. Deadline: a single procedure offer deadline. Conflicting or ambiguous values do not match these ranges and sort last. Text search also includes displayed alternatives.</p>
       </aside>
       <section class="results" aria-live="polite">
-        <div class="results-toolbar"><div><p class="eyebrow">LIVE CATALOG</p><h2 id="result-count">Loading tenders...</h2></div><label class="sort">Sort <select id="sort"><option value="deadline">Deadline soonest</option><option value="newest">Newest first</option><option value="budget">Highest budget</option></select></label></div>
+        <div class="results-toolbar"><div><p class="eyebrow">LIVE CATALOG</p><h2 id="result-count">Loading tenders...</h2></div><label class="sort">Sort <select id="sort"><option value="deadline">Selected offer deadline soonest</option><option value="newest">Latest dated publication</option><option value="budget">Selected budget: EUR</option></select></label></div>
         <div id="cards" class="cards"></div>
         <div id="empty" class="empty" hidden><h3>No matching tenders</h3><p>Try removing a filter or searching a broader term.</p><button id="empty-clear" class="button">Reset search</button></div>
         <nav id="pagination" class="pagination" aria-label="Pagination"></nav>
